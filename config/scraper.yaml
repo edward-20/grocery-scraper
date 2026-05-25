@@ -1,0 +1,28 @@
+database:
+  path: data/grocery.sqlite
+
+schedule:
+  cron: "0 3 * * *"
+
+browser:
+  headless: true
+
+scrape:
+  throttleMs: 1500
+  navigationTimeoutMs: 45000
+
+retailers:
+  - name: woolworths
+    enabled: true
+    targets:
+      - name: milk
+        url: "https://www.woolworths.com.au/shop/search/products?searchTerm=milk"
+        maxPages: 1
+        maxProducts: 10
+  - name: coles
+    enabled: true
+    targets:
+      - name: milk
+        url: "https://www.coles.com.au/search/products?q=milk"
+        maxPages: 1
+        maxProducts: 10

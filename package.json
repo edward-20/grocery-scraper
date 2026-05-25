@@ -1,0 +1,26 @@
+{
+  "name": "grocery-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "db:init": "tsx src/db/init.ts",
+    "scrape": "tsx src/worker.ts",
+    "scrape:once": "tsx src/cli.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "playwright": "^1.50.1",
+    "yaml": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "@types/node-cron": "^3.0.11",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  },
+  "packageManager": "pnpm@10.7.0"
+}
