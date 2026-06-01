@@ -1,16 +1,10 @@
 export type RetailerName = "woolworths" | "coles";
 
-export interface ScrapeTarget {
-  name: string;
-  url: string;
-  maxPages: number;
-  maxProducts: number;
-}
+type MeasureUnit = "kg" | "g" | "ea" | "l";
 
 export interface RetailerConfig {
   name: RetailerName;
   enabled: boolean;
-  targets: ScrapeTarget[];
 }
 
 export interface ScraperConfig {
@@ -32,28 +26,37 @@ export interface ScraperConfig {
 
 export interface ProductCore {
   retailer: RetailerName;
-  retailerProductId?: string;
-  url: string;
+  retailerProductId: string;
+  crossRetailerId?: string,
+  price: number;
+  unitPricing: {
+    price: number;
+    cupMeasure: {
+      quantity: number;
+      ofMeasureQuantity: number;
+      ofMeasureUnits: MeasureUnit;
+    }
+  },
+  size: {
+    unit: MeasureUnit;
+    quantity: number | { mimimumQuantity: number, maximumQuantity: number }; // can be a range for produce products
+    minimumQuantity: number;
+  }
   name: string;
-  brand?: string;
+  brand: string;
+  url?: string;
+  description: string;
   imageUrl?: string;
-  packageSize?: string;
-  price?: number;
-  unitPrice?: string;
-  availability?: string;
-  currency?: string;
 }
 
 export interface ProductSnapshot {
   core: ProductCore;
   raw: unknown;
-  normalized: unknown;
   status: "ok" | "error";
   errorMessage?: string;
 }
 
 export interface ScrapeRun {
   id: number;
-  retailer?: RetailerName;
-  targetName?: string;
+  retailer: RetailerName;
 }
