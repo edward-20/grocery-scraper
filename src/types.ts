@@ -24,7 +24,7 @@ export interface ScraperConfig {
   retailers: RetailerConfig[];
 }
 
-export interface ValueAndPricing {
+export interface ValueAtTime {
   price: number,
   unit: {
     price: number;
