@@ -24,12 +24,9 @@ export interface ScraperConfig {
   retailers: RetailerConfig[];
 }
 
-export interface ProductCore {
-  retailer: RetailerName;
-  retailerProductId: string;
-  crossRetailerId?: string,
-  price: number;
-  unitPricing: {
+export interface ValueAndPricing {
+  price: number,
+  unit: {
     price: number;
     cupMeasure: {
       quantity: number;
@@ -40,20 +37,22 @@ export interface ProductCore {
   size: {
     unit: MeasureUnit;
     quantity: number | { mimimumQuantity: number, maximumQuantity: number }; // can be a range for produce products
-    minimumQuantity: number;
-  }
+  },
+  // foreign keys
+  retailerProductId: string
+  time: Date,
+  run: number
+}
+
+export interface Product {
+  retailer: RetailerName;
+  retailerProductId: string;
+  crossRetailerId?: string,
   name: string;
   brand: string;
   url?: string;
   description: string;
   imageUrl?: string;
-}
-
-export interface ProductSnapshot {
-  core: ProductCore;
-  raw: unknown;
-  status: "ok" | "error";
-  errorMessage?: string;
 }
 
 export interface ScrapeRun {
