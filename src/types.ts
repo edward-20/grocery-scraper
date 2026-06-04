@@ -31,7 +31,7 @@ export interface ScrapeRun {
   id: number;
   productsScanned: number;
   newProductsAdded: number;
-  retailerSummaries: Record<RetailerConfig["name"], RetailerSummary>
+  retailerSummaries: Record<RetailerScrapeConfig["name"], RetailerSummary>
   errors: number;
   timeStarted: Date;
   timeEnded: Date | null;
@@ -39,7 +39,7 @@ export interface ScrapeRun {
 
 // common denominator fields but can be extended for retailer specific details
 export interface RetailerSummary {
-  categories: Record<Category, CategorySummary>;
+  categories: CategorySummary[];
   timeStarted: Date;
   timeEnded: Date | null;
 }

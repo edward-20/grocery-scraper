@@ -29,7 +29,7 @@ async function runRetailer(
   browser: Browser,
   config: ScraperConfig,
   repository: GroceryRepository,
-  retailer: RetailerConfig,
+  retailer: RetailerScrapeConfig,
   summary: ScrapeSummary,
 ): Promise<void> {
   const context = await browser.newContext({
@@ -41,7 +41,7 @@ async function runRetailer(
   context.setDefaultNavigationTimeout(config.scrape.navigationTimeoutMs);
 
   try {
-    const run = repository.createRun(retailer.name);
+    const run = repository.createRun(); // pass the ScrapeRun down in order to update
     const page = await context.newPage();
     let runStatus: "ok" | "error" = "ok";
     let runError: string | undefined;

@@ -1,9 +1,9 @@
 import type { DatabaseSync } from "node:sqlite";
-import type { RetailerName, ScrapeRun } from "../types.js";
+import type { ScrapeRun } from "../types.js";
 import { nowIso } from "../utils/time.js";
 
 export class GroceryRepository {
-  constructor(private readonly db: DatabaseSync) {}
+  constructor(private readonly db: DatabaseSync, private readonly scrapeRun: ScrapeRun) {}
 
   createRun(): ScrapeRun {
     const startedAt = nowIso();
@@ -14,7 +14,15 @@ export class GroceryRepository {
       )
       .run(startedAt);
 
-    return { id: Number(result.lastInsertRowid) };
+    return { 
+      id: Number(result.lastInsertRowid),  
+      productsScanned: 0,
+      newProductsAdded: 0,
+      retailerSummaries: {},
+      errors: 0,
+      timeStarted: startedAt,
+      timeEnded: null
+    };
   }
 
   finishRun(runId: number, status: "ok" | "error", errorMessage?: string): void {
@@ -25,5 +33,9 @@ export class GroceryRepository {
          WHERE id = ?`,
       )
       .run(nowIso(), status, errorMessage ?? null, runId);
+  }
+
+  incrementNewProductsAdded(n : number) {
+    this.scrapeRun.newProductsAdded += n;
   }
 }
