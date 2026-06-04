@@ -8,7 +8,8 @@
     "scrape": "tsx src/worker.ts",
     "scrape:once": "tsx src/cli.ts",
     "test": "vitest run",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "graph": "tsx scripts/call-graph.ts"
   },
   "dependencies": {
     "node-cron": "^3.0.3",
@@ -18,6 +19,7 @@
   "devDependencies": {
     "@types/node": "^22.13.1",
     "@types/node-cron": "^3.0.11",
+    "ts-morph": "^28.0.0",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3",
     "vitest": "^3.0.5"
