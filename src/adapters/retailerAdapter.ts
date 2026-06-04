@@ -1,5 +1,4 @@
 import type { Page } from "playwright";
-import type { ProductSnapshot, ScrapeTarget } from "../types.js";
 
 export interface RetailerAdapter {
   readonly name: ProductSnapshot["core"]["retailer"];
