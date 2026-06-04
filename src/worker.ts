@@ -26,8 +26,8 @@ async function runScheduledScrape(): Promise<void> {
   try {
     const summary = await runScrape(config, repository);
     console.log(
-      `Scheduled scrape complete: ${summary.targets} target(s), ${summary.discoveredProducts} discovered product(s), ` +
-        `${summary.savedSnapshots} snapshot(s), ${summary.errors} error(s).`,
+      `Scheduled scrape complete: ${summary.productsScanned} scanned product(s), ` +
+        `${summary.errors} error(s).`,
     );
   } catch (error) {
     console.error("Scheduled scrape failed:", error);

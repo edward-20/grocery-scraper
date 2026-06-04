@@ -1,8 +1,10 @@
 import { chromium, type Browser } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import { createAdapters } from "../adapters/index.js";
 import type { RetailerConfig, ScraperConfig } from "../types.js";
 import { sleep } from "../utils/time.js";
+import { ColesScraper } from "./colesScraper.js";
+import { WoolworthsScraper } from "./woolworthsScraper.js";
+import { RetailerScraper } from "./retailerScraper.js";
 
 export interface ScrapeSummary {
   productsScanned: number;
@@ -10,16 +12,16 @@ export interface ScrapeSummary {
 }
 
 export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeSummary> {
-  const adapters = createAdapters();
+  const retailerScrapers = createRetailerScrapers(config);
   const summary: ScrapeSummary = {
-    discoveredProducts: 0,
+    productsScanned: 0,
     errors: 0,
   };
 
   const browser = await chromium.launch({ headless: config.browser.headless });
   try {
     for (const retailer of config.retailers.filter((candidate) => candidate.enabled)) {
-      await runRetailer(browser, config, repository, retailer, summary, adapters[retailer.name]);
+      await runRetailer(browser, config, repository, retailer, summary);
     }
   } finally {
     await browser.close();
@@ -34,7 +36,6 @@ async function runRetailer(
   repository: GroceryRepository,
   retailer: RetailerConfig,
   summary: ScrapeSummary,
-  adapter: ReturnType<typeof createAdapters>[RetailerConfig["name"]],
 ): Promise<void> {
   const context = await browser.newContext({
     locale: "en-AU",
@@ -51,15 +52,21 @@ async function runRetailer(
     let runError: string | undefined;
 
     try {
-      // use the adapter to scan the catalogs and then the products
+      await sleep(config.scrape.throttleMs);
 
-      for (const productUrl of productUrls) {
-        await sleep(config.scrape.throttleMs);
-        const snapshot = await adapter.scrapeProduct(page, productUrl);
-        repository.saveSnapshot(run.id, snapshot);
-        summary.savedSnapshots += 1;
-        if (snapshot.status === "error") {
-          summary.errors += 1;
+      let retailerScraper : RetailerScraper;
+      switch (retailer.name) {
+        case "coles" :
+          retailerScraper = new ColesScraper(retailer);
+        case "woolworths" :
+          retailerScraper = new WoolworthsScraper(retailer);
+      }
+
+      const categories = await retailerScraper.discoverCategories(page);
+      for (const category of categories) {
+        const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
+        for (let i = 1; i <= numberOfPages; i++) {
+          retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
         }
       }
     } catch (error) {
