@@ -21,15 +21,12 @@ export function migrate(db: DatabaseSync): void {
 
     CREATE TABLE IF NOT EXISTS scrape_runs (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
-      retailer INTEGER NOT NULL,
 
       started_at TEXT NOT NULL,
       finished_at TEXT,
 
       status TEXT NOT NULL,
       error_message TEXT,
-
-      FOREIGN KEY (retailer) REFERENCES retailers (id)
     );
 
 

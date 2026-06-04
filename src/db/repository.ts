@@ -5,16 +5,16 @@ import { nowIso } from "../utils/time.js";
 export class GroceryRepository {
   constructor(private readonly db: DatabaseSync) {}
 
-  createRun(retailer: RetailerName): ScrapeRun {
+  createRun(): ScrapeRun {
     const startedAt = nowIso();
     const result = this.db
       .prepare(
-        `INSERT INTO scrape_runs (retailer, started_at, status)
-         VALUES (?, ?, ?, 'running')`,
+        `INSERT INTO scrape_runs (started_at, status)
+         VALUES (?, 'running')`,
       )
-      .run(retailer ?? null, startedAt);
+      .run(startedAt);
 
-    return { id: Number(result.lastInsertRowid), retailer };
+    return { id: Number(result.lastInsertRowid) };
   }
 
   finishRun(runId: number, status: "ok" | "error", errorMessage?: string): void {

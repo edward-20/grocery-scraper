@@ -2,9 +2,11 @@ export type RetailerName = "woolworths" | "coles";
 
 type MeasureUnit = "kg" | "g" | "ea" | "l";
 
-export interface RetailerConfig {
+// config
+export interface RetailerScrapeConfig {
   name: RetailerName;
   enabled: boolean;
+  detailedEnabled: boolean;
 }
 
 export interface ScraperConfig {
@@ -21,9 +23,40 @@ export interface ScraperConfig {
     throttleMs: number;
     navigationTimeoutMs: number;
   };
-  retailers: RetailerConfig[];
+  retailers: RetailerScrapeConfig[];
 }
 
+// System Logging for database (analytics)
+export interface ScrapeRun {
+  id: number;
+  productsScanned: number;
+  newProductsAdded: number;
+  retailerSummaries: Record<RetailerConfig["name"], RetailerSummary>
+  errors: number;
+  timeStarted: Date;
+  timeEnded: Date | null;
+}
+
+// common denominator fields but can be extended for retailer specific details
+export interface RetailerSummary {
+  categories: Record<Category, CategorySummary>;
+  timeStarted: Date;
+  timeEnded: Date | null;
+}
+
+// what do you want to know about the efforts to scrape a category of a retailer
+export interface CategorySummary {
+  name: string; 
+  url: string;
+  pages: number;
+  successfulPageScrapes: number;
+  totalProductsScrapped: number;
+  totalNewProductsAdded: number;
+  productsChangedInPricing: number;
+  failedToScrapeProducts: Product[];
+}
+
+// Data Logging for database (actual data we care about)
 export interface ValueAtTime {
   price: number,
   unit: {
@@ -55,7 +88,3 @@ export interface Product {
   imageUrl?: string;
 }
 
-export interface ScrapeRun {
-  id: number;
-  retailer: RetailerName;
-}

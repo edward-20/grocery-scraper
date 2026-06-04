@@ -1,15 +1,10 @@
 import { chromium, type Browser } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import type { RetailerConfig, ScraperConfig } from "../types.js";
+import type { RetailerScrapeConfig, ScraperConfig } from "../types.js";
 import { sleep } from "../utils/time.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
-
-export interface ScrapeSummary {
-  productsScanned: number;
-  errors: number;
-}
 
 export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeSummary> {
   const retailerScrapers = createRetailerScrapers(config);
