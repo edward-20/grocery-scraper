@@ -1,4 +1,4 @@
-import type { DatabaseSync } from "node:sqlite";
+mport type { DatabaseSync } from "node:sqlite";
 
 export function migrate(db: DatabaseSync): void {
   db.exec(`
@@ -19,8 +19,8 @@ export function migrate(db: DatabaseSync): void {
 
     CREATE TABLE IF NOT EXISTS scrape_runs (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
-      products_scanned INTEGER NOT NULL,
-      new_products_added INTEGER NOT NULL,
+      products_scanned INTEGER NOT NULL DEFAULT 0,
+      new_products_added INTEGER NOT NULL DEFAULT 0,
 
       errors INTEGER NOT NULL DEFAULT 0,
       error_message TEXT,
@@ -55,7 +55,7 @@ export function migrate(db: DatabaseSync): void {
       successful_page_scrapes INTEGER NOT NULL DEFAULT 0,
       errors TEXT, 
       total_products_scrapped INTEGER NOT NULL DEFAULT 0,
-      total_new_products_added INTEGER NOT NULL DEFAULT 0,
+      total_new_products_found INTEGER NOT NULL DEFAULT 0,
 
       FOREIGN KEY (scrape_run) REFERENCES retailer_summary (scrape_run),
       FOREIGN KEY (retailer) REFERENCES retailer_summary (retailer),

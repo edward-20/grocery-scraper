@@ -8,21 +8,17 @@ import { RetailerScraper } from "./retailerScraper.js";
 
 export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeSummary> {
   const retailerScrapers = createRetailerScrapers(config);
-  const summary: ScrapeSummary = {
-    productsScanned: 0,
-    errors: 0,
-  };
 
   const browser = await chromium.launch({ headless: config.browser.headless });
   try {
     for (const retailer of config.retailers.filter((candidate) => candidate.enabled)) {
-      await runRetailer(browser, config, repository, retailer, summary);
+      await runRetailer(browser, config, repository, retailer);
     }
   } finally {
     await browser.close();
   }
 
-  return summary;
+  repository.finishRun(retailerScrapers.id)
 }
 
 async function runRetailer(
