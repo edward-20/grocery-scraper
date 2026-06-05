@@ -6,14 +6,12 @@ export function migrate(db: DatabaseSync): void {
     PRAGMA foreign_keys = ON;
 
     CREATE TABLE IF NOT EXISTS retailers (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      name TEXT
+      name TEXT PRIMARY KEY NOT NULL,
     );
-    INSERT INTO retailers(name) VALUES ('Woolworths', 'Coles');
+    INSERT INTO retailers(name) VALUES ('woolworths', 'coles');
 
     CREATE TABLE IF NOT EXISTS unit_of_measurement (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      unit TEXT NOT NULL
+      unit TEXT PRIMARY KEY NOT NULL 
     );
     INSERT INTO unit_of_measurement ("Each", "Kg", "g", "L", "mL");
 
@@ -21,14 +19,64 @@ export function migrate(db: DatabaseSync): void {
 
     CREATE TABLE IF NOT EXISTS scrape_runs (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
+      products_scanned INTEGER NOT NULL,
+      new_products_added INTEGER NOT NULL,
 
-      started_at TEXT NOT NULL,
+      errors INTEGER NOT NULL DEFAULT 0,
+      error_message TEXT,
+      started_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
       finished_at TEXT,
 
-      status TEXT NOT NULL,
-      error_message TEXT,
+      status TEXT NOT NULL DEFAULT "running" CHECK (
+        status IN ("running", "completed")
+      ),
     );
 
+    CREATE TABLE IF NOT EXISTS retailer_summary (
+      scrape_run INTEGER NOT NULL,
+      retailer TEXT NOT NULL,
+      scrape_trapped INTEGER NOT NULL DEFAULT FALSE CHECK(
+        scrape_trapped IN (FALSE, TRUE)
+      ),
+      started_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      finished_at TEXT,
+
+      FOREIGN KEY scrape_run REFERENCES scrape_runs(id),
+      FOREIGN KEY retailer REFERENCES retailers(name),
+      PRIMARY KEY (scrape_run, retailer)
+    );
+
+    CREATE TABLE IF NOT EXISTS category_summary (
+      scrape_run INTEGER NOT NULL,
+      retailer TEXT NOT NULL,
+      name TEXT NOT NULL,
+      slug TEXT NOT NULL,
+      pages INTEGER DEFAULT NULL,
+      successful_page_scrapes INTEGER NOT NULL DEFAULT 0,
+      errors TEXT, 
+      total_products_scrapped INTEGER NOT NULL DEFAULT 0,
+      total_new_products_added INTEGER NOT NULL DEFAULT 0,
+
+      FOREIGN KEY (scrape_run) REFERENCES retailer_summary (scrape_run),
+      FOREIGN KEY (retailer) REFERENCES retailer_summary (retailer),
+      PRIMARY KEY (scrape_run, retailer, slug)
+    );
+
+    CREATE TABLE IF NOT EXISTS product_summary (
+      scrape_run INTEGER NOT NULL,
+      retailer TEXT NOT NULL,
+      category_slug TEXT NOT NULL,
+
+      name TEXT NOT NULL,
+      retailer_product_id INTEGER NOT NULL,
+      url TEXT NOT NULL,
+      error TEXT, 
+
+      FOREIGN KEY (scrape_run) REFERENCES category_summary (scrape_run),
+      FOREIGN KEY (retailer) REFERENCES category_summary (retailer),
+      FOREIGN KEY (category_slug) REFERENCES category_summary (slug),
+      PRIMARY KEY (scrape_run, retailer, category_slug, url)
+    );
 
 
 
@@ -45,7 +93,7 @@ export function migrate(db: DatabaseSync): void {
       -- <unit_price_quantity> of <unit_price_measure_quantity> <unit_price_unit>
       unit_price_quantity REAL NOT NULL,
       unit_price_measure_quantity REAL NOT NULL,
-      unit_price_unit INTEGER NOT NULL,
+      unit_price_unit TEXT NOT NULL,
 
       -- size and price of the product
       size_unit TEXT NOT NULL,
@@ -59,8 +107,8 @@ export function migrate(db: DatabaseSync): void {
       run INTEGER NOT NULL,
 
       FOREIGN KEY (retailer, retailer_product_id) REFERENCES products (retailer, retailer_product_id),
-      FOREIGN KEY (unit_price_unit) REFERENCES unit_of_measurement (id),
-      FOREIGN KEY (size_unit) REFERENCES unit_of_measurement (id),
+      FOREIGN KEY (unit_price_unit) REFERENCES unit_of_measurement (unit),
+      FOREIGN KEY (size_unit) REFERENCES unit_of_measurement (unit),
       FOREIGN KEY (run) REFERENCES scrape_runs (id)
 
       CHECK (
@@ -85,7 +133,7 @@ export function migrate(db: DatabaseSync): void {
       description TEXT NOT NULL,
       image_url TEXT,
 
-      FOREIGN_KEY retailer REFERENCES retailers (id),
+      FOREIGN_KEY retailer REFERENCES retailers (name),
       FOREIGN_KEY value REFERENCES value_at_time (id),
       PRIMARY KEY (retailer, retailer_product_id),
       CHECK ((cross_retailer_id IS NOT NULL AND gtin_format IS NOT NULL) OR cross_retailer_id IS NULL)

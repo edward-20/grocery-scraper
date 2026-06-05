@@ -33,19 +33,22 @@ export interface ScrapeRun {
   newProductsAdded: number;
   retailerSummaries: Record<RetailerName, RetailerSummary>
   errors: number;
-  timeStarted: Date;
-  timeEnded: Date | null;
+  errorMessage?: string; // error has to be concerned with the scrape run level not the retailer, category or product
+  startedAt: Date;
+  finishedAt: Date | null;
+  status: "running" | "completed"
 }
 
 export interface RetailerSummary {
   categories: CategorySummary[];
-  timeStarted: Date;
-  timeEnded: Date | null;
+  scrapeTrapped: boolean;
+  startedAt: Date;
+  finishedAt: Date | null;
 }
 
 export interface CategorySummary {
   name: string; 
-  url: string;
+  slug: string;
   pages: number;
   successfulPageScrapes: number;
   errors: string; // tentative on the type, wait until we actually give it a real try to see what form errors take to specify a better error type 
