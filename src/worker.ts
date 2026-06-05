@@ -3,6 +3,7 @@ import { loadConfig } from "./config/loadConfig.js";
 import { openDatabase } from "./db/database.js";
 import { GroceryRepository } from "./db/repository.js";
 import { runScrape } from "./scraper/runScraper.js";
+import { ScrapeRun } from "./types.js";
 
 const config = loadConfig(process.env.SCRAPER_CONFIG);
 

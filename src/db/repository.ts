@@ -1,24 +1,25 @@
 import type { DatabaseSync } from "node:sqlite";
 import type { ScrapeRun } from "../types.js";
 import { nowIso } from "../utils/time.js";
+import { RetailerName, RetailerSummary } from "../types.js";
 
 export class GroceryRepository {
-  constructor(private readonly db: DatabaseSync, private readonly scrapeRun: ScrapeRun) {}
+  constructor(private readonly db: DatabaseSync) {}
 
   createRun(): ScrapeRun {
-    const startedAt = nowIso();
+    const startedAt = new Date();
     const result = this.db
       .prepare(
         `INSERT INTO scrape_runs (started_at, status)
          VALUES (?, 'running')`,
       )
-      .run(startedAt);
+      .run(startedAt.toString());
 
     return { 
       id: Number(result.lastInsertRowid),  
       productsScanned: 0,
       newProductsAdded: 0,
-      retailerSummaries: {},
+      retailerSummaries: {} as Record<RetailerName, RetailerSummary>,
       errors: 0,
       timeStarted: startedAt,
       timeEnded: null
@@ -33,9 +34,5 @@ export class GroceryRepository {
          WHERE id = ?`,
       )
       .run(nowIso(), status, errorMessage ?? null, runId);
-  }
-
-  incrementNewProductsAdded(n : number) {
-    this.scrapeRun.newProductsAdded += n;
   }
 }
