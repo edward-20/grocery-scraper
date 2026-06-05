@@ -9,6 +9,7 @@ import { RetailerScraper } from "./retailerScraper.js";
 export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeSummary> {
   const retailerScrapers = createRetailerScrapers(config);
 
+  const run = repository.createRun();
   const browser = await chromium.launch({ headless: config.browser.headless });
   try {
     for (const retailer of config.retailers.filter((candidate) => candidate.enabled)) {
@@ -18,7 +19,8 @@ export async function runScrape(config: ScraperConfig, repository: GroceryReposi
     await browser.close();
   }
 
-  repository.finishRun(retailerScrapers.id)
+  return repository.finishRun()
+
 }
 
 async function runRetailer(
@@ -37,7 +39,6 @@ async function runRetailer(
   context.setDefaultNavigationTimeout(config.scrape.navigationTimeoutMs);
 
   try {
-    const run = repository.createRun(); // pass the ScrapeRun down in order to update
     const page = await context.newPage();
     let runStatus: "ok" | "error" = "ok";
     let runError: string | undefined;

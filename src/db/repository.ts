@@ -12,7 +12,7 @@ export class GroceryRepository {
   constructor(private readonly db: DatabaseSync) {}
 
   // Scrape Runs
-  createRun(): ScrapeRun {
+  createRun(): ScrapeRun["id"] {
     const startedAt = new Date();
     const result = this.db
       .prepare(
@@ -34,7 +34,7 @@ export class GroceryRepository {
     };
   }
 
-  finishRun(runId: number, errorMessage?: string): void {
+  finishRun(runId: number, errorMessage?: string): ScrapeRun {
     this.db
       .prepare(
         `UPDATE scrape_runs
