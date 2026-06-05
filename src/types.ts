@@ -31,29 +31,35 @@ export interface ScrapeRun {
   id: number;
   productsScanned: number;
   newProductsAdded: number;
-  retailerSummaries: Record<RetailerScrapeConfig["name"], RetailerSummary>
+  retailerSummaries: Record<RetailerName, RetailerSummary>
   errors: number;
   timeStarted: Date;
   timeEnded: Date | null;
 }
 
-// common denominator fields but can be extended for retailer specific details
 export interface RetailerSummary {
   categories: CategorySummary[];
   timeStarted: Date;
   timeEnded: Date | null;
 }
 
-// what do you want to know about the efforts to scrape a category of a retailer
 export interface CategorySummary {
   name: string; 
   url: string;
   pages: number;
   successfulPageScrapes: number;
+  errors: string; // tentative on the type, wait until we actually give it a real try to see what form errors take to specify a better error type 
   totalProductsScrapped: number;
   totalNewProductsAdded: number;
-  productsChangedInPricing: number;
-  failedToScrapeProducts: Product[];
+  failedToScrapeProducts?: ProductSummary[]; // only needed for detailed mode
+}
+
+export interface ProductSummary {
+  name: string;
+  retailer: RetailerName;
+  retailerProductId: number;
+  url: string;
+  error: string; 
 }
 
 // Data Logging for database (actual data we care about)
