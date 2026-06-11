@@ -1,5 +1,9 @@
 database:
-  path: data/grocery.sqlite
+  host: 'localhost'
+  port: 5432
+  database: 'groceries'
+  user: 'postgres'
+  password: 'password'
 
 schedule:
   cron: "0 3 * * *"
@@ -14,15 +18,7 @@ scrape:
 retailers:
   - name: woolworths
     enabled: true
-    targets:
-      - name: milk
-        url: "https://www.woolworths.com.au/shop/search/products?searchTerm=milk"
-        maxPages: 1
-        maxProducts: 10
+    productByProduct: false
   - name: coles
     enabled: true
-    targets:
-      - name: milk
-        url: "https://www.coles.com.au/search/products?q=milk"
-        maxPages: 1
-        maxProducts: 10
+    productByProduct: false

@@ -7,7 +7,11 @@ const retailerNames = new Set<RetailerName>(["woolworths", "coles"]);
 
 type ConfigInput = {
   database?: {
-    path?: string;
+    host?: string,
+    port?: number,
+    database?: string,
+    user?: string,
+    password?: string
   };
   schedule?: {
     cron?: string;
@@ -22,12 +26,7 @@ type ConfigInput = {
   retailers?: Array<{
     name?: RetailerName;
     enabled?: boolean;
-    targets?: Array<{
-      name?: string;
-      url?: string;
-      maxPages?: number;
-      maxProducts?: number;
-    }>;
+    productByProduct?: boolean;
   }>;
 };
 
@@ -38,9 +37,22 @@ export function loadConfig(configPath = "config/scraper.yaml"): ScraperConfig {
 }
 
 export function validateConfig(config: ConfigInput, source = "config"): ScraperConfig {
-  if (!config.database?.path) {
-    throw new Error(`${source}: database.path is required`);
+  if (!config.database?.host) {
+    throw new Error(`${source}: database.host is required`);
   }
+  if (!config.database?.port) {
+    throw new Error(`${source}: database.port is required`);
+  }
+  if (!config.database?.database) {
+    throw new Error(`${source}: database.database is required`);
+  }
+  if (!config.database?.user) {
+    throw new Error(`${source}: database.user is required`);
+  }
+  if (!config.database?.password) {
+    throw new Error(`${source}: database.password is required`);
+  }
+
   if (!config.schedule?.cron) {
     throw new Error(`${source}: schedule.cron is required`);
   }
@@ -61,33 +73,22 @@ export function validateConfig(config: ConfigInput, source = "config"): ScraperC
     if (!retailer.name || !retailerNames.has(retailer.name)) {
       throw new Error(`${source}: retailers[${retailerIndex}].name must be woolworths or coles`);
     }
-    if (!Array.isArray(retailer.targets)) {
-      throw new Error(`${source}: retailers[${retailerIndex}].targets must be an array`);
-    }
 
     return {
       name: retailer.name,
       enabled: retailer.enabled ?? true,
-      targets: retailer.targets.map((target, targetIndex) => {
-        if (!target.name) {
-          throw new Error(`${source}: retailers[${retailerIndex}].targets[${targetIndex}].name is required`);
-        }
-        if (!target.url) {
-          throw new Error(`${source}: retailers[${retailerIndex}].targets[${targetIndex}].url is required`);
-        }
-        new URL(target.url);
-        return {
-          name: target.name,
-          url: target.url,
-          maxPages: numberOrDefault(target.maxPages, 1, "target.maxPages"),
-          maxProducts: numberOrDefault(target.maxProducts, 25, "target.maxProducts"),
-        };
-      }),
+      productByProduct: retailer.productByProduct ?? false
     };
   });
 
   return {
-    database: { path: config.database.path },
+    database: { 
+      host: config.database.host,
+      port: config.database.port,
+      database: config.database.database,
+      user: config.database.user,
+      password: config.database.password,
+    },
     schedule: { cron: config.schedule.cron },
     browser: { headless },
     scrape: { throttleMs, navigationTimeoutMs },
