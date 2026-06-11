@@ -4,11 +4,11 @@ import { Page } from "playwright";
 
 // stubbed
 export class WoolworthsScraper extends RetailerScraper {
-  discoverCategories(page: Page): Promise<string[]> {
-    return Promise.resolve([""]);
+  discoverCategories(page: Page): Promise<Category[]> {
+    return Promise.resolve([{name: "", url: "", pages: 0}]);
   }
-  findPageCountPerCategory(page: Page, category: Category) : undefined {
-    return undefined;
+  findPageCountPerCategory(page: Page, category: Category) : number {
+    return 0;
   }
   scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]> {
     return Promise.resolve(

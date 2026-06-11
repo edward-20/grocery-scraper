@@ -1,4 +1,4 @@
-mport type { DatabaseSync } from "node:sqlite";
+import type { DatabaseSync } from "node:sqlite";
 
 export function migrate(db: DatabaseSync): void {
   db.exec(`
@@ -7,6 +7,7 @@ export function migrate(db: DatabaseSync): void {
 
     CREATE TABLE IF NOT EXISTS retailers (
       name TEXT PRIMARY KEY NOT NULL,
+      total_products INTEGER DEFAULT 0
     );
     INSERT INTO retailers(name) VALUES ('woolworths', 'coles');
 
@@ -17,6 +18,7 @@ export function migrate(db: DatabaseSync): void {
 
 
 
+    -- analytic logs 
     CREATE TABLE IF NOT EXISTS scrape_runs (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       products_scanned INTEGER NOT NULL DEFAULT 0,
@@ -32,7 +34,7 @@ export function migrate(db: DatabaseSync): void {
       ),
     );
 
-    CREATE TABLE IF NOT EXISTS retailer_summary (
+    CREATE TABLE IF NOT EXISTS retailer_scrape (
       scrape_run INTEGER NOT NULL,
       retailer TEXT NOT NULL,
       scrape_trapped INTEGER NOT NULL DEFAULT FALSE CHECK(
@@ -41,44 +43,70 @@ export function migrate(db: DatabaseSync): void {
       started_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
       finished_at TEXT,
 
+      status,
+      categories_scraped,
+      products_scraped,
+
+      errors,
+      error_message,
+
       FOREIGN KEY scrape_run REFERENCES scrape_runs(id),
       FOREIGN KEY retailer REFERENCES retailers(name),
       PRIMARY KEY (scrape_run, retailer)
     );
 
-    CREATE TABLE IF NOT EXISTS category_summary (
+    CREATE TABLE IF NOT EXISTS category_scrape (
       scrape_run INTEGER NOT NULL,
       retailer TEXT NOT NULL,
       name TEXT NOT NULL,
-      slug TEXT NOT NULL,
+      path TEXT NOT NULL,
       pages INTEGER DEFAULT NULL,
       successful_page_scrapes INTEGER NOT NULL DEFAULT 0,
       errors TEXT, 
       total_products_scrapped INTEGER NOT NULL DEFAULT 0,
       total_new_products_found INTEGER NOT NULL DEFAULT 0,
 
-      FOREIGN KEY (scrape_run) REFERENCES retailer_summary (scrape_run),
-      FOREIGN KEY (retailer) REFERENCES retailer_summary (retailer),
-      PRIMARY KEY (scrape_run, retailer, slug)
+      FOREIGN KEY (scrape_run) REFERENCES retailer_scrape (scrape_run),
+      FOREIGN KEY (retailer) REFERENCES retailer_scrape (retailer),
+      PRIMARY KEY (scrape_run, retailer, path)
     );
 
     CREATE TABLE IF NOT EXISTS product_summary (
       scrape_run INTEGER NOT NULL,
       retailer TEXT NOT NULL,
-      category_slug TEXT NOT NULL,
+      category_path TEXT NOT NULL,
 
       name TEXT NOT NULL,
       retailer_product_id INTEGER NOT NULL,
-      url TEXT NOT NULL,
+      path TEXT NOT NULL,
       error TEXT, 
 
-      FOREIGN KEY (scrape_run) REFERENCES category_summary (scrape_run),
-      FOREIGN KEY (retailer) REFERENCES category_summary (retailer),
-      FOREIGN KEY (category_slug) REFERENCES category_summary (slug),
-      PRIMARY KEY (scrape_run, retailer, category_slug, url)
+      FOREIGN KEY (scrape_run) REFERENCES category_scrape (scrape_run),
+      FOREIGN KEY (retailer) REFERENCES category_scrape (retailer),
+      FOREIGN KEY (category_path) REFERENCES category_scrape (path),
+      PRIMARY KEY (scrape_run, retailer, category_path, path)
     );
 
 
+    CREATE TABLE IF NOT EXISTS products (
+      retailer INTEGER NOT NULL,
+      retailer_product_id TEXT NOT NULL,
+      cross_retailer_id TEXT,
+      gtin_format INTEGER
+
+      value INTEGER NOT NULL,
+
+      name TEXT NOT NULL,
+      brand TEXT,
+      url TEXT NOT NULL,
+      description TEXT NOT NULL,
+      image_url TEXT,
+
+      FOREIGN_KEY retailer REFERENCES retailers (name),
+      FOREIGN_KEY value REFERENCES value_at_time (id),
+      PRIMARY KEY (retailer, retailer_product_id),
+      CHECK ((cross_retailer_id IS NOT NULL AND gtin_format IS NOT NULL) OR cross_retailer_id IS NULL)
+    );
 
 
 
@@ -119,25 +147,6 @@ export function migrate(db: DatabaseSync): void {
     );
 
 
-    CREATE TABLE IF NOT EXISTS products (
-      retailer INTEGER NOT NULL,
-      retailer_product_id TEXT NOT NULL,
-      cross_retailer_id TEXT,
-      gtin_format INTEGER
-
-      value INTEGER NOT NULL,
-
-      name TEXT NOT NULL,
-      brand TEXT,
-      url TEXT NOT NULL,
-      description TEXT NOT NULL,
-      image_url TEXT,
-
-      FOREIGN_KEY retailer REFERENCES retailers (name),
-      FOREIGN_KEY value REFERENCES value_at_time (id),
-      PRIMARY KEY (retailer, retailer_product_id),
-      CHECK ((cross_retailer_id IS NOT NULL AND gtin_format IS NOT NULL) OR cross_retailer_id IS NULL)
-    );
 
 
   `);

@@ -40,6 +40,7 @@ export interface ScrapeRun {
 }
 
 export interface RetailerSummary {
+  retailer: RetailerName;
   categories: CategorySummary[];
   scrapeTrapped: boolean;
   startedAt: Date;

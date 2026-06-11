@@ -1,25 +1,23 @@
 import { chromium, type Browser } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import type { RetailerScrapeConfig, ScraperConfig } from "../types.js";
-import { sleep } from "../utils/time.js";
+import type { ScrapeRun, ScraperConfig, RetailerName, RetailerScrapeConfig } from "../types.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
+import { sleep } from "../utils/time.js";
 
-export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeSummary> {
-  const retailerScrapers = createRetailerScrapers(config);
-
-  const run = repository.createRun();
+export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeRun> {
+  const runId = repository.createRun();
   const browser = await chromium.launch({ headless: config.browser.headless });
   try {
     for (const retailer of config.retailers.filter((candidate) => candidate.enabled)) {
-      await runRetailer(browser, config, repository, retailer);
+      await runRetailer(browser, config, repository, runId, retailer);
     }
   } finally {
     await browser.close();
   }
 
-  return repository.finishRun()
+  return repository.finishRun(runId)
 
 }
 
@@ -27,8 +25,8 @@ async function runRetailer(
   browser: Browser,
   config: ScraperConfig,
   repository: GroceryRepository,
+  runId: number,
   retailer: RetailerScrapeConfig,
-  summary: ScrapeSummary,
 ): Promise<void> {
   const context = await browser.newContext({
     locale: "en-AU",
@@ -49,24 +47,26 @@ async function runRetailer(
       let retailerScraper : RetailerScraper;
       switch (retailer.name) {
         case "coles" :
-          retailerScraper = new ColesScraper(retailer);
+          retailerScraper = new ColesScraper(retailer, runId);
         case "woolworths" :
-          retailerScraper = new WoolworthsScraper(retailer);
+          retailerScraper = new WoolworthsScraper(retailer, runId);
       }
 
       const categories = await retailerScraper.discoverCategories(page);
+      repository.createRetailerSummary(4, retailer.name, "Fruit & Vegetables", "fruit-veg")
       for (const category of categories) {
         const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
+        // use the repository to write some stuff for the run
         for (let i = 1; i <= numberOfPages; i++) {
           retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
+          // use the repository to write some stuff for the run
         }
       }
     } catch (error) {
       runStatus = "error";
       runError = error instanceof Error ? error.message : String(error);
-      summary.errors += 1;
+      // write some stuff to the repository to indicate error
     } finally {
-      repository.finishRun(run.id, runStatus, runError);
       await page.close();
     }
   } finally {
