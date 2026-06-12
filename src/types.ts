@@ -6,7 +6,7 @@ type MeasureUnit = "kg" | "g" | "ea" | "l";
 export interface RetailerScrapeConfig {
   name: RetailerName;
   enabled: boolean;
-  detailedEnabled: boolean;
+  productByProduct: boolean;
 }
 
 export interface ScraperConfig {

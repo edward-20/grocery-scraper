@@ -1,8 +1,5 @@
 import type { DatabaseSync } from "node:sqlite";
-import type { ScrapeRun } from "../types.js";
-import { nowIso } from "../utils/time.js";
 import { RetailerName, RetailerSummary, CategorySummary } from "../types.js";
-import { warn } from "console";
 
 type RunId = number;
 type CategoryPath = string;  // enforce stricter maybe later on
@@ -44,6 +41,8 @@ export class GroceryRepository {
   // what if an error happens somewhere concerning the scraping of a category?
   // whose to handle it? its not here mate, this is the repository, only
   // database interactions
+
+
   
   foundNumberOfPagesForCategory(runId: RunId, retailer: RetailerName, path: CategroyPath, pages: number): void {
     throw new Error("Not implemented");
