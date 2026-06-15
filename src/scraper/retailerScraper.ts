@@ -1,16 +1,4 @@
 import type { Page } from "playwright";
-import { Product, RetailerScrapeConfig } from "../types.js";
-
-export interface Category {
-  name: string,
-  url: string,
-  pages: number
-}
-
-export interface SingleProduct {
-  name: string,
-  url: string
-}
 
 export abstract class RetailerScraper {
   constructor(retailerConfig: RetailerScrapeConfig, runId: number) {}
