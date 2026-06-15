@@ -1,6 +1,6 @@
 import { chromium, type Browser } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import type { ScraperConfig, RetailerScrapeConfig, RunId, CategoryId } from "../types.js";
+import type { ScraperConfig, Product, RetailerScrapeConfig, RunId, CategoryId } from "../types.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
@@ -37,11 +37,13 @@ async function runRetailer(
   });
   context.setDefaultNavigationTimeout(config.scrape.navigationTimeoutMs);
 
+  // try clause for browser context (cleaning up the context on error)
   try {
     const page = await context.newPage();
     let runStatus: "ok" | "error" = "ok";
     let runError: string | undefined;
 
+    // try clause for browser page (cleaning up the page on error)
     try {
       await sleep(config.scrape.throttleMs);
 
@@ -59,25 +61,41 @@ async function runRetailer(
         let categoryId : CategoryId;
         switch (retailer.name) {
           case "Coles":
-            categoryId = repository.createColesCategory(category.path, category.name, category.retailerDesignatedCategoryId)
+            categoryId = repository.createColesCategory(category);
           case "Woolworths":
-            categoryId = repository.createWoolworthsCategory(category.path, category.name, category.retailerDesignatedCategoryId)
+            categoryId = repository.createWoolworthsCategory(category);
         }
         // create category scrape run
-        const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, categoryId, category.name, category.path);
-        // find the number of pages of the category and update the category
-        // scrape run
+        const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
+
+        // find the number of pages of the category and update the category scrape run
         const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
         repository.updatePages(categoryScrapeId, numberOfPages);
 
         // for each page, scrape the products and update the categoryScrapeRun.
         // This is the crux of this project
         for (let i = 1; i <= numberOfPages; i++) {
-          const products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
+          let products: Product[];
+          try {
+            products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
+          } catch (error) {
+            console.error("error scraping products of category page")
+          }
           // use the repository to write some stuff for the run
           for (const product of products) {
             const currentValueId = repository.createValueAtTime(product.value);
-            repository.createProduct()
+            repository.createProduct({
+              categoryId: 5,
+              retailerProductId: "re",
+              crossRetailerId: "a",
+              gtinFormat: 13,
+              currentValue: currentValueId, 
+              name: "a",
+              brand: "a",
+              path: "a",
+              description: "a",
+              image_url: "a",
+            })
           }
         }
       }

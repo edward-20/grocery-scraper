@@ -29,14 +29,6 @@ export interface ScraperConfig {
 }
 
 
-export interface Category {
-  retailerDesignatedCategoryId: string,
-  name: string,
-  path: string,
-  retailerId: string,
-  retailerDesignatedProductCount: number
-}
-
 export interface Product {
   categoryId: number;
   retailerProductId: string;
