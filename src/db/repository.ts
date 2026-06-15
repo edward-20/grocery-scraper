@@ -1,17 +1,5 @@
 import { Pool } from "pg";
-import { Product, UpdateProductFields, ValueAtTime } from "../types.js";
-
-type RunId = number;
-type RetailerScrapeId = number;
-type RetailerName = "Woolworths" | "Coles"
-
-type CategoryScrapeId = number;
-type CategoryId = number;
-type CategoryPath = string;  // enforce stricter maybe later on
-
-type ProductId = string;
-
-type ValueAtTimeId = string;
+import { Product, ProductId, CategoryScrapeId, RetailerName, UpdateProductFields, ValueAtTime, CategoryPath, RunId, RetailerScrapeId, ValueAtTimeId } from "../types.js";
 
 export class GroceryRepository {
   /*
@@ -30,14 +18,14 @@ export class GroceryRepository {
     throw new Error("Not implemented");
   }
 
-  runEncounteredError(runId: runId, errorMessage: string) {
+  runEncounteredError(runId: RunId, errorMessage: string) {
     throw new Error("Not implemented");
   }
 
   // internal? down the hierarchy?
-  updateProductsScraped() {
-    throw new Error("Not implemented");
-  }
+  // updateProductsScraped() {
+  //   throw new Error("Not implemented");
+  // }
 
   // internal? down the hierarchy?
   updateNewProducts() {
