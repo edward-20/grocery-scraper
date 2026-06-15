@@ -1,5 +1,5 @@
 import { Pool } from "pg";
-import { Product, ProductId, CategoryScrapeId, RetailerName, UpdateProductFields, ValueAtTime, CategoryPath, RunId, RetailerScrapeId, ValueAtTimeId } from "../types.js";
+import { Product, ProductId, CategoryScrapeId, RetailerName, UpdateProductFields, ValueAtTime, CategoryPath, RunId, RetailerScrapeId, ValueAtTimeId, CategoryId } from "../types.js";
 
 export class GroceryRepository {
   /*
@@ -93,12 +93,14 @@ export class GroceryRepository {
   }
 
   /* ****************Categories************** */
-  createColesCategory(path: CategoryPath, name: string, retailerDesignatedId: string, retailerDesignatedProductCount?: number) {
+  // needs to be idempotent
+  createColesCategory(path: CategoryPath, name: string, retailerDesignatedCategoryId: string) : CategoryId {
     // need to find the coles retailer id
     throw new Error("Not implemented");
   }
 
-  createWoolworthsCategory(path: CategoryPath, name: string, retailerDesignatedId: string, retailerDesignatedProductCount?: number) {
+  // needs to be idempotent
+  createWoolworthsCategory(path: CategoryPath, name: string, retailerDesignatedId: string) : CategoryId {
     // need to find the woolworths retailer id
     throw new Error("Not implemented");
   }

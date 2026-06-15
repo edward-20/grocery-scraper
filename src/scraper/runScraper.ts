@@ -59,17 +59,26 @@ async function runRetailer(
         let categoryId : CategoryId;
         switch (retailer.name) {
           case "Coles":
-            categoryId = repository.createColesCategory()
+            categoryId = repository.createColesCategory(category.path, category.name, category.retailerDesignatedCategoryId)
           case "Woolworths":
-            categoryId = repository.createWoolworthsCategory()
+            categoryId = repository.createWoolworthsCategory(category.path, category.name, category.retailerDesignatedCategoryId)
         }
         // create category scrape run
         const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, categoryId, category.name, category.path);
+        // find the number of pages of the category and update the category
+        // scrape run
         const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
-        // use the repository to write some stuff for the run
+        repository.updatePages(categoryScrapeId, numberOfPages);
+
+        // for each page, scrape the products and update the categoryScrapeRun.
+        // This is the crux of this project
         for (let i = 1; i <= numberOfPages; i++) {
-          retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
+          const products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
           // use the repository to write some stuff for the run
+          for (const product of products) {
+            const currentValueId = repository.createValueAtTime(product.value);
+            repository.createProduct()
+          }
         }
       }
     } catch (error) {

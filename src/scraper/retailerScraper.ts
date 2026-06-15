@@ -1,5 +1,7 @@
 import type { Page } from "playwright";
 
+import type { Category } from "../types.js"
+
 export abstract class RetailerScraper {
   constructor(retailerConfig: RetailerScrapeConfig, runId: number) {}
   discoverCategories(page: Page): Promise<Category[]> { return Promise.resolve([{name:"", url:"", pages: 1}])}; // should supply information to be able to fulfill a row of Categories and categoryScrape

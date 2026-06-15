@@ -21,7 +21,7 @@ CREATE TABLE IF NOT EXISTS categories (
   path TEXT NOT NULL,
   id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
 
-  retailer_designated_id TEXT NOT NULL,
+  retailer_designated_category_id TEXT NOT NULL,
   name TEXT NOT NULL,
  
   FOREIGN KEY retailer_id REFERENCES retailers(id),
