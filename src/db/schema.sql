@@ -23,7 +23,6 @@ CREATE TABLE IF NOT EXISTS categories (
 
   retailer_designated_id TEXT NOT NULL,
   name TEXT NOT NULL,
-  retailer_designated_product_count INTEGER DEFAULT NULL, -- this pertains to coles, who has this data in their json
  
   FOREIGN KEY retailer_id REFERENCES retailers(id),
   UNIQUE (retailer_id, path)
@@ -137,8 +136,6 @@ CREATE TABLE IF NOT EXISTS category_scrapes (
   category_id INTEGER NOT NULL, -- unique because its a foreign key to primary key
   id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
 
-  name TEXT NOT NULL,
-  path TEXT NOT NULL,
   -- basic scrape fields
   started_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
   finished_at TIMESTAMPTZ,
@@ -147,10 +144,12 @@ CREATE TABLE IF NOT EXISTS category_scrapes (
   ),
   errors INTEGER NOT NULL DEFAULT 0,
   error_message TEXT,
+
   -- analytics
+  retailer_designated_product_count INTEGER,
   pages INTEGER DEFAULT NULL,
   successful_page_scrapes INTEGER NOT NULL DEFAULT 0,
-  total_products_scrapped INTEGER NOT NULL DEFAULT 0,
+  total_products_scraped INTEGER NOT NULL DEFAULT 0,
   total_new_products_found INTEGER NOT NULL DEFAULT 0,
 
   FOREIGN KEY (retailer_scrape_id) REFERENCES retailer_scrapes (id),
