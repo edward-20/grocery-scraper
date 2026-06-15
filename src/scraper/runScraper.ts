@@ -1,12 +1,12 @@
 import { chromium, type Browser } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import type { ScraperConfig, RetailerScrapeConfig } from "../types.js";
+import type { ScraperConfig, RetailerScrapeConfig, RunId } from "../types.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
 import { sleep } from "../utils/time.js";
 
-export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeRun> {
+export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<RunId> {
   const runId = repository.createRun();
   const browser = await chromium.launch({ headless: config.browser.headless });
   try {
@@ -17,7 +17,7 @@ export async function runScrape(config: ScraperConfig, repository: GroceryReposi
     await browser.close();
   }
 
-  return repository.finishRun(runId)
+  return repository.finishRun(runId);
 
 }
 

@@ -1,7 +1,5 @@
 export type RetailerName = "woolworths" | "coles";
 
-type MeasureUnit = "kg" | "g" | "ea" | "l";
-
 // config
 export interface RetailerScrapeConfig {
   name: RetailerName;
@@ -63,3 +61,14 @@ export interface ValueAtTime {
   sizeQuantityMin: number;
   price: number;
 }
+
+export type RunId = number;
+export type RetailerScrapeId = number;
+
+export type CategoryScrapeId = number;
+export type CategoryId = number;
+export type CategoryPath = string;  // enforce stricter maybe later on
+
+export type ProductId = string;
+
+export type ValueAtTimeId = string;

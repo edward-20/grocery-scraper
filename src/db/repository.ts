@@ -11,6 +11,8 @@ type CategoryPath = string;  // enforce stricter maybe later on
 
 type ProductId = string;
 
+type ValueAtTimeId = string;
+
 export class GroceryRepository {
   /*
   *
@@ -103,17 +105,17 @@ export class GroceryRepository {
   }
 
   /* ****************Categories************** */
-  createColesCategory(path: string, name: string, retailerDesignatedId: string, retailerDesignatedProductCount?: number) {
+  createColesCategory(path: CategoryPath, name: string, retailerDesignatedId: string, retailerDesignatedProductCount?: number) {
     // need to find the coles retailer id
     throw new Error("Not implemented");
   }
 
-  createWoolworthsCategory(path: string, name: string, retailerDesignatedId: string, retailerDesignatedProductCount?: number) {
+  createWoolworthsCategory(path: CategoryPath, name: string, retailerDesignatedId: string, retailerDesignatedProductCount?: number) {
     // need to find the woolworths retailer id
     throw new Error("Not implemented");
   }
 
-  updateCategory(categoryId: CategoryId, path?: string, name?: string, retailerDesignatedProductCount?: number) {
+  updateCategory(categoryId: CategoryId, path?: CategoryPath, name?: string, retailerDesignatedProductCount?: number) {
     throw new Error("Not implemented");
   }
 
