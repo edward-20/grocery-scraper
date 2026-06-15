@@ -1,8 +1,15 @@
-import type { DatabaseSync } from "node:sqlite";
-import { RetailerName, RetailerSummary, CategorySummary } from "../types.js";
+import { Pool } from "pg";
+import { Product, UpdateProductFields, ValueAtTime } from "../types.js";
 
 type RunId = number;
+type RetailerScrapeId = number;
+type RetailerName = "Woolworths" | "Coles"
+
+type CategoryScrapeId = number;
+type CategoryId = number;
 type CategoryPath = string;  // enforce stricter maybe later on
+
+type ProductId = string;
 
 export class GroceryRepository {
   /*
@@ -10,9 +17,9 @@ export class GroceryRepository {
   * A repository is a programming pattern/class whose job is to hide the database details from the rest of your application.
   * possibly subdivide this into product related and system related
   */
-  constructor(private readonly db: DatabaseSync) {}
+  constructor(private readonly pool: Pool) {}
 
-  // Scrape Runs
+  /* ****************Scrape Runs************** */
   createRun(): RunId {
     throw new Error("Not implemented");
   }
@@ -21,50 +28,108 @@ export class GroceryRepository {
     throw new Error("Not implemented");
   }
 
-  // Retailer Summary
-  createRetailerSummary(runId: RunId, retailer: RetailerName): RetailerSummary {
+  runEncounteredError(runId: runId, errorMessage: string) {
     throw new Error("Not implemented");
   }
 
-  caughtInScrapeTrap(runId: RunId, retailer: RetailerName) {
+  // internal? down the hierarchy?
+  updateProductsScraped() {
     throw new Error("Not implemented");
   }
 
-  finishRetailerScrape(runId: RunId, retailer: RetailerName, errorMessage?: string): RetailerSummary {
+  // internal? down the hierarchy?
+  updateNewProducts() {
     throw new Error("Not implemented");
   }
 
-  // Category Summary
-  createCategorySummary(runId: RunId, retailer: RetailerName, path: CategoryPath, name: string): CategorySummary {
-    throw new Error("Not implemented");
-  }
-  // what if an error happens somewhere concerning the scraping of a category?
-  // whose to handle it? its not here mate, this is the repository, only
-  // database interactions
-
-
-  
-  foundNumberOfPagesForCategory(runId: RunId, retailer: RetailerName, path: CategroyPath, pages: number): void {
+  // internal? down the hierarchy?
+  updateRetailersAttempted() {
     throw new Error("Not implemented");
   }
 
-  successfulPageScrapeForCategory(runId: RunId, retailer: RetailerName, path: CategroyPath, productsScraped: number, newProductsFound: number): void {
+  /* ****************Retailer Scrape************** */
+  createRetailerScrape(runId: RunId, retailer: RetailerName): RetailerScrapeId {
     throw new Error("Not implemented");
   }
 
-  categoryScrapeError(runId: RunId, retailer: RetailerName, path: CategoryPath, error_message: string): void {
+  finishRetailerScrape(retailerScrapeId: RetailerScrapeId) {
     throw new Error("Not implemented");
   }
 
-  // Product Summary
-  createProductSummary(runId: RunId, retailer: RetailerName, categoryPath: CategoryPath, productPath: string): ProductSummary {
+  retailerScrapeEncounteredError(retailerScrapeId: RetailerScrapeId, errorMessage: string) {
     throw new Error("Not implemented");
   }
 
-  productScrapeError(error_message: string): void {
+  caughtInScrapeTrap(retailerScrapeId: RetailerScrapeId) {
     throw new Error("Not implemented");
   }
 
-  // Value at Time
-  // Products
+  // internal? down the hierarchy?
+  updateCategoriesScraped(retailerScrapeId: RetailerScrapeId, categoriesScraped: number) {
+    throw new Error("Not implemented");
+  }
+
+  updateProductsScraped(retailerScrapeId: RetailerScrapeId, productsScraped: number) {
+    throw new Error("Not implemented");
+  }
+
+  /* ****************Category Scrape************** */
+  createCategoryScrape(retailerScrapeId: RetailerScrapeId, categoryId: CategoryId, name: string, path: string): CategoryScrapeId {
+    throw new Error("Not implemented");
+  }
+
+  finishCategoryScrape(categoryScrapeId: CategoryScrapeId) {
+    throw new Error("Not implemented");
+  }
+
+  categoryScrapeErrorEncountered(categoryScrapeId: CategoryScrapeId, errorMessage: string) {
+    throw new Error("Not implemented");
+  }
+
+  updatePages(categoryScrapeId: CategoryScrapeId, pages: number) {
+    throw new Error("Not implemented");
+  }
+
+  updateSuccessfulPageScrapes(categoryScrapeId: CategoryScrapeId, successfulPageScrapes: number) {
+    throw new Error("Not implemented");
+  }
+
+  updateTotalProductsScraped(categoryScrapeId: CategoryScrapeId, productsScraped: number) {
+    throw new Error("Not implemented");
+  }
+
+  updateTotalNewProductsFound(categoryScrapeId: CategoryScrapeId, newProductsFound: number) {
+    throw new Error("Not implemented");
+  }
+
+  /* ****************Categories************** */
+  createColesCategory(path: string, name: string, retailerDesignatedId: string, retailerDesignatedProductCount?: number) {
+    // need to find the coles retailer id
+    throw new Error("Not implemented");
+  }
+
+  createWoolworthsCategory(path: string, name: string, retailerDesignatedId: string, retailerDesignatedProductCount?: number) {
+    // need to find the woolworths retailer id
+    throw new Error("Not implemented");
+  }
+
+  updateCategory(categoryId: CategoryId, path?: string, name?: string, retailerDesignatedProductCount?: number) {
+    throw new Error("Not implemented");
+  }
+
+  /* ****************Products************** */
+  createProduct(product: Product) : ProductId {
+    // need to find the coles retailer id
+    throw new Error("Not implemented");
+  }
+
+  updateProduct(productId: ProductId, updateProductFields: UpdateProductFields) : ProductId {
+    throw new Error("Not implemented");
+  }
+
+  /* ****************Value at Time************** */
+  createValueAtTime(valueAtTime: ValueAtTime) : ValueAtTimeId {
+    throw new Error("Not implemented");
+  }
 }
+

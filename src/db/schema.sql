@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS retailers (
   total_products INTEGER DEFAULT 0,
   url TEXT NOT NULL UNIQUE
 );
-INSERT INTO retailers (name, url) VALUES ('woolworths', 'https//:woolworths.com.au') ('coles', 'https://coles.com.au');
+INSERT INTO retailers (name, url) VALUES ('Woolworths', 'https//:woolworths.com.au') ('Coles', 'https://coles.com.au');
 
 CREATE TABLE IF NOT EXISTS categories (
   -- natural keys and surrogate id

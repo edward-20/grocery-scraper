@@ -30,75 +30,36 @@ export interface ScraperConfig {
   retailers: RetailerScrapeConfig[];
 }
 
-// System Logging for database (analytics)
-export interface ScrapeRun {
-  id: number;
-  productsScanned: number;
-  newProductsAdded: number;
-  retailerSummaries: Record<RetailerName, RetailerSummary>
-  errors: number;
-  errorMessage?: string; // error has to be concerned with the scrape run level not the retailer, category or product
-  startedAt: Date;
-  finishedAt: Date | null;
-  status: "running" | "completed"
-}
-
-export interface RetailerSummary {
-  retailer: RetailerName;
-  categories: CategorySummary[];
-  scrapeTrapped: boolean;
-  startedAt: Date;
-  finishedAt: Date | null;
-}
-
-export interface CategorySummary {
-  name: string; 
-  slug: string;
-  pages: number;
-  successfulPageScrapes: number;
-  errors: string; // tentative on the type, wait until we actually give it a real try to see what form errors take to specify a better error type 
-  totalProductsScrapped: number;
-  totalNewProductsAdded: number;
-  failedToScrapeProducts?: ProductSummary[]; // only needed for detailed mode
-}
-
-export interface ProductSummary {
-  name: string;
-  retailer: RetailerName;
-  retailerProductId: number;
-  url: string;
-  error: string; 
-}
-
-// Data Logging for database (actual data we care about)
-export interface ValueAtTime {
-  price: number,
-  unit: {
-    price: number;
-    cupMeasure: {
-      quantity: number;
-      ofMeasureQuantity: number;
-      ofMeasureUnits: MeasureUnit;
-    }
-  },
-  size: {
-    unit: MeasureUnit;
-    quantity: number | { mimimumQuantity: number, maximumQuantity: number }; // can be a range for produce products
-  },
-  // foreign keys
-  retailerProductId: string
-  time: Date,
-  run: number
-}
 
 export interface Product {
-  retailer: RetailerName;
+  categoryId: number;
   retailerProductId: string;
-  crossRetailerId?: string,
+
+  crossRetailerId?: string;
+  gtinFormat?: number;
+  currentValue: number; 
   name: string;
-  brand: string;
-  url?: string;
+  brand?: string;
+  path: string;
   description: string;
-  imageUrl?: string;
+  image_url?: string;
 }
 
+export interface UpdateProductFields {
+  name?: string;
+}
+
+export interface ValueAtTime {
+  productId: number;
+  categoryScrapeId: number;
+
+  unitPrice: number;
+  unitPriceQuantity: number;
+  unitPriceMeasureQuantity: number;
+  unitPriceUnit: "Each" | "Kg" | "g" | "L" | "mL" | "SS";
+
+  sizeUnit: "Each" | "Kg" | "g" | "L" | "mL" | "SS";
+  sizeQuantity: number;
+  sizeQuantityMin: number;
+  price: number;
+}
