@@ -11,7 +11,11 @@ export interface RetailerScrapeConfig {
 
 export interface ScraperConfig {
   database: {
-    path: string;
+    host: string,
+    port: number,
+    database: string,
+    user: string,
+    password: string
   };
   schedule: {
     cron: string;
