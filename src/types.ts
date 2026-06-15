@@ -1,4 +1,4 @@
-export type RetailerName = "woolworths" | "coles";
+export type RetailerName = "Woolworths" | "Coles";
 
 // config
 export interface RetailerScrapeConfig {

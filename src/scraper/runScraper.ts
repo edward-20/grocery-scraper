@@ -1,6 +1,6 @@
 import { chromium, type Browser } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import type { ScraperConfig, RetailerScrapeConfig, RunId } from "../types.js";
+import type { ScraperConfig, RetailerScrapeConfig, RunId, CategoryId } from "../types.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
@@ -18,16 +18,17 @@ export async function runScrape(config: ScraperConfig, repository: GroceryReposi
   }
 
   return repository.finishRun(runId);
-
 }
 
 async function runRetailer(
   browser: Browser,
   config: ScraperConfig,
   repository: GroceryRepository,
-  runId: number,
+  runId: RunId,
   retailer: RetailerScrapeConfig,
 ): Promise<void> {
+  const retailerScrapeId = repository.createRetailerScrape(runId, retailer.name);
+
   const context = await browser.newContext({
     locale: "en-AU",
     timezoneId: "Australia/Sydney",
@@ -46,15 +47,24 @@ async function runRetailer(
 
       let retailerScraper : RetailerScraper;
       switch (retailer.name) {
-        case "coles" :
+        case "Coles" :
           retailerScraper = new ColesScraper(retailer, runId);
-        case "woolworths" :
+        case "Woolworths" :
           retailerScraper = new WoolworthsScraper(retailer, runId);
       }
 
       const categories = await retailerScraper.discoverCategories(page);
-      repository.createRetailerSummary(4, retailer.name, "Fruit & Vegetables", "fruit-veg")
       for (const category of categories) {
+        // create a category
+        let categoryId : CategoryId;
+        switch (retailer.name) {
+          case "Coles":
+            categoryId = repository.createColesCategory()
+          case "Woolworths":
+            categoryId = repository.createWoolworthsCategory()
+        }
+        // create category scrape run
+        const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, categoryId, category.name, category.path);
         const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
         // use the repository to write some stuff for the run
         for (let i = 1; i <= numberOfPages; i++) {
@@ -72,4 +82,6 @@ async function runRetailer(
   } finally {
     await context.close();
   }
+
+  repository.finishRetailerScrape(retailerScrapeId);
 }
