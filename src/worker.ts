@@ -1,6 +1,6 @@
 import cron from "node-cron";
 import { loadConfig } from "./config/loadConfig.js";
-import { openDatabase } from "./db/database.js";
+import { makeConnectionPool } from "./db/init.js";
 import { GroceryRepository } from "./db/repository.js";
 import { runScrape } from "./scraper/runScraper.js";
 
@@ -20,8 +20,8 @@ async function runScheduledScrape(): Promise<void> {
   }
 
   running = true;
-  const db = openDatabase(config.database.path);
-  const repository = new GroceryRepository(db);
+  const pool = makeConnectionPool();
+  const repository = new GroceryRepository(pool);
 
   try {
     const summary = await runScrape(config, repository);
@@ -32,7 +32,7 @@ async function runScheduledScrape(): Promise<void> {
   } catch (error) {
     console.error("Scheduled scrape failed:", error);
   } finally {
-    db.close();
+    pool.end();
     running = false;
   }
 }

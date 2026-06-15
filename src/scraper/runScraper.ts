@@ -1,6 +1,6 @@
 import { chromium, type Browser } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import type { ScrapeRun, ScraperConfig, RetailerScrapeConfig } from "../types.js";
+import type { ScraperConfig, RetailerScrapeConfig } from "../types.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
