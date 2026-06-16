@@ -84,11 +84,9 @@ async function runCategoryScrape(
     case "Woolworths":
       categoryId = repository.createWoolworthsCategory(category);
   }
+  const numberOfPages = retailerScraper.findPageCountForCategoryScrape(page, category);
+  category.pages = numberOfPages;
   const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
-
-  // find number of pages
-  const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
-  repository.updatePages(categoryScrapeId, numberOfPages);
 
   for (let i = 1; i <= numberOfPages; i++) {
     let products: Product[];

@@ -16,10 +16,12 @@ export class WoolworthsScraper extends RetailerScraper {
     const json = await response?.json();
     const categories = this.parseCategoriesJSON(json);
 
+    // find the page count of each category??? map?
     return categories;
   }
 
-  findPageCountPerCategory(page: Page, category: Category) : number {
+  findPageCountForCategoryScrape(page: Page, category: Category) : number {
+
     throw new Error("Not implemented");
   }
 
