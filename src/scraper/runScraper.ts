@@ -44,7 +44,7 @@ async function runRetailerScrape(
   const page = await context.newPage();
 
   try {
-    // maybe just try to just go to the retailer page to see if we got scrape trapped
+    // maybe just try to just go to the retailer page to see if we got scrape trapped?
     await sleep(config.scrape.throttleMs);
 
     let retailerScraper : RetailerScraper;
@@ -77,7 +77,6 @@ async function runCategoryScrape(
   retailerScrapeId: number,
   retailerScraper: RetailerScraper
 ) {
-  // create a category
   let categoryId : CategoryId;
   switch (retailerName) {
     case "Coles":
@@ -85,15 +84,12 @@ async function runCategoryScrape(
     case "Woolworths":
       categoryId = repository.createWoolworthsCategory(category);
   }
-  // create category scrape run
   const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
 
-  // find the number of pages of the category and update the category scrape run (maybe can and should be extracted from discoverCategories)
+  // find number of pages
   const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
   repository.updatePages(categoryScrapeId, numberOfPages);
 
-  // for each page, scrape the products and update the categoryScrapeRun.
-  // This is the crux of this project
   for (let i = 1; i <= numberOfPages; i++) {
     let products: Product[];
     try {
@@ -104,7 +100,7 @@ async function runCategoryScrape(
     } catch (error) {
       console.error("error scraping products of category page")
     }
-    // use the repository to write some stuff for the run
   }
+
   repository.finishCategoryScrape(categoryScrapeId);
 }
