@@ -29,37 +29,9 @@ export interface ScraperConfig {
 }
 
 
-export interface Product {
-  categoryId: number;
-  retailerProductId: string;
-
-  crossRetailerId?: string;
-  gtinFormat?: number;
-  currentValue: number; 
-  name: string;
-  brand?: string;
-  path: string;
-  description: string;
-  image_url?: string;
-}
 
 export interface UpdateProductFields {
   name?: string;
-}
-
-export interface ValueAtTime {
-  productId: number;
-  categoryScrapeId: number;
-
-  unitPrice: number;
-  unitPriceQuantity: number;
-  unitPriceMeasureQuantity: number;
-  unitPriceUnit: "Each" | "Kg" | "g" | "L" | "mL" | "SS";
-
-  sizeUnit: "Each" | "Kg" | "g" | "L" | "mL" | "SS";
-  sizeQuantity: number;
-  sizeQuantityMin: number;
-  price: number;
 }
 
 export type RunId = number;

@@ -1,11 +1,22 @@
 import { RetailerScraper, Category } from "./retailerScraper.js";
 import { Product } from "./retailerScraper.js";
 import { Page } from "playwright";
+import * as z from "zod";
 
-// stubbed
+const WoolworthsCategoriesPayload = z.array(z.object({
+  NodeId: z.string(), // maps to retailerDesignatedCategoryId
+  Description: z.string(),  // maps to name
+  UrlFriendlyName: z.string(),
+}))
+
 export class WoolworthsScraper extends RetailerScraper {
-  discoverCategories(page: Page): Promise<Category[]> {
-    throw new Error("Not implemented");
+  async discoverCategories(page: Page): Promise<Category[]> {
+    const response = await page.goto("https://woolworths.com.au/apis/ui/PiesCategoriesWithSpecials");
+
+    const json = await response?.json();
+    const categories = this.parseCategoriesJSON(json);
+
+    return categories;
   }
 
   findPageCountPerCategory(page: Page, category: Category) : number {
@@ -14,6 +25,17 @@ export class WoolworthsScraper extends RetailerScraper {
 
   scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]> {
     throw new Error("Not implemented");
+  }
+
+  private parseCategoriesJSON(json: JSON) : Category[] {
+    const categories = WoolworthsCategoriesPayload.parse(json);
+
+    return categories.map((category) => ({
+      retailerDesignatedCategoryId: category.NodeId,
+      name: category.Description,
+      path: category.UrlFriendlyName,
+      pages: 0
+    }))
   }
 
 }

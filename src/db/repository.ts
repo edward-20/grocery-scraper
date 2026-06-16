@@ -1,5 +1,5 @@
 import { Pool } from "pg";
-import { Product, ProductId, CategoryScrapeId, RetailerName, UpdateProductFields, ValueAtTime, CategoryPath, RunId, RetailerScrapeId, ValueAtTimeId, CategoryId } from "../types.js";
+import { ProductId, CategoryScrapeId, RetailerName, UpdateProductFields, CategoryPath, RunId, RetailerScrapeId, CategoryId } from "../types.js";
 import { Category } from "../scraper/retailerScraper.js";
 
 export class GroceryRepository {
