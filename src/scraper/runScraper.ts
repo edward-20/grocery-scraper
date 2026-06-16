@@ -1,17 +1,18 @@
-import { chromium, type Browser } from "playwright";
+import { chromium, type Browser, Page } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import type { ScraperConfig, Product, RetailerScrapeConfig, RunId, CategoryId } from "../types.js";
+import type { ScraperConfig, RetailerScrapeConfig, RunId, RetailerName, CategoryId, Product } from "../types.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
 import { sleep } from "../utils/time.js";
+import { Category } from "./retailerScraper.js";
 
 export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<RunId> {
   const runId = repository.createRun();
   const browser = await chromium.launch({ headless: config.browser.headless });
   try {
     for (const retailer of config.retailers.filter((candidate) => candidate.enabled)) {
-      await runRetailer(browser, config, repository, runId, retailer);
+      await runRetailerScrape(browser, config, repository, runId, retailer);
     }
   } finally {
     await browser.close();
@@ -20,7 +21,7 @@ export async function runScrape(config: ScraperConfig, repository: GroceryReposi
   return repository.finishRun(runId);
 }
 
-async function runRetailer(
+async function runRetailerScrape(
   browser: Browser,
   config: ScraperConfig,
   repository: GroceryRepository,
@@ -45,59 +46,20 @@ async function runRetailer(
 
     // try clause for browser page (cleaning up the page on error)
     try {
+      // maybe just try to just go to the retailer page to see if we got scrape trapped
       await sleep(config.scrape.throttleMs);
 
       let retailerScraper : RetailerScraper;
       switch (retailer.name) {
         case "Coles" :
-          retailerScraper = new ColesScraper(retailer, runId);
+          retailerScraper = new ColesScraper(retailer);
         case "Woolworths" :
-          retailerScraper = new WoolworthsScraper(retailer, runId);
+          retailerScraper = new WoolworthsScraper(retailer);
       }
 
       const categories = await retailerScraper.discoverCategories(page);
-      for (const category of categories) {
-        // create a category
-        let categoryId : CategoryId;
-        switch (retailer.name) {
-          case "Coles":
-            categoryId = repository.createColesCategory(category);
-          case "Woolworths":
-            categoryId = repository.createWoolworthsCategory(category);
-        }
-        // create category scrape run
-        const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
-
-        // find the number of pages of the category and update the category scrape run
-        const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
-        repository.updatePages(categoryScrapeId, numberOfPages);
-
-        // for each page, scrape the products and update the categoryScrapeRun.
-        // This is the crux of this project
-        for (let i = 1; i <= numberOfPages; i++) {
-          let products: Product[];
-          try {
-            products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
-          } catch (error) {
-            console.error("error scraping products of category page")
-          }
-          // use the repository to write some stuff for the run
-          for (const product of products) {
-            const currentValueId = repository.createValueAtTime(product.value);
-            repository.createProduct({
-              categoryId: 5,
-              retailerProductId: "re",
-              crossRetailerId: "a",
-              gtinFormat: 13,
-              currentValue: currentValueId, 
-              name: "a",
-              brand: "a",
-              path: "a",
-              description: "a",
-              image_url: "a",
-            })
-          }
-        }
+      for (const category of categories)  {
+        await runCategoryScrape(page, repository, category, retailer.name, retailerScrapeId, retailerScraper);
       }
     } catch (error) {
       runStatus = "error";
@@ -111,4 +73,51 @@ async function runRetailer(
   }
 
   repository.finishRetailerScrape(retailerScrapeId);
+}
+
+
+/*
+  * What do we actually need for a category scrape?
+  * the question is, is this just getting data from web (literal scrape) or is
+  * it also going to run repository methods
+export interface Category {
+  retailerDesignatedCategoryId: string;
+  name: string;
+  path: string;
+  pages: number;
+  retailerDesignatedProductCount?: number;
+}
+  */
+async function runCategoryScrape(page: Page, repository: GroceryRepository, category: Category, retailerName: RetailerName, retailerScrapeId: number, retailerScraper: RetailerScraper) {
+  // create a category
+  let categoryId : CategoryId;
+  switch (retailerName) {
+    case "Coles":
+      categoryId = repository.createColesCategory(category);
+    case "Woolworths":
+      categoryId = repository.createWoolworthsCategory(category);
+  }
+  // create category scrape run
+  const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
+
+  // find the number of pages of the category and update the category scrape run (maybe can and should be extracted from discoverCategories)
+  const numberOfPages = retailerScraper.findPageCountPerCategory(page, category);
+  repository.updatePages(categoryScrapeId, numberOfPages);
+
+  // for each page, scrape the products and update the categoryScrapeRun.
+  // This is the crux of this project
+  for (let i = 1; i <= numberOfPages; i++) {
+    let products: Product[];
+    try {
+      products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
+      for (const product of products) {
+        const currentValueId = repository.createValueAtTime(product.value);
+        repository.createProduct({ } as Product);
+      }
+    } catch (error) {
+      console.error("error scraping products of category page")
+    }
+    // use the repository to write some stuff for the run
+  }
+  repository.finishCategoryScrape(categoryScrapeId);
 }
