@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS products (
 
   cross_retailer_id TEXT,
   gtin_format INTEGER,
-  current_value INTEGER NOT NULL,
+  current_value_id INTEGER NOT NULL,
   name TEXT NOT NULL,
   brand TEXT,
   path TEXT NOT NULL,
@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS products (
   image_url TEXT,
 
   FOREIGN KEY category_id REFERENCES categories (id),
-  FOREIGN KEY current_value REFERENCES value_at_time (id),
+  FOREIGN KEY current_value_id REFERENCES value_at_time (id),
   UNIQUE (category_id, retailer_product_id),
   CHECK ((cross_retailer_id IS NOT NULL AND gtin_format IS NOT NULL) OR (cross_retailer_id IS NULL AND gtin_format is NULL))
 );
