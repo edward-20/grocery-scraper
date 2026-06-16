@@ -23,21 +23,6 @@ export class GroceryRepository {
     throw new Error("Not implemented");
   }
 
-  // internal? down the hierarchy?
-  // updateProductsScraped() {
-  //   throw new Error("Not implemented");
-  // }
-
-  // internal? down the hierarchy?
-  updateNewProducts() {
-    throw new Error("Not implemented");
-  }
-
-  // internal? down the hierarchy?
-  updateRetailersAttempted() {
-    throw new Error("Not implemented");
-  }
-
   /* ****************Retailer Scrape************** */
   createRetailerScrape(runId: RunId, retailer: RetailerName): RetailerScrapeId {
     throw new Error("Not implemented");
