@@ -1,25 +1,19 @@
-import { RetailerScraper, Category, SingleProduct } from "./retailerScraper.js";
-import { Product } from "../types.js";
+import { RetailerScraper, Category } from "./retailerScraper.js";
+import { Product } from "./retailerScraper.js";
 import { Page } from "playwright";
 
 // stubbed
 export class WoolworthsScraper extends RetailerScraper {
   discoverCategories(page: Page): Promise<Category[]> {
-    return Promise.resolve([{name: "", url: "", pages: 0}]);
+    throw new Error("Not implemented");
   }
+
   findPageCountPerCategory(page: Page, category: Category) : number {
-    return 0;
+    throw new Error("Not implemented");
   }
+
   scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]> {
-    return Promise.resolve(
-      [{
-      name: "",
-      url: ""
-      } as Product])
+    throw new Error("Not implemented");
   }
-  scrapeSingleProduct(page: Page, category: Category, product: SingleProduct) : Promise<Product> {
-    return Promise.resolve({
-      name: "",
-    } as Product)
-  }
+
 }

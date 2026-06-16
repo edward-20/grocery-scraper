@@ -18,7 +18,7 @@ export interface Product {
 
   crossRetailerId?: string;
   gtinFormat?: number;
-  currentValue: number; 
+  currentValueId: number; 
   name: string;
   brand?: string;
   path: string;

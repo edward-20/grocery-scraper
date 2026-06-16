@@ -1,6 +1,7 @@
 import { chromium, type Browser, Page } from "playwright";
 import type { GroceryRepository } from "../db/repository.js";
-import type { ScraperConfig, RetailerScrapeConfig, RunId, RetailerName, CategoryId, Product } from "../types.js";
+import type { ScraperConfig, RetailerScrapeConfig, RunId, RetailerName, CategoryId } from "../types.js";
+import { Product } from "./retailerScraper.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
@@ -112,7 +113,19 @@ async function runCategoryScrape(page: Page, repository: GroceryRepository, cate
       products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
       for (const product of products) {
         const currentValueId = repository.createValueAtTime(product.value);
-        repository.createProduct({ } as Product);
+        repository.createProduct({ 
+          categoryId: number;
+          retailerProductId: string;
+
+          crossRetailerId?: string;
+          gtinFormat?: number;
+          currentValueId: number; 
+          name: string;
+          brand?: string;
+          path: string;
+          description: string;
+          image_url?: string;
+        });
       }
     } catch (error) {
       console.error("error scraping products of category page")
