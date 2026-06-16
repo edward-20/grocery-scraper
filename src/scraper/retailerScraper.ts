@@ -42,11 +42,15 @@ export interface ValueAtTime {
 }
 
 export abstract class RetailerScraper {
-  constructor(retailerConfig: RetailerScrapeConfig) {}
+  protected abstract retailerUrl : string;
+  constructor(retailerConfig: RetailerScrapeConfig) {
+    // use the config to customise implementation, e.g. productByProduct (means
+    // more scrape product by product)
+  }
 
   abstract discoverCategories(page: Page): Promise<Category[]>; // Category type should supply information to be able to fulfill a row of Categories and categoryScrape
 
-  abstract findPageCountForCategoryScrape(page: Page, category: Category) : number;
+  abstract findPageCountForCategoryScrape(page: Page, category: Category) : Promise<number>;
 
   abstract scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]>;
 
