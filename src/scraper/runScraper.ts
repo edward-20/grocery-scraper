@@ -112,20 +112,7 @@ async function runCategoryScrape(page: Page, repository: GroceryRepository, cate
     try {
       products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
       for (const product of products) {
-        const currentValueId = repository.createValueAtTime(product.value);
-        repository.createProduct({ 
-          categoryId: number;
-          retailerProductId: string;
-
-          crossRetailerId?: string;
-          gtinFormat?: number;
-          currentValueId: number; 
-          name: string;
-          brand?: string;
-          path: string;
-          description: string;
-          image_url?: string;
-        });
+        repository.createOrUpdateProduct(product);
       }
     } catch (error) {
       console.error("error scraping products of category page")

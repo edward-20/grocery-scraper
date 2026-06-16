@@ -18,12 +18,27 @@ export interface Product {
 
   crossRetailerId?: string;
   gtinFormat?: number;
-  currentValueId: number; 
+  currentValue: ValueAtTime; 
   name: string;
   brand?: string;
   path: string;
   description: string;
   image_url?: string;
+}
+
+export interface ValueAtTime {
+  productId: number;
+  categoryScrapeId: number;
+
+  unitPrice: number;
+  unitPriceQuantity: number;
+  unitPriceMeasureQuantity: number;
+  unitPriceUnit: "Each" | "Kg" | "g" | "L" | "mL" | "SS";
+
+  sizeUnit: "Each" | "Kg" | "g" | "L" | "mL" | "SS";
+  sizeQuantity: number;
+  sizeQuantityMin: number;
+  price: number;
 }
 
 export abstract class RetailerScraper {

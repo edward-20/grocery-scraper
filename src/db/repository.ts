@@ -111,17 +111,12 @@ export class GroceryRepository {
   }
 
   /* ****************Products************** */
-  createProduct(product: Product) : ProductId {
-    // need to find the coles retailer id
+  createOrUpdateProduct(product: Product) : ProductId {
+    // needs to also create the value at time
     throw new Error("Not implemented");
   }
 
   updateProduct(productId: ProductId, updateProductFields: UpdateProductFields) : ProductId {
-    throw new Error("Not implemented");
-  }
-
-  /* ****************Value at Time************** */
-  createValueAtTime(valueAtTime: ValueAtTime) : ValueAtTimeId {
     throw new Error("Not implemented");
   }
 }
