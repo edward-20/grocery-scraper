@@ -50,17 +50,6 @@ export class WoolworthsScraper extends RetailerScraper {
 
   async findPageCountForCategoryScrape(page: Page, category: Category) : Promise<number> {
     await page.goto(`${this.retailerUrl}/shop/browse/${category.path}`);
-    // find pagination_core-pagination-section__E_MA3
-    /*
-      * possible methods
-      * const pages = await page.locator('div:has(a[href*="pageNumber"]) a span').allTextContents();
-      * const pagination = page.locator('div').filter({
-          has: page.locator('a[href*="pageNumber"]')
-        });
-      * const pageUrls = await page
-        .locator('a[href*="pageNumber"]')
-        .evaluateAll(links => links.map(a => (a as HTMLAnchorElement).href));
-      */
     const pageNumbers = await page
       .locator(`a[href^="/shop/browse/${category.path}?pageNumber="]`)
       .evaluateAll(links => 
@@ -129,3 +118,4 @@ export class WoolworthsScraper extends RetailerScraper {
   }
 
 }
+
