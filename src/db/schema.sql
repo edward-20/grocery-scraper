@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS products (
 
   cross_retailer_id TEXT,
   gtin_format INTEGER,
-  current_value_id INTEGER NOT NULL,
+  current_value_id INTEGER,
   name TEXT NOT NULL,
   brand TEXT,
   path TEXT NOT NULL,
