@@ -66,7 +66,7 @@ CREATE TABLE IF NOT EXISTS value_at_time (
   -- size and price of the product
   size_unit unit_of_measurement NOT NULL, -- woolworths: PackageSize (unit part)
   size_quantity NUMERIC(6, 2) NOT NULL, -- woolworths: PackageSize (will not be a perfect number can be, "125g x 2 pack" "per 150g", "180g")
-  size_quantity_min NUMERIC(6, 2) NOT NULL, -- woolworths: MinimumQuantity, coles: (doesn't have)
+  size_quantity_min NUMERIC(6, 2), -- woolworths: MinimumQuantity, coles: (doesn't have)
   price NUMERIC(6, 2) NOT NULL, -- woolworths: price, coles: pricing.now
 
   FOREIGN KEY (product_id) REFERENCES products (id),

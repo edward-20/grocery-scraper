@@ -26,13 +26,14 @@ export interface Product {
   image_url?: string;
 }
 
+export type Unit ="Each" | "Kg" | "g" | "L" | "mL" | "SS"; 
 export interface ValueAtTime {
   unitPrice: number;
   unitPriceQuantity: number;
   unitPriceMeasureQuantity: number;
-  unitPriceUnit: "Each" | "Kg" | "g" | "L" | "mL" | "SS";
+  unitPriceUnit: Unit;
 
-  sizeUnit: "Each" | "Kg" | "g" | "L" | "mL" | "SS";
+  sizeUnit: Unit;
   sizeQuantity: number;
   sizeQuantityMin: number;
   price: number;

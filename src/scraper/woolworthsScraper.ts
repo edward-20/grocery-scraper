@@ -1,4 +1,4 @@
-import { RetailerScraper, Category } from "./retailerScraper.js";
+import { RetailerScraper, Category, Unit } from "./retailerScraper.js";
 import { Product } from "./retailerScraper.js";
 import { Page } from "playwright";
 import * as z from "zod";
@@ -15,11 +15,12 @@ const WoolworthsProductsPagePayload = z.object({
       Stockcode: z.number(),         // retailer_product_id
       Barcode: z.string(),           // cross_retailer_id
       GtinFormat: z.string(),        // gtin_format
-      CupPrice: z.number(),          // value_at_time: 
-      CupMeasure: z.string(),        // value_at_time: 
-      Price: z.number(),             // value_at_time: 
-      Unit: z.string(),              // value_at_time
-      PackageSize: z.string(),       // value_at_time
+      CupPrice: z.number(),          // value_at_time: unitPrice
+      CupMeasure: z.string(),        // "10g" value_at_time: unitPriceQuantity + unitPriceMeasureQuantity
+      Price: z.number(),             // value_at_time: price
+      Unit: z.string(),              // "Each" value_at_time: sizeUnit
+      PackageSize: z.string(),       // "80g" value_at_time: sizeQuantity
+      MinimumQuantity: z.number()    // 1 value_at_time: size_quantity_min
       Name: z.string(),              // name
       DisplayName: z.string(),       // name
       Brand: z.string(),             // brand
@@ -101,15 +102,23 @@ export class WoolworthsScraper extends RetailerScraper {
     const bundles = productsPayload.Bundles;
 
 
-    const result : Product[] = bundles
+    return bundles
       .map(bundle => bundle.Products[0])
       .map(product => ({
         categoryId: categoryId,
         retailerProductId: product.Stockcode.toString(),
         crossRetailerId: product.Barcode,
-        gtinFormat: product.GtinFormat,
+        gtinFormat: parseInt(product.GtinFormat),
         currentValue: {
+          unitPrice: product.CupPrice,
+          unitPriceQuantity: 1,
+          unitPriceMeasureQuantity: parseFloat(product.CupMeasure), // but it needs to be regexed
+          unitPriceUnit: product.CupMeasure as Unit, // but it needs to be regexed
 
+          sizeUnit: product.Unit as Unit, // but it needs to conform to the union type
+          sizeQuantity: parseFloat(product.PackageSize), //
+          sizeQuantityMin: product.MinimumQuantity,
+          price: product.Price,
         }, 
         name: product.Name,
         brand: product.Brand,
