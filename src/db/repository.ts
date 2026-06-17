@@ -1,5 +1,6 @@
 import { Pool } from "pg";
 import { ProductId, CategoryScrapeId, RetailerName, UpdateProductFields, CategoryPath, RunId, RetailerScrapeId, CategoryId } from "../types.js";
+import { Product } from "../scraper/retailerScraper.js";
 import { Category } from "../scraper/retailerScraper.js";
 
 export class GroceryRepository {
@@ -96,8 +97,19 @@ export class GroceryRepository {
   }
 
   /* ****************Products************** */
-  createOrUpdateProduct(product: Product) : ProductId {
-    // needs to also create the value at time
+  createOrUpdateProduct(product: Product, categoryScrapeId: number) : ProductId {
+    /*
+      If new
+      1. create product
+      2. create value_at_time and link to product
+      3. edit product to have its current_value_id point to the new value_at_time row just created 
+      If exists
+      1. find product (by retailer_product_id)
+      2. if things other than the price or unit_price have changed then create a new product?
+      2. create value_at_time and link to product
+      3. edit product to have its current_value_id point to the new value_at_time row just created 
+    */
+    //
     throw new Error("Not implemented");
   }
 

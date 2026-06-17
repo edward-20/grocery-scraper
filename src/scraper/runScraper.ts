@@ -93,7 +93,8 @@ async function runCategoryScrape(
     try {
       products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
       for (const product of products) {
-        repository.createOrUpdateProduct(product);
+        repository.createOrUpdateProduct(product, categoryScrapeId); // need to be able to create a products and value_at_time row
+
       }
     } catch (error) {
       console.error("error scraping products of category page")
