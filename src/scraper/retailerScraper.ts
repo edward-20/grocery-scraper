@@ -13,7 +13,7 @@ export interface Category {
 // what do we need from the Product returned by scrapeProductsOfCategoryPage in
 // order to make changes to the repository
 export interface Product {
-  categoryId: number;
+  categoryId: string;
   retailerProductId: string;
 
   crossRetailerId?: string;

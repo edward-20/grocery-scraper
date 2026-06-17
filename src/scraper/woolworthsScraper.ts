@@ -9,6 +9,31 @@ const WoolworthsCategoriesPayload = z.array(z.object({
   UrlFriendlyName: z.string(),
 }))
 
+const WoolworthsProductsPagePayload = z.object({
+  Bundles: z.array(z.object({
+    Products: z.array(z.object({ // weird because its an array with only one object
+      Stockcode: z.number(),         // retailer_product_id
+      Barcode: z.string(),           // cross_retailer_id
+      GtinFormat: z.string(),        // gtin_format
+      CupPrice: z.number(),          // value_at_time: 
+      CupMeasure: z.string(),        // value_at_time: 
+      Price: z.number(),             // value_at_time: 
+      Unit: z.string(),              // value_at_time
+      PackageSize: z.string(),       // value_at_time
+      Name: z.string(),              // name
+      DisplayName: z.string(),       // name
+      Brand: z.string(),             // brand
+      UrlFriendlyName: z.string(),   // path
+      Description: z.string(),       // description
+      SmallImageFile: z.string(),    // image_url
+      MediumImageFile: z.string(),   // image_url
+      LargeImageFile: z.string(),    // image_url
+    })),
+    Name: z.string(),
+    DisplayName: z.string()
+  }))
+})
+
 export class WoolworthsScraper extends RetailerScraper {
   protected retailerUrl = "https://woolworths.com.au"
   async discoverCategories(page: Page): Promise<Category[]> {
@@ -17,7 +42,7 @@ export class WoolworthsScraper extends RetailerScraper {
     const json = await response?.json();
     const categories = this.parseCategoriesJSON(json);
 
-    // remove the category specials because its not mutually exclusive and the
+    // TBD: remove the category specials because its not mutually exclusive and the
     // process of scraping it page by page won't work
     return categories;
   }
@@ -50,8 +75,14 @@ export class WoolworthsScraper extends RetailerScraper {
     return largestPageNumber;
   }
 
-  scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]> {
-    throw new Error("Not implemented");
+  async scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]> {
+    const responsePromise = page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
+    await page.goto(`${this.retailerUrl}/shop/browse/${category.path}?pageNumber=${pageNumber}`);
+
+    const response = await responsePromise;
+    const data = await response?.json()
+    const products = this.parseProductsPageJSON(data, category.retailerDesignatedCategoryId);
+    return products;
   }
 
   private parseCategoriesJSON(json: JSON) : Category[] {
@@ -63,6 +94,29 @@ export class WoolworthsScraper extends RetailerScraper {
       path: category.UrlFriendlyName,
       pages: 0
     }))
+  }
+
+  private parseProductsPageJSON(json: JSON, categoryId: string) : Product[] {
+    const productsPayload = WoolworthsProductsPagePayload.parse(json);
+    const bundles = productsPayload.Bundles;
+
+
+    const result : Product[] = bundles
+      .map(bundle => bundle.Products[0])
+      .map(product => ({
+        categoryId: categoryId,
+        retailerProductId: product.Stockcode.toString(),
+        crossRetailerId: product.Barcode,
+        gtinFormat: product.GtinFormat,
+        currentValue: {
+
+        }, 
+        name: product.Name,
+        brand: product.Brand,
+        path: product.UrlFriendlyName, // needs adjustment
+        description: product.Description,
+        image_url: product.MediumImageFile 
+      }))
   }
 
 }
