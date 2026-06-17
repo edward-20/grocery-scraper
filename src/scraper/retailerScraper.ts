@@ -27,9 +27,6 @@ export interface Product {
 }
 
 export interface ValueAtTime {
-  productId: number;
-  categoryScrapeId: number;
-
   unitPrice: number;
   unitPriceQuantity: number;
   unitPriceMeasureQuantity: number;
