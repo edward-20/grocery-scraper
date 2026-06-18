@@ -1,6 +1,7 @@
 import { describe, expect, it, beforeEach, afterEach, vi } from "vitest";
 import { chromium, Browser, Page, BrowserContext } from "playwright";
 import { WoolworthsScraper } from "../src/scraper/woolworthsScraper.js";
+import { Category } from "../src/scraper/retailerScraper.js";
 import { readFile } from "fs/promises";
 
 describe("WoolworthsScraper", () => {
@@ -38,10 +39,14 @@ describe("WoolworthsScraper", () => {
         status: 200
       })
     })
-    const categories = await scraper.discoverCategories(page);
-    const expectedUnparsed = await readFile("tests/fixtures/woolworths-parsed-categories.json", "utf-8");
-    const expected = await JSON.parse(expectedUnparsed);
-    expect(categories).toEqual(expected);
+    const receivedCategories: Category[] = await scraper.discoverCategories(page);
+    const expectedCategoriesUnparsed = await readFile("tests/fixtures/woolworths-parsed-categories.json", "utf-8");
+    const expectedCategories: Category[] = await JSON.parse(expectedCategoriesUnparsed);
+    // order doesn't matter in the array (order it by something)
+    receivedCategories.sort((a, b) => a.name.localeCompare(b.name));
+    expectedCategories.sort((a, b) => a.name.localeCompare(b.name));
+
+    expect(receivedCategories).toEqual(expectedCategories);
 
   });
 

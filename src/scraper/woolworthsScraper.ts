@@ -45,10 +45,7 @@ export class WoolworthsScraper extends RetailerScraper {
     const json = await response?.json();
     const categories = this.parseCategoriesJSON(json);
 
-    // TBD: remove the category specials because its not mutually exclusive and the
-    // process of scraping it page by page won't work
-    
-    return categories.filter(category => { category.retailerDesignatedCategoryId !== "specialsgroup" });
+    return categories.filter(category => category.retailerDesignatedCategoryId !== "specialsgroup"); 
   }
 
   async findPageCountForCategoryScrape(page: Page, category: Category) : Promise<number> {
@@ -85,7 +82,8 @@ export class WoolworthsScraper extends RetailerScraper {
       retailerDesignatedCategoryId: category.NodeId,
       name: category.Description,
       path: category.UrlFriendlyName,
-      pages: 0
+      pages: 0,
+      retailerDesignatedProductCount: 0
     }))
   }
 
