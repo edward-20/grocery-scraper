@@ -3,11 +3,13 @@ import { Product } from "./retailerScraper.js";
 import { Page } from "playwright";
 import * as z from "zod";
 
-const WoolworthsCategoriesPayload = z.array(z.object({
-  NodeId: z.string(), // maps to retailerDesignatedCategoryId
-  Description: z.string(),  // maps to name
-  UrlFriendlyName: z.string(),
-}))
+const WoolworthsCategoriesPayload = z.object({
+  Categories: z.array(z.object({
+    NodeId: z.string(), // maps to retailerDesignatedCategoryId
+    Description: z.string(),  // maps to name
+    UrlFriendlyName: z.string(),
+  }))
+})
 
 const WoolworthsProductsPagePayload = z.object({
   Bundles: z.array(z.object({
@@ -20,7 +22,7 @@ const WoolworthsProductsPagePayload = z.object({
       Price: z.number(),             // value_at_time: price
       Unit: z.string(),              // "Each" value_at_time: sizeUnit
       PackageSize: z.string(),       // "80g" value_at_time: sizeQuantity
-      MinimumQuantity: z.number()    // 1 value_at_time: size_quantity_min
+      MinimumQuantity: z.number(),    // 1 value_at_time: size_quantity_min
       Name: z.string(),              // name
       DisplayName: z.string(),       // name
       Brand: z.string(),             // brand
@@ -45,7 +47,8 @@ export class WoolworthsScraper extends RetailerScraper {
 
     // TBD: remove the category specials because its not mutually exclusive and the
     // process of scraping it page by page won't work
-    return categories;
+    
+    return categories.filter(category => { category.retailerDesignatedCategoryId !== "specialsgroup" });
   }
 
   async findPageCountForCategoryScrape(page: Page, category: Category) : Promise<number> {
@@ -76,9 +79,9 @@ export class WoolworthsScraper extends RetailerScraper {
   }
 
   private parseCategoriesJSON(json: JSON) : Category[] {
-    const categories = WoolworthsCategoriesPayload.parse(json);
+    const payload = WoolworthsCategoriesPayload.parse(json);
 
-    return categories.map((category) => ({
+    return payload.Categories.map((category) => ({
       retailerDesignatedCategoryId: category.NodeId,
       name: category.Description,
       path: category.UrlFriendlyName,

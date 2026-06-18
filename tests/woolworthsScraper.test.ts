@@ -26,7 +26,10 @@ describe("WoolworthsScraper", () => {
     })
     page = await context.newPage();
 
-    const mockCategoriesPayload = await readFile('./fixtures/woolworths-categories.json', 'utf-8');
+  })
+
+  it("parses the categories payload", async () => {
+    const mockCategoriesPayload = await readFile('tests/fixtures/woolworths-categories-payload.json', 'utf-8');
 
     await context.route("https://woolworths.com.au/apis/ui/PiesCategoriesWithSpecials", route => {
       route.fulfill({
@@ -35,7 +38,18 @@ describe("WoolworthsScraper", () => {
         status: 200
       })
     })
+    const categories = await scraper.discoverCategories(page);
+    const expectedResult = readFile("tests/fixtures/woolworths-parsed-categories.json", "utf-8");
+    expect(categories).toEqual(expectedResult);
 
+  });
+
+  it.skip("finds the right page count for a category", () => {
+    
+  });
+
+  it.skip("scrapes the products of a category page", () => {
+    /*
     const mockProductPagePayload = await readFile('./fixtures/woolworths-product-page.json', 'utf-8');
 
     await context.route("https://woolworths.com.au/apis/ui/browse/category", route => {
@@ -45,18 +59,7 @@ describe("WoolworthsScraper", () => {
         status: 200
       })
     })
-  })
-
-  it.skip("parses the categories payload", () => {
-    scraper.discoverCategories(page)
-  });
-
-  it.skip("finds the right page count for a category", () => {
-    
-  });
-
-  it("scrapes the products of a category page", () => {
-
+    */
   })
 
   afterEach(async () => {
