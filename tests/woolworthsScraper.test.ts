@@ -39,8 +39,9 @@ describe("WoolworthsScraper", () => {
       })
     })
     const categories = await scraper.discoverCategories(page);
-    const expectedResult = readFile("tests/fixtures/woolworths-parsed-categories.json", "utf-8");
-    expect(categories).toEqual(expectedResult);
+    const expectedUnparsed = await readFile("tests/fixtures/woolworths-parsed-categories.json", "utf-8");
+    const expected = await JSON.parse(expectedUnparsed);
+    expect(categories).toEqual(expected);
 
   });
 
