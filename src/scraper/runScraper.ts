@@ -84,21 +84,15 @@ async function runCategoryScrape(
     case "Woolworths":
       categoryId = repository.createWoolworthsCategory(category);
   }
-  const numberOfPages = await retailerScraper.findPageCountForCategoryScrape(page, category);
-  category.pages = numberOfPages;
   const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
 
-  for (let i = 1; i <= numberOfPages; i++) {
-    let products: Product[];
-    try {
-      products = await retailerScraper.scrapeProductsOfCategoryPage(page, category, i);
-      for (const product of products) {
-        repository.createOrUpdateProduct(product, categoryScrapeId); // need to be able to create a products and value_at_time row
-
-      }
-    } catch (error) {
-      console.error("error scraping products of category page")
+  try {
+    const products = await retailerScraper.scrapeProductsOfCategoryPage(page, category);
+    for (const product of products) {
+      repository.createOrUpdateProduct(product, categoryScrapeId); // need to be able to create a products and value_at_time row
     }
+  } catch (error) {
+    console.error("error scraping products of category page")
   }
 
   repository.finishCategoryScrape(categoryScrapeId);
