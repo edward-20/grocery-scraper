@@ -1,8 +1,42 @@
 import { Pool } from "pg";
 import { ProductId, CategoryScrapeId, RetailerName, UpdateProductFields, CategoryPath, RunId, RetailerScrapeId, CategoryId } from "../types.js";
-import { Product } from "../scraper/retailerScraper.js";
-import { Category } from "../scraper/retailerScraper.js";
 
+export interface Category {
+  retailerDesignatedCategoryId: string;
+  name: string;
+  path: string;
+  pages: number;
+  retailerDesignatedProductCount?: number;
+}
+
+// what do we need from the Product returned by scrapeProductsOfCategoryPage in
+// order to make changes to the repository
+export interface Product {
+  categoryId: string;
+  retailerProductId: string;
+
+  crossRetailerId?: string;
+  gtinFormat?: number;
+  currentValue: ValueAtTime; 
+  name: string;
+  brand?: string;
+  path: string;
+  description: string;
+  image_url?: string;
+}
+
+export type Unit ="Each" | "Kg" | "g" | "L" | "mL" | "SS"; 
+export interface ValueAtTime {
+  unitPrice: number;
+  unitPriceQuantity: number;
+  unitPriceMeasureQuantity: number;
+  unitPriceUnit: Unit;
+
+  sizeUnit: Unit;
+  sizeQuantity: number;
+  sizeQuantityMin: number;
+  price: number;
+}
 export class GroceryRepository {
   /*
   *

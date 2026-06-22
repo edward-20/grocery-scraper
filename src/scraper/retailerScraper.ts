@@ -2,42 +2,7 @@ import type { Page } from "playwright";
 
 import type { RetailerScrapeConfig } from "../types.js"
 
-export interface Category {
-  retailerDesignatedCategoryId: string;
-  name: string;
-  path: string;
-  pages: number;
-  retailerDesignatedProductCount?: number;
-}
-
-// what do we need from the Product returned by scrapeProductsOfCategoryPage in
-// order to make changes to the repository
-export interface Product {
-  categoryId: string;
-  retailerProductId: string;
-
-  crossRetailerId?: string;
-  gtinFormat?: number;
-  currentValue: ValueAtTime; 
-  name: string;
-  brand?: string;
-  path: string;
-  description: string;
-  image_url?: string;
-}
-
-export type Unit ="Each" | "Kg" | "g" | "L" | "mL" | "SS"; 
-export interface ValueAtTime {
-  unitPrice: number;
-  unitPriceQuantity: number;
-  unitPriceMeasureQuantity: number;
-  unitPriceUnit: Unit;
-
-  sizeUnit: Unit;
-  sizeQuantity: number;
-  sizeQuantityMin: number;
-  price: number;
-}
+import { Product, Category } from "../db/repository.js";
 
 export abstract class RetailerScraper {
   protected abstract retailerUrl : string;

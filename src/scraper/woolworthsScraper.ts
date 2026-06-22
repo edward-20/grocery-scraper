@@ -102,7 +102,7 @@ export class WoolworthsScraper extends RetailerScraper {
     // return largestPageNumber;
   }
 
-  async scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]> {
+  async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
     const responsePromise = page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
     await page.goto(`${this.retailerUrl}/shop/browse/${category.path}?pageNumber=${pageNumber}`);
 
