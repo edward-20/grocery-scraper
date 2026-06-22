@@ -1,5 +1,5 @@
-import { RetailerScraper, Category } from "./retailerScraper.js";
-import { Product } from "../db/repository.js";
+import { RetailerScraper } from "./retailerScraper.js";
+import { Product, Category } from "../db/repository.js";
 import { Page } from "playwright";
 
 // stubbed
