@@ -48,9 +48,7 @@ export abstract class RetailerScraper {
 
   abstract discoverCategories(page: Page): Promise<Category[]>; // Category type should supply information to be able to fulfill a row of Categories and categoryScrape
 
-  abstract findPageCountForCategoryScrape(page: Page, category: Category) : Promise<number>;
-
-  abstract scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]>;
+  abstract scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]>;
 
   // this is really only applicable to the coles website because I can't extract
   // the variants unless we used the url of a single product page, maybe there

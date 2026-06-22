@@ -87,7 +87,7 @@ async function runCategoryScrape(
   const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
 
   try {
-    const products = await retailerScraper.scrapeProductsOfCategoryPage(page, category);
+    const products = await retailerScraper.scrapeProductsOfCategory(page, category);
     for (const product of products) {
       repository.createOrUpdateProduct(product, categoryScrapeId); // need to be able to create a products and value_at_time row
     }
