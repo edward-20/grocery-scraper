@@ -49,20 +49,57 @@ export class WoolworthsScraper extends RetailerScraper {
   }
 
   async findPageCountForCategoryScrape(page: Page, category: Category) : Promise<number> {
-    await page.goto(`${this.retailerUrl}/shop/browse/${category.path}`);
-    const pageNumbers = await page
-      .locator(`a[href^="/shop/browse/${category.path}?pageNumber="]`)
-      .evaluateAll(links => 
-        links
-          .map(a => (a as HTMLAnchorElement).href)
-          .filter(href => href && /pageNumber=\d+$/.test(href)) 
-          .map(href => {
-            const match = href!.match(/pageNumber=(\d+)$/);
-            return Number(match![1])
-          })
-      );
-    const largestPageNumber = Math.max(...pageNumbers);
-    return largestPageNumber;
+    await page.goto(`${this.retailerUrl}/shop/browse/${category.path}`, { waitUntil: 'domcontentloaded' });
+    const paginationLinks = page.locator(`a[href^="/shop/browse/${category.path}?pageNumber="]`)
+    await paginationLinks.first().waitFor({
+      state: "attached",
+      timeout: 100_000
+    })
+
+    const count = await paginationLinks.count();
+
+    let maxPage = 1;
+
+    for (let i = 0; i < count; i++) {
+      const href = await paginationLinks.nth(i).getAttribute('href');
+
+      if (!href) continue;
+
+      const match = href.match(/pageNumber=(\d+)$/);
+      if (!match) continue;
+
+      const pageNum = Number(match[1]);
+      if (pageNum > maxPage) maxPage = pageNum;
+    }
+
+    return maxPage;
+
+    // const pageNumbers = await locator.
+    //   .evaluateAll(links => 
+    //     links
+    //       .map(a => (a as HTMLAnchorElement).href)
+    //       .filter(href => href && /pageNumber=\d+$/.test(href)) 
+    //       .map(href => {
+    //         const match = href!.match(/pageNumber=(\d+)$/);
+    //         return Number(match![1])
+    //       })
+    //   );
+    // const largestPageNumber = Math.max(...pageNumbers);
+    // return largestPageNumber;
+    // const hrefs = await locator.all();
+    // const pageNumbers = await page
+    //   .locator(`a[href^="/shop/browse/${category.path}?pageNumber="]`)
+    //   .evaluateAll(links => 
+    //     links
+    //       .map(a => (a as HTMLAnchorElement).href)
+    //       .filter(href => href && /pageNumber=\d+$/.test(href)) 
+    //       .map(href => {
+    //         const match = href!.match(/pageNumber=(\d+)$/);
+    //         return Number(match![1])
+    //       })
+    //   );
+    // const largestPageNumber = Math.max(...pageNumbers);
+    // return largestPageNumber;
   }
 
   async scrapeProductsOfCategoryPage(page: Page, category: Category, pageNumber: number) : Promise<Product[]> {
@@ -81,7 +118,7 @@ export class WoolworthsScraper extends RetailerScraper {
     return payload.Categories.map((category) => ({
       retailerDesignatedCategoryId: category.NodeId,
       name: category.Description,
-      path: category.UrlFriendlyName,
+      path: `/shop/browse/${category.UrlFriendlyName}`,
       pages: 0,
       retailerDesignatedProductCount: 0
     }))

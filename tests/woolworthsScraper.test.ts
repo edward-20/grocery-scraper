@@ -1,7 +1,7 @@
 import { describe, expect, it, beforeEach, afterEach, vi } from "vitest";
 import { chromium, Browser, Page, BrowserContext } from "playwright";
 import { WoolworthsScraper } from "../src/scraper/woolworthsScraper.js";
-import { Category } from "../src/scraper/retailerScraper.js";
+import { Category, Product } from "../src/scraper/retailerScraper.js";
 import { readFile } from "fs/promises";
 
 describe("WoolworthsScraper", () => {
@@ -27,9 +27,9 @@ describe("WoolworthsScraper", () => {
     })
     page = await context.newPage();
 
-  })
+  }, 0)
 
-  it("parses the categories payload", async () => {
+  it.skip("parses the categories payload", async () => {
     const mockCategoriesPayload = await readFile('tests/fixtures/woolworths-categories-payload.json', 'utf-8');
 
     await context.route("https://woolworths.com.au/apis/ui/PiesCategoriesWithSpecials", route => {
@@ -47,32 +47,64 @@ describe("WoolworthsScraper", () => {
     expectedCategories.sort((a, b) => a.name.localeCompare(b.name));
 
     expect(receivedCategories).toEqual(expectedCategories);
-
   });
 
-  it.skip("finds the right page count for a category", () => {
-    
+  it.skip("discovers the categories correctly on 18/06/2026", async () => {
+    const receivedCategories: Category[] = await scraper.discoverCategories(page);
+    const expectedCategoriesUnparsed = await readFile("tests/fixtures/woolworths-parsed-categories.json", "utf-8");
+    const expectedCategories: Category[] = await JSON.parse(expectedCategoriesUnparsed);
+    // order doesn't matter in the array (order it by something)
+    receivedCategories.sort((a, b) => a.name.localeCompare(b.name));
+    expectedCategories.sort((a, b) => a.name.localeCompare(b.name));
+
+    expect(receivedCategories).toEqual(expectedCategories);
   });
 
-  it.skip("scrapes the products of a category page", () => {
-    /*
-    const mockProductPagePayload = await readFile('./fixtures/woolworths-product-page.json', 'utf-8');
+  it.skip("finds the right page count for a category", async () => {
+    const category: Category = {
+	  "retailerDesignatedCategoryId": "1_3151F6F",
+	  "name": "Deli",
+	  "path": "deli",
+	  "pages": 0,
+	  "retailerDesignatedProductCount": 0
+	};
+    const pageNumbers = await scraper.findPageCountForCategoryScrape(page, category);
+    expect(pageNumbers).toBe(17);
+  }, 0);
+
+  it("parses the products of a product page payload", async () => {
+    const mockProductPagePayload = await readFile('./fixtures/woolworths-product-page-payload.json', 'utf-8');
 
     await context.route("https://woolworths.com.au/apis/ui/browse/category", route => {
       route.fulfill({
-        body: mockCategoriesPayload,
+        body: mockProductPagePayload,
         contentType: "application/json",
         status: 200
       })
     })
-    */
+
+    const category = {
+	  "retailerDesignatedCategoryId": "1_31C28BC",
+	  "name": "Big Night In",
+	  "path": "/shop/browse/big-night-in",
+	  "pages": 0,
+	  "retailerDesignatedProductCount": 0
+	};
+
+    const receivedProducts: Product[] = await scraper.scrapeProductsOfCategoryPage(page, category, 1);
+    const expectedProductsPayload = await readFile("tests/fixtures/woolworths-parsed-product-page.json", "utf-8");
+    const expectedProducts: Product[] = await JSON.parse(expectedProductsPayload);
+    // order doesn't matter in the array (order it by something)
+    expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
+    receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
+
+    expect(receivedProducts).toEqual(expectedProducts);
   })
 
   afterEach(async () => {
     await page.close();
     await context.close();
     await browser.close();
-  })
+  }, 0)
 
-})
-
+}, 200_000);

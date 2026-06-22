@@ -1,0 +1,23 @@
+[
+	{
+		"categoryId": "1_31C28BC",
+		"retailerProductId": "6004674",
+		"crossRetailerId": "8886467127731",
+		"gtinFormat": 13,
+		"currentValue": {
+			"unitPrice": 3.29,
+			"unitPriceQuantity": 1,
+			"unitPriceMeasureQuantity": 100,
+			"unitPriceUnit": "g",
+			"sizeUnit": "Each",
+			"sizeQuantity": 0,
+			"sizeQuantityMin": 0,
+			"price": 7.5
+		},
+		"name": "Pringles Minis Variety Mix Potato Chips",
+	  	"brand": "Pringles",
+	  	"path": "/shop/productdetails/6004674/pringles-minis-variety-mix-potato-chips",
+	  	"description": " Pringles Minis Variety Mix<br>Potato... 228g 12 pack",
+	  	"image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/6004674.jpg"
+	}
+]
