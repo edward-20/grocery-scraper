@@ -153,8 +153,6 @@ CREATE TABLE IF NOT EXISTS category_scrapes (
 
   -- analytics
   retailer_designated_product_count INTEGER,
-  pages INTEGER DEFAULT NULL,
-  successful_page_scrapes INTEGER NOT NULL DEFAULT 0,
   total_products_scraped INTEGER NOT NULL DEFAULT 0,
   total_new_products_found INTEGER NOT NULL DEFAULT 0,
 
