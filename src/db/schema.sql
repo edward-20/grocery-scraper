@@ -30,8 +30,7 @@ CREATE TABLE IF NOT EXISTS categories (
 
 CREATE TABLE IF NOT EXISTS products (
   -- natural keys and surrogate id
-  category_id INTEGER NOT NULL,
-  retailer_product_id TEXT NOT NULL,
+  retailer_product_id TEXT NOT NULL UNIQUE,
   id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
 
   cross_retailer_id TEXT,
@@ -43,10 +42,17 @@ CREATE TABLE IF NOT EXISTS products (
   description TEXT NOT NULL,
   image_url TEXT,
 
-  FOREIGN KEY category_id REFERENCES categories (id),
   FOREIGN KEY current_value_id REFERENCES value_at_time (id),
-  UNIQUE (category_id, retailer_product_id),
+  UNIQUE retailer_product_id,
   CHECK ((cross_retailer_id IS NOT NULL AND gtin_format IS NOT NULL) OR (cross_retailer_id IS NULL AND gtin_format is NULL))
+);
+
+CREATE TABLE IF NOT EXISTS product_categories (
+  product_id INTEGER NOT NULL, 
+  category_id INTEGER NOT NULL,
+
+  FOREIGN KEY product_id REFERENCES products (id),
+  FOREIGN KEY category_id REFERENCES categories (id)
 );
 
 CREATE TABLE IF NOT EXISTS value_at_time (
