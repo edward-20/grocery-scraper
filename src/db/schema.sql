@@ -63,10 +63,10 @@ CREATE TABLE IF NOT EXISTS value_at_time (
   id INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY, -- think about scale, 365 days x 5 years x how many products
 
   -- unit price for comparison regardless of whether the product is discrete or non-discrete
-  unit_price NUMERIC(6, 2) NOT NULL,
+  unit_price NUMERIC(6, 2),
   -- <unit_price_quantity> of <unit_price_measure_quantity> <unit_price_unit>
-  unit_price_quantity INTEGER NOT NULL, -- woolworths: 1 (by default), coles: pricing.unit.quantity
-  unit_price_unit unit_of_measurement NOT NULL, -- woolworths: CupMeasure (alphanumeric part), coles: pricing.unit.ofMeasureUnits
+  unit_price_quantity, -- woolworths: 1 (by default), coles: pricing.unit.quantity
+  unit_price_unit_of_measurement unit_of_measurement, -- woolworths: CupMeasure (alphanumeric part), coles: pricing.unit.ofMeasureUnits
 
   -- size and price of the product
   size TEXT NOT NULL,
@@ -74,7 +74,11 @@ CREATE TABLE IF NOT EXISTS value_at_time (
 
   FOREIGN KEY (product_id) REFERENCES products (id),
   FOREIGN KEY (category_scrape_id) REFERENCES category_scrapes (id),
-  UNIQUE (product_id, time)
+  UNIQUE (product_id, time),
+  CHECK (
+    (unit_price IS NULL AND unit_price_quantity IS NULL AND unit_price_unit_of_measurement IS NULL) OR 
+    (unit_price IS NOT NULL AND unit_price_quantity IS NOT NULL AND unit_price_unit_of_measurement IS NOT NULL)
+  )
 ) WITH (
   tsdb.hypertable,
 );
