@@ -66,13 +66,10 @@ CREATE TABLE IF NOT EXISTS value_at_time (
   unit_price NUMERIC(6, 2) NOT NULL,
   -- <unit_price_quantity> of <unit_price_measure_quantity> <unit_price_unit>
   unit_price_quantity INTEGER NOT NULL, -- woolworths: 1 (by default), coles: pricing.unit.quantity
-  unit_price_measure_quantity INTEGER NOT NULL, -- woolworths: CupMeasure (first part before alphanumeric), coles: pricing.unit.ofMeasureQuantity
   unit_price_unit unit_of_measurement NOT NULL, -- woolworths: CupMeasure (alphanumeric part), coles: pricing.unit.ofMeasureUnits
 
   -- size and price of the product
-  size_unit unit_of_measurement NOT NULL, -- woolworths: PackageSize (unit part)
-  size_quantity NUMERIC(6, 2) NOT NULL, -- woolworths: PackageSize (will not be a perfect number can be, "125g x 2 pack" "per 150g", "180g")
-  size_quantity_min NUMERIC(6, 2), -- woolworths: MinimumQuantity, coles: (doesn't have)
+  size TEXT NOT NULL,
   price NUMERIC(6, 2) NOT NULL, -- woolworths: price, coles: pricing.now
 
   FOREIGN KEY (product_id) REFERENCES products (id),
