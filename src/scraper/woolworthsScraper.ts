@@ -1,6 +1,7 @@
-import { RetailerScraper, Category, Unit } from "./retailerScraper.js";
+import { RetailerScraper } from "./retailerScraper.js";
 import { Page } from "playwright";
 import * as z from "zod";
+import { Category, Product } from "../db/repository.js";
 
 const WoolworthsCategoriesPayload = z.object({
   Categories: z.array(z.object({
@@ -24,6 +25,7 @@ const WoolworthsProductsPagePayload = z.object({
         Brand: z.string().nullable(),             // brand
         Description: z.string(),       // description
         UrlFriendlyName: z.string(),
+        MediumImageFile: z.string(),
 
         // value_at_time specific
         // unit_price, unit_price_quantity, 
@@ -43,6 +45,7 @@ const WoolworthsProductsPagePayload = z.object({
         Brand: z.string().nullable(),             // brand
         Description: z.string(),       // description
         UrlFriendlyName: z.string(),
+        MediumImageFile: z.string(),
 
         HasCupPrice: z.literal(false),
         Price: z.number().nullable(),             // WHY????
@@ -99,22 +102,18 @@ export class WoolworthsScraper extends RetailerScraper {
       .map(product => {
         if (product.HasCupPrice) {
           return {
-            categoryId: categoryId,
             retailerProductId: product.Stockcode.toString(),
             crossRetailerId: product.Barcode,
-            gtinFormat: parseInt(product.GtinFormat),
+            gtinFormat: product.GtinFormat,
             currentValue: {
               unitPrice: product.CupPrice,
               unitPriceQuantity: 1,
-              unitPriceMeasureQuantity: parseFloat(product.CupMeasure), // but it needs to be regexed
-              unitPriceUnit: product.CupMeasure as Unit, // but it needs to be regexed
+              unitPriceUnit: product.CupMeasure, // but it needs to be regexed
 
-              sizeUnit: product.Unit as Unit, // but it needs to conform to the union type
-              sizeQuantity: parseFloat(product.PackageSize), //
-              sizeQuantityMin: product.MinimumQuantity,
+              size: product.PackageSize, // but it needs to conform to the union type
               price: product.Price,
             }, 
-            name: product.Name,
+            name: product.DisplayName,
             brand: product.Brand,
             path: product.UrlFriendlyName, // needs adjustment
             description: product.Description,
