@@ -41,6 +41,5 @@ export type CategoryScrapeId = number;
 export type CategoryId = number;
 export type CategoryPath = string;  // enforce stricter maybe later on
 
-export type ProductId = string;
 
 export type ValueAtTimeId = string;

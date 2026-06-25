@@ -1,5 +1,4 @@
 import { RetailerScraper, Category, Unit } from "./retailerScraper.js";
-import { Product } from "./retailerScraper.js";
 import { Page } from "playwright";
 import * as z from "zod";
 
@@ -13,25 +12,43 @@ const WoolworthsCategoriesPayload = z.object({
 
 const WoolworthsProductsPagePayload = z.object({
   Bundles: z.array(z.object({
-    Products: z.array(z.object({ // weird because its an array with only one object
-      Stockcode: z.number(),         // retailer_product_id
-      Barcode: z.string(),           // cross_retailer_id
-      GtinFormat: z.string(),        // gtin_format
-      CupPrice: z.number(),          // value_at_time: unitPrice
-      CupMeasure: z.string(),        // "10g" value_at_time: unitPriceQuantity + unitPriceMeasureQuantity
-      Price: z.number(),             // value_at_time: price
-      Unit: z.string(),              // "Each" value_at_time: sizeUnit
-      PackageSize: z.string(),       // "80g" value_at_time: sizeQuantity
-      MinimumQuantity: z.number(),    // 1 value_at_time: size_quantity_min
-      Name: z.string(),              // name
-      DisplayName: z.string(),       // name
-      Brand: z.string(),             // brand
-      UrlFriendlyName: z.string(),   // path
-      Description: z.string(),       // description
-      SmallImageFile: z.string(),    // image_url
-      MediumImageFile: z.string(),   // image_url
-      LargeImageFile: z.string(),    // image_url
-    })),
+    Products: z.array(z.discriminatedUnion("HasCupPrice", [
+      z.object({
+        // product specific
+        // retailerProductId, crossRetailerId, gtinFormat, currentValueId, name,
+        // brand, path, description, image_url
+        Stockcode: z.number(),
+        Barcode: z.string(),
+        GtinFormat: z.union([z.literal(8), z.literal(12), z.literal(13), z.literal(14)]),
+        DisplayName: z.string(),              // name
+        Brand: z.string().nullable(),             // brand
+        Description: z.string(),       // description
+        UrlFriendlyName: z.string(),
+
+        // value_at_time specific
+        // unit_price, unit_price_quantity, 
+        // unit_price_unit_of_measurement, size, price
+        HasCupPrice: z.literal(true),
+        CupPrice: z.number(),          // value_at_time: unitPrice
+        CupMeasure: z.string(),        // "10g" value_at_time: unitPriceQuantity + unitPriceMeasureQuantity
+        CupString: z.string(),
+        PackageSize: z.string(),       // "80g" value_at_time: sizeQuantity
+        Price: z.number().nullable(),  // When its null it means the product can't be bought, skip scrape
+      }),
+      z.object({
+        Stockcode: z.number(),
+        Barcode: z.string(),
+        GtinFormat: z.union([z.literal(8), z.literal(12), z.literal(13), z.literal(14)]),
+        DisplayName: z.string(),              // name
+        Brand: z.string().nullable(),             // brand
+        Description: z.string(),       // description
+        UrlFriendlyName: z.string(),
+
+        HasCupPrice: z.literal(false),
+        Price: z.number().nullable(),             // WHY????
+        PackageSize: z.string(),       // "80g" value_at_time: sizeQuantity
+      }),
+    ])),
     Name: z.string(),
     DisplayName: z.string()
   }))
@@ -48,63 +65,11 @@ export class WoolworthsScraper extends RetailerScraper {
     return categories.filter(category => category.retailerDesignatedCategoryId !== "specialsgroup"); 
   }
 
-  async findPageCountForCategoryScrape(page: Page, category: Category) : Promise<number> {
-    await page.goto(`${this.retailerUrl}/shop/browse/${category.path}`, { waitUntil: 'domcontentloaded' });
-    const paginationLinks = page.locator(`a[href^="/shop/browse/${category.path}?pageNumber="]`)
-    await paginationLinks.first().waitFor({
-      state: "attached",
-      timeout: 100_000
-    })
-
-    const count = await paginationLinks.count();
-
-    let maxPage = 1;
-
-    for (let i = 0; i < count; i++) {
-      const href = await paginationLinks.nth(i).getAttribute('href');
-
-      if (!href) continue;
-
-      const match = href.match(/pageNumber=(\d+)$/);
-      if (!match) continue;
-
-      const pageNum = Number(match[1]);
-      if (pageNum > maxPage) maxPage = pageNum;
-    }
-
-    return maxPage;
-
-    // const pageNumbers = await locator.
-    //   .evaluateAll(links => 
-    //     links
-    //       .map(a => (a as HTMLAnchorElement).href)
-    //       .filter(href => href && /pageNumber=\d+$/.test(href)) 
-    //       .map(href => {
-    //         const match = href!.match(/pageNumber=(\d+)$/);
-    //         return Number(match![1])
-    //       })
-    //   );
-    // const largestPageNumber = Math.max(...pageNumbers);
-    // return largestPageNumber;
-    // const hrefs = await locator.all();
-    // const pageNumbers = await page
-    //   .locator(`a[href^="/shop/browse/${category.path}?pageNumber="]`)
-    //   .evaluateAll(links => 
-    //     links
-    //       .map(a => (a as HTMLAnchorElement).href)
-    //       .filter(href => href && /pageNumber=\d+$/.test(href)) 
-    //       .map(href => {
-    //         const match = href!.match(/pageNumber=(\d+)$/);
-    //         return Number(match![1])
-    //       })
-    //   );
-    // const largestPageNumber = Math.max(...pageNumbers);
-    // return largestPageNumber;
-  }
-
   async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
     const responsePromise = page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
-    await page.goto(`${this.retailerUrl}/shop/browse/${category.path}?pageNumber=${pageNumber}`);
+    await page.goto(`${this.retailerUrl}/shop/browse/${category.path}`);
+
+    // scrape and then go to the next page
 
     const response = await responsePromise;
     const data = await response?.json()
@@ -131,28 +96,34 @@ export class WoolworthsScraper extends RetailerScraper {
 
     return bundles
       .map(bundle => bundle.Products[0])
-      .map(product => ({
-        categoryId: categoryId,
-        retailerProductId: product.Stockcode.toString(),
-        crossRetailerId: product.Barcode,
-        gtinFormat: parseInt(product.GtinFormat),
-        currentValue: {
-          unitPrice: product.CupPrice,
-          unitPriceQuantity: 1,
-          unitPriceMeasureQuantity: parseFloat(product.CupMeasure), // but it needs to be regexed
-          unitPriceUnit: product.CupMeasure as Unit, // but it needs to be regexed
+      .map(product => {
+        if (product.HasCupPrice) {
+          return {
+            categoryId: categoryId,
+            retailerProductId: product.Stockcode.toString(),
+            crossRetailerId: product.Barcode,
+            gtinFormat: parseInt(product.GtinFormat),
+            currentValue: {
+              unitPrice: product.CupPrice,
+              unitPriceQuantity: 1,
+              unitPriceMeasureQuantity: parseFloat(product.CupMeasure), // but it needs to be regexed
+              unitPriceUnit: product.CupMeasure as Unit, // but it needs to be regexed
 
-          sizeUnit: product.Unit as Unit, // but it needs to conform to the union type
-          sizeQuantity: parseFloat(product.PackageSize), //
-          sizeQuantityMin: product.MinimumQuantity,
-          price: product.Price,
-        }, 
-        name: product.Name,
-        brand: product.Brand,
-        path: product.UrlFriendlyName, // needs adjustment
-        description: product.Description,
-        image_url: product.MediumImageFile 
-      }))
+              sizeUnit: product.Unit as Unit, // but it needs to conform to the union type
+              sizeQuantity: parseFloat(product.PackageSize), //
+              sizeQuantityMin: product.MinimumQuantity,
+              price: product.Price,
+            }, 
+            name: product.Name,
+            brand: product.Brand,
+            path: product.UrlFriendlyName, // needs adjustment
+            description: product.Description,
+            image_url: product.MediumImageFile 
+          }
+        } else {
+          return 1;
+        }
+      })
   }
 
 }
