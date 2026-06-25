@@ -1,5 +1,5 @@
 import { Pool } from "pg";
-import { ProductId, CategoryScrapeId, RetailerName, UpdateProductFields, CategoryPath, RunId, RetailerScrapeId, CategoryId } from "../types.js";
+import { CategoryScrapeId, RetailerName, UpdateProductFields, CategoryPath, RunId, RetailerScrapeId, CategoryId } from "../types.js";
 
 export interface Category {
   retailerDesignatedCategoryId: string;
@@ -12,7 +12,6 @@ export interface Category {
 // what do we need from the Product returned by scrapeProductsOfCategoryPage in
 // order to make changes to the repository
 export interface Product {
-  categoryId: string;
   retailerProductId: string;
 
   crossRetailerId?: string;
@@ -25,16 +24,20 @@ export interface Product {
   image_url?: string;
 }
 
+export type ProductId = number;
+
+export interface Product_Category_Link {
+  categoryId: number,
+  productId: number,
+}
+
 export type Unit ="Each" | "Kg" | "g" | "L" | "mL" | "SS"; 
 export interface ValueAtTime {
   unitPrice: number;
   unitPriceQuantity: number;
-  unitPriceMeasureQuantity: number;
   unitPriceUnit: Unit;
 
-  sizeUnit: Unit;
-  sizeQuantity: number;
-  sizeQuantityMin: number;
+  size: string;
   price: number;
 }
 export class GroceryRepository {
@@ -131,20 +134,91 @@ export class GroceryRepository {
   }
 
   /* ****************Products************** */
-  createOrUpdateProduct(product: Product, categoryScrapeId: number) : ProductId {
+  async createOrUpdateProduct(product: Product, categoryScrapeId: number) : Promise<ProductId> {
     /*
       If new
-      1. create product
+      1. create or find product
       2. create value_at_time and link to product
       3. edit product to have its current_value_id point to the new value_at_time row just created 
-      If exists
-      1. find product (by retailer_product_id)
-      2. if things other than the price or unit_price have changed then create a new product?
-      2. create value_at_time and link to product
-      3. edit product to have its current_value_id point to the new value_at_time row just created 
+      4. create a row in product_categories to show that the product belongs to that category
     */
-    //
-    throw new Error("Not implemented");
+    let productId: ProductId;
+    const client = await this.pool.connect();
+    try {
+      await client.query('BEGIN;');
+
+      // 1.
+      // how to account for optional values?
+      const productInsertResult = await client.query<{id: number}>('INSERT INTO products (\
+        retailer_product_id,\
+        cross_retailer_id,\
+        gtin_format,\
+        name,\
+        brand,\
+        path,\
+        description,\
+        image_url\
+      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8)\
+      ON CONFLICT (retailer_product_id) DO UPDATE\
+      SET\
+        cross_retailer_id = EXCLUDED.cross_retailer_id\
+        gtin_format = EXCLUDED.gtin_format\
+        name = EXCLUDED.name\
+        brand = EXCLUDED.brand\
+        path = EXCLUDED.path\
+        desciption = EXCLUDED.desciption\
+        image_url = EXCLUDED.image_url\
+      RETURN id;', [
+        product.retailerProductId,
+        product.crossRetailerId ?? null,
+        product.gtinFormat ?? null,
+        product.name,
+        product.brand ?? null,
+        product.path,
+        product.description,
+        product.image_url ?? null
+      ]);
+
+      // 2.
+      productId = productInsertResult.rows[0].id;
+      const valueAtTimeInsertResult = await client.query<{id: number}>('INSERT INTO value_at_time (\
+        product_id,\
+        category_scrape_id,\
+        unit_price,\
+        unit_price_quantity\
+        unit_price_unit_of_measurement,\
+        size,\
+        price,\
+      ) VALUES ($1, $2, $3, $4, $5, $6, $7)\
+      RETURNING id;', [
+          productId,
+          categoryScrapeId,
+          product.currentValue.unitPrice,
+          product.currentValue.unitPriceQuantity,
+          product.currentValue.unitPriceUnit,
+          product.currentValue.size,
+          product.currentValue.price
+      ]);
+
+      // 3.
+      const valueAtTimeId = valueAtTimeInsertResult.rows[0].id;
+      await client.query('UPDATE products SET current_value_id = $1 WHERE id = $2', [valueAtTimeId, productId])
+
+      // 4.
+      const categorySelectResult = await client.query<{category_id: number}>('SELECT category_id FROM category_scrapes WHERE id = $1', [categoryScrapeId]);
+      const categoryId = categorySelectResult.rows[0].category_id;
+      await client.query('INSERT INTO product_categories (product_id, category_id) VALUES (\
+        $1,\
+        $2)\
+        ON CONFLICT DO NOTHING', [productId, categoryId])
+      await client.query('COMMIT');
+    } catch (err) {
+      await client.query('ROLLBACK');
+      throw err;
+    } finally {
+      client.release();
+    }
+    return productId;
   }
 
   updateProduct(productId: ProductId, updateProductFields: UpdateProductFields) : ProductId {
