@@ -61,7 +61,7 @@ describe("WoolworthsScraper", () => {
   });
 
   it("parses the products of a product page payload", async () => {
-    const mockProductPagePayload = await readFile('./fixtures/woolworths-product-page-payload.json', 'utf-8');
+    const mockProductPagePayload = await readFile('tests/fixtures/woolworths-product-page-payload.json', 'utf-8');
 
     await context.route("https://woolworths.com.au/apis/ui/browse/category", route => {
       route.fulfill({
@@ -74,19 +74,19 @@ describe("WoolworthsScraper", () => {
     const category = {
 	  "retailerDesignatedCategoryId": "1_31C28BC",
 	  "name": "Big Night In",
-	  "path": "/shop/browse/big-night-in",
+	  "path": "/shop/browse/bakery",
 	  "pages": 0,
 	  "retailerDesignatedProductCount": 0
 	};
 
     const receivedProducts: Product[] = await scraper.scrapeProductsOfCategory(page, category);
-    // const expectedProductsPayload = await readFile("tests/fixtures/woolworths-parsed-product-page.json", "utf-8");
-    // const expectedProducts: Product[] = await JSON.parse(expectedProductsPayload);
+    const expectedProductsPayload = await readFile("tests/fixtures/woolworths-parsed-product-page.json", "utf-8");
+    const expectedProducts: Product[] = await JSON.parse(expectedProductsPayload);
     // order doesn't matter in the array (order it by something)
-    // expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
-    // receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
+    expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
+    receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
 
-    // expect(receivedProducts).toEqual(expectedProducts);
+    expect(receivedProducts).toEqual(expectedProducts);
     console.log(receivedProducts); // test by looking first
   })
 

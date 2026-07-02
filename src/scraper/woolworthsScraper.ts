@@ -59,7 +59,7 @@ const WoolworthsProductsPagePayload = z.object({
 })
 
 export class WoolworthsScraper extends RetailerScraper {
-  protected retailerUrl = "https://woolworths.com.au"
+  protected retailerUrl = "https://www.woolworths.com.au"
   async discoverCategories(page: Page): Promise<Category[]> {
     const response = await page.goto(`${this.retailerUrl}/apis/ui/PiesCategoriesWithSpecials`);
 
@@ -71,7 +71,7 @@ export class WoolworthsScraper extends RetailerScraper {
 
   async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
     const responsePromise = page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
-    await page.goto(`${this.retailerUrl}/shop/browse/${category.path}`);
+    await page.goto(`${this.retailerUrl}${category.path}`);
 
     // scrape and then go to the next page
 
