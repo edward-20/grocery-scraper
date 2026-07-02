@@ -2,6 +2,7 @@ import { RetailerScraper } from "./retailerScraper.js";
 import { Page } from "playwright";
 import * as z from "zod";
 import { Category, Product } from "../db/repository.js";
+import { Unit } from "../db/repository.js";
 
 const WoolworthsCategoriesPayload = z.object({
   Categories: z.array(z.object({
@@ -76,7 +77,7 @@ export class WoolworthsScraper extends RetailerScraper {
 
     const response = await responsePromise;
     const data = await response?.json()
-    const products = this.parseProductsPageJSON(data, category.retailerDesignatedCategoryId);
+    const products = this.parseProductsPageJSON(data);
     return products;
   }
 
@@ -92,36 +93,52 @@ export class WoolworthsScraper extends RetailerScraper {
     }))
   }
 
-  private parseProductsPageJSON(json: JSON, categoryId: string) : Product[] {
+  private parseProductsPageJSON(json: JSON) : Product[] {
     const productsPayload = WoolworthsProductsPagePayload.parse(json);
     const bundles = productsPayload.Bundles;
 
 
     return bundles
       .map(bundle => bundle.Products[0])
+      .filter(product => product.Price !== null)
       .map(product => {
+        let result: Product;
         if (product.HasCupPrice) {
-          return {
+          result = {
             retailerProductId: product.Stockcode.toString(),
             crossRetailerId: product.Barcode,
             gtinFormat: product.GtinFormat,
             currentValue: {
               unitPrice: product.CupPrice,
-              unitPriceQuantity: 1,
-              unitPriceUnit: product.CupMeasure, // but it needs to be regexed
+              unitPriceQuantity: 1, // this is incorrect and needs to be parsed from the product.CupMeasure
+              unitPriceUnit: product.CupMeasure as Unit, // this is a kludge and we'll try to see where it fails in the tests
 
-              size: product.PackageSize, // but it needs to conform to the union type
-              price: product.Price,
+              size: product.PackageSize,
+              price: product.Price as number,
             }, 
             name: product.DisplayName,
-            brand: product.Brand,
-            path: product.UrlFriendlyName, // needs adjustment
+            brand: product.Brand ?? undefined,
+            path: `/shop/productdetails/${product.Stockcode}/${product.UrlFriendlyName}`, // needs adjustment
             description: product.Description,
             image_url: product.MediumImageFile 
           }
         } else {
-          return 1;
+          result ={
+            retailerProductId: product.Stockcode.toString(),
+            crossRetailerId: product.Barcode,
+            gtinFormat: product.GtinFormat,
+            currentValue: {
+              size: product.PackageSize,
+              price: product.Price as number,
+            }, 
+            name: product.DisplayName,
+            brand: product.Brand ?? undefined,
+            path: `/shop/productdetails/${product.Stockcode}/${product.UrlFriendlyName}`,
+            description: product.Description,
+            image_url: product.MediumImageFile 
+          };
         }
+        return result;
       })
   }
 

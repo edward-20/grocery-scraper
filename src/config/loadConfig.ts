@@ -3,7 +3,7 @@ import { resolve } from "node:path";
 import YAML from "yaml";
 import type { RetailerName, ScraperConfig } from "../types.js";
 
-const retailerNames = new Set<RetailerName>(["woolworths", "coles"]);
+const retailerNames = new Set<RetailerName>(["Woolworths", "Coles"]);
 
 type ConfigInput = {
   database?: {
