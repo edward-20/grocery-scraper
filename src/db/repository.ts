@@ -32,11 +32,14 @@ export interface Product_Category_Link {
 }
 
 export type Unit ="Each" | "Kg" | "g" | "L" | "mL" | "SS"; 
-export interface ValueAtTime {
+export type ValueAtTime = {
   unitPrice: number;
   unitPriceQuantity: number;
   unitPriceUnit: Unit;
 
+  size: string;
+  price: number;
+} | {
   size: string;
   price: number;
 }
