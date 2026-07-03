@@ -32,7 +32,7 @@ describe("WoolworthsScraper", () => {
   it.skip("parses the categories payload", async () => {
     const mockCategoriesPayload = await readFile('tests/fixtures/woolworths-categories-payload.json', 'utf-8');
 
-    await context.route("https://woolworths.com.au/apis/ui/PiesCategoriesWithSpecials", route => {
+    await context.route("https://www.woolworths.com.au/apis/ui/PiesCategoriesWithSpecials", route => {
       route.fulfill({
         body: mockCategoriesPayload,
         contentType: "application/json",
@@ -63,7 +63,7 @@ describe("WoolworthsScraper", () => {
   it("parses the products of a product page payload", async () => {
     const mockProductPagePayload = await readFile('tests/fixtures/woolworths-product-page-payload.json', 'utf-8');
 
-    await context.route("https://woolworths.com.au/apis/ui/browse/category", route => {
+    await context.route("https://www.woolworths.com.au/apis/ui/browse/category", route => {
       route.fulfill({
         body: mockProductPagePayload,
         contentType: "application/json",
@@ -72,12 +72,11 @@ describe("WoolworthsScraper", () => {
     })
 
     const category = {
-	  "retailerDesignatedCategoryId": "1_31C28BC",
-	  "name": "Big Night In",
-	  "path": "/shop/browse/bakery",
-	  "pages": 0,
-	  "retailerDesignatedProductCount": 0
-	};
+      "retailerDesignatedCategoryId": "1_DEB537E",
+      "name": "Bakery",
+      "path": "/shop/browse/bakery",
+      "retailerDesignatedProductCount": 0
+    };
 
     const receivedProducts: Product[] = await scraper.scrapeProductsOfCategory(page, category);
     const expectedProductsPayload = await readFile("tests/fixtures/woolworths-parsed-product-page.json", "utf-8");
@@ -87,7 +86,6 @@ describe("WoolworthsScraper", () => {
     receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
 
     expect(receivedProducts).toEqual(expectedProducts);
-    console.log(receivedProducts); // test by looking first
   })
 
   afterEach(async () => {
