@@ -5,7 +5,6 @@ export interface Category {
   retailerDesignatedCategoryId: string;
   name: string;
   path: string;
-  pages: number;
   retailerDesignatedProductCount?: number;
 }
 
