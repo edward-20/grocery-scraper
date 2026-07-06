@@ -1,0 +1,529 @@
+[
+  {
+    "retailerProductId": "6064813",
+    "crossRetailerId": "9356421000978",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.64,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "4 pack 360mL",
+      "price": 9.5
+    },
+    "name": "GYMBOD Protein Dessert Sticks Choc Honeycomb 4 pack 360mL",
+    "brand": "GYMBOD",
+    "path": "/shop/productdetails/6064813/gymbod-protein-dessert-sticks-choc-honeycomb",
+    "description": " GYMBOD Protein Dessert<br>Sticks Choc... 4 pack 360mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6064813.jpg"
+  },
+  {
+    "retailerProductId": "6064480",
+    "crossRetailerId": "8721274617207",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.3,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 13
+    },
+    "name": "Cremissimo Crafted Ice Cream Vanilla With Creme Anglaise 1L",
+    "brand": "Cremissimo",
+    "path": "/shop/productdetails/6064480/cremissimo-crafted-ice-cream-vanilla-with-creme-anglaise",
+    "description": " Cremissimo Crafted Ice Cream<br>Vanilla With Creme... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6064480.jpg"
+  },
+  {
+    "retailerProductId": "6024389",
+    "crossRetailerId": "9415022020768",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 17.18,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "425g",
+      "price": 7.3
+    },
+    "name": "Sealord Hoki Fillets Classic Crumb 425g",
+    "brand": "Sealord",
+    "path": "/shop/productdetails/6024389/sealord-hoki-fillets-classic-crumb",
+    "description": " Sealord Hoki Fillets Classic<br>Crumb 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6024389.jpg"
+  },
+  {
+    "retailerProductId": "6047568",
+    "crossRetailerId": "9358553100854",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20.83,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "480g",
+      "price": 10
+    },
+    "name": "Ingham's Chicken Breast Schnitzel Pub Classic 480g",
+    "brand": "Ingham's",
+    "path": "/shop/productdetails/6047568/ingham-s-chicken-breast-schnitzel-pub-classic",
+    "description": " Ingham's Chicken Breast<br>Schnitzel Pub... 480g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6047568.jpg"
+  },
+  {
+    "retailerProductId": "48387",
+    "crossRetailerId": "9310080031933",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.08,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "4 pack",
+      "price": 9.9
+    },
+    "name": "Peters Drumstick Ice Cream Vanilla 4 pack",
+    "brand": "Peters",
+    "path": "/shop/productdetails/48387/peters-drumstick-ice-cream-vanilla",
+    "description": " Peters Drumstick Ice Cream<br>Vanilla 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/048387.jpg"
+  },
+  {
+    "retailerProductId": "502581",
+    "crossRetailerId": "9339687362806",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 3.6
+    },
+    "name": "Woolworths Steakhouse Chips 900g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/502581/woolworths-steakhouse-chips",
+    "description": " Woolworths Steakhouse Chips  900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/502581.jpg"
+  },
+  {
+    "retailerProductId": "383909",
+    "crossRetailerId": "9310213567513",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 10.5
+    },
+    "name": "Steggles Chicken Dino Snacks Tempura 1kg",
+    "brand": "Steggles",
+    "path": "/shop/productdetails/383909/steggles-chicken-dino-snacks-tempura",
+    "description": " Steggles Chicken Dino Snacks<br>Tempura 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/383909.jpg"
+  },
+  {
+    "retailerProductId": "191043",
+    "crossRetailerId": "9310161001343",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.35,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "2L",
+      "price": 7
+    },
+    "name": "Bulla Creamy Classics Ice Cream Vanilla 2L",
+    "brand": "Bulla",
+    "path": "/shop/productdetails/191043/bulla-creamy-classics-ice-cream-vanilla",
+    "description": " Bulla Creamy Classics Ice<br>Cream Vanilla 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/191043.jpg"
+  },
+  {
+    "retailerProductId": "40568",
+    "crossRetailerId": "9310016801609",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.33,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "2L",
+      "price": 6.5
+    },
+    "name": "Blue Ribbon Classic Vanilla Tub 2L",
+    "brand": "Blue Ribbon",
+    "path": "/shop/productdetails/40568/blue-ribbon-classic-vanilla-tub-classic-vanilla-dessert-tub",
+    "description": " Blue Ribbon Classic Vanilla<br>Tub Classic vanilla... 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/040568.jpg"
+  },
+  {
+    "retailerProductId": "6010485",
+    "crossRetailerId": "9339687411566",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 12,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 12
+    },
+    "name": "Woolworths Frozen Strawberries 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/6010485/woolworths-frozen-strawberries",
+    "description": " Woolworths Frozen<br>Strawberries  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010485.jpg"
+  },
+  {
+    "retailerProductId": "221506",
+    "crossRetailerId": "9350539000110",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.86,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "245g",
+      "price": 7
+    },
+    "name": "Fropro Protein Burrito Chipotle Chicken 245g",
+    "brand": "Fropro",
+    "path": "/shop/productdetails/221506/fropro-protein-burrito-chipotle-chicken",
+    "description": " Fropro Protein Burrito<br>Chipotle Chicken 245g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/221506.jpg"
+  },
+  {
+    "retailerProductId": "6074114",
+    "crossRetailerId": "9354853001792",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.04,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 7.6
+    },
+    "name": "Made With Plants Meat-Free Chicken 250g",
+    "brand": "Made With Plants",
+    "path": "/shop/productdetails/6074114/made-with-plants-meat-free-chicken",
+    "description": " Made With Plants Meat-Free<br>Chicken  250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6074114.jpg"
+  },
+  {
+    "retailerProductId": "6047441",
+    "crossRetailerId": "9333328002168",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "80g",
+      "price": 7
+    },
+    "name": "bubbleme Sorbet Balls Kiwi 80g",
+    "brand": "bubbleme",
+    "path": "/shop/productdetails/6047441/bubbleme-sorbet-balls-kiwi",
+    "description": " bubbleme Sorbet Balls Kiwi 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6047441.jpg"
+  },
+  {
+    "retailerProductId": "6064536",
+    "crossRetailerId": "9356421001036",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.64,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "4 pack 360mL",
+      "price": 9.5
+    },
+    "name": "GYMBOD Protein Sticks Boysenberry Chocolate 4 pack 360mL",
+    "brand": "GYMBOD",
+    "path": "/shop/productdetails/6064536/gymbod-protein-sticks-boysenberry-chocolate",
+    "description": " GYMBOD Protein Sticks<br>Boysenberry... 4 pack 360mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6064536.jpg"
+  },
+  {
+    "retailerProductId": "694859",
+    "crossRetailerId": "9339687320905",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.12,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "375g",
+      "price": 4.2
+    },
+    "name": "Woolworths Butter Chicken & Rice 375g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/694859/woolworths-butter-chicken-rice-null",
+    "description": " Woolworths Butter Chicken &<br>Rice NULL 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/694859.jpg"
+  },
+  {
+    "retailerProductId": "132260",
+    "crossRetailerId": "9339687221486",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 9
+    },
+    "name": "Woolworths Crumbed Chicken Breast Tenders 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/132260/woolworths-crumbed-chicken-breast-tenders",
+    "description": " Woolworths Crumbed Chicken<br>Breast Tenders  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/132260.jpg"
+  },
+  {
+    "retailerProductId": "7282",
+    "crossRetailerId": "9310080274491",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.08,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "4 pack",
+      "price": 9.9
+    },
+    "name": "Peters Drumstick Super Chocolate 4 pack",
+    "brand": "Peters",
+    "path": "/shop/productdetails/7282/peters-drumstick-super-chocolate",
+    "description": " Peters Drumstick Super<br>Chocolate  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/007282.jpg"
+  },
+  {
+    "retailerProductId": "96190",
+    "crossRetailerId": "9310080108437",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.3,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 13
+    },
+    "name": "Connoisseur Ice Cream Classic Vanilla Tub 1L",
+    "brand": "Connoisseur",
+    "path": "/shop/productdetails/96190/connoisseur-ice-cream-classic-vanilla-tub",
+    "description": " Connoisseur Ice Cream<br>Classic Vanilla Tub 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/096190.jpg"
+  },
+  {
+    "retailerProductId": "385359",
+    "crossRetailerId": "9310213544200",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 10.5
+    },
+    "name": "Steggles Chicken Nuggets Tempura 1kg",
+    "brand": "Steggles",
+    "path": "/shop/productdetails/385359/steggles-chicken-nuggets-tempura",
+    "description": " Steggles Chicken Nuggets<br>Tempura 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/385359.jpg"
+  },
+  {
+    "retailerProductId": "621329",
+    "crossRetailerId": "9300633675097",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "24 pack",
+      "price": 9.9
+    },
+    "name": "Woolworths Party Sausage Rolls 24 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/621329/woolworths-party-sausage-rolls",
+    "description": " Woolworths Party Sausage<br>Rolls  24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/621329.jpg"
+  },
+  {
+    "retailerProductId": "918333",
+    "crossRetailerId": "9310174121731",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.44,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "450g",
+      "price": 11
+    },
+    "name": "McCain Rustica Sourdough Frozen Pizza Supreme 450g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/918333/mccain-rustica-sourdough-frozen-pizza-supreme",
+    "description": " McCain Rustica Sourdough<br>Frozen Pizza... 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/918333.jpg"
+  },
+  {
+    "retailerProductId": "30748",
+    "crossRetailerId": "9311008056946",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.16,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "450g",
+      "price": 9.7
+    },
+    "name": "Patties Sausage Roll Party 450g",
+    "brand": "Patties",
+    "path": "/shop/productdetails/30748/patties-sausage-roll-party",
+    "description": " Patties Sausage Roll Party 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/030748.jpg"
+  },
+  {
+    "retailerProductId": "38728",
+    "crossRetailerId": "9310037147960",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13.75,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 5.5
+    },
+    "name": "Ingham's Frozen Chicken Breast Tenders Original 400g",
+    "brand": "Ingham's",
+    "path": "/shop/productdetails/38728/ingham-s-frozen-chicken-breast-tenders-original",
+    "description": " Ingham's Frozen Chicken<br>Breast Tenders... 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/038728.jpg"
+  },
+  {
+    "retailerProductId": "768570",
+    "crossRetailerId": "9300633450434",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 5
+    },
+    "name": "Woolworths Corn Kernels 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/768570/woolworths-corn-kernels",
+    "description": " Woolworths Corn Kernels 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/768570.jpg"
+  },
+  {
+    "retailerProductId": "310432",
+    "crossRetailerId": "5000116128495",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9.82,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "10 pack",
+      "price": 2.75
+    },
+    "name": "Findus Crumbed Fish Fingers 10 pack",
+    "brand": "Findus",
+    "path": "/shop/productdetails/310432/findus-crumbed-fish-fingers",
+    "description": " Findus Crumbed Fish Fingers  10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/310432.jpg"
+  },
+  {
+    "retailerProductId": "695442",
+    "crossRetailerId": "9339687050659",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.65,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 6.5
+    },
+    "name": "Woolworths Vegetable Cocktail Spring Rolls 60 Pack 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/695442/woolworths-vegetable-cocktail-spring-rolls-60-pack",
+    "description": " Woolworths Vegetable<br>Cocktail Spring... 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/695442.jpg"
+  },
+  {
+    "retailerProductId": "227255",
+    "crossRetailerId": "9358553100441",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 13
+    },
+    "name": "Ingham's Chicken Tenders Original 1kg",
+    "brand": "Ingham's",
+    "path": "/shop/productdetails/227255/ingham-s-chicken-tenders-original",
+    "description": " Ingham's Chicken Tenders<br>Original  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/227255.jpg"
+  },
+  {
+    "retailerProductId": "96844",
+    "crossRetailerId": "9339687445141",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.8,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 2.8
+    },
+    "name": "Essentials Frozen Cut Green Beans 1kg",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/96844/essentials-frozen-cut-green-beans",
+    "description": " Essentials Frozen Cut Green<br>Beans 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/096844.jpg"
+  },
+  {
+    "retailerProductId": "180652",
+    "crossRetailerId": "9310081128823",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 6
+    },
+    "name": "Birds Eye Golden Crunch Crinkle Cut Chips 900g",
+    "brand": "Birds Eye",
+    "path": "/shop/productdetails/180652/birds-eye-golden-crunch-crinkle-cut-chips",
+    "description": " Birds Eye Golden Crunch<br>Crinkle Cut Chips 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180652.jpg"
+  },
+  {
+    "retailerProductId": "503713",
+    "crossRetailerId": "9339687362783",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 3.6
+    },
+    "name": "Woolworths Shoestring Fries 900g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/503713/woolworths-shoestring-fries",
+    "description": " Woolworths Shoestring Fries  900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/503713.jpg"
+  },
+  {
+    "retailerProductId": "854298",
+    "crossRetailerId": "9310174154128",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.27,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g",
+      "price": 7.7
+    },
+    "name": "McCain Straight Sweet Potato Chips 750g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/854298/mccain-straight-sweet-potato-chips",
+    "description": " McCain Straight Sweet Potato<br>Chips 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/854298.jpg"
+  }
+]

@@ -20,8 +20,8 @@ export const WoolworthsProductsPagePayload = z.object({
         // retailerProductId, crossRetailerId, gtinFormat, currentValueId, name,
         // brand, path, description, image_url
         Stockcode: z.number(),
-        Barcode: z.string(),
-        GtinFormat: z.union([z.literal(8), z.literal(12), z.literal(13), z.literal(14)]),
+        Barcode: z.string().nullable(),
+        GtinFormat: z.union([z.literal(0), z.literal(8), z.literal(12), z.literal(13), z.literal(14)]),
         DisplayName: z.string(),              // name
         Brand: z.string().nullable(),             // brand
         Description: z.string(),       // description
@@ -40,8 +40,8 @@ export const WoolworthsProductsPagePayload = z.object({
       }),
       z.object({
         Stockcode: z.number(),
-        Barcode: z.string(),
-        GtinFormat: z.union([z.literal(8), z.literal(12), z.literal(13), z.literal(14)]),
+        Barcode: z.string().nullable(),
+        GtinFormat: z.union([z.literal(0), z.literal(8), z.literal(12), z.literal(13), z.literal(14)]),
         DisplayName: z.string(),              // name
         Brand: z.string().nullable(),             // brand
         Description: z.string(),       // description

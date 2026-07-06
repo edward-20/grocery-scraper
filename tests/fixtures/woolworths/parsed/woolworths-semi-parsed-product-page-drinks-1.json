@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "6063138",
+    "crossRetailerId": "9415767166707",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "500mL",
+      "price": 2
+    },
+    "name": "Maximus Grape Sports Drink 500mL",
+    "brand": "Maximus",
+    "path": "/shop/productdetails/6063138/maximus-grape-sports-drink",
+    "description": " Maximus Grape Sports Drink  500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6063138.jpg"
+  },
+  {
+    "retailerProductId": "38288",
+    "crossRetailerId": "9312631801118",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.04,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "100 pack",
+      "price": 4.3
+    },
+    "name": "Dilmah Premium Quality Tea Bags 100 pack",
+    "brand": "Dilmah",
+    "path": "/shop/productdetails/38288/dilmah-premium-quality-tea-bags",
+    "description": " Dilmah Premium Quality Tea<br>Bags 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/038288.jpg"
+  },
+  {
+    "retailerProductId": "976049",
+    "crossRetailerId": "9356470000332",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.67,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 4 pack",
+      "price": 16
+    },
+    "name": "Heaps Normal Quiet XPA Cans 375mL x 4 pack",
+    "brand": "Heaps Normal",
+    "path": "/shop/productdetails/976049/heaps-normal-quiet-xpa-cans",
+    "description": " Heaps Normal Heaps Normal<br>Quiet XPA... 375mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/976049.jpg"
+  },
+  {
+    "retailerProductId": "6064120",
+    "crossRetailerId": "9415767023796",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "500mL",
+      "price": 2
+    },
+    "name": "Maximus Blue Sports Drink 500mL",
+    "brand": "Maximus",
+    "path": "/shop/productdetails/6064120/maximus-blue-sports-drink",
+    "description": " Maximus Blue Sports Drink  500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6064120.jpg"
+  },
+  {
+    "retailerProductId": "724514",
+    "crossRetailerId": "9336243003166",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.3,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 3.3
+    },
+    "name": "Cocobella Coconut Water Straight Up 1L",
+    "brand": "Cocobella",
+    "path": "/shop/productdetails/724514/cocobella-coconut-water-straight-up",
+    "description": " Cocobella Coconut Water<br>Straight Up 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/724514.jpg"
+  },
+  {
+    "retailerProductId": "38121",
+    "crossRetailerId": "9300675001007",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "2L",
+      "price": 4
+    },
+    "name": "Coca-Cola Classic  Soft Drink Bottle 2L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/38121/coca-cola-classic-soft-drink-bottle-bottle",
+    "description": " Coca-Cola Classic  Soft<br>Drink Bottle Bottle 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/038121.jpg"
+  },
+  {
+    "retailerProductId": "333339",
+    "crossRetailerId": "9339687219223",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 1.15
+    },
+    "name": "Woolworths Lemonade Bottle 1.25L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/333339/woolworths-lemonade-bottle",
+    "description": " Woolworths Lemonade Bottle 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/333339.jpg"
+  },
+  {
+    "retailerProductId": "730998",
+    "crossRetailerId": "9310036045359",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 3
+    },
+    "name": "Pauls Zymil Lactose Free Full Cream Long Life Milk UHT 1L",
+    "brand": "Pauls",
+    "path": "/shop/productdetails/730998/pauls-zymil-lactose-free-full-cream-long-life-milk-uht",
+    "description": " Pauls Zymil Lactose Free<br>Full Cream Long Life... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/730998.jpg"
+  },
+  {
+    "retailerProductId": "24318",
+    "crossRetailerId": "9300652510911",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.4,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.4
+    },
+    "name": "Sanitarium So Good Soy Regular Long Life Milk UHT 1L",
+    "brand": "Sanitarium",
+    "path": "/shop/productdetails/24318/sanitarium-so-good-soy-regular-long-life-milk-uht",
+    "description": " Sanitarium So Good Soy<br>Regular Long Life... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/024318.jpg"
+  },
+  {
+    "retailerProductId": "7984",
+    "crossRetailerId": "9313820016603",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.9,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "2L",
+      "price": 3.8
+    },
+    "name": "Pepsi Max No Sugar Cola Soft Drink Bottle 2L",
+    "brand": "Pepsi",
+    "path": "/shop/productdetails/7984/pepsi-max-no-sugar-cola-soft-drink-bottle",
+    "description": " Pepsi Max No Sugar Cola Soft<br>Drink Bottle 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/007984.jpg"
+  },
+  {
+    "retailerProductId": "6063801",
+    "crossRetailerId": "9415767181403",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "500mL",
+      "price": 2
+    },
+    "name": "Maximus Mango Passionfruit Sports Drink 500mL",
+    "brand": "Maximus",
+    "path": "/shop/productdetails/6063801/maximus-mango-passionfruit-sports-drink",
+    "description": " Maximus Mango Passionfruit<br>Sports Drink 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6063801.jpg"
+  },
+  {
+    "retailerProductId": "196566",
+    "crossRetailerId": "9312631129625",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.05,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "100 pack",
+      "price": 5.3
+    },
+    "name": "Dilmah Extra Strength Tea Bags 100 pack",
+    "brand": "Dilmah",
+    "path": "/shop/productdetails/196566/dilmah-extra-strength-tea-bags",
+    "description": " Dilmah Extra Strength Tea<br>Bags 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/196566.jpg"
+  },
+  {
+    "retailerProductId": "6076606",
+    "crossRetailerId": "9350271005596",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.25,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 4 pack",
+      "price": 8.25
+    },
+    "name": "Remedy Sodaly Tropical Cans 250mL x 4 pack",
+    "brand": "Remedy",
+    "path": "/shop/productdetails/6076606/remedy-sodaly-tropical-cans",
+    "description": " Remedy Sodaly Tropical Cans  250mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6076606.jpg"
+  },
+  {
+    "retailerProductId": "679135",
+    "crossRetailerId": "9002490238438",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.93,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "473mL x 4 pack",
+      "price": 15
+    },
+    "name": "Red Bull Energy Drink 473mL x 4 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/679135/red-bull-energy-drink",
+    "description": " Red Bull Energy Drink 473mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/679135.jpg"
+  },
+  {
+    "retailerProductId": "744490",
+    "crossRetailerId": "9300652803495",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 3
+    },
+    "name": "Sanitarium So Good Unsweetened Almond Long Life Milk UHT 1L",
+    "brand": "Sanitarium",
+    "path": "/shop/productdetails/744490/sanitarium-so-good-unsweetened-almond-long-life-milk-uht",
+    "description": " Sanitarium So Good<br>Unsweetened Almond... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/744490.jpg"
+  },
+  {
+    "retailerProductId": "785627",
+    "crossRetailerId": "9369999603052",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.5,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 5.5
+    },
+    "name": "Raw C Coconut Water Pure Natural 1L",
+    "brand": "Raw C",
+    "path": "/shop/productdetails/785627/raw-c-coconut-water-pure-natural",
+    "description": " Raw C Coconut Water Pure<br>Natural 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/785627.jpg"
+  },
+  {
+    "retailerProductId": "793315",
+    "crossRetailerId": "9300675014779",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 10 pack",
+      "price": 21
+    },
+    "name": "Coca-Cola Classic Soft Drink Cans 375mL x 10 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/793315/coca-cola-classic-soft-drink-cans",
+    "description": " Coca-Cola Classic Soft Drink<br>Cans 375mL x 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/793315.jpg"
+  },
+  {
+    "retailerProductId": "365189",
+    "crossRetailerId": "9300675024075",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "600mL",
+      "price": 2.25
+    },
+    "name": "Powerade ION4 Berry Ice Sports Drink Sipper Cap 600mL",
+    "brand": "Powerade",
+    "path": "/shop/productdetails/365189/powerade-ion4-berry-ice-sports-drink-sipper-cap",
+    "description": " Powerade ION4 Berry Ice<br>Sports Drink... 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365189.jpg"
+  },
+  {
+    "retailerProductId": "858008",
+    "crossRetailerId": "9312231001215",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.6
+    },
+    "name": "PureHarvest Organic Almond Unsweetened Long Life Milk UH 1L",
+    "brand": "PureHarvest",
+    "path": "/shop/productdetails/858008/pureharvest-organic-almond-unsweetened-long-life-milk-uh",
+    "description": " PureHarvest Organic Almond<br>Unsweetened Long Life... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/858008.jpg"
+  },
+  {
+    "retailerProductId": "773129",
+    "crossRetailerId": "9313820001487",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.62,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 30 pack",
+      "price": 29.5
+    },
+    "name": "Pepsi Max No Sugar Soft Drink Cans 375mL x 30 pack",
+    "brand": "Pepsi",
+    "path": "/shop/productdetails/773129/pepsi-max-no-sugar-soft-drink-cans",
+    "description": " Pepsi Max No Sugar Soft<br>Drink... 375mL x 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/773129.jpg"
+  },
+  {
+    "retailerProductId": "672966",
+    "crossRetailerId": "9300675079501",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "2L",
+      "price": 4
+    },
+    "name": "Coca-Cola Zero Sugar Soft Drink Bottle 2L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/672966/coca-cola-zero-sugar-soft-drink-bottle",
+    "description": " Coca-Cola Zero Sugar Soft<br>Drink Bottle 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/672966.jpg"
+  },
+  {
+    "retailerProductId": "633876",
+    "crossRetailerId": "9300633680497",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 20 pack",
+      "price": 8
+    },
+    "name": "Woolworths Spring Water Minis 250mL x 20 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/633876/woolworths-spring-water-minis",
+    "description": " Woolworths Spring Water<br>Minis 250mL x 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/633876.jpg"
+  },
+  {
+    "retailerProductId": "81274",
+    "crossRetailerId": "9335388001785",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "600mL x 20 pack",
+      "price": 11
+    },
+    "name": "Nu Pure Still Spring Water 600mL x 20 pack",
+    "brand": "Nu Pure",
+    "path": "/shop/productdetails/81274/nu-pure-still-spring-water",
+    "description": " Nu Pure Still Spring Water  600mL x 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/081274.jpg"
+  },
+  {
+    "retailerProductId": "749793",
+    "crossRetailerId": "9300633394189",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.53,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.5L",
+      "price": 0.8
+    },
+    "name": "Woolworths Spring Water Bottle 1.5L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/749793/woolworths-spring-water-bottle",
+    "description": " Woolworths Spring Water<br>Bottle 1.5L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/749793.jpg"
+  },
+  {
+    "retailerProductId": "511504",
+    "crossRetailerId": "9342866000536",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.25,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "500mL x 4 pack",
+      "price": 16.5
+    },
+    "name": "Monster Energy Ultra Cans 500mL x 4 pack",
+    "brand": "Monster",
+    "path": "/shop/productdetails/511504/monster-energy-ultra-cans",
+    "description": " Monster Energy Ultra Cans 500mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/511504.jpg"
+  },
+  {
+    "retailerProductId": "230367",
+    "crossRetailerId": "9300639600383",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.2,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.2
+    },
+    "name": "Devondale Semi Skim Long Life Milk UHT 1L",
+    "brand": "Devondale",
+    "path": "/shop/productdetails/230367/devondale-semi-skim-long-life-milk-uht",
+    "description": " Devondale Semi Skim Long<br>Life Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/230367.jpg"
+  },
+  {
+    "retailerProductId": "561890",
+    "crossRetailerId": "9300633629755",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.25,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "500mL x 20 pack",
+      "price": 12.5
+    },
+    "name": "Woolworths Lightly Sparkling Spring Water 500mL x 20 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/561890/woolworths-lightly-sparkling-spring-water",
+    "description": " Woolworths Lightly Sparkling<br>Spring... 500mL x 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/561890.jpg"
+  },
+  {
+    "retailerProductId": "120207",
+    "crossRetailerId": "9300652809985",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 3
+    },
+    "name": "Sanitarium So Good Oat No Added Sugar Long Life Milk UHT 1L",
+    "brand": "Sanitarium",
+    "path": "/shop/productdetails/120207/sanitarium-so-good-oat-no-added-sugar-long-life-milk-uht",
+    "description": " Sanitarium So Good Oat No<br>Added Sugar Long Life... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/120207.jpg"
+  },
+  {
+    "retailerProductId": "105914",
+    "crossRetailerId": "7613287431585",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.01,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "395g",
+      "price": 4
+    },
+    "name": "Nestle Sweetened Condensed Milk 395g",
+    "brand": "Nestle",
+    "path": "/shop/productdetails/105914/nestle-sweetened-condensed-milk",
+    "description": " Nestle Sweetened Condensed<br>Milk  395g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/105914.jpg"
+  },
+  {
+    "retailerProductId": "95325",
+    "crossRetailerId": "9300675008013",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.36,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 4.2
+    },
+    "name": "Sprite Lemonade Soft Drink Bottle 1.25L",
+    "brand": "Sprite",
+    "path": "/shop/productdetails/95325/sprite-lemonade-soft-drink-bottle",
+    "description": " Sprite Lemonade Soft Drink<br>Bottle 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/095325.jpg"
+  },
+  {
+    "retailerProductId": "148781",
+    "crossRetailerId": "9341650001599",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 3
+    },
+    "name": "Vitasoy Oat Milky Long Life Milk UHT 1L",
+    "brand": "Vitasoy",
+    "path": "/shop/productdetails/148781/vitasoy-oat-milky-long-life-milk-uht",
+    "description": " Vitasoy Oat Milky Long Life<br>Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/148781.jpg"
+  },
+  {
+    "retailerProductId": "756025",
+    "crossRetailerId": "9300633417604",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 1.15
+    },
+    "name": "Woolworths Lemonade Zero Sugar Bottle 1.25L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/756025/woolworths-lemonade-zero-sugar-bottle",
+    "description": " Woolworths Lemonade Zero<br>Sugar Bottle 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/756025.jpg"
+  }
+]

@@ -1,0 +1,540 @@
+[
+  {
+    "retailerProductId": "6046312",
+    "crossRetailerId": "9318637044535",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.17,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "473mL",
+      "price": 15
+    },
+    "name": "Cetaphil Gentle Skin Cleanser 473mL",
+    "brand": "Cetaphil",
+    "path": "/shop/productdetails/6046312/cetaphil-gentle-skin-cleanser",
+    "description": " Cetaphil Gentle Skin<br>Cleanser  473mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6046312.jpg"
+  },
+  {
+    "retailerProductId": "104935",
+    "crossRetailerId": "3616301758396",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 14.44,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "each",
+      "price": 13
+    },
+    "name": "Sally Hansen Insta Dri Buff & Tumble Nail Polish each",
+    "brand": "Sally Hansen",
+    "path": "/shop/productdetails/104935/sally-hansen-insta-dri-buff-tumble-nail-polish",
+    "description": " Sally Hansen Insta Dri Buff<br>& Tumble Nail... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/104935.jpg"
+  },
+  {
+    "retailerProductId": "18193",
+    "crossRetailerId": "74170451245",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 13.53,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "13.3mL",
+      "price": 18
+    },
+    "name": "Sally Hansen Vitamin E Cuticle Oil 13.3mL",
+    "brand": "Sally Hansen",
+    "path": "/shop/productdetails/18193/sally-hansen-vitamin-e-cuticle-oil",
+    "description": " Sally Hansen Vitamin E<br>Cuticle Oil  13.3mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/018193.jpg"
+  },
+  {
+    "retailerProductId": "137323",
+    "crossRetailerId": "3616302250813",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 14.18,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "each",
+      "price": 13
+    },
+    "name": "Sally Hansen Insta Dri Cinna each",
+    "brand": "Sally Hansen",
+    "path": "/shop/productdetails/137323/sally-hansen-insta-dri-cinna",
+    "description": " Sally Hansen Insta Dri Cinna<br> each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/137323.jpg"
+  },
+  {
+    "retailerProductId": "133628",
+    "crossRetailerId": "9339687223695",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.06,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "30 pack",
+      "price": 1.8
+    },
+    "name": "Voeu Micellar Cleansing Wipes 30 pack",
+    "brand": "Voeu",
+    "path": "/shop/productdetails/133628/voeu-micellar-cleansing-wipes",
+    "description": " Voeu Micellar Cleansing<br>Wipes  30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/133628.jpg"
+  },
+  {
+    "retailerProductId": "133627",
+    "crossRetailerId": "9339687223688",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.06,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "30 pack",
+      "price": 1.8
+    },
+    "name": "Voeu Cleansing Facial Wipes 30 pack",
+    "brand": "Voeu",
+    "path": "/shop/productdetails/133627/voeu-cleansing-facial-wipes",
+    "description": " Voeu Cleansing Facial Wipes  30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/133627.jpg"
+  },
+  {
+    "retailerProductId": "567595",
+    "crossRetailerId": "4005900312020",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.42,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "4.8g",
+      "price": 5
+    },
+    "name": "Nivea Original Care Moisturising Lip Balm 4.8g",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/567595/nivea-original-care-moisturising-lip-balm",
+    "description": " Nivea Original Care<br>Moisturising Lip... 4.8g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/567595.jpg"
+  },
+  {
+    "retailerProductId": "715669",
+    "crossRetailerId": "70501053553",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 0.18,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "25 pack",
+      "price": 4.5
+    },
+    "name": "Neutrogena Night Calming Makeup Remover Cleansing Wipes 25 pack",
+    "brand": "Neutrogena",
+    "path": "/shop/productdetails/715669/neutrogena-night-calming-makeup-remover-cleansing-wipes",
+    "description": " Neutrogena Night Calming<br>Makeup Remover... 25 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/715669.jpg"
+  },
+  {
+    "retailerProductId": "37241",
+    "crossRetailerId": "93201711",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 5.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "100g",
+      "price": 5.5
+    },
+    "name": "Vaseline Petroleum Jelly Original 100g",
+    "brand": "Vaseline",
+    "path": "/shop/productdetails/37241/vaseline-petroleum-jelly-original-original",
+    "description": " Vaseline Petroleum Jelly<br>Original Original 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/037241.jpg"
+  },
+  {
+    "retailerProductId": "250242",
+    "crossRetailerId": "9310158111567",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "75g",
+      "price": 4.5
+    },
+    "name": "TRESemme Hairspray Extra Hold 75g",
+    "brand": "TRESemme",
+    "path": "/shop/productdetails/250242/tresemme-hairspray-extra-hold",
+    "description": " TRESemme Hairspray Extra<br>Hold 75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/250242.jpg"
+  },
+  {
+    "retailerProductId": "79588",
+    "crossRetailerId": "3616300777435",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 12.67,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "each",
+      "price": 19
+    },
+    "name": "Sally Hansen Miracle Gel Pinky Promise each",
+    "brand": "Sally Hansen",
+    "path": "/shop/productdetails/79588/sally-hansen-miracle-gel-pinky-promise",
+    "description": " Sally Hansen Miracle Gel<br>Pinky Promise  each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/079588.jpg"
+  },
+  {
+    "retailerProductId": "296384",
+    "crossRetailerId": "3616302973897",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 17.29,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "13.3mL",
+      "price": 23
+    },
+    "name": "Sally Hansen Repair + Rescue Super Strength Defense Nail Polish 13.3mL",
+    "brand": "Sally Hansen",
+    "path": "/shop/productdetails/296384/sally-hansen-repair-rescue-super-strength-defense-nail-polish",
+    "description": " Sally Hansen Repair + Rescue<br>Super Strength... 13.3mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/296384.jpg"
+  },
+  {
+    "retailerProductId": "422545",
+    "crossRetailerId": "74170450996",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 15.04,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "13.3mL",
+      "price": 20
+    },
+    "name": "Sally Hansen Nail Complete Care 7-In-1 13.3mL",
+    "brand": "Sally Hansen",
+    "path": "/shop/productdetails/422545/sally-hansen-nail-complete-care-7-in-1",
+    "description": " Sally Hansen Nail Complete<br>Care 7-In-1 13.3mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/422545.jpg"
+  },
+  {
+    "retailerProductId": "764346",
+    "crossRetailerId": "4005808379712",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 23.08,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "65mL",
+      "price": 15
+    },
+    "name": "Nivea SPF 50 Sun Kids Protect & Play Roll On Sunscreen 65mL",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/764346/nivea-spf-50-sun-kids-protect-play-roll-on-sunscreen",
+    "description": " Nivea SPF 50 Sun Kids<br>Protect & Play Roll... 65mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/764346.jpg"
+  },
+  {
+    "retailerProductId": "28694",
+    "crossRetailerId": "4005808236879",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 10
+    },
+    "name": "Nivea Rich Nourishing Body Lotion 72hr Moisturiser For Dry Skin 400mL",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/28694/nivea-rich-nourishing-body-lotion-72hr-moisturiser-for-dry-skin",
+    "description": " Nivea Rich Nourishing Body<br>Lotion 72hr... 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/028694.jpg"
+  },
+  {
+    "retailerProductId": "273110",
+    "crossRetailerId": "4005808369928",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.42,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "4.8g",
+      "price": 5
+    },
+    "name": "Nivea Hydrocare Lip Balm SPF 15 4.8g",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/273110/nivea-hydrocare-lip-balm-spf-15",
+    "description": " Nivea Hydrocare Lip Balm SPF<br>15 4.8g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/273110.jpg"
+  },
+  {
+    "retailerProductId": "213893",
+    "crossRetailerId": "70501051054",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 0.18,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "25 pack",
+      "price": 4.5
+    },
+    "name": "Neutrogena Night Calming Makeup Remover Cleansing Wipes 25 pack",
+    "brand": "Neutrogena",
+    "path": "/shop/productdetails/213893/neutrogena-night-calming-makeup-remover-cleansing-wipes",
+    "description": " Neutrogena Night Calming<br>Makeup Remover... 25 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/213893.jpg"
+  },
+  {
+    "retailerProductId": "609209",
+    "crossRetailerId": "8710908056505",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "250mL",
+      "price": null
+    },
+    "name": "Dove Hair Dry Shampoo Refresh & Care 250mL",
+    "brand": "Dove",
+    "path": "/shop/productdetails/609209/dove-hair-dry-shampoo-refresh-care",
+    "description": " Dove Hair Dry Shampoo<br>Refresh & Care 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/609209.jpg"
+  },
+  {
+    "retailerProductId": "329373",
+    "crossRetailerId": "4005808246014",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.24,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "250mL",
+      "price": 3.1
+    },
+    "name": "Nivea Rich Nourishing Body Lotion 72hr Moisturiser For Dry Skin 250mL",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/329373/nivea-rich-nourishing-body-lotion-72hr-moisturiser-for-dry-skin",
+    "description": " Nivea Rich Nourishing Body<br>Lotion 72hr... 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/329373.jpg"
+  },
+  {
+    "retailerProductId": "227552",
+    "crossRetailerId": "9310158111543",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "360g",
+      "price": 6.3
+    },
+    "name": "TRESemme Hairspray Extra Hold 360g",
+    "brand": "TRESemme",
+    "path": "/shop/productdetails/227552/tresemme-hairspray-extra-hold",
+    "description": " TRESemme Hairspray Extra<br>Hold 360g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/227552.jpg"
+  },
+  {
+    "retailerProductId": "779445",
+    "crossRetailerId": "3600541358560",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.25,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 17
+    },
+    "name": "Garnier Skin Active Micellar Cleansing Water All-In-1 400mL",
+    "brand": "Garnier",
+    "path": "/shop/productdetails/779445/garnier-skin-active-micellar-cleansing-water-all-in-1",
+    "description": " Garnier Skin Active Micellar<br>Cleansing Water... 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/779445.jpg"
+  },
+  {
+    "retailerProductId": "89596",
+    "crossRetailerId": "4005808237470",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.88,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 11.5
+    },
+    "name": "Nivea Q10 Plus Firming Body Lotion With Vitamin C & 72hr Moisture 400mL",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/89596/nivea-q10-plus-firming-body-lotion-with-vitamin-c-72hr-moisture",
+    "description": " Nivea Q10 Plus Firming Body<br>Lotion With... 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/089596.jpg"
+  },
+  {
+    "retailerProductId": "71404",
+    "crossRetailerId": "6923700977578",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 7
+    },
+    "name": "Garnier Skinactive Hydra Bomb Tissue Face Mask Sakura each",
+    "brand": "Garnier",
+    "path": "/shop/productdetails/71404/garnier-skinactive-hydra-bomb-tissue-face-mask-sakura",
+    "description": " Garnier Skinactive Hydra<br>Bomb Tissue Face... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/071404.jpg"
+  },
+  {
+    "retailerProductId": "147737",
+    "crossRetailerId": "4005900776730",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "25 pack",
+      "price": null
+    },
+    "name": "Nivea Sensitive Biodegradable Face Cleansing Makeup Wipes 25 pack",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/147737/nivea-sensitive-biodegradable-face-cleansing-makeup-wipes",
+    "description": " Nivea Sensitive<br>Biodegradable... 25 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/147737.jpg"
+  },
+  {
+    "retailerProductId": "823177",
+    "crossRetailerId": "9312426006841",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.15,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "36 pack",
+      "price": 5.4
+    },
+    "name": "Skin Control Pimple Patch Am & Pm Mixed 36 pack",
+    "brand": "Skin Control",
+    "path": "/shop/productdetails/823177/skin-control-pimple-patch-am-pm-mixed",
+    "description": " Skin Control Pimple Patch Am<br>& Pm Mixed 36 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/823177.jpg"
+  },
+  {
+    "retailerProductId": "611753",
+    "crossRetailerId": "3600541975071",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.57,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "700mL",
+      "price": 25
+    },
+    "name": "Garnier Skin Active Micellar Cleansing Water All-In-1 700mL",
+    "brand": "Garnier",
+    "path": "/shop/productdetails/611753/garnier-skin-active-micellar-cleansing-water-all-in-1",
+    "description": " Garnier Skin Active Micellar<br>Cleansing Water... 700mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/611753.jpg"
+  },
+  {
+    "retailerProductId": "8617",
+    "crossRetailerId": "9310714467121",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.96,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 9.9
+    },
+    "name": "Schwarzkopf Extra Care Hair Spray Strong Styling Hairspray 250g",
+    "brand": "Schwarzkopf",
+    "path": "/shop/productdetails/8617/schwarzkopf-extra-care-hair-spray-strong-styling-hairspray",
+    "description": " Schwarzkopf Extra Care Hair<br>Spray Strong... 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/008617.jpg"
+  },
+  {
+    "retailerProductId": "6010622",
+    "crossRetailerId": "75371002946",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 3.45,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "510g",
+      "price": 17.6
+    },
+    "name": "Tree Hut Shea Sugar Scrub Vanilla 510g",
+    "brand": "Tree Hut",
+    "path": "/shop/productdetails/6010622/tree-hut-shea-sugar-scrub-vanilla",
+    "description": " Tree Hut Shea Sugar Scrub<br>Vanilla 510g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010622.jpg"
+  },
+  {
+    "retailerProductId": "35629",
+    "crossRetailerId": "9300673869715",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.71,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "4.2g",
+      "price": 4.5
+    },
+    "name": "Chapstick SPF 15+ Conditioner Lip Balm With Sunscreen 4.2g",
+    "brand": "Chapstick",
+    "path": "/shop/productdetails/35629/chapstick-spf-15-conditioner-lip-balm-with-sunscreen",
+    "description": " Chapstick SPF 15+<br>Conditioner Lip... 4.2g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/035629.jpg"
+  },
+  {
+    "retailerProductId": "205926",
+    "crossRetailerId": "4005808369836",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.42,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "48g",
+      "price": 5
+    },
+    "name": "Nivea Fruity Shine Strawberry Lip Balm 48g",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/205926/nivea-fruity-shine-strawberry-lip-balm",
+    "description": " Nivea Fruity Shine<br>Strawberry Lip Balm 48g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/205926.jpg"
+  },
+  {
+    "retailerProductId": "892601",
+    "crossRetailerId": "3600541729476",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.8,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "125mL",
+      "price": 8.5
+    },
+    "name": "Garnier Skin Active Micellar Cleansing Water All-In-1 125mL",
+    "brand": "Garnier",
+    "path": "/shop/productdetails/892601/garnier-skin-active-micellar-cleansing-water-all-in-1",
+    "description": " Garnier Skin Active Micellar<br>Cleansing Water... 125mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/892601.jpg"
+  },
+  {
+    "retailerProductId": "514947",
+    "crossRetailerId": "9314839004827",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.05,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 30.5
+    },
+    "name": "QV Gentle Wash 1kg",
+    "brand": "QV",
+    "path": "/shop/productdetails/514947/qv-gentle-wash",
+    "description": " QV Gentle Wash  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/514947.jpg"
+  }
+]

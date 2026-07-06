@@ -1,0 +1,543 @@
+[
+  {
+    "retailerProductId": "679135",
+    "crossRetailerId": "9002490238438",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.93,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "473mL x 4 pack",
+      "price": 15
+    },
+    "name": "Red Bull Energy Drink 473mL x 4 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/679135/red-bull-energy-drink",
+    "description": " Red Bull Energy Drink 473mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/679135.jpg"
+  },
+  {
+    "retailerProductId": "114683",
+    "crossRetailerId": "9323966118970",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.81,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "333g",
+      "price": 36
+    },
+    "name": "Lindt Lindor Assorted Chocolate Box 333g",
+    "brand": "Lindt",
+    "path": "/shop/productdetails/114683/lindt-lindor-assorted-chocolate-box",
+    "description": " Lindt Lindor Assorted<br>Chocolate Box 333g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/114683.jpg"
+  },
+  {
+    "retailerProductId": "814479",
+    "crossRetailerId": "9300617064879",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.44,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "180g",
+      "price": 8
+    },
+    "name": "Cadbury Dairy Milk Chocolate Block 180g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/814479/cadbury-dairy-milk-chocolate-block",
+    "description": " Cadbury Dairy Milk Chocolate<br>Block 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/814479.jpg"
+  },
+  {
+    "retailerProductId": "828985",
+    "crossRetailerId": "9300617042884",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.38,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "160g",
+      "price": 7
+    },
+    "name": "Cadbury Pascall Clinker Milk Chocolate Lollies Snack & Share Bag 160g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/828985/cadbury-pascall-clinker-milk-chocolate-lollies-snack-share-bag",
+    "description": " Cadbury Pascall Clinker Milk<br>Chocolate Lollies... 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/828985.jpg"
+  },
+  {
+    "retailerProductId": "814624",
+    "crossRetailerId": "9300617065074",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.44,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "180g",
+      "price": 8
+    },
+    "name": "Cadbury Dairy Milk Top Deck Chocolate Block 180g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/814624/cadbury-dairy-milk-top-deck-chocolate-block",
+    "description": " Cadbury Dairy Milk Top Deck<br>Chocolate Block 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/814624.jpg"
+  },
+  {
+    "retailerProductId": "97482",
+    "crossRetailerId": "9310072014753",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 4
+    },
+    "name": "Arnott's Vita Weat 9 Grain Crispbreads 250g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/97482/arnott-s-vita-weat-9-grain-crispbreads",
+    "description": " Arnott's Vita Weat 9 Grain<br>Crispbreads 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/097482.jpg"
+  },
+  {
+    "retailerProductId": "6013220",
+    "crossRetailerId": "9300675096706",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 15 pack",
+      "price": 15
+    },
+    "name": "Coca-Cola Mini Zero Sugar 250mL x 15 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/6013220/coca-cola-mini-zero-sugar",
+    "description": " Coca-Cola Mini Zero Sugar  250mL x 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6013220.jpg"
+  },
+  {
+    "retailerProductId": "6022302",
+    "crossRetailerId": "9300617309758",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "315g",
+      "price": 8.5
+    },
+    "name": "Cadbury Dairy Milk Large Chocolate Block 315g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/6022302/cadbury-dairy-milk-large-chocolate-block",
+    "description": " Cadbury Dairy Milk Large<br>Chocolate Block 315g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6022302.jpg"
+  },
+  {
+    "retailerProductId": "210151",
+    "crossRetailerId": "9310072019994",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.77,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "310g",
+      "price": 5.5
+    },
+    "name": "Arnott's Premier Chocolate Chip Cookies 310g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/210151/arnott-s-premier-chocolate-chip-cookies",
+    "description": " Arnott's Premier Chocolate<br>Chip Cookies 310g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/210151.jpg"
+  },
+  {
+    "retailerProductId": "384247",
+    "crossRetailerId": "9310072026275",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.11,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "180g",
+      "price": 2
+    },
+    "name": "Arnott's Shapes Cheese & Bacon Cracker Biscuits 180g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/384247/arnott-s-shapes-cheese-bacon-cracker-biscuits",
+    "description": " Arnott's Shapes Cheese &<br>Bacon Cracker... 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/384247.jpg"
+  },
+  {
+    "retailerProductId": "6059234",
+    "crossRetailerId": "9300617310792",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.59,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "195g",
+      "price": 7
+    },
+    "name": "Cadbury & More Tiramisu Swirl Chocolate Block 195g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/6059234/cadbury-more-tiramisu-swirl-chocolate-block",
+    "description": " Cadbury & More Tiramisu<br>Swirl Chocolate... 195g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6059234.jpg"
+  },
+  {
+    "retailerProductId": "641531",
+    "crossRetailerId": "9310072029450",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "8 pack",
+      "price": 4
+    },
+    "name": "Arnott's Shapes Cracker Biscuits Pizza 8 pack",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/641531/arnott-s-shapes-cracker-biscuits-pizza",
+    "description": " Arnott's Shapes Cracker<br>Biscuits Pizza 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/641531.jpg"
+  },
+  {
+    "retailerProductId": "6062989",
+    "crossRetailerId": "9300617310853",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.71,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 8
+    },
+    "name": "Cadbury Caramilk Biscoff Chocolate Block 170g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/6062989/cadbury-caramilk-biscoff-chocolate-block",
+    "description": " Cadbury Caramilk Biscoff<br>Chocolate Block 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6062989.jpg"
+  },
+  {
+    "retailerProductId": "6058728",
+    "crossRetailerId": "9300617310754",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.59,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "195g",
+      "price": 7
+    },
+    "name": "Cadbury & More Hazelnut Praline Chocolate Block 195g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/6058728/cadbury-more-hazelnut-praline-chocolate-block",
+    "description": " Cadbury & More Hazelnut<br>Praline Chocolate... 195g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6058728.jpg"
+  },
+  {
+    "retailerProductId": "641537",
+    "crossRetailerId": "9310072029597",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "15 pack",
+      "price": 6
+    },
+    "name": "Arnott's Tiny Teddy Variety Biscuits 15 pack",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/641537/arnott-s-tiny-teddy-variety-biscuits",
+    "description": " Arnott's Tiny Teddy Variety<br>Biscuits 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/641537.jpg"
+  },
+  {
+    "retailerProductId": "98361",
+    "crossRetailerId": "9300617323419",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.67,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "30g",
+      "price": 2
+    },
+    "name": "Cadbury Chomp Caramel Milk Chocolate Bar 30g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/98361/cadbury-chomp-caramel-milk-chocolate-bar",
+    "description": " Cadbury Chomp Caramel Milk<br>Chocolate Bar 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/098361.jpg"
+  },
+  {
+    "retailerProductId": "814558",
+    "crossRetailerId": "9300617064923",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.44,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "180g",
+      "price": 8
+    },
+    "name": "Cadbury Dairy Milk Hazelnut Chocolate Block 180g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/814558/cadbury-dairy-milk-hazelnut-chocolate-block",
+    "description": " Cadbury Dairy Milk Hazelnut<br>Chocolate Block 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/814558.jpg"
+  },
+  {
+    "retailerProductId": "479502",
+    "crossRetailerId": "8886467103421",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.46,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "134g",
+      "price": 3.3
+    },
+    "name": "Pringles Sour Cream & Onion Potato Chips 134g",
+    "brand": "Pringles",
+    "path": "/shop/productdetails/479502/pringles-sour-cream-onion-potato-chips",
+    "description": " Pringles Sour Cream & Onion<br>Potato Chips 134g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/479502.jpg"
+  },
+  {
+    "retailerProductId": "635960",
+    "crossRetailerId": "9315596006260",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.64,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.1L",
+      "price": 1.8
+    },
+    "name": "Schweppes Soda Water Mixer Bottle 1.1L",
+    "brand": "Schweppes",
+    "path": "/shop/productdetails/635960/schweppes-soda-water-mixer-bottle-mixers",
+    "description": " Schweppes Soda Water Mixer<br>Bottle Mixers 1.1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/635960.jpg"
+  },
+  {
+    "retailerProductId": "36016",
+    "crossRetailerId": "9310072013817",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 5
+    },
+    "name": "Arnott's Family Favourites Assorted Biscuits 500g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36016/arnott-s-family-favourites-assorted-biscuits",
+    "description": " Arnott's Family Favourites<br>Assorted Biscuits 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036016.jpg"
+  },
+  {
+    "retailerProductId": "365548",
+    "crossRetailerId": "9300675024051",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "600mL",
+      "price": null
+    },
+    "name": "Powerade ION4 Lemon Lime Sports Drink Sipper Cap 600mL",
+    "brand": "Powerade",
+    "path": "/shop/productdetails/365548/powerade-ion4-lemon-lime-sports-drink-sipper-cap",
+    "description": " Powerade ION4 Lemon Lime<br>Sports Drink... 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365548.jpg"
+  },
+  {
+    "retailerProductId": "84628",
+    "crossRetailerId": "9310072010816",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.19,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "365g",
+      "price": 8
+    },
+    "name": "Arnott's Tim Tam Original Family Pack Chocolate Biscuits 365g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/84628/arnott-s-tim-tam-original-family-pack-chocolate-biscuits",
+    "description": " Arnott's Tim Tam Original<br>Family Pack... 365g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/084628.jpg"
+  },
+  {
+    "retailerProductId": "77888",
+    "crossRetailerId": "9311008031141",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.73,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "12 pack",
+      "price": 9.7
+    },
+    "name": "Patties Party Pies Frozen 12 pack",
+    "brand": "Patties",
+    "path": "/shop/productdetails/77888/patties-party-pies-frozen",
+    "description": " Patties Party Pies Frozen 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/077888.jpg"
+  },
+  {
+    "retailerProductId": "18862",
+    "crossRetailerId": "9300605158290",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.25,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "48g",
+      "price": 3
+    },
+    "name": "KitKat Chunky Bar 48g",
+    "brand": "KitKat",
+    "path": "/shop/productdetails/18862/kitkat-chunky-bar",
+    "description": " KitKat Chunky Bar  48g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/018862.jpg"
+  },
+  {
+    "retailerProductId": "98299",
+    "crossRetailerId": "9310174025084",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.73,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g",
+      "price": 5.8
+    },
+    "name": "McCain Hash Browns Shredded 750g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/98299/mccain-hash-browns-shredded",
+    "description": " McCain Hash Browns Shredded 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/098299.jpg"
+  },
+  {
+    "retailerProductId": "210630",
+    "crossRetailerId": "9310434005832",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.27,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "220g",
+      "price": 5
+    },
+    "name": "The Natural Confectionery Co. Sour Squirms Lollies 220g",
+    "brand": "The Natural Confectionery Co.",
+    "path": "/shop/productdetails/210630/the-natural-confectionery-co-sour-squirms-lollies",
+    "description": " The Natural Confectionery<br>Co. Sour Squirms... 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/210630.jpg"
+  },
+  {
+    "retailerProductId": "317455",
+    "crossRetailerId": "9300650452558",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.96,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "204g",
+      "price": 4
+    },
+    "name": "Oreo Mini Cookies Original Bags 10 pack 204g",
+    "brand": "Oreo",
+    "path": "/shop/productdetails/317455/oreo-mini-cookies-original-bags-10-pack",
+    "description": " Oreo Mini Cookies Original<br>Bags 10 pack 204g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/317455.jpg"
+  },
+  {
+    "retailerProductId": "6073604",
+    "crossRetailerId": "757528055080",
+    "gtinFormat": 12,
+    "currentValue": {
+      "unitPrice": 2.21,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "190g",
+      "price": 4.2
+    },
+    "name": "Takis Blue Heat Tortilla Chips 190g",
+    "brand": "Takis",
+    "path": "/shop/productdetails/6073604/takis-blue-heat-tortilla-chips",
+    "description": " Takis Blue Heat Tortilla<br>Chips  190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6073604.jpg"
+  },
+  {
+    "retailerProductId": "315505",
+    "crossRetailerId": "9310174113880",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.97,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "370g",
+      "price": 11
+    },
+    "name": "McCain Rustica Thin & Crispy Australian Angus Beef Pizza 370g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/315505/mccain-rustica-thin-crispy-australian-angus-beef-pizza",
+    "description": " McCain Rustica Thin & Crispy<br>Australian Angus... 370g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/315505.jpg"
+  },
+  {
+    "retailerProductId": "87143",
+    "crossRetailerId": "9300617292005",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "144g",
+      "price": 3.75
+    },
+    "name": "Cadbury Dairy Milk Chocolate Freddo 12 pack 144g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/87143/cadbury-dairy-milk-chocolate-freddo-12-pack",
+    "description": " Cadbury Dairy Milk Chocolate<br>Freddo 12 pack 144g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/087143.jpg"
+  },
+  {
+    "retailerProductId": "180941",
+    "crossRetailerId": "9300675020961",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.36,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 4.2
+    },
+    "name": "Coca-Cola Vanilla  Soft Drink Bottle 1.25L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/180941/coca-cola-vanilla-soft-drink-bottle-bottle",
+    "description": " Coca-Cola Vanilla  Soft<br>Drink Bottle... 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180941.jpg"
+  },
+  {
+    "retailerProductId": "140090",
+    "crossRetailerId": "9300624402138",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.44,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 1.8
+    },
+    "name": "Kirks Pasito Soft Drink Bottle 1.25L",
+    "brand": "Kirks",
+    "path": "/shop/productdetails/140090/kirks-pasito-soft-drink-bottle",
+    "description": " Kirks Pasito Soft Drink<br>Bottle 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/140090.jpg"
+  }
+]

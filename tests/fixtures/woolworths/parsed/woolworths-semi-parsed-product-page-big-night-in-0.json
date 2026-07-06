@@ -1,0 +1,529 @@
+[
+  {
+    "retailerProductId": "36013",
+    "crossRetailerId": "9310072001777",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.32,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 3.3
+    },
+    "name": "Arnott's Scotch Finger Plain Biscuits 250g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36013/arnott-s-scotch-finger-plain-biscuits",
+    "description": " Arnott's Scotch Finger Plain<br>Biscuits 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036013.jpg"
+  },
+  {
+    "retailerProductId": "641537",
+    "crossRetailerId": "9310072029597",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "15 pack",
+      "price": 6
+    },
+    "name": "Arnott's Tiny Teddy Variety Biscuits 15 pack",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/641537/arnott-s-tiny-teddy-variety-biscuits",
+    "description": " Arnott's Tiny Teddy Variety<br>Biscuits 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/641537.jpg"
+  },
+  {
+    "retailerProductId": "36215",
+    "crossRetailerId": "9310072000275",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.65,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 3.3
+    },
+    "name": "Arnott's Mint Slice Chocolate Biscuits 200g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36215/arnott-s-mint-slice-chocolate-biscuits",
+    "description": " Arnott's Mint Slice<br>Chocolate Biscuits 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036215.jpg"
+  },
+  {
+    "retailerProductId": "136874",
+    "crossRetailerId": "9300624034315",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 10 pack",
+      "price": 21
+    },
+    "name": "Mount Franklin Lightly Sparkling Water Passionfruit Cans 375mL x 10 pack",
+    "brand": "Mount Franklin",
+    "path": "/shop/productdetails/136874/mount-franklin-lightly-sparkling-water-passionfruit-cans",
+    "description": " Mount Franklin Lightly<br>... 375mL x 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/136874.jpg"
+  },
+  {
+    "retailerProductId": "669683",
+    "crossRetailerId": "9300675079709",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.89,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 24 pack",
+      "price": 26
+    },
+    "name": "Coca-Cola Zero Sugar Soft Drink Cans 375mL x 24 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/669683/coca-cola-zero-sugar-soft-drink-cans",
+    "description": " Coca-Cola Zero Sugar Soft<br>Drink... 375mL x 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/669683.jpg"
+  },
+  {
+    "retailerProductId": "32731",
+    "crossRetailerId": "9300675001113",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.36,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 4.2
+    },
+    "name": "Coca-Cola Classic  Soft Drink Bottle 1.25L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/32731/coca-cola-classic-soft-drink-bottle",
+    "description": " Coca-Cola Classic  Soft<br>Drink Bottle  1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/032731.jpg"
+  },
+  {
+    "retailerProductId": "42605",
+    "crossRetailerId": "9300675000628",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.89,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 24 pack",
+      "price": 26
+    },
+    "name": "Coca-Cola Classic Soft Drink Cans 375mL x 24 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/42605/coca-cola-classic-soft-drink-cans",
+    "description": " Coca-Cola Classic Soft Drink<br>Cans 375mL x 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/042605.jpg"
+  },
+  {
+    "retailerProductId": "623034",
+    "crossRetailerId": "9300675079488",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.36,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 4.2
+    },
+    "name": "Coca-Cola Zero Sugar Soft Drink Bottle 1.25L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/623034/coca-cola-zero-sugar-soft-drink-bottle",
+    "description": " Coca-Cola Zero Sugar Soft<br>Drink Bottle 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/623034.jpg"
+  },
+  {
+    "retailerProductId": "826730",
+    "crossRetailerId": "9310015241888",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.94,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 5
+    },
+    "name": "Smith's Crinkle Cut Potato Chips Original 170g",
+    "brand": "Smith's",
+    "path": "/shop/productdetails/826730/smith-s-crinkle-cut-potato-chips-original",
+    "description": " Smith's Crinkle Cut Potato<br>Chips Original 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826730.jpg"
+  },
+  {
+    "retailerProductId": "826738",
+    "crossRetailerId": "9310015241895",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.94,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 5
+    },
+    "name": "Smith's Crinkle Cut Potato Chips Salt & Vinegar 170g",
+    "brand": "Smith's",
+    "path": "/shop/productdetails/826738/smith-s-crinkle-cut-potato-chips-salt-vinegar",
+    "description": " Smith's Crinkle Cut Potato<br>Chips Salt &... 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826738.jpg"
+  },
+  {
+    "retailerProductId": "176210",
+    "crossRetailerId": "9300624034285",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 10 pack",
+      "price": 21
+    },
+    "name": "Mount Franklin Lightly Sparkling Water Mango 375mL x 10 pack",
+    "brand": "Mount Franklin",
+    "path": "/shop/productdetails/176210/mount-franklin-lightly-sparkling-water-mango",
+    "description": " Mount Franklin Lightly<br>... 375mL x 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/176210.jpg"
+  },
+  {
+    "retailerProductId": "6064067",
+    "crossRetailerId": "9315596010267",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.33,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 6 pack",
+      "price": 6.5
+    },
+    "name": "Schweppes Coastal Fizz Lemon Lychee Mini Can No Sugar Mixer Soft Drink 250mL x 6 pack",
+    "brand": "Schweppes",
+    "path": "/shop/productdetails/6064067/schweppes-coastal-fizz-lemon-lychee-mini-can-no-sugar-mixer-soft-drink",
+    "description": " Schweppes Coastal Fizz Lemon<br>Lychee... 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6064067.jpg"
+  },
+  {
+    "retailerProductId": "6008388",
+    "crossRetailerId": "90457852",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 12.8,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL",
+      "price": 3.2
+    },
+    "name": "Red Bull Berry Edition Sugar Free 250mL",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/6008388/red-bull-berry-edition-sugar-free",
+    "description": " Red Bull Berry Edition Sugar<br>Free 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6008388.jpg"
+  },
+  {
+    "retailerProductId": "6063977",
+    "crossRetailerId": "9315596010243",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.33,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 6 pack",
+      "price": 6.5
+    },
+    "name": "Schweppes Summer Fizz Blood Orange Lime No Sugar Mixer Soft Drink 250mL x 6 pack",
+    "brand": "Schweppes",
+    "path": "/shop/productdetails/6063977/schweppes-summer-fizz-blood-orange-lime-no-sugar-mixer-soft-drink",
+    "description": " Schweppes Summer Fizz Blood<br>Orange... 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6063977.jpg"
+  },
+  {
+    "retailerProductId": "7985",
+    "crossRetailerId": "9313820016504",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 1.87
+    },
+    "name": "Pepsi Max Cola No Sugar Soft Drink Bottle 1.25L",
+    "brand": "Pepsi",
+    "path": "/shop/productdetails/7985/pepsi-max-cola-no-sugar-soft-drink-bottle",
+    "description": " Pepsi Max Cola No Sugar Soft<br>Drink Bottle 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/007985.jpg"
+  },
+  {
+    "retailerProductId": "384250",
+    "crossRetailerId": "9310072026404",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.07,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "225g",
+      "price": 2.4
+    },
+    "name": "Arnott's Jatz Original Crackers Biscuits 225g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/384250/arnott-s-jatz-original-crackers-biscuits",
+    "description": " Arnott's Jatz Original<br>Crackers Biscuits 225g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/384250.jpg"
+  },
+  {
+    "retailerProductId": "820459",
+    "crossRetailerId": "9334714000645",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.15,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "65g 5 pack",
+      "price": 4
+    },
+    "name": "Cobs Sea Salt Popcorn 65g 5 pack",
+    "brand": "Cobs",
+    "path": "/shop/productdetails/820459/cobs-sea-salt-popcorn",
+    "description": " Cobs Sea Salt Popcorn 65g 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/820459.jpg"
+  },
+  {
+    "retailerProductId": "669379",
+    "crossRetailerId": "9300675079686",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 10 pack",
+      "price": 21
+    },
+    "name": "Coca-Cola Zero Sugar Soft Drink Cans 375mL x 10 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/669379/coca-cola-zero-sugar-soft-drink-cans",
+    "description": " Coca-Cola Zero Sugar Soft<br>Drink... 375mL x 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/669379.jpg"
+  },
+  {
+    "retailerProductId": "36066",
+    "crossRetailerId": "9310072000282",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 6
+    },
+    "name": "Arnott's Tim Tam Original Chocolate Biscuits 200g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36066/arnott-s-tim-tam-original-chocolate-biscuits",
+    "description": " Arnott's Tim Tam Original<br>Chocolate Biscuits 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036066.jpg"
+  },
+  {
+    "retailerProductId": "162609",
+    "crossRetailerId": "9002490100759",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 4 pack",
+      "price": 13
+    },
+    "name": "Red Bull Energy Drink 250mL x 4 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/162609/red-bull-energy-drink",
+    "description": " Red Bull Energy Drink 250mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/162609.jpg"
+  },
+  {
+    "retailerProductId": "54291",
+    "crossRetailerId": "9313820016146",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.39,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 24 pack",
+      "price": 39.5
+    },
+    "name": "Pepsi Max No Sugar Soft Drink Cans 375mL x 24 pack",
+    "brand": "Pepsi",
+    "path": "/shop/productdetails/54291/pepsi-max-no-sugar-soft-drink-cans",
+    "description": " Pepsi Max No Sugar Soft<br>Drink... 375mL x 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/054291.jpg"
+  },
+  {
+    "retailerProductId": "36019",
+    "crossRetailerId": "9310072001524",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.36,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 3.4
+    },
+    "name": "Arnott's Salada Original Crispbreads 250g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36019/arnott-s-salada-original-crispbreads",
+    "description": " Arnott's Salada Original<br>Crispbreads 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036019.jpg"
+  },
+  {
+    "retailerProductId": "365190",
+    "crossRetailerId": "9300624008354",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "600mL",
+      "price": 2.25
+    },
+    "name": "Powerade ION4 Mountain Blast Sports Drink Sipper Cap 600mL",
+    "brand": "Powerade",
+    "path": "/shop/productdetails/365190/powerade-ion4-mountain-blast-sports-drink-sipper-cap",
+    "description": " Powerade ION4 Mountain Blast<br>Sports Drink... 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365190.jpg"
+  },
+  {
+    "retailerProductId": "826735",
+    "crossRetailerId": "9310015241864",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.94,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 5
+    },
+    "name": "Smith's Crinkle Cut Potato Chips Cheese & Onion 170g",
+    "brand": "Smith's",
+    "path": "/shop/productdetails/826735/smith-s-crinkle-cut-potato-chips-cheese-onion",
+    "description": " Smith's Crinkle Cut Potato<br>Chips Cheese &... 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826735.jpg"
+  },
+  {
+    "retailerProductId": "38121",
+    "crossRetailerId": "9300675001007",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "2L",
+      "price": 4
+    },
+    "name": "Coca-Cola Classic  Soft Drink Bottle 2L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/38121/coca-cola-classic-soft-drink-bottle-bottle",
+    "description": " Coca-Cola Classic  Soft<br>Drink Bottle Bottle 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/038121.jpg"
+  },
+  {
+    "retailerProductId": "826729",
+    "crossRetailerId": "9310015241871",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.94,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 5
+    },
+    "name": "Smith's Crinkle Cut Potato Chips Chicken 170g",
+    "brand": "Smith's",
+    "path": "/shop/productdetails/826729/smith-s-crinkle-cut-potato-chips-chicken",
+    "description": " Smith's Crinkle Cut Potato<br>Chips Chicken 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826729.jpg"
+  },
+  {
+    "retailerProductId": "826733",
+    "crossRetailerId": "9310015241857",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.94,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 5
+    },
+    "name": "Smith's Crinkle Cut Potato Chips Barbecue 170g",
+    "brand": "Smith's",
+    "path": "/shop/productdetails/826733/smith-s-crinkle-cut-potato-chips-barbecue",
+    "description": " Smith's Crinkle Cut Potato<br>Chips Barbecue 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826733.jpg"
+  },
+  {
+    "retailerProductId": "7984",
+    "crossRetailerId": "9313820016603",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.9,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "2L",
+      "price": 3.8
+    },
+    "name": "Pepsi Max No Sugar Cola Soft Drink Bottle 2L",
+    "brand": "Pepsi",
+    "path": "/shop/productdetails/7984/pepsi-max-no-sugar-cola-soft-drink-bottle",
+    "description": " Pepsi Max No Sugar Cola Soft<br>Drink Bottle 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/007984.jpg"
+  },
+  {
+    "retailerProductId": "793315",
+    "crossRetailerId": "9300675014779",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 10 pack",
+      "price": 21
+    },
+    "name": "Coca-Cola Classic Soft Drink Cans 375mL x 10 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/793315/coca-cola-classic-soft-drink-cans",
+    "description": " Coca-Cola Classic Soft Drink<br>Cans 375mL x 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/793315.jpg"
+  },
+  {
+    "retailerProductId": "365189",
+    "crossRetailerId": "9300675024075",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "600mL",
+      "price": 2.25
+    },
+    "name": "Powerade ION4 Berry Ice Sports Drink Sipper Cap 600mL",
+    "brand": "Powerade",
+    "path": "/shop/productdetails/365189/powerade-ion4-berry-ice-sports-drink-sipper-cap",
+    "description": " Powerade ION4 Berry Ice<br>Sports Drink... 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365189.jpg"
+  },
+  {
+    "retailerProductId": "6115",
+    "crossRetailerId": "9300605155459",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.14,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "42g",
+      "price": 3
+    },
+    "name": "KitKat Chocolate Bar 42g",
+    "brand": "KitKat",
+    "path": "/shop/productdetails/6115/kitkat-chocolate-bar",
+    "description": " KitKat Chocolate Bar  42g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/006115.jpg"
+  }
+]

@@ -1,0 +1,540 @@
+[
+  {
+    "retailerProductId": "83836",
+    "crossRetailerId": "9300652808834",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 3
+    },
+    "name": "Sanitarium So Good Barista Almond Long Life Milk UHT 1L",
+    "brand": "Sanitarium",
+    "path": "/shop/productdetails/83836/sanitarium-so-good-barista-almond-long-life-milk-uht",
+    "description": " Sanitarium So Good Barista<br>Almond Long Life Milk... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/083836.jpg"
+  },
+  {
+    "retailerProductId": "79223",
+    "crossRetailerId": "9300650431812",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "250g",
+      "price": 4.5
+    },
+    "name": "Philadelphia Original Cream Cheese Spread Tub 250g",
+    "brand": "Philadelphia",
+    "path": "/shop/productdetails/79223/philadelphia-original-cream-cheese-spread-tub",
+    "description": " Philadelphia Original Cream<br>Cheese Spread Tub 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/079223.jpg"
+  },
+  {
+    "retailerProductId": "503952",
+    "crossRetailerId": "9310036077961",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.93,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "70g",
+      "price": 1.35
+    },
+    "name": "Pauls Kids Bluey Mango Yoghurt Pouch 70g",
+    "brand": "Pauls",
+    "path": "/shop/productdetails/503952/pauls-kids-bluey-mango-yoghurt-pouch",
+    "description": " Pauls Kids Bluey Mango<br>Yoghurt Pouch 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/503952.jpg"
+  },
+  {
+    "retailerProductId": "208804",
+    "crossRetailerId": "9330370013036",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 5
+    },
+    "name": "Nuffin Chive & Onion Dip 200g",
+    "brand": "Nuffin",
+    "path": "/shop/productdetails/208804/nuffin-chive-onion-dip",
+    "description": " Nuffin Chive & Onion Dip  200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/208804.jpg"
+  },
+  {
+    "retailerProductId": "744490",
+    "crossRetailerId": "9300652803495",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 3
+    },
+    "name": "Sanitarium So Good Unsweetened Almond Long Life Milk UHT 1L",
+    "brand": "Sanitarium",
+    "path": "/shop/productdetails/744490/sanitarium-so-good-unsweetened-almond-long-life-milk-uht",
+    "description": " Sanitarium So Good<br>Unsweetened Almond... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/744490.jpg"
+  },
+  {
+    "retailerProductId": "331445",
+    "crossRetailerId": "9310036039730",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.82,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "140g",
+      "price": 2.55
+    },
+    "name": "Vaalia Kids Probiotic Yoghurt Pouch Vanilla 140g",
+    "brand": "Vaalia",
+    "path": "/shop/productdetails/331445/vaalia-kids-probiotic-yoghurt-pouch-vanilla",
+    "description": " Vaalia Kids Probiotic<br>Yoghurt Pouch... 140g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/331445.jpg"
+  },
+  {
+    "retailerProductId": "124806",
+    "crossRetailerId": "9310036063698",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.32,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "110g",
+      "price": 2.55
+    },
+    "name": "Tamar Valley Dairy Kids Greek Yoghurt Pouch Banana 110g",
+    "brand": "Tamar Valley",
+    "path": "/shop/productdetails/124806/tamar-valley-dairy-kids-greek-yoghurt-pouch-banana",
+    "description": " Tamar Valley Dairy Kids<br>Greek Yoghurt Pouch... 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/124806.jpg"
+  },
+  {
+    "retailerProductId": "6036107",
+    "crossRetailerId": "9339687429943",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.28,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 2.8
+    },
+    "name": "Woolworths Essentials Table Spread 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/6036107/woolworths-essentials-table-spread",
+    "description": " Woolworths Essentials Table<br>Spread  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6036107.jpg"
+  },
+  {
+    "retailerProductId": "57182",
+    "crossRetailerId": "9415007002062",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.83,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "375g",
+      "price": 10.6
+    },
+    "name": "Mainland Buttersoft Pure  Butter Tub Salted 375g",
+    "brand": "Mainland",
+    "path": "/shop/productdetails/57182/mainland-buttersoft-pure-butter-tub-salted",
+    "description": " Mainland Buttersoft Pure <br>Butter Tub Salted 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/057182.jpg"
+  },
+  {
+    "retailerProductId": "717518",
+    "crossRetailerId": "894700010663",
+    "gtinFormat": 12,
+    "currentValue": {
+      "unitPrice": 0.87,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "907g",
+      "price": 7.9
+    },
+    "name": "Chobani Greek Yoghurt Natural Light Plain 907g",
+    "brand": "Chobani",
+    "path": "/shop/productdetails/717518/chobani-greek-yoghurt-natural-light-plain",
+    "description": " Chobani Greek Yoghurt<br>Natural Light Plain 907g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/717518.jpg"
+  },
+  {
+    "retailerProductId": "208001",
+    "crossRetailerId": "9330370013067",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 5
+    },
+    "name": "Nuffin Fetta & Cracked Pepper Dip 200g",
+    "brand": "Nuffin",
+    "path": "/shop/productdetails/208001/nuffin-fetta-cracked-pepper-dip",
+    "description": " Nuffin Fetta & Cracked<br>Pepper Dip 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/208001.jpg"
+  },
+  {
+    "retailerProductId": "178437",
+    "crossRetailerId": "9310354890006",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.72,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 7.2
+    },
+    "name": "Jalna Pot Set Creamy Vanilla Yoghurt 1kg",
+    "brand": "Jalna",
+    "path": "/shop/productdetails/178437/jalna-pot-set-creamy-vanilla-yoghurt",
+    "description": " Jalna Pot Set Creamy Vanilla<br>Yoghurt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/178437.jpg"
+  },
+  {
+    "retailerProductId": "6060414",
+    "crossRetailerId": "9359054002623",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "150g",
+      "price": 3
+    },
+    "name": "Muscle Nation Protein Yoghurt Pouch Raspberry Pistachio Papi 150g",
+    "brand": "Muscle Nation",
+    "path": "/shop/productdetails/6060414/muscle-nation-protein-yoghurt-pouch-raspberry-pistachio-papi",
+    "description": " Muscle Nation Protein<br>Yoghurt Pouch... 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6060414.jpg"
+  },
+  {
+    "retailerProductId": "90130",
+    "crossRetailerId": "9330752003358",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "300g",
+      "price": 8
+    },
+    "name": "Plantein Plant Based Schnitzel 300g",
+    "brand": "Plantein",
+    "path": "/shop/productdetails/90130/plantein-plant-based-schnitzel",
+    "description": " Plantein Plant Based<br>Schnitzel  300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/090130.jpg"
+  },
+  {
+    "retailerProductId": "508826",
+    "crossRetailerId": "9310036046677",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.32,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "110g",
+      "price": 2.55
+    },
+    "name": "Tamar Valley Dairy Kids Greek Yoghurt Pouch Vanilla 110g",
+    "brand": "Tamar Valley",
+    "path": "/shop/productdetails/508826/tamar-valley-dairy-kids-greek-yoghurt-pouch-vanilla",
+    "description": " Tamar Valley Dairy Kids<br>Greek Yoghurt Pouch... 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/508826.jpg"
+  },
+  {
+    "retailerProductId": "728983",
+    "crossRetailerId": "9300633326197",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16.6,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 8.3
+    },
+    "name": "Woolworths Mozzarella Shredded Cheese 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/728983/woolworths-mozzarella-shredded-cheese",
+    "description": " Woolworths Mozzarella<br>Shredded Cheese 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/728983.jpg"
+  },
+  {
+    "retailerProductId": "660435",
+    "crossRetailerId": "9310036045731",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.32,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "110g",
+      "price": 2.55
+    },
+    "name": "Tamar Valley Dairy Kids Greek Yoghurt Pouch Blueberry 110g",
+    "brand": "Tamar Valley",
+    "path": "/shop/productdetails/660435/tamar-valley-dairy-kids-greek-yoghurt-pouch-blueberry",
+    "description": " Tamar Valley Dairy Kids<br>Greek Yoghurt Pouch... 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/660435.jpg"
+  },
+  {
+    "retailerProductId": "794731",
+    "crossRetailerId": "9344962002148",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "150g",
+      "price": 1.9
+    },
+    "name": "YoPRO Protein Yoghurt Pouch Vanilla 150g",
+    "brand": "YoPRO",
+    "path": "/shop/productdetails/794731/yopro-protein-yoghurt-pouch-vanilla",
+    "description": " YoPRO Protein Yoghurt Pouch<br>Vanilla 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/794731.jpg"
+  },
+  {
+    "retailerProductId": "50923",
+    "crossRetailerId": "9300633963583",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Full Cream Milk 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/50923/woolworths-full-cream-milk",
+    "description": " Woolworths Full Cream Milk 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/050923.jpg"
+  },
+  {
+    "retailerProductId": "858008",
+    "crossRetailerId": "9312231001215",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.6
+    },
+    "name": "PureHarvest Organic Almond Unsweetened Long Life Milk UH 1L",
+    "brand": "PureHarvest",
+    "path": "/shop/productdetails/858008/pureharvest-organic-almond-unsweetened-long-life-milk-uh",
+    "description": " PureHarvest Organic Almond<br>Unsweetened Long Life... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/858008.jpg"
+  },
+  {
+    "retailerProductId": "729026",
+    "crossRetailerId": "9300633326319",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "500g",
+      "price": null
+    },
+    "name": "Woolworths Tasty Shredded Cheese 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/729026/woolworths-tasty-shredded-cheese",
+    "description": " Woolworths Tasty Shredded<br>Cheese 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/729026.jpg"
+  },
+  {
+    "retailerProductId": "310237",
+    "crossRetailerId": "9300633988098",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 15.4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 7.7
+    },
+    "name": "Woolworths Tasty Cheese Block 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/310237/woolworths-tasty-cheese-block",
+    "description": " Woolworths Tasty Cheese<br>Block  500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/310237.jpg"
+  },
+  {
+    "retailerProductId": "48025",
+    "crossRetailerId": "9310052181123",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.96,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 4.9
+    },
+    "name": "Western Star Salted Butter Block 250g",
+    "brand": "Western Star",
+    "path": "/shop/productdetails/48025/western-star-salted-butter-block-butter-block",
+    "description": " Western Star Salted Butter<br>Block Butter Block 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/048025.jpg"
+  },
+  {
+    "retailerProductId": "167552",
+    "crossRetailerId": "9310036073468",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.79,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 3.05
+    },
+    "name": "Tamar Valley Dairy Yoghurt Strawberry & Cream 170g",
+    "brand": "Tamar Valley",
+    "path": "/shop/productdetails/167552/tamar-valley-dairy-yoghurt-strawberry-cream",
+    "description": " Tamar Valley Dairy Yoghurt<br>Strawberry & Cream 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/167552.jpg"
+  },
+  {
+    "retailerProductId": "788553",
+    "crossRetailerId": "9336243005009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.94,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "425mL",
+      "price": 4.65
+    },
+    "name": "Rokeby Protein Smoothie Banana Honey Cinnamon 425mL",
+    "brand": "Rokeby",
+    "path": "/shop/productdetails/788553/rokeby-protein-smoothie-banana-honey-cinnamon",
+    "description": " Rokeby Protein Smoothie<br>Banana Honey... 425mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/788553.jpg"
+  },
+  {
+    "retailerProductId": "862492",
+    "crossRetailerId": "9310036066231",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.93,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "70g",
+      "price": 1.35
+    },
+    "name": "Pauls Kids Bluey Vanilla Yoghurt Pouch 70g",
+    "brand": "Pauls",
+    "path": "/shop/productdetails/862492/pauls-kids-bluey-vanilla-yoghurt-pouch",
+    "description": " Pauls Kids Bluey Vanilla<br>Yoghurt Pouch 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/862492.jpg"
+  },
+  {
+    "retailerProductId": "31547",
+    "crossRetailerId": "9300658228537",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 7.5
+    },
+    "name": "Farmers Union Greek Style Natural Yoghurt 1kg",
+    "brand": "Farmers Union",
+    "path": "/shop/productdetails/31547/farmers-union-greek-style-natural-yoghurt",
+    "description": " Farmers Union Greek Style<br>Natural Yoghurt 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/031547.jpg"
+  },
+  {
+    "retailerProductId": "729008",
+    "crossRetailerId": "9300633326210",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "500g",
+      "price": null
+    },
+    "name": "Woolworths Light Tasty Shredded Cheese 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/729008/woolworths-light-tasty-shredded-cheese",
+    "description": " Woolworths Light Tasty<br>Shredded Cheese 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/729008.jpg"
+  },
+  {
+    "retailerProductId": "360847",
+    "crossRetailerId": "9310161005051",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 8
+    },
+    "name": "Bulla Cottage Cheese Plain 500g",
+    "brand": "Bulla",
+    "path": "/shop/productdetails/360847/bulla-cottage-cheese-plain-cheese",
+    "description": " Bulla Cottage Cheese Plain<br>Cheese 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/360847.jpg"
+  },
+  {
+    "retailerProductId": "41402",
+    "crossRetailerId": "9310161005006",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 24,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "200g",
+      "price": 4.8
+    },
+    "name": "Bulla Cottage Cheese Original 200g",
+    "brand": "Bulla",
+    "path": "/shop/productdetails/41402/bulla-cottage-cheese-original",
+    "description": " Bulla Cottage Cheese<br>Original 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/041402.jpg"
+  },
+  {
+    "retailerProductId": "6039963",
+    "crossRetailerId": "9336243004668",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "160g",
+      "price": 2.4
+    },
+    "name": "Rokeby Protein Snack Chocolate 160g",
+    "brand": "Rokeby",
+    "path": "/shop/productdetails/6039963/rokeby-protein-snack-chocolate",
+    "description": " Rokeby Protein Snack<br>Chocolate 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6039963.jpg"
+  },
+  {
+    "retailerProductId": "42161",
+    "crossRetailerId": "9300665023217",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 38.4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "125g",
+      "price": 4.8
+    },
+    "name": "Perfect Italiano Parmesan Cheese Grated 125g",
+    "brand": "Perfect Italiano",
+    "path": "/shop/productdetails/42161/perfect-italiano-parmesan-cheese-grated-parmesan",
+    "description": " Perfect Italiano Parmesan<br>Cheese Grated... 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/042161.jpg"
+  }
+]

@@ -1,0 +1,543 @@
+[
+  {
+    "retailerProductId": "728499",
+    "crossRetailerId": "4001724819400",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.44,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "390g",
+      "price": 9.5
+    },
+    "name": "Dr. Oetker Ristorante Pizza Spinaci 390g",
+    "brand": "Dr. Oetker",
+    "path": "/shop/productdetails/728499/dr-oetker-ristorante-pizza-spinaci",
+    "description": " Dr. Oetker Ristorante Pizza<br>Spinaci 390g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/728499.jpg"
+  },
+  {
+    "retailerProductId": "705357",
+    "crossRetailerId": "9344988000043",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.68,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "355g",
+      "price": 9.5
+    },
+    "name": "Dr. Oetker Ristorante Pizza Hawaii 355g",
+    "brand": "Dr. Oetker",
+    "path": "/shop/productdetails/705357/dr-oetker-ristorante-pizza-hawaii",
+    "description": " Dr. Oetker Ristorante Pizza<br>Hawaii 355g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/705357.jpg"
+  },
+  {
+    "retailerProductId": "6046306",
+    "crossRetailerId": "9310081137290",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 6
+    },
+    "name": "Birds Eye Golden Crunch Shoestring Chips 900g",
+    "brand": "Birds Eye",
+    "path": "/shop/productdetails/6046306/birds-eye-golden-crunch-shoestring-chips",
+    "description": " Birds Eye Golden Crunch<br>Shoestring Chips  900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6046306.jpg"
+  },
+  {
+    "retailerProductId": "66711",
+    "crossRetailerId": "9310037148950",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 25,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "300g",
+      "price": 7.5
+    },
+    "name": "Ingham's Free Range Chicken Breast Ciabatta Parsley Crumb Frozen 300g",
+    "brand": "Ingham's",
+    "path": "/shop/productdetails/66711/ingham-s-free-range-chicken-breast-ciabatta-parsley-crumb-frozen",
+    "description": " Ingham's Free Range Chicken<br>Breast Ciabatta... 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/066711.jpg"
+  },
+  {
+    "retailerProductId": "768561",
+    "crossRetailerId": "9300633450342",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 4
+    },
+    "name": "Woolworths Broccoli & Cauliflower 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/768561/woolworths-broccoli-cauliflower",
+    "description": " Woolworths Broccoli &<br>Cauliflower 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/768561.jpg"
+  },
+  {
+    "retailerProductId": "77888",
+    "crossRetailerId": "9311008031141",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.73,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "12 pack",
+      "price": 9.7
+    },
+    "name": "Patties Party Pies Frozen 12 pack",
+    "brand": "Patties",
+    "path": "/shop/productdetails/77888/patties-party-pies-frozen",
+    "description": " Patties Party Pies Frozen 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/077888.jpg"
+  },
+  {
+    "retailerProductId": "40518",
+    "crossRetailerId": "9310080236550",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.3,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "2L",
+      "price": 5.95
+    },
+    "name": "Peters Original Vanilla Ice Cream 2L",
+    "brand": "Peters",
+    "path": "/shop/productdetails/40518/peters-original-vanilla-ice-cream-ice-cream",
+    "description": " Peters Original Vanilla Ice<br>Cream Ice Cream 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/040518.jpg"
+  },
+  {
+    "retailerProductId": "98299",
+    "crossRetailerId": "9310174025084",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.73,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g",
+      "price": 5.8
+    },
+    "name": "McCain Hash Browns Shredded 750g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/98299/mccain-hash-browns-shredded",
+    "description": " McCain Hash Browns Shredded 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/098299.jpg"
+  },
+  {
+    "retailerProductId": "901499",
+    "crossRetailerId": "9309001863098",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 4.5
+    },
+    "name": "Your Spud Co Hash Browns 1kg",
+    "brand": "Your Spud Co",
+    "path": "/shop/productdetails/901499/your-spud-co-hash-browns",
+    "description": " Your Spud Co Hash Browns  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/901499.jpg"
+  },
+  {
+    "retailerProductId": "429267",
+    "crossRetailerId": "9300633565084",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 5
+    },
+    "name": "Bell Farms Frozen Mash Potato 1kg",
+    "brand": "Bell Farms",
+    "path": "/shop/productdetails/429267/bell-farms-frozen-mash-potato",
+    "description": " Bell Farms Frozen Mash<br>Potato  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/429267.jpg"
+  },
+  {
+    "retailerProductId": "6073986",
+    "crossRetailerId": "8858984841292",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.47,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "283g",
+      "price": 7
+    },
+    "name": "Authentic Asia Thai Prawn Wonton Kee Mao Noodles 283g",
+    "brand": "Authentic Asia",
+    "path": "/shop/productdetails/6073986/authentic-asia-thai-prawn-wonton-kee-mao-noodles",
+    "description": " Authentic Asia Thai Prawn<br>Wonton Kee Mao... 283g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6073986.jpg"
+  },
+  {
+    "retailerProductId": "6024443",
+    "crossRetailerId": "9415022010813",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 17.18,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "425g",
+      "price": 7.3
+    },
+    "name": "Sealord Hoki Fillets Pub Style Batter 425g",
+    "brand": "Sealord",
+    "path": "/shop/productdetails/6024443/sealord-hoki-fillets-pub-style-batter",
+    "description": " Sealord Hoki Fillets Pub<br>Style Batter 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6024443.jpg"
+  },
+  {
+    "retailerProductId": "170932",
+    "crossRetailerId": "4953823243498",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.33,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "270mL",
+      "price": 9
+    },
+    "name": "Lotte Yukimi Mochi Ice Confectionery Strawberry 270mL",
+    "brand": "Lotte",
+    "path": "/shop/productdetails/170932/lotte-yukimi-mochi-ice-confectionery-strawberry",
+    "description": " Lotte Yukimi Mochi Ice<br>Confectionery... 270mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/170932.jpg"
+  },
+  {
+    "retailerProductId": "6024292",
+    "crossRetailerId": "9415022020775",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 17.18,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "425g",
+      "price": 7.3
+    },
+    "name": "Sealord Hoki Fillets Lemon Pepper Crumb 425g",
+    "brand": "Sealord",
+    "path": "/shop/productdetails/6024292/sealord-hoki-fillets-lemon-pepper-crumb",
+    "description": " Sealord Hoki Fillets Lemon<br>Pepper Crumb 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6024292.jpg"
+  },
+  {
+    "retailerProductId": "315505",
+    "crossRetailerId": "9310174113880",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.97,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "370g",
+      "price": 11
+    },
+    "name": "McCain Rustica Thin & Crispy Australian Angus Beef Pizza 370g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/315505/mccain-rustica-thin-crispy-australian-angus-beef-pizza",
+    "description": " McCain Rustica Thin & Crispy<br>Australian Angus... 370g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/315505.jpg"
+  },
+  {
+    "retailerProductId": "768558",
+    "crossRetailerId": "9300633450311",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 2.8
+    },
+    "name": "Woolworths Frozen Sliced Beans 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/768558/woolworths-frozen-sliced-beans",
+    "description": " Woolworths Frozen Sliced<br>Beans 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/768558.jpg"
+  },
+  {
+    "retailerProductId": "693777",
+    "crossRetailerId": "9300633285562",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g",
+      "price": 3.5
+    },
+    "name": "Woolworths Potato Wedges 750g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/693777/woolworths-potato-wedges",
+    "description": " Woolworths Potato Wedges  750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/693777.jpg"
+  },
+  {
+    "retailerProductId": "815126",
+    "crossRetailerId": "9339687072804",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "450g",
+      "price": 9.3
+    },
+    "name": "Macro Organic Frozen Blueberries 450g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/815126/macro-organic-frozen-blueberries",
+    "description": " Macro Organic Frozen<br>Blueberries 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/815126.jpg"
+  },
+  {
+    "retailerProductId": "374274",
+    "crossRetailerId": "9300633218799",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 5
+    },
+    "name": "Woolworths Australian Frozen Sweet Corn Cobs 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/374274/woolworths-australian-frozen-sweet-corn-cobs",
+    "description": " Woolworths Australian Frozen<br>Sweet Corn Cobs 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/374274.jpg"
+  },
+  {
+    "retailerProductId": "815129",
+    "crossRetailerId": "9339687072835",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "450g",
+      "price": null
+    },
+    "name": "Macro Organic Frozen Mixed Berries 450g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/815129/macro-organic-frozen-mixed-berries",
+    "description": " Macro Organic Frozen Mixed<br>Berries 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/815129.jpg"
+  },
+  {
+    "retailerProductId": "259674",
+    "crossRetailerId": "9310080105764",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.02,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "6 pack",
+      "price": 9.9
+    },
+    "name": "Peters Drumstick Minis Ice Cream Vanilla 6 pack",
+    "brand": "Peters",
+    "path": "/shop/productdetails/259674/peters-drumstick-minis-ice-cream-vanilla",
+    "description": " Peters Drumstick Minis Ice<br>Cream Vanilla 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/259674.jpg"
+  },
+  {
+    "retailerProductId": "768622",
+    "crossRetailerId": "9310081431039",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.47,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "850g",
+      "price": 5.5
+    },
+    "name": "Birds Eye Stir Fry Oriental 850g",
+    "brand": "Birds Eye",
+    "path": "/shop/productdetails/768622/birds-eye-stir-fry-oriental",
+    "description": " Birds Eye Stir Fry Oriental 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/768622.jpg"
+  },
+  {
+    "retailerProductId": "621328",
+    "crossRetailerId": "9300633675080",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.88,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "24 pack",
+      "price": 9.9
+    },
+    "name": "Woolworths Party Pies 24 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/621328/woolworths-party-pies",
+    "description": " Woolworths Party Pies  24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/621328.jpg"
+  },
+  {
+    "retailerProductId": "901497",
+    "crossRetailerId": "9309001863104",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 4.5
+    },
+    "name": "Your Spud Co Potato Tots 1kg",
+    "brand": "Your Spud Co",
+    "path": "/shop/productdetails/901497/your-spud-co-potato-tots",
+    "description": " Your Spud Co Potato Tots  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/901497.jpg"
+  },
+  {
+    "retailerProductId": "95243",
+    "crossRetailerId": "9310750423600",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.67,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "6 pack",
+      "price": 6
+    },
+    "name": "Scotts Pies Meat 6 pack",
+    "brand": "Scotts",
+    "path": "/shop/productdetails/95243/scotts-pies-meat",
+    "description": " Scotts Pies Meat 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/095243.jpg"
+  },
+  {
+    "retailerProductId": "705694",
+    "crossRetailerId": "9310081453338",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.47,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "850g",
+      "price": 5.5
+    },
+    "name": "Birds Eye Stir Fry Mix Chinese 850g",
+    "brand": "Birds Eye",
+    "path": "/shop/productdetails/705694/birds-eye-stir-fry-mix-chinese",
+    "description": " Birds Eye Stir Fry Mix<br>Chinese 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/705694.jpg"
+  },
+  {
+    "retailerProductId": "768564",
+    "crossRetailerId": "9300633450373",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.8,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 3.4
+    },
+    "name": "Woolworths Peas & Corn 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/768564/woolworths-peas-corn",
+    "description": " Woolworths Peas & Corn 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/768564.jpg"
+  },
+  {
+    "retailerProductId": "24940",
+    "crossRetailerId": "9310114022937",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.68,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "4 pack",
+      "price": 4.75
+    },
+    "name": "Four'N Twenty Pies Meat 4 pack",
+    "brand": "Four'N Twenty",
+    "path": "/shop/productdetails/24940/four-n-twenty-pies-meat",
+    "description": " Four'N Twenty Pies Meat 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/024940.jpg"
+  },
+  {
+    "retailerProductId": "48914",
+    "crossRetailerId": "9310375000088",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.87,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1.5kg",
+      "price": 13
+    },
+    "name": "Marathon Dim Sims 1.5kg",
+    "brand": "Marathon",
+    "path": "/shop/productdetails/48914/marathon-dim-sims-dim-sims",
+    "description": " Marathon Dim Sims Dim Sims 1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/048914.jpg"
+  },
+  {
+    "retailerProductId": "96206",
+    "crossRetailerId": "9310174006014",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 3.7
+    },
+    "name": "McCain Frozen Peas 500g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/96206/mccain-frozen-peas",
+    "description": " McCain Frozen Peas  500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/096206.jpg"
+  },
+  {
+    "retailerProductId": "815127",
+    "crossRetailerId": "9339687211487",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "450g",
+      "price": 9.3
+    },
+    "name": "Macro Organic Frozen Raspberries 450g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/815127/macro-organic-frozen-raspberries",
+    "description": " Macro Organic Frozen<br>Raspberries 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/815127.jpg"
+  },
+  {
+    "retailerProductId": "97997",
+    "crossRetailerId": "9339687158058",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 3.25
+    },
+    "name": "Essentials Crumbed Chicken Nuggets 500g",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/97997/essentials-crumbed-chicken-nuggets",
+    "description": " Essentials Crumbed Chicken<br>Nuggets 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/097997.jpg"
+  }
+]

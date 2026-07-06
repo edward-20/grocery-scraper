@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "6048293",
+    "crossRetailerId": "9336925010338",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.36,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "5 pack",
+      "price": 7
+    },
+    "name": "Springhill Farm Choc Oat Slice 5 pack",
+    "brand": "Springhill Farm",
+    "path": "/shop/productdetails/6048293/springhill-farm-choc-oat-slice",
+    "description": " Springhill Farm Choc Oat<br>Slice  5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6048293.jpg"
+  },
+  {
+    "retailerProductId": "6008846",
+    "crossRetailerId": "4005800352225",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.19,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "20 pack",
+      "price": 3.75
+    },
+    "name": "Elastoplast Kids Waterproof Strips 20 pack",
+    "brand": "Elastoplast",
+    "path": "/shop/productdetails/6008846/elastoplast-kids-waterproof-strips",
+    "description": " Elastoplast Kids Waterproof<br>Strips  20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6008846.jpg"
+  },
+  {
+    "retailerProductId": "353656",
+    "crossRetailerId": "9300607179460",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "10 pack",
+      "price": 4.95
+    },
+    "name": "Band-Aid Waterproof Tough Strips Extra Large 10 pack",
+    "brand": "Band-Aid",
+    "path": "/shop/productdetails/353656/band-aid-waterproof-tough-strips-extra-large",
+    "description": " Band-Aid Waterproof Tough<br>Strips Extra... 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/353656.jpg"
+  },
+  {
+    "retailerProductId": "365804",
+    "crossRetailerId": "9310072033525",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "6 pack",
+      "price": 4.8
+    },
+    "name": "Arnott's Snack Right Oaty Bites Cocoa & Oat 6 pack",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/365804/arnott-s-snack-right-oaty-bites-cocoa-oat",
+    "description": " Arnott's Snack Right Oaty<br>Bites Cocoa & Oat 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365804.jpg"
+  },
+  {
+    "retailerProductId": "376068",
+    "crossRetailerId": "9359171000113",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g",
+      "price": 3.5
+    },
+    "name": "Funday Natural Sweets Flavoured Gummies Strawberry & Cream 50g",
+    "brand": "Funday",
+    "path": "/shop/productdetails/376068/funday-natural-sweets-flavoured-gummies-strawberry-cream",
+    "description": " Funday Natural Sweets<br>Flavoured Gummies... 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/376068.jpg"
+  },
+  {
+    "retailerProductId": "791122",
+    "crossRetailerId": "9339687020133",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.88,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "80 pack",
+      "price": 1.5
+    },
+    "name": "Help@Hand Make Up Pads 80 pack",
+    "brand": "Help@Hand",
+    "path": "/shop/productdetails/791122/help-hand-make-up-pads",
+    "description": " Help@Hand Make Up Pads 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/791122.jpg"
+  },
+  {
+    "retailerProductId": "479953",
+    "crossRetailerId": "9339687344437",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.8,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 7
+    },
+    "name": "Macro Organic Psyllium Husk 250g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/479953/macro-organic-psyllium-husk",
+    "description": " Macro Organic Psyllium Husk  250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/479953.jpg"
+  },
+  {
+    "retailerProductId": "57855",
+    "crossRetailerId": "9315991022131",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.8,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 9.5
+    },
+    "name": "Vege Chips Multi 12 Pack 250g",
+    "brand": "Vege Chips",
+    "path": "/shop/productdetails/57855/vege-chips-multi-12-pack",
+    "description": " Vege Chips Multi 12 Pack 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/057855.jpg"
+  },
+  {
+    "retailerProductId": "172660",
+    "crossRetailerId": "9300633092993",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g",
+      "price": 14
+    },
+    "name": "Woolworths Cashews Roasted & Salted 750g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/172660/woolworths-cashews-roasted-salted",
+    "description": " Woolworths Cashews Roasted &<br>Salted 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/172660.jpg"
+  },
+  {
+    "retailerProductId": "117189",
+    "crossRetailerId": "9400097043156",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "20g x 6 pack",
+      "price": 4.5
+    },
+    "name": "Healtheries Potato Stix Chicken 20g x 6 pack",
+    "brand": "Healtheries",
+    "path": "/shop/productdetails/117189/healtheries-potato-stix-chicken",
+    "description": " Healtheries Potato Stix<br>Chicken 20g x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/117189.jpg"
+  },
+  {
+    "retailerProductId": "390983",
+    "crossRetailerId": "9357204000604",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "45g",
+      "price": 4.5
+    },
+    "name": "Chief Nutrition Collagen Bar Double Choc 45g",
+    "brand": "Chief Nutrition",
+    "path": "/shop/productdetails/390983/chief-nutrition-collagen-bar-double-choc",
+    "description": " Chief Nutrition Collagen Bar<br>Double Choc 45g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/390983.jpg"
+  },
+  {
+    "retailerProductId": "841077",
+    "crossRetailerId": "4005800122262",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.14,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "40 pack",
+      "price": 5.4
+    },
+    "name": "Elastoplast Sensitive Assorted White Plasters For Wound Protection 40 pack",
+    "brand": "Elastoplast",
+    "path": "/shop/productdetails/841077/elastoplast-sensitive-assorted-white-plasters-for-wound-protection",
+    "description": " Elastoplast Sensitive<br>Assorted White... 40 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/841077.jpg"
+  },
+  {
+    "retailerProductId": "909272",
+    "crossRetailerId": "9321582006336",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 24.58,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "240g",
+      "price": 59
+    },
+    "name": "Vital All-In-One Daily Health Supplement Powder Original 240g",
+    "brand": "Vital All-In-One",
+    "path": "/shop/productdetails/909272/vital-all-in-one-daily-health-supplement-powder-original",
+    "description": " Vital All-In-One Daily<br>Health Supplement... 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/909272.jpg"
+  },
+  {
+    "retailerProductId": "108239",
+    "crossRetailerId": "9313501144250",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.29,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "24 pack",
+      "price": 6.85
+    },
+    "name": "No-Doz Tablets Plus 24 pack",
+    "brand": "No-Doz",
+    "path": "/shop/productdetails/108239/no-doz-tablets-plus",
+    "description": " No-Doz Tablets Plus  24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/108239.jpg"
+  },
+  {
+    "retailerProductId": "81785",
+    "crossRetailerId": "9312231103100",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.72,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "250mL",
+      "price": 4.3
+    },
+    "name": "Pureharvest Organic Tamari Soy Sauce 250mL",
+    "brand": "Pureharvest",
+    "path": "/shop/productdetails/81785/pureharvest-organic-tamari-soy-sauce",
+    "description": " Pureharvest Organic Tamari<br>Soy Sauce 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/081785.jpg"
+  },
+  {
+    "retailerProductId": "717631",
+    "crossRetailerId": "9339687344413",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 6
+    },
+    "name": "Macro Organic Quinoa Tri Colour 500g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/717631/macro-organic-quinoa-tri-colour",
+    "description": " Macro Organic Quinoa Tri<br>Colour 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/717631.jpg"
+  },
+  {
+    "retailerProductId": "769892",
+    "crossRetailerId": "9300633452698",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.21,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "350g",
+      "price": 4.25
+    },
+    "name": "Woolworths Free From Gluten Breadcrumbs 350g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/769892/woolworths-free-from-gluten-breadcrumbs",
+    "description": " Woolworths Free From Gluten<br>Breadcrumbs  350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/769892.jpg"
+  },
+  {
+    "retailerProductId": "68711",
+    "crossRetailerId": "9348219004749",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "6 pack",
+      "price": 7
+    },
+    "name": "Table Of Plenty Mini Rice Cakes Snack Packs Caramel White Choc 6 pack",
+    "brand": "Table Of Plenty",
+    "path": "/shop/productdetails/68711/table-of-plenty-mini-rice-cakes-snack-packs-caramel-white-choc",
+    "description": " Table Of Plenty Mini Rice<br>Cakes Snack Packs... 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/068711.jpg"
+  },
+  {
+    "retailerProductId": "600808",
+    "crossRetailerId": "9300633647551",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 8
+    },
+    "name": "Woolworths Crunchy Natural Almonds 400g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/600808/woolworths-crunchy-natural-almonds",
+    "description": " Woolworths Crunchy Natural<br>Almonds  400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/600808.jpg"
+  },
+  {
+    "retailerProductId": "184441",
+    "crossRetailerId": "9369998324521",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g",
+      "price": 3.5
+    },
+    "name": "Funday Natural Sweets No Sugar Added Lollies Raspberry Gummy Frogs 50g",
+    "brand": "Funday",
+    "path": "/shop/productdetails/184441/funday-natural-sweets-no-sugar-added-lollies-raspberry-gummy-frogs",
+    "description": " Funday Natural Sweets No<br>Sugar Added Lollies... 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/184441.jpg"
+  },
+  {
+    "retailerProductId": "657399",
+    "crossRetailerId": "9310155009652",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.29,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "350g",
+      "price": 4.5
+    },
+    "name": "San Remo Gluten Free Spirals 350g",
+    "brand": "San Remo",
+    "path": "/shop/productdetails/657399/san-remo-gluten-free-spirals",
+    "description": " San Remo Gluten Free Spirals 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/657399.jpg"
+  },
+  {
+    "retailerProductId": "815872",
+    "crossRetailerId": "9339687073818",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 28.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "150g",
+      "price": 4.3
+    },
+    "name": "Woolworths Pecans 150g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/815872/woolworths-pecans",
+    "description": " Woolworths Pecans  150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/815872.jpg"
+  },
+  {
+    "retailerProductId": "555158",
+    "crossRetailerId": "9400581052848",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.17,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "60g",
+      "price": 4.9
+    },
+    "name": "Musashi Protein Crisp Bar White Choc Cookies & Cream 60g",
+    "brand": "Musashi",
+    "path": "/shop/productdetails/555158/musashi-protein-crisp-bar-white-choc-cookies-cream",
+    "description": " Musashi Protein Crisp Bar<br>White Choc Cookies &... 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/555158.jpg"
+  },
+  {
+    "retailerProductId": "220852",
+    "crossRetailerId": "9339687304363",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "400 pack",
+      "price": 4
+    },
+    "name": "Help@Hand Cotton Tips 400 pack",
+    "brand": "Help@Hand",
+    "path": "/shop/productdetails/220852/help-hand-cotton-tips",
+    "description": " Help@Hand Cotton Tips  400 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/220852.jpg"
+  },
+  {
+    "retailerProductId": "331588",
+    "crossRetailerId": "9339687171149",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 3.7
+    },
+    "name": "Macro Organic Corn Chips Cheese 200g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/331588/macro-organic-corn-chips-cheese",
+    "description": " Macro Organic Corn Chips<br>Cheese 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/331588.jpg"
+  },
+  {
+    "retailerProductId": "671889",
+    "crossRetailerId": "9339687023394",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.3,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 6.6
+    },
+    "name": "Macro Australian Hemp Seeds 200g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/671889/macro-australian-hemp-seeds",
+    "description": " Macro Australian Hemp Seeds  200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/671889.jpg"
+  },
+  {
+    "retailerProductId": "893874",
+    "crossRetailerId": "9359171000182",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g",
+      "price": 3.5
+    },
+    "name": "Funday No Sugar Added Party Mix Natural Sweets 50g",
+    "brand": "Funday",
+    "path": "/shop/productdetails/893874/funday-no-sugar-added-party-mix-natural-sweets",
+    "description": " Funday No Sugar Added Party<br>Mix Natural Sweets 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/893874.jpg"
+  },
+  {
+    "retailerProductId": "557264",
+    "crossRetailerId": "9400581052855",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11.25,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "40g",
+      "price": 4.5
+    },
+    "name": "Musashi Protein Wafer Bar White Chocolate 40g",
+    "brand": "Musashi",
+    "path": "/shop/productdetails/557264/musashi-protein-wafer-bar-white-chocolate",
+    "description": " Musashi Protein Wafer Bar<br>White Chocolate 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/557264.jpg"
+  },
+  {
+    "retailerProductId": "6070654",
+    "crossRetailerId": "9359171000540",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g",
+      "price": 3.5
+    },
+    "name": "Funday Barbie Berry Kisses Gummies 50g",
+    "brand": "Funday",
+    "path": "/shop/productdetails/6070654/funday-barbie-berry-kisses-gummies",
+    "description": " Funday Barbie Berry Kisses<br>Gummies  50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6070654.jpg"
+  },
+  {
+    "retailerProductId": "275141",
+    "crossRetailerId": "9400581052329",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.17,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "60g",
+      "price": 4.9
+    },
+    "name": "Musashi Protein Crisp Choc Brownie 60g",
+    "brand": "Musashi",
+    "path": "/shop/productdetails/275141/musashi-protein-crisp-choc-brownie",
+    "description": " Musashi Protein Crisp Choc<br>Brownie 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/275141.jpg"
+  },
+  {
+    "retailerProductId": "96154",
+    "crossRetailerId": "9315991022025",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.9,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "100g",
+      "price": 4.9
+    },
+    "name": "Vege Chips Barbeque 100g",
+    "brand": "Vege Chips",
+    "path": "/shop/productdetails/96154/vege-chips-barbeque",
+    "description": " Vege Chips Barbeque  100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/096154.jpg"
+  },
+  {
+    "retailerProductId": "176411",
+    "crossRetailerId": "9300633097097",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g",
+      "price": 13.5
+    },
+    "name": "Woolworths Almonds Kernels 750g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/176411/woolworths-almonds-kernels",
+    "description": " Woolworths Almonds Kernels 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/176411.jpg"
+  }
+]

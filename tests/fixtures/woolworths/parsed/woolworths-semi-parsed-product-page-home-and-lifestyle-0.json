@@ -1,0 +1,457 @@
+[
+  {
+    "retailerProductId": "546004",
+    "crossRetailerId": "5056585802350",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16.8,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 16.8
+    },
+    "name": "Scholl Gel Activ Sport Insoles Large Pair each",
+    "brand": "Scholl",
+    "path": "/shop/productdetails/546004/scholl-gel-activ-sport-insoles-large-pair",
+    "description": " Scholl Gel Activ Sport<br>Insoles Large Pair each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/546004.jpg"
+  },
+  {
+    "retailerProductId": "562976",
+    "crossRetailerId": "5056585802510",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16.8,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 16.8
+    },
+    "name": "Scholl Gel Activ Casual Insoles Large Pair each",
+    "brand": "Scholl",
+    "path": "/shop/productdetails/562976/scholl-gel-activ-casual-insoles-large-pair",
+    "description": " Scholl Gel Activ Casual<br>Insoles Large Pair each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/562976.jpg"
+  },
+  {
+    "retailerProductId": "520570",
+    "crossRetailerId": "5056585802435",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16.8,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 16.8
+    },
+    "name": "Scholl Gel Activ Casual Insoles Small Pair each",
+    "brand": "Scholl",
+    "path": "/shop/productdetails/520570/scholl-gel-activ-casual-insoles-small-pair",
+    "description": " Scholl Gel Activ Casual<br>Insoles Small Pair each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/520570.jpg"
+  },
+  {
+    "retailerProductId": "547215",
+    "crossRetailerId": "5056585802275",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16.8,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 16.8
+    },
+    "name": "Scholl Gel Activ Sport Insoles Small Pair each",
+    "brand": "Scholl",
+    "path": "/shop/productdetails/547215/scholl-gel-activ-sport-insoles-small-pair",
+    "description": " Scholl Gel Activ Sport<br>Insoles Small Pair each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/547215.jpg"
+  },
+  {
+    "retailerProductId": "806128",
+    "crossRetailerId": "9339687381340",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.01,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "100 pack",
+      "price": 0.95
+    },
+    "name": "Armada 1 Ply Serviettes White 100 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/806128/armada-1-ply-serviettes-white",
+    "description": " Armada 1 Ply Serviettes<br>White  100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/806128.jpg"
+  },
+  {
+    "retailerProductId": "806129",
+    "crossRetailerId": "9339687379989",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.07,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 3.5
+    },
+    "name": "Armada Paper Plates White 50 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/806129/armada-paper-plates-white",
+    "description": " Armada Paper Plates White  50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/806129.jpg"
+  },
+  {
+    "retailerProductId": "81359",
+    "crossRetailerId": "9359427000553",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.09,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "40 pack",
+      "price": 3.6
+    },
+    "name": "Phoenix Organic Firelighters 40 pack",
+    "brand": "Phoenix Organic",
+    "path": "/shop/productdetails/81359/phoenix-organic-firelighters",
+    "description": " Phoenix Organic Firelighters<br> 40 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/081359.jpg"
+  },
+  {
+    "retailerProductId": "75770",
+    "crossRetailerId": "9310497004193",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.67,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "3 pack",
+      "price": 5
+    },
+    "name": "Armada BBQ Foil Trays Medium 3 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/75770/armada-bbq-foil-trays-medium",
+    "description": " Armada BBQ Foil Trays Medium 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/075770.jpg"
+  },
+  {
+    "retailerProductId": "806042",
+    "crossRetailerId": "9339687379972",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.08,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "20 pack",
+      "price": 1.5
+    },
+    "name": "Armada Paper Side Plates White 20 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/806042/armada-paper-side-plates-white",
+    "description": " Armada Paper Side Plates<br>White  20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/806042.jpg"
+  },
+  {
+    "retailerProductId": "1124615551",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 24
+    },
+    "name": "MDI Stress Banana Sensory Fidget Squeeze Play Toy Kids/Children 5y+",
+    "brand": "MDI",
+    "path": "/shop/productdetails/1124615551/mdi-stress-banana-sensory-fidget-squeeze-play-toy-kids-children-5y-",
+    "description": " MDI   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1124615551.jpg"
+  },
+  {
+    "retailerProductId": "806044",
+    "crossRetailerId": "9339687380039",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.08,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "60 pack",
+      "price": 5
+    },
+    "name": "Armada Paper Cups 60 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/806044/armada-paper-cups",
+    "description": " Armada Paper Cups  60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/806044.jpg"
+  },
+  {
+    "retailerProductId": "361090",
+    "crossRetailerId": "6922597804226",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 8.5
+    },
+    "name": "UPM Office 80GSM A4 Multifunction Copy Paper 500 Sheets each",
+    "brand": "UPM Office",
+    "path": "/shop/productdetails/361090/upm-office-80gsm-a4-multifunction-copy-paper-500-sheets",
+    "description": " UPM Office 80GSM A4<br>Multifunction Copy... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/361090.jpg"
+  },
+  {
+    "retailerProductId": "744027",
+    "crossRetailerId": "9300633368975",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.48,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "650mL x 25 pack",
+      "price": 12
+    },
+    "name": "Essentials Food Containers Rectangle 650mL x 25 pack",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/744027/essentials-food-containers-rectangle",
+    "description": " Essentials Food Containers<br>... 650mL x 25 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/744027.jpg"
+  },
+  {
+    "retailerProductId": "804549",
+    "crossRetailerId": "9339687379927",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.09,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 4.5
+    },
+    "name": "Armada Wooden Forks 50 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/804549/armada-wooden-forks",
+    "description": " Armada Wooden Forks  50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/804549.jpg"
+  },
+  {
+    "retailerProductId": "21968",
+    "crossRetailerId": "9310045406097",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.18,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "24 pack",
+      "price": 4.3
+    },
+    "name": "Jiffy BBQ Accessory Fire Lighters Economy 24 pack",
+    "brand": "Jiffy",
+    "path": "/shop/productdetails/21968/jiffy-bbq-accessory-fire-lighters-economy",
+    "description": " Jiffy BBQ Accessory Fire<br>Lighters Economy 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/021968.jpg"
+  },
+  {
+    "retailerProductId": "804550",
+    "crossRetailerId": "9339687379941",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.09,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 4.5
+    },
+    "name": "Armada Wooden Spoons 50 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/804550/armada-wooden-spoons",
+    "description": " Armada Wooden Spoons  50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/804550.jpg"
+  },
+  {
+    "retailerProductId": "31424",
+    "crossRetailerId": "9310004261910",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.03,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "75 pack",
+      "price": 2.4
+    },
+    "name": "Deeko Extra Thick Serviette 1Ply 75 pack",
+    "brand": "Deeko",
+    "path": "/shop/productdetails/31424/deeko-extra-thick-serviette-1ply",
+    "description": " Deeko Extra Thick Serviette<br>1Ply  75 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/031424.jpg"
+  },
+  {
+    "retailerProductId": "744029",
+    "crossRetailerId": "9300633368999",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.6,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "650mL x 5 pack",
+      "price": 3
+    },
+    "name": "Essentials Food Containers Rectangle 650mL x 5 pack",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/744029/essentials-food-containers-rectangle",
+    "description": " Essentials Food Containers<br>Rectangle 650mL x 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/744029.jpg"
+  },
+  {
+    "retailerProductId": "269417",
+    "crossRetailerId": "9300633962609",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.75,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "2 pack",
+      "price": 5.5
+    },
+    "name": "Armada BBQ Foil Trays Large 2 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/269417/armada-bbq-foil-trays-large",
+    "description": " Armada BBQ Foil Trays Large 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/269417.jpg"
+  },
+  {
+    "retailerProductId": "21228",
+    "crossRetailerId": "9312730005424",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "4Kg",
+      "price": 13.2
+    },
+    "name": "Heat Beads Original Bbq Briquettes 4kg",
+    "brand": "Heat Beads",
+    "path": "/shop/productdetails/21228/heat-beads-original-bbq-briquettes",
+    "description": " Heat Beads Original BBQ<br>Briquettes 4Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/021228.jpg"
+  },
+  {
+    "retailerProductId": "36431",
+    "crossRetailerId": "9310492000459",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "75g",
+      "price": 3.1
+    },
+    "name": "Bostik Blu-Tack 75g",
+    "brand": "Bostik",
+    "path": "/shop/productdetails/36431/bostik-blu-tack",
+    "description": " Bostik Blu-Tack  75g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036431.jpg"
+  },
+  {
+    "retailerProductId": "6054602",
+    "crossRetailerId": "9300621045826",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 6.25
+    },
+    "name": "Decor Premium Glass Clips Container 630mL each",
+    "brand": "Decor",
+    "path": "/shop/productdetails/6054602/decor-premium-glass-clips-container-630ml",
+    "description": " Decor Premium Glass Clips<br>Container 630mL each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6054602.jpg"
+  },
+  {
+    "retailerProductId": "805761",
+    "crossRetailerId": "9339687379965",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.07,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 3.5
+    },
+    "name": "Armada Paper Bowls White 50 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/805761/armada-paper-bowls-white",
+    "description": " Armada Paper Bowls White  50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/805761.jpg"
+  },
+  {
+    "retailerProductId": "1128341287",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 3.95
+    },
+    "name": "FIFA TC Panini Fifa World Cup 2026 Sticker Pack",
+    "brand": "Panini",
+    "path": "/shop/productdetails/1128341287/fifa-tc-panini-fifa-world-cup-2026-sticker-pack",
+    "description": " Panini   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128341287.jpg"
+  },
+  {
+    "retailerProductId": "744030",
+    "crossRetailerId": "9300633369002",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.88,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "1L x 4 pack",
+      "price": 3.5
+    },
+    "name": "Essentials Food Containers Rectangle 1L x 4 pack",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/744030/essentials-food-containers-rectangle",
+    "description": " Essentials Food Containers<br>Rectangle 1L x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/744030.jpg"
+  },
+  {
+    "retailerProductId": "6054890",
+    "crossRetailerId": "9300621045802",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 7.5
+    },
+    "name": "Decor Premium Glass Clips Container 1L each",
+    "brand": "Decor",
+    "path": "/shop/productdetails/6054890/decor-premium-glass-clips-container-1l",
+    "description": " Decor Premium Glass Clips<br>Container 1L each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6054890.jpg"
+  },
+  {
+    "retailerProductId": "221692",
+    "crossRetailerId": "9339687301737",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "20 pack",
+      "price": 3.5
+    },
+    "name": "Armada Paper Cups Large 20 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/221692/armada-paper-cups-large",
+    "description": " Armada Paper Cups Large  20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/221692.jpg"
+  },
+  {
+    "retailerProductId": "807244",
+    "crossRetailerId": "9339687064700",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "300 pack",
+      "price": 5
+    },
+    "name": "MINT Toothpicks Holder 300 pack",
+    "brand": "MINT",
+    "path": "/shop/productdetails/807244/mint-toothpicks-holder",
+    "description": " MINT Toothpicks Holder 300 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/807244.jpg"
+  }
+]

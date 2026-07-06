@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "267357",
+    "crossRetailerId": "9352369000735",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.36,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "8 pack",
+      "price": 10.5
+    },
+    "name": "Who Gives A Crap Double Length Recycled 3 Ply Toilet Paper 8 pack",
+    "brand": "Who Gives A Crap",
+    "path": "/shop/productdetails/267357/who-gives-a-crap-double-length-recycled-3-ply-toilet-paper",
+    "description": " Who Gives A Crap Double<br>Length Recycled 3... 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/267357.jpg"
+  },
+  {
+    "retailerProductId": "268645",
+    "crossRetailerId": "9352369000742",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.38,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "8 pack",
+      "price": 10.8
+    },
+    "name": "Who Gives A Crap Double Length Bamboo 3 Ply Toilet Paper 8 pack",
+    "brand": "Who Gives A Crap",
+    "path": "/shop/productdetails/268645/who-gives-a-crap-double-length-bamboo-3-ply-toilet-paper",
+    "description": " Who Gives A Crap Double<br>Length Bamboo 3... 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/268645.jpg"
+  },
+  {
+    "retailerProductId": "385987",
+    "crossRetailerId": "9350376006634",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "2L",
+      "price": 26
+    },
+    "name": "Cold Power Extreme Clean Laundry Liquid Washing Detergent 2L",
+    "brand": "Cold Power",
+    "path": "/shop/productdetails/385987/cold-power-extreme-clean-laundry-liquid-washing-detergent",
+    "description": " Cold Power Extreme Clean<br>Laundry Liquid... 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/385987.jpg"
+  },
+  {
+    "retailerProductId": "88207",
+    "crossRetailerId": "9350376003855",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.25,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "4L",
+      "price": 21
+    },
+    "name": "Cold Power Advanced Clean Laundry Liquid Washing Detergent 4L",
+    "brand": "Cold Power",
+    "path": "/shop/productdetails/88207/cold-power-advanced-clean-laundry-liquid-washing-detergent",
+    "description": " Cold Power Advanced Clean<br>Laundry Liquid... 4L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/088207.jpg"
+  },
+  {
+    "retailerProductId": "759496",
+    "crossRetailerId": "9300633499815",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.85,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "224 pack",
+      "price": 1.9
+    },
+    "name": "Essentials Facial Tissues 224 pack",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/759496/essentials-facial-tissues",
+    "description": " Essentials Facial Tissues  224 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/759496.jpg"
+  },
+  {
+    "retailerProductId": "390686",
+    "crossRetailerId": "9339687355402",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.2,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "24 pack",
+      "price": 9
+    },
+    "name": "Vevelle Luxury Soft 3 Ply Toilet Tissue 24 pack",
+    "brand": "Vevelle",
+    "path": "/shop/productdetails/390686/vevelle-luxury-soft-3-ply-toilet-tissue",
+    "description": " Vevelle Luxury Soft 3 Ply<br>Toilet Tissue 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/390686.jpg"
+  },
+  {
+    "retailerProductId": "574728",
+    "crossRetailerId": "9311505634111",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.78,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "3 x 60 pack",
+      "price": 5
+    },
+    "name": "Quilton Tuffy 4 Ply White Paper Towel 3 x 60 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/574728/quilton-tuffy-4-ply-white-paper-towel",
+    "description": " Quilton Tuffy 4 Ply White<br>Paper Towel 3 x 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/574728.jpg"
+  },
+  {
+    "retailerProductId": "644239",
+    "crossRetailerId": "9311505825014",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.58,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "250 pack",
+      "price": 1.45
+    },
+    "name": "Quilton 2Ply Tissue Hypo-Allergenic 250 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/644239/quilton-2ply-tissue-hypo-allergenic",
+    "description": " Quilton 2Ply Tissue<br>Hypo-Allergenic 250 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/644239.jpg"
+  },
+  {
+    "retailerProductId": "851925",
+    "crossRetailerId": "9311505824338",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.31,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "24 pack",
+      "price": 13.6
+    },
+    "name": "Quilton White 3 Ply Toilet Paper 24 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/851925/quilton-white-3-ply-toilet-paper-white-180-sheets",
+    "description": " Quilton White 3 Ply Toilet<br>Paper White 180... 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/851925.jpg"
+  },
+  {
+    "retailerProductId": "167699",
+    "crossRetailerId": "9339687267217",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.78,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "3 x 60 pack",
+      "price": 3.2
+    },
+    "name": "Strike Pro 3 Ply Paper Towel 3 x 60 pack",
+    "brand": "Strike",
+    "path": "/shop/productdetails/167699/strike-pro-3-ply-paper-towel-3-ply",
+    "description": " Strike Pro 3 Ply Paper Towel<br>3 Ply 3 x 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/167699.jpg"
+  },
+  {
+    "retailerProductId": "88522",
+    "crossRetailerId": "9350376004524",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "2kg",
+      "price": 26
+    },
+    "name": "Cold Power Advanced Clean Laundry Washing Powder Detergent 2kg",
+    "brand": "Cold Power",
+    "path": "/shop/productdetails/88522/cold-power-advanced-clean-laundry-washing-powder-detergent",
+    "description": " Cold Power Advanced Clean<br>Laundry Washing... 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/088522.jpg"
+  },
+  {
+    "retailerProductId": "863045",
+    "crossRetailerId": "8850006931691",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.79,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.9L",
+      "price": 11
+    },
+    "name": "Fluffy Fabric Softener Concentrate Vanilla & Coconut 1.9L",
+    "brand": "Fluffy",
+    "path": "/shop/productdetails/863045/fluffy-fabric-softener-concentrate-vanilla-coconut",
+    "description": " Fluffy Fabric Softener<br>Concentrate Vanilla... 1.9L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/863045.jpg"
+  },
+  {
+    "retailerProductId": "6027825",
+    "crossRetailerId": "9350376008263",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.9,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "29 pack",
+      "price": 26
+    },
+    "name": "Cold Power Laundry Capsules Odour Fighter 29 pack",
+    "brand": "Cold Power",
+    "path": "/shop/productdetails/6027825/cold-power-laundry-capsules-odour-fighter",
+    "description": " Cold Power Laundry Capsules<br>Odour Fighter 29 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6027825.jpg"
+  },
+  {
+    "retailerProductId": "6063979",
+    "crossRetailerId": "9300615051628",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.48,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "20 pack",
+      "price": 9.5
+    },
+    "name": "Morning Fresh Advanced Clean Dishwasher Tablets Lemon 20 pack",
+    "brand": "Morning Fresh",
+    "path": "/shop/productdetails/6063979/morning-fresh-advanced-clean-dishwasher-tablets-lemon",
+    "description": " Morning Fresh Advanced Clean<br>Dishwasher... 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6063979.jpg"
+  },
+  {
+    "retailerProductId": "183671",
+    "crossRetailerId": "9311505828312",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.73,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "3 pack",
+      "price": 5
+    },
+    "name": "Symphony Facial Tissues White 228Ss 3 pack",
+    "brand": "Symphony",
+    "path": "/shop/productdetails/183671/symphony-facial-tissues-white-228ss",
+    "description": " Symphony Facial Tissues<br>White 228Ss 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/183671.jpg"
+  },
+  {
+    "retailerProductId": "79502",
+    "crossRetailerId": "9310088002911",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.74,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "95 pack",
+      "price": 2.6
+    },
+    "name": "Kleenex Aloe Vera & Vitamin E 3 Ply Facial Tissues 95 pack",
+    "brand": "Kleenex",
+    "path": "/shop/productdetails/79502/kleenex-aloe-vera-vitamin-e-3-ply-facial-tissues",
+    "description": " Kleenex Aloe Vera & Vitamin<br>E 3 Ply Facial... 95 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/079502.jpg"
+  },
+  {
+    "retailerProductId": "252037",
+    "crossRetailerId": "9310004181638",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.94,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "3 x 60 pack",
+      "price": 3.5
+    },
+    "name": "Handee Ultra Paper Towel 3 x 60 pack",
+    "brand": "Handee",
+    "path": "/shop/productdetails/252037/handee-ultra-paper-towel-2-ply-180-sheets",
+    "description": " Handee Ultra Paper Towel 2<br>Ply 180... 3 x 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/252037.jpg"
+  },
+  {
+    "retailerProductId": "785118",
+    "crossRetailerId": "9310004111604",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.24,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "20 pack",
+      "price": 8.5
+    },
+    "name": "Sorbent Soft & Strong 3 Ply Toilet Paper 20 pack",
+    "brand": "Sorbent",
+    "path": "/shop/productdetails/785118/sorbent-soft-strong-3-ply-toilet-paper",
+    "description": " Sorbent Soft & Strong 3 Ply<br>Toilet Paper 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/785118.jpg"
+  },
+  {
+    "retailerProductId": "473213",
+    "crossRetailerId": "9311505812427",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.36,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "12 pack",
+      "price": 6
+    },
+    "name": "Quilton Gold 4 Ply Toilet Paper 12 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/473213/quilton-gold-4-ply-toilet-paper",
+    "description": " Quilton Gold 4 Ply Toilet<br>Paper  12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/473213.jpg"
+  },
+  {
+    "retailerProductId": "10432",
+    "crossRetailerId": "9310692111115",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.26,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 2.55
+    },
+    "name": "Earth Choice Dishwashing Liquid 1L",
+    "brand": "Earth Choice",
+    "path": "/shop/productdetails/10432/earth-choice-dishwashing-liquid",
+    "description": " Earth Choice Dishwashing<br>Liquid 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/010432.jpg"
+  },
+  {
+    "retailerProductId": "171164",
+    "crossRetailerId": "9339687268665",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.38,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "2 x 80 pack",
+      "price": 2.2
+    },
+    "name": "Strike 2 Ply Paper Towel 2 x 80 pack",
+    "brand": "Strike",
+    "path": "/shop/productdetails/171164/strike-2-ply-paper-towel-2-ply",
+    "description": " Strike 2 Ply Paper Towel 2<br>Ply 2 x 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/171164.jpg"
+  },
+  {
+    "retailerProductId": "183858",
+    "crossRetailerId": "9339687276738",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.14,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 1.4
+    },
+    "name": "Shine Dishwashing Liquid Lemon 1L",
+    "brand": "Shine",
+    "path": "/shop/productdetails/183858/shine-dishwashing-liquid-lemon",
+    "description": " Shine Dishwashing Liquid<br>Lemon 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/183858.jpg"
+  },
+  {
+    "retailerProductId": "63899",
+    "crossRetailerId": "9310088013184",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "200 pack",
+      "price": 3
+    },
+    "name": "Kleenex Everyday 2 Ply Facial Tissues 200 pack",
+    "brand": "Kleenex",
+    "path": "/shop/productdetails/63899/kleenex-everyday-2-ply-facial-tissues",
+    "description": " Kleenex Everyday 2 Ply<br>Facial Tissues 200 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/063899.jpg"
+  },
+  {
+    "retailerProductId": "212842",
+    "crossRetailerId": "9310004181676",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.19,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "2 x 120 pack",
+      "price": 5.25
+    },
+    "name": "Handee Ultra Double Length White Paper Towel 2 x 120 pack",
+    "brand": "Handee",
+    "path": "/shop/productdetails/212842/handee-ultra-double-length-white-paper-towel",
+    "description": " Handee Ultra Double Length<br>White Paper... 2 x 120 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/212842.jpg"
+  },
+  {
+    "retailerProductId": "252787",
+    "crossRetailerId": "9300633936334",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.18,
+      "unitPriceQuantity": "1M",
+      "unitPriceUnit": "1M",
+      "size": "15m",
+      "price": 2.7
+    },
+    "name": "Armada Baking Paper 15m",
+    "brand": "Armada",
+    "path": "/shop/productdetails/252787/armada-baking-paper",
+    "description": " Armada Baking Paper 15m",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/252787.jpg"
+  },
+  {
+    "retailerProductId": "64018",
+    "crossRetailerId": "9300633073657",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.09,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "30 pack",
+      "price": 2.6
+    },
+    "name": "Armada Kitchen Tidy Bags With Handles Large Roll 30 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/64018/armada-kitchen-tidy-bags-with-handles-large-roll",
+    "description": " Armada Kitchen Tidy Bags<br>With Handles... 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/064018.jpg"
+  },
+  {
+    "retailerProductId": "580263",
+    "crossRetailerId": "9361949000287",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.28,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "24 pack",
+      "price": 12
+    },
+    "name": "Kleenex Complete Clean White Toilet Paper 24 pack",
+    "brand": "Kleenex",
+    "path": "/shop/productdetails/580263/kleenex-complete-clean-white-toilet-paper",
+    "description": " Kleenex Complete Clean White<br>Toilet Paper 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/580263.jpg"
+  },
+  {
+    "retailerProductId": "105598",
+    "crossRetailerId": "9300633032104",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.15,
+      "unitPriceQuantity": "1M",
+      "unitPriceUnit": "1M",
+      "size": "each",
+      "price": 4.5
+    },
+    "name": "Essentials Aluminium Foil 30m each",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/105598/essentials-aluminium-foil-30m",
+    "description": " Essentials Aluminium Foil<br>30m each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/105598.jpg"
+  },
+  {
+    "retailerProductId": "573468",
+    "crossRetailerId": "9310088017892",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.22,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "6 x 60 pack",
+      "price": 8
+    },
+    "name": "Viva White Paper Towel 6 x 60 pack",
+    "brand": "Viva",
+    "path": "/shop/productdetails/573468/viva-white-paper-towel-white-360-sheets",
+    "description": " Viva White Paper Towel White<br>360 Sheets 6 x 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/573468.jpg"
+  },
+  {
+    "retailerProductId": "517111",
+    "crossRetailerId": "9300633595944",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.1,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "25 pack",
+      "price": 2.5
+    },
+    "name": "Armada Large Kitchen Tidy Bag Lavender/Lemon Scented 25 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/517111/armada-large-kitchen-tidy-bag-lavender-lemon-scented",
+    "description": " Armada Large Kitchen Tidy<br>Bag... 25 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/517111.jpg"
+  },
+  {
+    "retailerProductId": "172610",
+    "crossRetailerId": "9310088002836",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.26,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "95 pack",
+      "price": 3.1
+    },
+    "name": "Kleenex Large & Thick 3 Ply Facial Tissues 95 pack",
+    "brand": "Kleenex",
+    "path": "/shop/productdetails/172610/kleenex-large-thick-3-ply-facial-tissues",
+    "description": " Kleenex Large & Thick 3 Ply<br>Facial Tissues 95 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/172610.jpg"
+  },
+  {
+    "retailerProductId": "183960",
+    "crossRetailerId": "9339687276592",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.31,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "700mL",
+      "price": 2.2
+    },
+    "name": "Strike Pro Antibacterial Power Gel Toilet Cleaner Marine Fresh 700mL",
+    "brand": "Strike",
+    "path": "/shop/productdetails/183960/strike-pro-antibacterial-power-gel-toilet-cleaner-marine-fresh",
+    "description": " Strike Pro Antibacterial<br>Power Gel Toilet... 700mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/183960.jpg"
+  }
+]

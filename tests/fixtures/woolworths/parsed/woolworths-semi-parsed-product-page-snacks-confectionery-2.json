@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "160841",
+    "crossRetailerId": "9300682058780",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.91,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "192g",
+      "price": 7.5
+    },
+    "name": "Mars Milk Chocolate Bar Party Share Bag 12 Pieces 192g",
+    "brand": "Mars",
+    "path": "/shop/productdetails/160841/mars-milk-chocolate-bar-party-share-bag-12-pieces",
+    "description": " Mars Milk Chocolate Bar<br>Party Share Bag 12... 192g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/160841.jpg"
+  },
+  {
+    "retailerProductId": "160839",
+    "crossRetailerId": "9300682058896",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.07,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "148g",
+      "price": 7.5
+    },
+    "name": "M&M's Milk Chocolate Party Share Bag 11 Pieces 148g",
+    "brand": "M&M's",
+    "path": "/shop/productdetails/160839/m-m-s-milk-chocolate-party-share-bag-11-pieces",
+    "description": " M&M's Milk Chocolate Party<br>Share Bag 11 Pieces 148g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/160839.jpg"
+  },
+  {
+    "retailerProductId": "816096",
+    "crossRetailerId": "8886467103490",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.21,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "19g x 5 pack",
+      "price": 4
+    },
+    "name": "Pringles Minis Original Potato Chips 19g x 5 pack",
+    "brand": "Pringles",
+    "path": "/shop/productdetails/816096/pringles-minis-original-potato-chips",
+    "description": " Pringles Minis Original<br>Potato... 19g x 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/816096.jpg"
+  },
+  {
+    "retailerProductId": "180111",
+    "crossRetailerId": "9300617297086",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.21,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "234g",
+      "price": 7.5
+    },
+    "name": "Cadbury Freddo & Caramello Milk Chocolate Share Pack 18 Piece 234g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/180111/cadbury-freddo-caramello-milk-chocolate-share-pack-18-piece",
+    "description": " Cadbury Freddo & Caramello<br>Milk Chocolate... 234g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180111.jpg"
+  },
+  {
+    "retailerProductId": "814479",
+    "crossRetailerId": "9300617064879",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.44,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "180g",
+      "price": 8
+    },
+    "name": "Cadbury Dairy Milk Chocolate Block 180g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/814479/cadbury-dairy-milk-chocolate-block",
+    "description": " Cadbury Dairy Milk Chocolate<br>Block 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/814479.jpg"
+  },
+  {
+    "retailerProductId": "956027",
+    "crossRetailerId": "9310015257308",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.78,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "90g",
+      "price": 2.5
+    },
+    "name": "Sakata Rice Crackers Original Plain 90g",
+    "brand": "Sakata",
+    "path": "/shop/productdetails/956027/sakata-rice-crackers-original-plain",
+    "description": " Sakata Rice Crackers<br>Original Plain 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/956027.jpg"
+  },
+  {
+    "retailerProductId": "36072",
+    "crossRetailerId": "9310072001746",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 4
+    },
+    "name": "Arnott's Raspberry Shortcake Biscuits 250g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36072/arnott-s-raspberry-shortcake-biscuits",
+    "description": " Arnott's Raspberry Shortcake<br>Biscuits 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036072.jpg"
+  },
+  {
+    "retailerProductId": "829166",
+    "crossRetailerId": "9300617042631",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.23,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "12 pack",
+      "price": 3.75
+    },
+    "name": "Cadbury Twirl Milk Chocolate Mini Bars 12 pack",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/829166/cadbury-twirl-milk-chocolate-mini-bars",
+    "description": " Cadbury Twirl Milk Chocolate<br>Mini Bars 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/829166.jpg"
+  },
+  {
+    "retailerProductId": "206890",
+    "crossRetailerId": "9300682060929",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.82,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "44g",
+      "price": 3
+    },
+    "name": "Snickers Chocolate Bar Peanuts Caramel Nougat 44g",
+    "brand": "Snickers",
+    "path": "/shop/productdetails/206890/snickers-chocolate-bar-peanuts-caramel-nougat",
+    "description": " Snickers Chocolate Bar<br>Peanuts Caramel... 44g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/206890.jpg"
+  },
+  {
+    "retailerProductId": "497649",
+    "crossRetailerId": "9300633532093",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.64,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "125g",
+      "price": 0.8
+    },
+    "name": "Woolworths Chocolate Creme Wafer Biscuits 125g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/497649/woolworths-chocolate-creme-wafer-biscuits",
+    "description": " Woolworths Chocolate Creme<br>Wafer Biscuits 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/497649.jpg"
+  },
+  {
+    "retailerProductId": "6052820",
+    "crossRetailerId": "8886467129490",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.21,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "19g x 5 pack",
+      "price": 4
+    },
+    "name": "Pringles Crisps Minis BBQ 19g x 5 pack",
+    "brand": "Pringles",
+    "path": "/shop/productdetails/6052820/pringles-crisps-minis-bbq",
+    "description": " Pringles Crisps Minis BBQ  19g x 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6052820.jpg"
+  },
+  {
+    "retailerProductId": "6055407",
+    "crossRetailerId": "9310015260025",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "8 pack",
+      "price": 4
+    },
+    "name": "Parker's Aussie Animal Pretzels BBQ Pizza 8 pack",
+    "brand": "Parker's",
+    "path": "/shop/productdetails/6055407/parker-s-aussie-animal-pretzels-bbq-pizza",
+    "description": " Parker's Aussie Animal<br>Pretzels BBQ... 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6055407.jpg"
+  },
+  {
+    "retailerProductId": "6059362",
+    "crossRetailerId": "9300617310662",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.59,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "195g",
+      "price": 7
+    },
+    "name": "Cadbury & More Creme Brulee Caramel Chocolate Block 195g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/6059362/cadbury-more-creme-brulee-caramel-chocolate-block",
+    "description": " Cadbury & More Creme Brulee<br>Caramel Chocolate... 195g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6059362.jpg"
+  },
+  {
+    "retailerProductId": "6060415",
+    "crossRetailerId": "9310015259852",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.57,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "8 pack",
+      "price": 4
+    },
+    "name": "Cheetos Ocean Safari Crispy Corn Puffs 8 pack",
+    "brand": "Cheetos",
+    "path": "/shop/productdetails/6060415/cheetos-ocean-safari-crispy-corn-puffs",
+    "description": " Cheetos Ocean Safari Crispy<br>Corn Puffs  8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6060415.jpg"
+  },
+  {
+    "retailerProductId": "267172",
+    "crossRetailerId": "9310140016672",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.31,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "160g",
+      "price": 2.1
+    },
+    "name": "Sunrice Thin Rice Cakes Sour Cream & Chives 160g",
+    "brand": "Sunrice",
+    "path": "/shop/productdetails/267172/sunrice-thin-rice-cakes-sour-cream-chives",
+    "description": " Sunrice Thin Rice Cakes Sour<br>Cream & Chives 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/267172.jpg"
+  },
+  {
+    "retailerProductId": "82361",
+    "crossRetailerId": "9310015248849",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.47,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 2.5
+    },
+    "name": "Sunbites Grain Waves Wholegrain Chips Sour Cream & Chives 170g",
+    "brand": "Sunbites",
+    "path": "/shop/productdetails/82361/sunbites-grain-waves-wholegrain-chips-sour-cream-chives",
+    "description": " Sunbites Grain Waves<br>Wholegrain Chips... 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/082361.jpg"
+  },
+  {
+    "retailerProductId": "36720",
+    "crossRetailerId": "9310072002095",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 4
+    },
+    "name": "Arnott's Kingston Cream Biscuits 200g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36720/arnott-s-kingston-cream-biscuits",
+    "description": " Arnott's Kingston Cream<br>Biscuits 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036720.jpg"
+  },
+  {
+    "retailerProductId": "180279",
+    "crossRetailerId": "9334714000959",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.15,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "65g 5 pack",
+      "price": 4
+    },
+    "name": "Cobs Best Ever Butter Popcorn 65g 5 pack",
+    "brand": "Cobs",
+    "path": "/shop/productdetails/180279/cobs-best-ever-butter-popcorn",
+    "description": " Cobs Best Ever Butter<br>Popcorn 65g 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180279.jpg"
+  },
+  {
+    "retailerProductId": "869235",
+    "crossRetailerId": "93698535",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 2.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "48g",
+      "price": 1.4
+    },
+    "name": "Nutella Hazelnut Chocolate Spread With Breadsticks 48g",
+    "brand": "Nutella",
+    "path": "/shop/productdetails/869235/nutella-hazelnut-chocolate-spread-with-breadsticks",
+    "description": " Nutella Hazelnut Chocolate<br>Spread With... 48g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/869235.jpg"
+  },
+  {
+    "retailerProductId": "729278",
+    "crossRetailerId": "9300633327118",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.95,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "100g",
+      "price": 0.95
+    },
+    "name": "Woolworths Microwave Popcorn Butter Flavoured 100g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/729278/woolworths-microwave-popcorn-butter-flavoured",
+    "description": " Woolworths Microwave Popcorn<br>Butter Flavoured 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/729278.jpg"
+  },
+  {
+    "retailerProductId": "299513",
+    "crossRetailerId": "9355414001107",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.22,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "90g",
+      "price": 2
+    },
+    "name": "Peckish Flavoured Rice Crackers Cheddar Cheese 90g",
+    "brand": "Peckish",
+    "path": "/shop/productdetails/299513/peckish-flavoured-rice-crackers-cheddar-cheese",
+    "description": " Peckish Flavoured Rice<br>Crackers Cheddar... 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/299513.jpg"
+  },
+  {
+    "retailerProductId": "829175",
+    "crossRetailerId": "9300617042617",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.08,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "180g 12 pack",
+      "price": 3.75
+    },
+    "name": "Cadbury Dairy Milk Chocolate Caramello Koala 180g 12 pack",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/829175/cadbury-dairy-milk-chocolate-caramello-koala",
+    "description": " Cadbury Dairy Milk Chocolate<br>Caramello... 180g 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/829175.jpg"
+  },
+  {
+    "retailerProductId": "840556",
+    "crossRetailerId": "9300617044901",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.71,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "35g",
+      "price": 2
+    },
+    "name": "Cadbury Dairy Milk Caramel Chocolate Caramello Koala 35g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/840556/cadbury-dairy-milk-caramel-chocolate-caramello-koala",
+    "description": " Cadbury Dairy Milk Caramel<br>Chocolate Caramello... 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/840556.jpg"
+  },
+  {
+    "retailerProductId": "824408",
+    "crossRetailerId": "9300633780357",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 1.25
+    },
+    "name": "Woolworths Scotch Finger Biscuits 250g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/824408/woolworths-scotch-finger-biscuits",
+    "description": " Woolworths Scotch Finger<br>Biscuits  250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/824408.jpg"
+  },
+  {
+    "retailerProductId": "515173",
+    "crossRetailerId": "9310072028903",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.05,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "190g",
+      "price": 2
+    },
+    "name": "Arnott's Shapes Pizza Cracker Biscuits 190g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/515173/arnott-s-shapes-pizza-cracker-biscuits",
+    "description": " Arnott's Shapes Pizza<br>Cracker Biscuits 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/515173.jpg"
+  },
+  {
+    "retailerProductId": "6019911",
+    "crossRetailerId": "9310015257797",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "25g x 8 pack",
+      "price": 4
+    },
+    "name": "Parker's Baked Pretzels Mini Minis 25g x 8 pack",
+    "brand": "Parker's",
+    "path": "/shop/productdetails/6019911/parker-s-baked-pretzels-mini-minis",
+    "description": " Parker's Baked Pretzels Mini<br>Minis 25g x 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6019911.jpg"
+  },
+  {
+    "retailerProductId": "247119",
+    "crossRetailerId": "9421906601244",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 2
+    },
+    "name": "Macy and Tailor Classic Pretzels 200g",
+    "brand": "Macy and Tailor",
+    "path": "/shop/productdetails/247119/macy-and-tailor-classic-pretzels",
+    "description": " Macy and Tailor Classic<br>Pretzels 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/247119.jpg"
+  },
+  {
+    "retailerProductId": "617552",
+    "crossRetailerId": "5410126006339",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.14,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "8 pack",
+      "price": 2.65
+    },
+    "name": "Lotus Biscoff Biscuit 8 pack",
+    "brand": "Lotus",
+    "path": "/shop/productdetails/617552/lotus-biscoff-biscuit",
+    "description": " Lotus Biscoff Biscuit  8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/617552.jpg"
+  },
+  {
+    "retailerProductId": "172188",
+    "crossRetailerId": "9334714000973",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.89,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "90g",
+      "price": 3.5
+    },
+    "name": "Cobs Natural Popcorn Best Ever Butter 90g",
+    "brand": "Cobs",
+    "path": "/shop/productdetails/172188/cobs-natural-popcorn-best-ever-butter",
+    "description": " Cobs Natural Popcorn Best<br>Ever Butter 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/172188.jpg"
+  },
+  {
+    "retailerProductId": "326628",
+    "crossRetailerId": "9300617411031",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.71,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "35g",
+      "price": 2
+    },
+    "name": "Cadbury Dairy Milk Freddo Chocolate 35g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/326628/cadbury-dairy-milk-freddo-chocolate",
+    "description": " Cadbury Dairy Milk Freddo<br>Chocolate 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/326628.jpg"
+  },
+  {
+    "retailerProductId": "71324",
+    "crossRetailerId": "9311478001002",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9.8,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 4.9
+    },
+    "name": "Woolworths Coconut Fine Desiccated 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/71324/woolworths-coconut-fine-desiccated",
+    "description": " Woolworths Coconut Fine<br>Desiccated 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/071324.jpg"
+  },
+  {
+    "retailerProductId": "36009",
+    "crossRetailerId": "9310072000954",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 2.5
+    },
+    "name": "Arnott's Milk Arrowroot Biscuits 250g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36009/arnott-s-milk-arrowroot-biscuits",
+    "description": " Arnott's Milk Arrowroot<br>Biscuits 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036009.jpg"
+  }
+]

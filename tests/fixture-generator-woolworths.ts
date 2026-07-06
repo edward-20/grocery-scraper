@@ -1,19 +1,50 @@
 import { WoolworthsProductsPagePayload } from "../src/scraper/woolworthsScraper.js";
-import { readFile, writeFile } from "fs/promises";
+import { readFile, writeFile, readdir } from "fs/promises";
 
+// naively parse the product pages
+const path = "tests/fixtures/woolworths/raw";
 
-// naively parse the product page
-const productPagePayload = await readFile('tests/fixtures/woolworths/raw/woolworths-product-page-payload.json', 'utf-8');
+const files = await readdir(path);
 
-try {
-  const json = JSON.parse(productPagePayload);
-  const naiveProducts = WoolworthsProductsPagePayload.parse(json);
+for (const file of files.filter(filename => filename.endsWith(".json")).filter(filename => filename !== "woolworths-categories-payload.json")) {
+  console.log(file);
+  const productPagePayload = await readFile(`tests/fixtures/woolworths/raw/${file}`, "utf-8");
 
-  const semiParsedResult = naiveProducts.Bundles.map(bundle => bundle.Products[0]);
+  try {
+    const json = JSON.parse(productPagePayload);
+    const naiveProducts = WoolworthsProductsPagePayload.parse(json);
 
-  const result = JSON.stringify(semiParsedResult, null, 2);
+    const semiParsedResult = naiveProducts.Bundles
+      .map(bundle => bundle.Products[0])
+      .filter(product => product.Price !== undefined || product.Price !== null)
+      .map(product => ({
+        retailerProductId: product.Stockcode.toString(),
+        crossRetailerId: product.Barcode,
+        gtinFormat: product.GtinFormat,
+        currentValue: product.HasCupPrice ? {
+          unitPrice: product.CupPrice,
+          unitPriceQuantity: product.CupMeasure, // manual editing
+          unitPriceUnit: product.CupMeasure,
+          size: product.PackageSize,
+          price: product.Price,
+        } : {
+          size: product.PackageSize,
+          price: product.Price,
+        },
+        name: product.DisplayName,
+        brand: product.Brand,
+        path: `/shop/productdetails/${product.Stockcode}/${product.UrlFriendlyName}`,
+        description: product.Description,
+        image_url: product.MediumImageFile,
+      }));
 
-  await writeFile("tests/fixtures/woolworths/parsed/woolworths-semi-parsed-product-page.json", result);
-} catch (error) {
-  console.error(error);
+    const result = JSON.stringify(semiParsedResult, null, 2);
+
+    await writeFile(`tests/fixtures/woolworths/parsed/woolworths-semi-parsed-product-page-${file}`, result);
+  } catch (error) {
+    console.error(error);
+    process.exit();
+  }
+
 }
+

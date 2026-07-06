@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "758342",
+    "crossRetailerId": "9310012039587",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 4.6
+    },
+    "name": "Dolmio Extra Tomato Onion & Roast Garlic Pasta Sauce 500g",
+    "brand": "Dolmio",
+    "path": "/shop/productdetails/758342/dolmio-extra-tomato-onion-roast-garlic-pasta-sauce",
+    "description": " Dolmio Extra Tomato Onion &<br>Roast Garlic Pasta... 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758342.jpg"
+  },
+  {
+    "retailerProductId": "6054645",
+    "crossRetailerId": "9351777002171",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.28,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "5 pack",
+      "price": 5.9
+    },
+    "name": "Noshu Protein Plus Keto Pro Bars Crunchy Cookie Butter 5 pack",
+    "brand": "Noshu",
+    "path": "/shop/productdetails/6054645/noshu-protein-plus-keto-pro-bars-crunchy-cookie-butter",
+    "description": " Noshu Protein Plus Keto Pro<br>Bars Crunchy... 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6054645.jpg"
+  },
+  {
+    "retailerProductId": "196566",
+    "crossRetailerId": "9312631129625",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.05,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "100 pack",
+      "price": 5.3
+    },
+    "name": "Dilmah Extra Strength Tea Bags 100 pack",
+    "brand": "Dilmah",
+    "path": "/shop/productdetails/196566/dilmah-extra-strength-tea-bags",
+    "description": " Dilmah Extra Strength Tea<br>Bags 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/196566.jpg"
+  },
+  {
+    "retailerProductId": "829004",
+    "crossRetailerId": "9300617052982",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.63,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 5.25
+    },
+    "name": "Cadbury Baking Milk Chocolate Chips 200g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/829004/cadbury-baking-milk-chocolate-chips",
+    "description": " Cadbury Baking Milk<br>Chocolate Chips 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/829004.jpg"
+  },
+  {
+    "retailerProductId": "748595",
+    "crossRetailerId": "9300633386689",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Full Cream Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/748595/woolworths-full-cream-long-life-milk-uht",
+    "description": " Woolworths Full Cream Long<br>Life Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/748595.jpg"
+  },
+  {
+    "retailerProductId": "799813",
+    "crossRetailerId": "9300633785536",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.1,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.1
+    },
+    "name": "Woolworths Free From Lactose Lite Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/799813/woolworths-free-from-lactose-lite-long-life-milk-uht",
+    "description": " Woolworths Free From Lactose<br>Lite Long Life Milk... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/799813.jpg"
+  },
+  {
+    "retailerProductId": "33557",
+    "crossRetailerId": "9300639500041",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.2,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.2
+    },
+    "name": "Devondale 100% Pure Full Cream Long Life Milk UHT 1L",
+    "brand": "Devondale",
+    "path": "/shop/productdetails/33557/devondale-100-pure-full-cream-long-life-milk-uht",
+    "description": " Devondale 100% Pure Full<br>Cream Long Life Milk... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/033557.jpg"
+  },
+  {
+    "retailerProductId": "770320",
+    "crossRetailerId": "9300633453350",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.75,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 1.1
+    },
+    "name": "Woolworths Diced Italian Tomatoes 400g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/770320/woolworths-diced-italian-tomatoes",
+    "description": " Woolworths Diced Italian<br>Tomatoes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/770320.jpg"
+  },
+  {
+    "retailerProductId": "230392",
+    "crossRetailerId": "9310092000583",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.41,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 1.4
+    },
+    "name": "Ardmona Crushed Vine Ripened Tomatoes 400g",
+    "brand": "Ardmona",
+    "path": "/shop/productdetails/230392/ardmona-crushed-vine-ripened-tomatoes",
+    "description": " Ardmona Crushed Vine Ripened<br>Tomatoes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/230392.jpg"
+  },
+  {
+    "retailerProductId": "38609",
+    "crossRetailerId": "9350177000152",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 31.05,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "95g",
+      "price": 2.95
+    },
+    "name": "Sirena Tuna In Oil Italian Style 95g",
+    "brand": "Sirena",
+    "path": "/shop/productdetails/38609/sirena-tuna-in-oil-italian-style",
+    "description": " Sirena Tuna In Oil Italian<br>Style 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/038609.jpg"
+  },
+  {
+    "retailerProductId": "6062572",
+    "crossRetailerId": "9310012100010",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "250mL",
+      "price": 4.8
+    },
+    "name": "Masterfoods Signature Sauce 250mL",
+    "brand": "Masterfoods",
+    "path": "/shop/productdetails/6062572/masterfoods-signature-sauce",
+    "description": " Masterfoods Signature Sauce  250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6062572.jpg"
+  },
+  {
+    "retailerProductId": "6072786",
+    "crossRetailerId": "9310012100546",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.99,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "50g",
+      "price": 4.95
+    },
+    "name": "Masterfoods Garlic Truffle Seasoning 50g",
+    "brand": "Masterfoods",
+    "path": "/shop/productdetails/6072786/masterfoods-garlic-truffle-seasoning",
+    "description": " Masterfoods Garlic Truffle<br>Seasoning 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6072786.jpg"
+  },
+  {
+    "retailerProductId": "6006813",
+    "crossRetailerId": "9300683509649",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11.07,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "28g",
+      "price": 3.1
+    },
+    "name": "Cholula Chilli Garlic Taco Spice Seasoning Mix 28g",
+    "brand": "Cholula",
+    "path": "/shop/productdetails/6006813/cholula-chilli-garlic-taco-spice-seasoning-mix",
+    "description": " Cholula Chilli Garlic Taco<br>Spice Seasoning Mix 28g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6006813.jpg"
+  },
+  {
+    "retailerProductId": "802495",
+    "crossRetailerId": "9300786060290",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.48,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "250mL",
+      "price": 6.2
+    },
+    "name": "Birch & Waite Green Goddess Dressing & Sauce 250mL",
+    "brand": "Birch & Waite",
+    "path": "/shop/productdetails/802495/birch-waite-green-goddess-dressing-sauce",
+    "description": " Birch & Waite Green Goddess<br>Dressing & Sauce 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/802495.jpg"
+  },
+  {
+    "retailerProductId": "218926",
+    "crossRetailerId": "9300633904241",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "420g",
+      "price": 1.05
+    },
+    "name": "Woolworths Corn Sweet Kernels 420g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/218926/woolworths-corn-sweet-kernels",
+    "description": " Woolworths Corn Sweet<br>Kernels 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/218926.jpg"
+  },
+  {
+    "retailerProductId": "748597",
+    "crossRetailerId": "9300633386702",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Skim Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/748597/woolworths-skim-long-life-milk-uht",
+    "description": " Woolworths Skim Long Life<br>Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/748597.jpg"
+  },
+  {
+    "retailerProductId": "311488",
+    "crossRetailerId": "9300633988715",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.38,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 0.95
+    },
+    "name": "Essentials Diced Tomatoes 400g",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/311488/essentials-diced-tomatoes",
+    "description": " Essentials Diced Tomatoes  400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/311488.jpg"
+  },
+  {
+    "retailerProductId": "476700",
+    "crossRetailerId": "9339687423019",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11.58,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "95g",
+      "price": 1.1
+    },
+    "name": "Woolworths Tuna In Springwater 95g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/476700/woolworths-tuna-in-springwater",
+    "description": " Woolworths Tuna In<br>Springwater 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/476700.jpg"
+  },
+  {
+    "retailerProductId": "33282",
+    "crossRetailerId": "9339687382392",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.3,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 1.3
+    },
+    "name": "Essentials Plain Flour 1kg",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/33282/essentials-plain-flour",
+    "description": " Essentials Plain Flour  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/033282.jpg"
+  },
+  {
+    "retailerProductId": "200695",
+    "crossRetailerId": "9300652010794",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.58,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1.2kg",
+      "price": 7
+    },
+    "name": "Weet-Bix Breakfast Cereal 1.2kg",
+    "brand": "Weet-Bix",
+    "path": "/shop/productdetails/200695/weet-bix-breakfast-cereal",
+    "description": " Weet-Bix Breakfast Cereal 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/200695.jpg"
+  },
+  {
+    "retailerProductId": "83235",
+    "crossRetailerId": "9310768113265",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.8,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "125g",
+      "price": 1.1
+    },
+    "name": "Deep Cove Sardines In Springwater 125g",
+    "brand": "Deep Cove",
+    "path": "/shop/productdetails/83235/deep-cove-sardines-in-springwater",
+    "description": " Deep Cove Sardines In<br>Springwater  125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/083235.jpg"
+  },
+  {
+    "retailerProductId": "37250",
+    "crossRetailerId": "93657419",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 14.21,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "95g",
+      "price": 1.35
+    },
+    "name": "Greenseas Tuna Chunks In Springwater 95g",
+    "brand": "Greenseas",
+    "path": "/shop/productdetails/37250/greenseas-tuna-chunks-in-springwater-chunk-in-spring-water",
+    "description": " Greenseas Tuna Chunks In<br>Springwater CHUNK IN... 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/037250.jpg"
+  },
+  {
+    "retailerProductId": "63005",
+    "crossRetailerId": "9339687134854",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.29,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "680g",
+      "price": 1.95
+    },
+    "name": "La Gina Italian Tomato Paste Passata 680g",
+    "brand": "La Gina",
+    "path": "/shop/productdetails/63005/la-gina-italian-tomato-paste-passata",
+    "description": " La Gina Italian Tomato Paste<br>Passata 680g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/063005.jpg"
+  },
+  {
+    "retailerProductId": "94706",
+    "crossRetailerId": "9300633947064",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.09,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "2L",
+      "price": 1.85
+    },
+    "name": "Essentials White Vinegar 2L",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/94706/essentials-white-vinegar",
+    "description": " Essentials White Vinegar 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/094706.jpg"
+  },
+  {
+    "retailerProductId": "748596",
+    "crossRetailerId": "9300633386696",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Lite Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/748596/woolworths-lite-long-life-milk-uht",
+    "description": " Woolworths Lite Long Life<br>Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/748596.jpg"
+  },
+  {
+    "retailerProductId": "799811",
+    "crossRetailerId": "9300633785529",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.1,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.1
+    },
+    "name": "Woolworths Free From Lactose Full Cream Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/799811/woolworths-free-from-lactose-full-cream-long-life-milk-uht",
+    "description": " Woolworths Free From Lactose<br>Full Cream Long Life... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/799811.jpg"
+  },
+  {
+    "retailerProductId": "694751",
+    "crossRetailerId": "9300633292393",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.43,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 1.7
+    },
+    "name": "Essentials Coconut Milk 400mL",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/694751/essentials-coconut-milk",
+    "description": " Essentials Coconut Milk 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/694751.jpg"
+  },
+  {
+    "retailerProductId": "360346",
+    "crossRetailerId": "9300633211882",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.72,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 1.8
+    },
+    "name": "Woolworths Microwave Jasmine Rice 250g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/360346/woolworths-microwave-jasmine-rice",
+    "description": " Woolworths Microwave Jasmine<br>Rice 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/360346.jpg"
+  },
+  {
+    "retailerProductId": "346830",
+    "crossRetailerId": "9339687320141",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 1
+    },
+    "name": "Woolworths Pasta Spaghetti 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/346830/woolworths-pasta-spaghetti",
+    "description": " Woolworths Pasta Spaghetti 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/346830.jpg"
+  },
+  {
+    "retailerProductId": "346833",
+    "crossRetailerId": "9339687320165",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 1
+    },
+    "name": "Woolworths Pasta Spirals 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/346833/woolworths-pasta-spirals",
+    "description": " Woolworths Pasta Spirals 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/346833.jpg"
+  },
+  {
+    "retailerProductId": "576220",
+    "crossRetailerId": "9300633635817",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.25,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 1.3
+    },
+    "name": "Woolworths Diced Australian Tomatoes 400g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/576220/woolworths-diced-australian-tomatoes",
+    "description": " Woolworths Diced Australian<br>Tomatoes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/576220.jpg"
+  },
+  {
+    "retailerProductId": "56731",
+    "crossRetailerId": "9312336049013",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 4.5
+    },
+    "name": "Bonsoy Soy Long Life Milk UHT 1L",
+    "brand": "Bonsoy",
+    "path": "/shop/productdetails/56731/bonsoy-soy-long-life-milk-uht",
+    "description": " Bonsoy Soy Long Life Milk<br>UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/056731.jpg"
+  }
+]

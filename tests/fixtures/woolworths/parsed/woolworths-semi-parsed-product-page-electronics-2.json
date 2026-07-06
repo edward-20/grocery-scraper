@@ -1,0 +1,359 @@
+[
+  {
+    "retailerProductId": "187727",
+    "crossRetailerId": "8888021202403",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.1,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "2 pack",
+      "price": 14.2
+    },
+    "name": "Eveready Gold 9V Alkaline Batteries 2 pack",
+    "brand": "Eveready",
+    "path": "/shop/productdetails/187727/eveready-gold-9v-alkaline-batteries",
+    "description": " Eveready Gold 9V Alkaline<br>Batteries  2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/187727.jpg"
+  },
+  {
+    "retailerProductId": "1126578421",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 27559
+    },
+    "name": "MAXHUB Ultrawide 105''",
+    "brand": "Maxhub",
+    "path": "/shop/productdetails/1126578421/maxhub-ultrawide-105-",
+    "description": " Maxhub   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1126578421.jpg"
+  },
+  {
+    "retailerProductId": "425295",
+    "crossRetailerId": "8888021308594",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.63,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "16 pack",
+      "price": 10
+    },
+    "name": "Eveready Gold AA Alkaline Batteries 16 pack",
+    "brand": "Eveready",
+    "path": "/shop/productdetails/425295/eveready-gold-aa-alkaline-batteries",
+    "description": " Eveready Gold AA Alkaline<br>Batteries  16 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/425295.jpg"
+  },
+  {
+    "retailerProductId": "1128237703",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 3558
+    },
+    "name": "TCL 75\" C8L SQD 4K QLED UHD Mini LED Smart Google TV 75C8L",
+    "brand": "TCL",
+    "path": "/shop/productdetails/1128237703/tcl-75-c8l-sqd-4k-qled-uhd-mini-led-smart-google-tv-75c8l",
+    "description": " TCL   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/default.png"
+  },
+  {
+    "retailerProductId": "221766",
+    "crossRetailerId": "8888021306194",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.25,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "2 pack",
+      "price": 10.5
+    },
+    "name": "Energizer 2025 CR2025 Lithium Coin Battery 2 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/221766/energizer-2025-cr2025-lithium-coin-battery",
+    "description": " Energizer 2025 CR2025<br>Lithium Coin... 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/221766.jpg"
+  },
+  {
+    "retailerProductId": "223475",
+    "crossRetailerId": "9339687305063",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 12
+    },
+    "name": "Quantum Lithium CR2032 4PK 4 pack",
+    "brand": "Quantum",
+    "path": "/shop/productdetails/223475/quantum-lithium-cr2032-4pk",
+    "description": " Quantum Lithium CR2032 4PK  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/223475.jpg"
+  },
+  {
+    "retailerProductId": "1101994901",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 3499
+    },
+    "name": "VAVA DLP 4K UHD Ultra Short Throw Laser TV Home Theatre Projector UST",
+    "brand": "VAVA",
+    "path": "/shop/productdetails/1101994901/vava-dlp-4k-uhd-ultra-short-throw-laser-tv-home-theatre-projector-ust",
+    "description": " VAVA   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1101994901.jpg"
+  },
+  {
+    "retailerProductId": "1125065709",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 1699
+    },
+    "name": "NOTHING Phone (3) 5G 256GB (Black)",
+    "brand": "Nothing",
+    "path": "/shop/productdetails/1125065709/nothing-phone-3-5g-256gb-black-",
+    "description": " Nothing   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1125065709.jpg"
+  },
+  {
+    "retailerProductId": "1125550331",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 1999
+    },
+    "name": "Samsung Galaxy Z Fold7 (256GB, Blue Shadow)",
+    "brand": "Samsung",
+    "path": "/shop/productdetails/1125550331/samsung-galaxy-z-fold7-256gb-blue-shadow-",
+    "description": " Samsung   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1125550331.jpg"
+  },
+  {
+    "retailerProductId": "59957",
+    "crossRetailerId": "9339346267114",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 9
+    },
+    "name": "Chevron Extension Power Lead 5m Each",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/59957/chevron-extension-power-lead-5m-5m-10-amps",
+    "description": " Chevron Extension Power Lead<br>5m 5M 10 Amps each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/059957.jpg"
+  },
+  {
+    "retailerProductId": "1126644685",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 39
+    },
+    "name": "Kodak Charmera Keychain Digital Camera (Blind Box)",
+    "brand": "Kodak",
+    "path": "/shop/productdetails/1126644685/kodak-charmera-keychain-digital-camera-blind-box-",
+    "description": " Kodak   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1126644685.jpg"
+  },
+  {
+    "retailerProductId": "268127",
+    "crossRetailerId": "9339346024076",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 6.4
+    },
+    "name": "Chevron Alkaline d 4 Pack",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/268127/chevron-alkaline-d",
+    "description": " Chevron Alkaline D  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/268127.jpg"
+  },
+  {
+    "retailerProductId": "221775",
+    "crossRetailerId": "8888021306613",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 7.5
+    },
+    "name": "Energizer 2450 CR2450 Lithium Coin Battery each",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/221775/energizer-2450-cr2450-lithium-coin-battery",
+    "description": " Energizer 2450 CR2450<br>Lithium Coin... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/221775.jpg"
+  },
+  {
+    "retailerProductId": "1127836575",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 3224.1
+    },
+    "name": "LG 65PK640S 65\" 4K UHD Commercial Smart TV for Offices & Hospitality",
+    "brand": "LG",
+    "path": "/shop/productdetails/1127836575/lg-65pk640s-65-4k-uhd-commercial-smart-tv-for-offices-hospitality",
+    "description": " LG   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1127836575.jpg"
+  },
+  {
+    "retailerProductId": "1125912435",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 9877.75
+    },
+    "name": "MSI Stealth Series Gaming Notebook 18' UHD AMD Ryzen AI 9 HX 370 Processor DDR5 32GBx2, 2TB SSD, RTX 5090 GDDR7 24GB Windows11 Pro",
+    "brand": "MSI",
+    "path": "/shop/productdetails/1125912435/msi-stealth-series-gaming-notebook-18-uhd-amd-ryzen-ai-9-hx-370-processor-ddr5-32gbx2-2tb-ssd-rtx-5090-gddr7-24gb-windows11-pro",
+    "description": " MSI   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1125912435.jpg"
+  },
+  {
+    "retailerProductId": "1127836601",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 1322.4
+    },
+    "name": "Sony BRAVIA S30 55\" 4K HDR Smart Google TV with X1 Processor & TV Tuner",
+    "brand": "Sony",
+    "path": "/shop/productdetails/1127836601/sony-bravia-s30-55-4k-hdr-smart-google-tv-with-x1-processor-tv-tuner",
+    "description": " Sony   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1127836601.jpg"
+  },
+  {
+    "retailerProductId": "8008",
+    "crossRetailerId": "9339346267084",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 5
+    },
+    "name": "Chevron Piggy Back Extension Lead 2m Each",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/8008/chevron-piggy-back-extension-lead-2m-2m-10-amps",
+    "description": " Chevron Piggy Back Extension<br>Lead 2m 2M 10 Amps each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/008008.jpg"
+  },
+  {
+    "retailerProductId": "187728",
+    "crossRetailerId": "8888021204322",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.73,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 14.9
+    },
+    "name": "Eveready Gold D Alkaline Batteries 4 pack",
+    "brand": "Eveready",
+    "path": "/shop/productdetails/187728/eveready-gold-d-alkaline-batteries",
+    "description": " Eveready Gold D Alkaline<br>Batteries  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/187728.jpg"
+  },
+  {
+    "retailerProductId": "1124050595",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 3566.91
+    },
+    "name": "HP EliteBook 8 G1i 14\" WUXGA IR U5-225U 16GB 512GB W11P AI Laptop Notebook PC BQ4E3PT Silver",
+    "brand": "HP",
+    "path": "/shop/productdetails/1124050595/hp-elitebook-8-g1i-14-wuxga-ir-u5-225u-16gb-512gb-w11p-ai-laptop-notebook-pc-bq4e3pt-silver",
+    "description": " HP   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1124050595.jpg"
+  },
+  {
+    "retailerProductId": "1125777835",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 859.95
+    },
+    "name": "Nintendo Switch 2 SW2 Console + Pokemon Legends: Z-A Bundle",
+    "brand": "Nintendo",
+    "path": "/shop/productdetails/1125777835/nintendo-switch-2-sw2-console-pokemon-legends-z-a-bundle",
+    "description": " Nintendo   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1125777835.jpg"
+  },
+  {
+    "retailerProductId": "1138571912",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 1969.99
+    },
+    "name": "Nebula Cosmos 4K SE Dolby Vision Smart Projector with Google TV Grey",
+    "brand": "Nebula",
+    "path": "/shop/productdetails/1138571912/nebula-cosmos-4k-se-dolby-vision-smart-projector-with-google-tv-grey",
+    "description": " Nebula   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1138571912.jpg"
+  },
+  {
+    "retailerProductId": "1128090263",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 6499
+    },
+    "name": "Samsung 75\" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026) (Black 75\")",
+    "brand": "Samsung",
+    "path": "/shop/productdetails/1128090263/samsung-75-micro-rgb-r95h-4k-samsung-vision-ai-smart-tv-2026-black-75-",
+    "description": " Samsung   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128090263.jpg"
+  },
+  {
+    "retailerProductId": "97519",
+    "crossRetailerId": "9339346267169",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 7.5
+    },
+    "name": "Chevron 4 Outlet Powerboard Each",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/97519/chevron-4-outlet-powerboard-1m-10amps",
+    "description": " Chevron 4 Outlet Powerboard<br>1M 10AMPS each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/097519.jpg"
+  },
+  {
+    "retailerProductId": "172281",
+    "crossRetailerId": "9339346267152",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 8.5
+    },
+    "name": "Chevron 6 Outlet Powerboard Each",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/172281/chevron-6-outlet-powerboard-1m-10amps",
+    "description": " Chevron 6 Outlet Powerboard<br>1M 10Amps each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/172281.jpg"
+  }
+]

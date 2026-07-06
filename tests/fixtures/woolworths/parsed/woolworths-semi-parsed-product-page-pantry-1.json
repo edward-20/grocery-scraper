@@ -1,0 +1,540 @@
+[
+  {
+    "retailerProductId": "186446",
+    "crossRetailerId": "9310012027867",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.71,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "175g",
+      "price": 3
+    },
+    "name": "MasterFoods Curried Sausages Recipe Base 175g",
+    "brand": "MasterFoods",
+    "path": "/shop/productdetails/186446/masterfoods-curried-sausages-recipe-base",
+    "description": " MasterFoods Curried Sausages<br>Recipe Base 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/186446.jpg"
+  },
+  {
+    "retailerProductId": "49709",
+    "crossRetailerId": "93718400",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 2.65,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 4.5
+    },
+    "name": "MasterFoods Dijon Mustard 170g",
+    "brand": "MasterFoods",
+    "path": "/shop/productdetails/49709/masterfoods-dijon-mustard",
+    "description": " MasterFoods Dijon Mustard 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/049709.jpg"
+  },
+  {
+    "retailerProductId": "6013244",
+    "crossRetailerId": "9310012063810",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.8,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "44g",
+      "price": 3.5
+    },
+    "name": "MasterFoods Onion Powder 44g",
+    "brand": "MasterFoods",
+    "path": "/shop/productdetails/6013244/masterfoods-onion-powder",
+    "description": " MasterFoods Onion Powder  44g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6013244.jpg"
+  },
+  {
+    "retailerProductId": "375114",
+    "crossRetailerId": "9310012036296",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.71,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "175g",
+      "price": 3
+    },
+    "name": "MasterFoods Honey Garlic & Soy Stir Fry Recipe Base 175g",
+    "brand": "MasterFoods",
+    "path": "/shop/productdetails/375114/masterfoods-honey-garlic-soy-stir-fry-recipe-base",
+    "description": " MasterFoods Honey Garlic &<br>Soy Stir Fry Recipe... 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/375114.jpg"
+  },
+  {
+    "retailerProductId": "77750",
+    "crossRetailerId": "9300644043601",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.23,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 2.25
+    },
+    "name": "Campbell's Real Stock Chicken 1L",
+    "brand": "Campbell's",
+    "path": "/shop/productdetails/77750/campbell-s-real-stock-chicken-liquid-stock",
+    "description": " Campbell's Real Stock<br>Chicken Liquid Stock 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/077750.jpg"
+  },
+  {
+    "retailerProductId": "779130",
+    "crossRetailerId": "9300633473648",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.75,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.75
+    },
+    "name": "Woolworths Soy Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/779130/woolworths-soy-long-life-milk-uht",
+    "description": " Woolworths Soy Long Life<br>Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/779130.jpg"
+  },
+  {
+    "retailerProductId": "177972",
+    "crossRetailerId": "89686170924",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 0.93,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "425g 5 pack",
+      "price": 3.95
+    },
+    "name": "Indomie Mi Goreng Instant Noodles 425g 5 pack",
+    "brand": "Indomie",
+    "path": "/shop/productdetails/177972/indomie-mi-goreng-instant-noodles",
+    "description": " Indomie Mi Goreng Instant<br>Noodles 425g 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/177972.jpg"
+  },
+  {
+    "retailerProductId": "35007",
+    "crossRetailerId": "9300633350079",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.18,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 1.8
+    },
+    "name": "Essentials Long Grain Rice 1kg",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/35007/essentials-long-grain-rice-long-grain",
+    "description": " Essentials Long Grain Rice<br>Long Grain 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/035007.jpg"
+  },
+  {
+    "retailerProductId": "907377",
+    "crossRetailerId": "9339687387212",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.38,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "420g",
+      "price": 1
+    },
+    "name": "Woolworths Black Beans 420g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/907377/woolworths-black-beans",
+    "description": " Woolworths Black Beans  420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/907377.jpg"
+  },
+  {
+    "retailerProductId": "31370",
+    "crossRetailerId": "9300633313708",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.43,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 1.7
+    },
+    "name": "Essentials Coconut Cream 400mL",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/31370/essentials-coconut-cream",
+    "description": " Essentials Coconut Cream 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/031370.jpg"
+  },
+  {
+    "retailerProductId": "926813",
+    "crossRetailerId": "9310047223791",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.96,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "230g",
+      "price": 4.5
+    },
+    "name": "Praise Whole Egg Creamy Mayo 230g",
+    "brand": "Praise",
+    "path": "/shop/productdetails/926813/praise-whole-egg-creamy-mayo",
+    "description": " Praise Whole Egg Creamy Mayo<br> 230g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/926813.jpg"
+  },
+  {
+    "retailerProductId": "909078",
+    "crossRetailerId": "8717200010648",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "400g",
+      "price": 6
+    },
+    "name": "Cookie Penotti Speculoos Biscuit Spread 400g",
+    "brand": "Cookie Penotti",
+    "path": "/shop/productdetails/909078/cookie-penotti-speculoos-biscuit-spread",
+    "description": " Cookie Penotti Speculoos<br>Biscuit Spread 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/909078.jpg"
+  },
+  {
+    "retailerProductId": "6048032",
+    "crossRetailerId": "9328366001815",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.64,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "110g",
+      "price": 4
+    },
+    "name": "Belladotti Cous Cous Sun-Dried Tomato & Basil 110g",
+    "brand": "Belladotti",
+    "path": "/shop/productdetails/6048032/belladotti-cous-cous-sun-dried-tomato-basil",
+    "description": " Belladotti Cous Cous<br>Sun-Dried Tomato &... 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6048032.jpg"
+  },
+  {
+    "retailerProductId": "172586",
+    "crossRetailerId": "9351777001426",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.38,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "5 pack",
+      "price": 7
+    },
+    "name": "Noshu Low Carb Cherry & Coconut Indulgence Bars 5 pack",
+    "brand": "Noshu",
+    "path": "/shop/productdetails/172586/noshu-low-carb-cherry-coconut-indulgence-bars",
+    "description": " Noshu Low Carb Cherry &<br>Coconut... 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/172586.jpg"
+  },
+  {
+    "retailerProductId": "700642",
+    "crossRetailerId": "9300633227319",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 1.6
+    },
+    "name": "Macro Organic Tomatoes Diced 400g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/700642/macro-organic-tomatoes-diced",
+    "description": " Macro Organic Tomatoes Diced 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/700642.jpg"
+  },
+  {
+    "retailerProductId": "684034",
+    "crossRetailerId": "9339687043101",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.53,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 2.1
+    },
+    "name": "Macro Organic Coconut Milk 400mL",
+    "brand": "Macro",
+    "path": "/shop/productdetails/684034/macro-organic-coconut-milk",
+    "description": " Macro Organic Coconut Milk  400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/684034.jpg"
+  },
+  {
+    "retailerProductId": "236393",
+    "crossRetailerId": "9300633920074",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "800g",
+      "price": 2
+    },
+    "name": "Woolworths Diced Italian Tomatoes 800g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/236393/woolworths-diced-italian-tomatoes",
+    "description": " Woolworths Diced Italian<br>Tomatoes 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/236393.jpg"
+  },
+  {
+    "retailerProductId": "188800",
+    "crossRetailerId": "9300633100209",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.18,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 0.9
+    },
+    "name": "Essentials Pasta Penne 500g",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/188800/essentials-pasta-penne",
+    "description": " Essentials Pasta Penne 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/188800.jpg"
+  },
+  {
+    "retailerProductId": "344550",
+    "crossRetailerId": "80042556",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 5.75,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 2.3
+    },
+    "name": "Mutti Polpa Finely Chopped Tomatoes 400g",
+    "brand": "Mutti",
+    "path": "/shop/productdetails/344550/mutti-polpa-finely-chopped-tomatoes",
+    "description": " Mutti Polpa Finely Chopped<br>Tomatoes 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/344550.jpg"
+  },
+  {
+    "retailerProductId": "230519",
+    "crossRetailerId": "9300633910198",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.4,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "500mL",
+      "price": 2
+    },
+    "name": "Woolworths Tomato Sauce Squeeze 500mL",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/230519/woolworths-tomato-sauce-squeeze",
+    "description": " Woolworths Tomato Sauce<br>Squeeze 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/230519.jpg"
+  },
+  {
+    "retailerProductId": "6076346",
+    "crossRetailerId": "8994963005498",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.93,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "425g 5 pack",
+      "price": 3.95
+    },
+    "name": "Indomie Instant Noodles Mi Goreng Spicy Beef Flavour 425g 5 pack",
+    "brand": "Indomie",
+    "path": "/shop/productdetails/6076346/indomie-instant-noodles-mi-goreng-spicy-beef-flavour",
+    "description": " Indomie Instant Noodles Mi<br>Goreng Spicy... 425g 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6076346.jpg"
+  },
+  {
+    "retailerProductId": "84763",
+    "crossRetailerId": "9339687161942",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "397g",
+      "price": null
+    },
+    "name": "Woolworths Sweetened Condensed Milk 397g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/84763/woolworths-sweetened-condensed-milk",
+    "description": " Woolworths Sweetened<br>Condensed Milk  397g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/084763.jpg"
+  },
+  {
+    "retailerProductId": "62735",
+    "crossRetailerId": "9310155620505",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "70g",
+      "price": 1.75
+    },
+    "name": "Fantastic Chicken Noodle Cup 70g",
+    "brand": "Fantastic",
+    "path": "/shop/productdetails/62735/fantastic-chicken-noodle-cup",
+    "description": " Fantastic Chicken Noodle Cup 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/062735.jpg"
+  },
+  {
+    "retailerProductId": "85488",
+    "crossRetailerId": "9350177000121",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 31.05,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "95g",
+      "price": 2.95
+    },
+    "name": "Sirena Tuna In Chilli Oil 95g",
+    "brand": "Sirena",
+    "path": "/shop/productdetails/85488/sirena-tuna-in-chilli-oil",
+    "description": " Sirena Tuna In Chilli Oil 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/085488.jpg"
+  },
+  {
+    "retailerProductId": "6017834",
+    "crossRetailerId": "9339687420254",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.38,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "40g",
+      "price": 0.55
+    },
+    "name": "Essentials French Onion Soup 40g",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/6017834/essentials-french-onion-soup",
+    "description": " Essentials French Onion Soup<br> 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6017834.jpg"
+  },
+  {
+    "retailerProductId": "779134",
+    "crossRetailerId": "9300633473686",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Unsweetened Almond Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/779134/woolworths-unsweetened-almond-long-life-milk-uht",
+    "description": " Woolworths Unsweetened<br>Almond Long Life Milk... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/779134.jpg"
+  },
+  {
+    "retailerProductId": "360348",
+    "crossRetailerId": "9300633211899",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.72,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 1.8
+    },
+    "name": "Woolworths Microwave Basmati Rice 250g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/360348/woolworths-microwave-basmati-rice",
+    "description": " Woolworths Microwave Basmati<br>Rice  250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/360348.jpg"
+  },
+  {
+    "retailerProductId": "34004",
+    "crossRetailerId": "9300633340049",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.28,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 1.4
+    },
+    "name": "Essentials Tomato Paste 500g",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/34004/essentials-tomato-paste",
+    "description": " Essentials Tomato Paste  500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/034004.jpg"
+  },
+  {
+    "retailerProductId": "47682",
+    "crossRetailerId": "9300633476823",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.26,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "420g",
+      "price": 1.1
+    },
+    "name": "Woolworths Baked Beans In Tomato Sauce 420g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/47682/woolworths-baked-beans-in-tomato-sauce",
+    "description": " Woolworths Baked Beans In<br>Tomato Sauce 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/047682.jpg"
+  },
+  {
+    "retailerProductId": "21568",
+    "crossRetailerId": "9300657008369",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 14.21,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "95g",
+      "price": 1.35
+    },
+    "name": "Greenseas Tuna In Extra Virgin Olive Oil Blend 95g",
+    "brand": "Greenseas",
+    "path": "/shop/productdetails/21568/greenseas-tuna-in-extra-virgin-olive-oil-blend",
+    "description": " Greenseas Tuna In Extra<br>Virgin Olive Oil... 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/021568.jpg"
+  },
+  {
+    "retailerProductId": "58537",
+    "crossRetailerId": "9300633127114",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.18,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 1.8
+    },
+    "name": "Essentials White Sugar 1kg",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/58537/essentials-white-sugar",
+    "description": " Essentials White Sugar  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/058537.jpg"
+  },
+  {
+    "retailerProductId": "700638",
+    "crossRetailerId": "9300633227272",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "425g",
+      "price": null
+    },
+    "name": "Macro Organic Chickpeas 425g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/700638/macro-organic-chickpeas",
+    "description": " Macro Organic Chickpeas 425g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/700638.jpg"
+  }
+]

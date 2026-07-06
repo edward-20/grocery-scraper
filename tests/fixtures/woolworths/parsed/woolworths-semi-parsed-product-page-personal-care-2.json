@@ -1,0 +1,543 @@
+[
+  {
+    "retailerProductId": "748677",
+    "crossRetailerId": "4005900036490",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.2,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "250mL",
+      "price": 10.5
+    },
+    "name": "Nivea MEN Black & White Original 72hr Antiperspirant Deodorant 250mL",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/748677/nivea-men-black-white-original-72hr-antiperspirant-deodorant",
+    "description": " Nivea MEN Black & White<br>Original 72hr... 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/748677.jpg"
+  },
+  {
+    "retailerProductId": "263262",
+    "crossRetailerId": "70330714175",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 1.7,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 6.8
+    },
+    "name": "BIC Razor Disposable Soleil Twilight Lavender 4 pack",
+    "brand": "BIC",
+    "path": "/shop/productdetails/263262/bic-razor-disposable-soleil-twilight-lavender",
+    "description": " BIC Razor Disposable Soleil<br>Twilight Lavender 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/263262.jpg"
+  },
+  {
+    "retailerProductId": "758150",
+    "crossRetailerId": "9300830018260",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.9,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 19
+    },
+    "name": "Dove Body Wash Fruity Nourish 1L",
+    "brand": "Dove",
+    "path": "/shop/productdetails/758150/dove-body-wash-fruity-nourish",
+    "description": " Dove Body Wash Fruity<br>Nourish 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758150.jpg"
+  },
+  {
+    "retailerProductId": "68835",
+    "crossRetailerId": "9300830056415",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.77,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "220mL",
+      "price": 10.5
+    },
+    "name": "Rexona Women Advanced 72hr Deodorant Aerosol Fresh 220mL",
+    "brand": "Rexona",
+    "path": "/shop/productdetails/68835/rexona-women-advanced-72hr-deodorant-aerosol-fresh",
+    "description": " Rexona Women Advanced 72hr<br>Deodorant Aerosol... 220mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/068835.jpg"
+  },
+  {
+    "retailerProductId": "534746",
+    "crossRetailerId": "9311505809588",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.33,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "96 pack",
+      "price": 3.2
+    },
+    "name": "Quilton 2 Ply Large & Thick Hypo-Allergenic Facial Tissue 96 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/534746/quilton-2-ply-large-thick-hypo-allergenic-facial-tissue",
+    "description": " Quilton 2 Ply Large & Thick<br>Hypo-Allergenic... 96 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/534746.jpg"
+  },
+  {
+    "retailerProductId": "116837",
+    "crossRetailerId": "9325344000129",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.6,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "10 pack",
+      "price": 6
+    },
+    "name": "Libra Goodnights Pads Ultra Thin Wings 10 pack",
+    "brand": "Libra",
+    "path": "/shop/productdetails/116837/libra-goodnights-pads-ultra-thin-wings",
+    "description": " Libra Goodnights Pads Ultra<br>Thin Wings 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/116837.jpg"
+  },
+  {
+    "retailerProductId": "972443",
+    "crossRetailerId": "9339687396979",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "90 pack",
+      "price": 1.35
+    },
+    "name": "Vevelle Facial Tissue 2ply 90 pack",
+    "brand": "Vevelle",
+    "path": "/shop/productdetails/972443/vevelle-facial-tissue-2ply",
+    "description": " Vevelle Facial Tissue 2ply  90 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/972443.jpg"
+  },
+  {
+    "retailerProductId": "6055454",
+    "crossRetailerId": "9310004151952",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.95,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "95 pack",
+      "price": 2.8
+    },
+    "name": "Sorbent Facial Tissues Thick & Large White 95 pack",
+    "brand": "Sorbent",
+    "path": "/shop/productdetails/6055454/sorbent-facial-tissues-thick-large-white",
+    "description": " Sorbent Facial Tissues Thick<br>& Large White 95 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6055454.jpg"
+  },
+  {
+    "retailerProductId": "190912",
+    "crossRetailerId": "9339687284672",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 2.3
+    },
+    "name": "Oscar Orsen Shaving Foam 250g",
+    "brand": "Oscar Orsen",
+    "path": "/shop/productdetails/190912/oscar-orsen-shaving-foam-citrus-fragrance",
+    "description": " Oscar Orsen Shaving Foam<br>Citrus Fragrance 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/190912.jpg"
+  },
+  {
+    "retailerProductId": "827947",
+    "crossRetailerId": "9300633723125",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "12 pack",
+      "price": null
+    },
+    "name": "Evamay Pads With Wings Night 12 pack",
+    "brand": "Evamay",
+    "path": "/shop/productdetails/827947/evamay-pads-with-wings-night",
+    "description": " Evamay Pads With Wings Night 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/827947.jpg"
+  },
+  {
+    "retailerProductId": "6029733",
+    "crossRetailerId": "9300615038278",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 16
+    },
+    "name": "Original Source Shower Gel Nourishing Honey & Shea Butter 1L",
+    "brand": "Original Source",
+    "path": "/shop/productdetails/6029733/original-source-shower-gel-nourishing-honey-shea-butter",
+    "description": " Original Source Shower Gel<br>Nourishing Honey &... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6029733.jpg"
+  },
+  {
+    "retailerProductId": "6044743",
+    "crossRetailerId": "840191606359",
+    "gtinFormat": 12,
+    "currentValue": {
+      "unitPrice": 3.67,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "354mL",
+      "price": 13
+    },
+    "name": "being Mega Moisture Hair Mask 354mL",
+    "brand": "being",
+    "path": "/shop/productdetails/6044743/being-mega-moisture-hair-mask",
+    "description": " being Mega Moisture Hair<br>Mask  354mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6044743.jpg"
+  },
+  {
+    "retailerProductId": "6006791",
+    "crossRetailerId": "9310320004642",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.44,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "473mL",
+      "price": 21
+    },
+    "name": "TheraBreath Gum Care Oral Rinse Clean Mint 473mL",
+    "brand": "TheraBreath",
+    "path": "/shop/productdetails/6006791/therabreath-gum-care-oral-rinse-clean-mint",
+    "description": " TheraBreath Gum Care Oral<br>Rinse Clean Mint 473mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6006791.jpg"
+  },
+  {
+    "retailerProductId": "267853",
+    "crossRetailerId": "9300673877871",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.18,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "36 pack",
+      "price": 6.6
+    },
+    "name": "Polident Retainer & Mouthguard Daily Cleanser 36 pack",
+    "brand": "Polident",
+    "path": "/shop/productdetails/267853/polident-retainer-mouthguard-daily-cleanser",
+    "description": " Polident Retainer &<br>Mouthguard Daily... 36 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/267853.jpg"
+  },
+  {
+    "retailerProductId": "104199",
+    "crossRetailerId": "9310692031253",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.4,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "500mL",
+      "price": 2
+    },
+    "name": "Natures Organics Fruits Conditioner Balance Apple Fresh 500mL",
+    "brand": "Natures Organics",
+    "path": "/shop/productdetails/104199/natures-organics-fruits-conditioner-balance-apple-fresh",
+    "description": " Natures Organics Fruits<br>Conditioner... 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/104199.jpg"
+  },
+  {
+    "retailerProductId": "626895",
+    "crossRetailerId": "9300701422479",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.23,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "15 pack",
+      "price": 3.5
+    },
+    "name": "Dettol 2 In 1 H&s & Surfaces Antibacterial Wipes 15 pack",
+    "brand": "Dettol",
+    "path": "/shop/productdetails/626895/dettol-2-in-1-h-s-surfaces-antibacterial-wipes",
+    "description": " Dettol 2 In 1 H&s & Surfaces<br>Antibacterial... 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/626895.jpg"
+  },
+  {
+    "retailerProductId": "822389",
+    "crossRetailerId": "8850006344033",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.09,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "115g",
+      "price": 7
+    },
+    "name": "Colgate Total Active Prevention Deep Clean Toothpaste 115g",
+    "brand": "Colgate",
+    "path": "/shop/productdetails/822389/colgate-total-active-prevention-deep-clean-toothpaste",
+    "description": " Colgate Total Active<br>Prevention Deep... 115g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/822389.jpg"
+  },
+  {
+    "retailerProductId": "426901",
+    "crossRetailerId": "9312812000101",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.09,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "110g",
+      "price": 4.5
+    },
+    "name": "Grants Of Australia Toothpaste Mild Mint 110g",
+    "brand": "Grants Of Australia",
+    "path": "/shop/productdetails/426901/grants-of-australia-toothpaste-mild-mint",
+    "description": " Grants Of Australia<br>Toothpaste Mild... 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/426901.jpg"
+  },
+  {
+    "retailerProductId": "307484",
+    "crossRetailerId": "93204439",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "50mL",
+      "price": 2
+    },
+    "name": "Dettol Liquid Antibacterial Instant Hand Sanitiser Refresh 50mL",
+    "brand": "Dettol",
+    "path": "/shop/productdetails/307484/dettol-liquid-antibacterial-instant-hand-sanitiser-refresh",
+    "description": " Dettol Liquid Antibacterial<br>Instant Hand... 50mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/307484.jpg"
+  },
+  {
+    "retailerProductId": "198107",
+    "crossRetailerId": "8850006943502",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.09,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "115g",
+      "price": 7
+    },
+    "name": "Colgate Max Fresh Toothpaste With Mini Breath Strips Cool Mint 115g",
+    "brand": "Colgate",
+    "path": "/shop/productdetails/198107/colgate-max-fresh-toothpaste-with-mini-breath-strips-cool-mint",
+    "description": " Colgate Max Fresh Toothpaste<br>With Mini Breath... 115g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/198107.jpg"
+  },
+  {
+    "retailerProductId": "381095",
+    "crossRetailerId": "4005900036575",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "50mL",
+      "price": 5.5
+    },
+    "name": "Nivea Black & White Invisible Clear Roll On Deodorant 50mL",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/381095/nivea-black-white-invisible-clear-roll-on-deodorant",
+    "description": " Nivea Black & White<br>Invisible Clear... 50mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/381095.jpg"
+  },
+  {
+    "retailerProductId": "828693",
+    "crossRetailerId": "9310088009712",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.71,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "70 pack",
+      "price": 2.6
+    },
+    "name": "Kleenex Aloe Vera & Vitamin E 3 Ply Large & Thick Facial Tissues 70 pack",
+    "brand": "Kleenex",
+    "path": "/shop/productdetails/828693/kleenex-aloe-vera-vitamin-e-3-ply-large-thick-facial-tissues",
+    "description": " Kleenex Aloe Vera & Vitamin<br>E 3 Ply Large &... 70 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/828693.jpg"
+  },
+  {
+    "retailerProductId": "722111",
+    "crossRetailerId": "9310088007015",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.96,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "8 pack",
+      "price": 7.7
+    },
+    "name": "Poise Incontinence Pads Overnight 8 pack",
+    "brand": "Poise",
+    "path": "/shop/productdetails/722111/poise-incontinence-pads-overnight",
+    "description": " Poise Incontinence Pads<br>Overnight 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/722111.jpg"
+  },
+  {
+    "retailerProductId": "138290",
+    "crossRetailerId": "8850006937594",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.06,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "90g",
+      "price": 2.75
+    },
+    "name": "Colgate Kids Toothpaste Junior Bluey 2-5 Years 90g",
+    "brand": "Colgate",
+    "path": "/shop/productdetails/138290/colgate-kids-toothpaste-junior-bluey-2-5-years",
+    "description": " Colgate Kids Toothpaste<br>Junior Bluey 2-5... 90g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/138290.jpg"
+  },
+  {
+    "retailerProductId": "580718",
+    "crossRetailerId": "9310088011623",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "60 pack",
+      "price": 1.8
+    },
+    "name": "Kleenex Everyday On The Go Facial Tissues 60 pack",
+    "brand": "Kleenex",
+    "path": "/shop/productdetails/580718/kleenex-everyday-on-the-go-facial-tissues",
+    "description": " Kleenex Everyday On The Go<br>Facial Tissues 60 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/580718.jpg"
+  },
+  {
+    "retailerProductId": "479940",
+    "crossRetailerId": "9325344002802",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.43,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "14 pack",
+      "price": 6
+    },
+    "name": "Libra Ultra Thins Sanitary Pads Thin Regular 14 pack",
+    "brand": "Libra",
+    "path": "/shop/productdetails/479940/libra-ultra-thins-sanitary-pads-thin-regular",
+    "description": " Libra Ultra Thins Sanitary<br>Pads Thin... 14 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/479940.jpg"
+  },
+  {
+    "retailerProductId": "46169",
+    "crossRetailerId": "8850006481110",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.8,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "250mL",
+      "price": 2
+    },
+    "name": "Palmolive Foaming Liquid Hand Wash Pump Vanilla & Berry 250mL",
+    "brand": "Palmolive",
+    "path": "/shop/productdetails/46169/palmolive-foaming-liquid-hand-wash-pump-vanilla-berry",
+    "description": " Palmolive Foaming Liquid<br>Hand Wash Pump... 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/046169.jpg"
+  },
+  {
+    "retailerProductId": "231529",
+    "crossRetailerId": "9300663440337",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "250mL",
+      "price": 5
+    },
+    "name": "Rexona Women 48hr Deodorant Aerosol Cotton Dry 250mL",
+    "brand": "Rexona",
+    "path": "/shop/productdetails/231529/rexona-women-48hr-deodorant-aerosol-cotton-dry",
+    "description": " Rexona Women 48hr Deodorant<br>Aerosol Cotton Dry 250mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/231529.jpg"
+  },
+  {
+    "retailerProductId": "18894",
+    "crossRetailerId": "9310004342329",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "12 pack",
+      "price": 6
+    },
+    "name": "Libra Ultra Thins Pads Wings Super 12 pack",
+    "brand": "Libra",
+    "path": "/shop/productdetails/18894/libra-ultra-thins-pads-wings-super",
+    "description": " Libra Ultra Thins Pads Wings<br>Super 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/018894.jpg"
+  },
+  {
+    "retailerProductId": "306921",
+    "crossRetailerId": "9344960002423",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.19,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "500mL",
+      "price": 10.95
+    },
+    "name": "Thankyou. Hand Wash Botanical Sweet Orange & Almond Pump 500mL",
+    "brand": "Thankyou.",
+    "path": "/shop/productdetails/306921/thankyou-hand-wash-botanical-sweet-orange-almond-pump",
+    "description": " Thankyou. Hand Wash<br>Botanical Sweet... 500mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/306921.jpg"
+  },
+  {
+    "retailerProductId": "912752",
+    "crossRetailerId": "9310088017601",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.28,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "20 pack",
+      "price": 5.5
+    },
+    "name": "U by Kotex Ultrathin Pads Regular With Wings 20 pack",
+    "brand": "U by Kotex",
+    "path": "/shop/productdetails/912752/u-by-kotex-ultrathin-pads-regular-with-wings",
+    "description": " U by Kotex Ultrathin Pads<br>Regular With... 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/912752.jpg"
+  },
+  {
+    "retailerProductId": "234920",
+    "crossRetailerId": "9339687309191",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.48,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 4.8
+    },
+    "name": "The Balnea Body Company Oxygen Burst Body Wash 1L",
+    "brand": "The Balnea Body Company",
+    "path": "/shop/productdetails/234920/the-balnea-body-company-oxygen-burst-body-wash",
+    "description": " The Balnea Body Company<br>Oxygen Burst Body... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/234920.jpg"
+  }
+]

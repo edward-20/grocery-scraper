@@ -1,0 +1,338 @@
+[
+  {
+    "retailerProductId": "1124615551",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 24
+    },
+    "name": "MDI Stress Banana Sensory Fidget Squeeze Play Toy Kids/Children 5y+",
+    "brand": "MDI",
+    "path": "/shop/productdetails/1124615551/mdi-stress-banana-sensory-fidget-squeeze-play-toy-kids-children-5y-",
+    "description": " MDI   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1124615551.jpg"
+  },
+  {
+    "retailerProductId": "1126536791",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 734.95
+    },
+    "name": "Nintendo Switch 2 Console",
+    "brand": "Nintendo",
+    "path": "/shop/productdetails/1126536791/nintendo-switch-2-console",
+    "description": " Nintendo   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1126536791.jpg"
+  },
+  {
+    "retailerProductId": "1125019587",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 172
+    },
+    "name": "Artiss Dressing Table Vanity Desk With LED Makeup Mirror Storage Drawers Cabinet Make up Table White",
+    "brand": "Artiss",
+    "path": "/shop/productdetails/1125019587/artiss-dressing-table-vanity-desk-with-led-makeup-mirror-storage-drawers-cabinet-make-up-table-white",
+    "description": " Artiss   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1125019587.jpg"
+  },
+  {
+    "retailerProductId": "1122824623",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 229.99
+    },
+    "name": "Pokemon TCG Scarlet & Violet Prismatic Evolutions - Surprise Box",
+    "brand": "Pokemon",
+    "path": "/shop/productdetails/1122824623/pokemon-tcg-scarlet-violet-prismatic-evolutions-surprise-box",
+    "description": " Pokemon   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1122824623.jpg"
+  },
+  {
+    "retailerProductId": "1112120722",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 23.95
+    },
+    "name": "2 Drawers Artiss Bedside Table Side Table PEPE Black/White/Wood Black",
+    "brand": "Artiss",
+    "path": "/shop/productdetails/1112120722/2-drawers-artiss-bedside-table-side-table-pepe-black-white-wood-black",
+    "description": " Artiss   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1112120722.jpg"
+  },
+  {
+    "retailerProductId": "1128202857",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 350
+    },
+    "name": "Apple AirPods Pro 3",
+    "brand": "Apple",
+    "path": "/shop/productdetails/1128202857/apple-airpods-pro-3",
+    "description": " Apple   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128202857.jpg"
+  },
+  {
+    "retailerProductId": "1116215805",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 9999
+    },
+    "name": "Cat S62 (5.65'', 128GB/4GB, Rugged phone) - Black",
+    "brand": "Cat",
+    "path": "/shop/productdetails/1116215805/cat-s62-5-65-128gb-4gb-rugged-phone-black",
+    "description": " Cat   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116215805.jpg"
+  },
+  {
+    "retailerProductId": "1122482065",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 35.01
+    },
+    "name": "Advwin Floor Rug 200 x 230cm Large Non-Slip Shaggy Rug Living Room Bedroom Mat Large Carpet Dark Grey",
+    "brand": "Advwin",
+    "path": "/shop/productdetails/1122482065/advwin-floor-rug-200-x-230cm-large-non-slip-shaggy-rug-living-room-bedroom-mat-large-carpet-dark-grey",
+    "description": " Advwin   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1122482065.jpg"
+  },
+  {
+    "retailerProductId": "1116909604",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 29.95
+    },
+    "name": "LINENOVA Hotel Quality Soft Quilt Cover Sets Duvet Cover Pillowcases Set All Size - 10 Colors Choice Double / Dark Grey",
+    "brand": "Linenova",
+    "path": "/shop/productdetails/1116909604/linenova-hotel-quality-soft-quilt-cover-sets-duvet-cover-pillowcases-set-all-size-10-colors-choice-double-dark-grey",
+    "description": " Linenova   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116909604.jpg"
+  },
+  {
+    "retailerProductId": "1116909610",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 29.95
+    },
+    "name": "LINENOVA Hotel Quality Soft Quilt Cover Sets Duvet Cover Pillowcases Set All Size - 10 Colors Choice Double / Purple",
+    "brand": "Linenova",
+    "path": "/shop/productdetails/1116909610/linenova-hotel-quality-soft-quilt-cover-sets-duvet-cover-pillowcases-set-all-size-10-colors-choice-double-purple",
+    "description": " Linenova   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116909610.jpg"
+  },
+  {
+    "retailerProductId": "1116909608",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 29.95
+    },
+    "name": "LINENOVA Hotel Quality Soft Quilt Cover Sets Duvet Cover Pillowcases Set All Size - 10 Colors Choice Double / Teal",
+    "brand": "Linenova",
+    "path": "/shop/productdetails/1116909608/linenova-hotel-quality-soft-quilt-cover-sets-duvet-cover-pillowcases-set-all-size-10-colors-choice-double-teal",
+    "description": " Linenova   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116909608.jpg"
+  },
+  {
+    "retailerProductId": "1116909646",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 39.99
+    },
+    "name": "LINENOVA Hotel Quality Soft Quilt Cover Sets Duvet Cover Pillowcases Set All Size - 10 Colors Choice King / White",
+    "brand": "Linenova",
+    "path": "/shop/productdetails/1116909646/linenova-hotel-quality-soft-quilt-cover-sets-duvet-cover-pillowcases-set-all-size-10-colors-choice-king-white",
+    "description": " Linenova   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116909646.jpg"
+  },
+  {
+    "retailerProductId": "1116909618",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 34.99
+    },
+    "name": "LINENOVA Hotel Quality Soft Quilt Cover Sets Duvet Cover Pillowcases Set All Size - 10 Colors Choice Queen / Black",
+    "brand": "Linenova",
+    "path": "/shop/productdetails/1116909618/linenova-hotel-quality-soft-quilt-cover-sets-duvet-cover-pillowcases-set-all-size-10-colors-choice-queen-black",
+    "description": " Linenova   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116909618.jpg"
+  },
+  {
+    "retailerProductId": "1116909626",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 34.99
+    },
+    "name": "LINENOVA Hotel Quality Soft Quilt Cover Sets Duvet Cover Pillowcases Set All Size - 10 Colors Choice Queen / Purple",
+    "brand": "Linenova",
+    "path": "/shop/productdetails/1116909626/linenova-hotel-quality-soft-quilt-cover-sets-duvet-cover-pillowcases-set-all-size-10-colors-choice-queen-purple",
+    "description": " Linenova   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116909626.jpg"
+  },
+  {
+    "retailerProductId": "1116909596",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 25.95
+    },
+    "name": "LINENOVA Hotel Quality Soft Quilt Cover Sets Duvet Cover Pillowcases Set All Size - 10 Colors Choice Single / Light Pink",
+    "brand": "Linenova",
+    "path": "/shop/productdetails/1116909596/linenova-hotel-quality-soft-quilt-cover-sets-duvet-cover-pillowcases-set-all-size-10-colors-choice-single-light-pink",
+    "description": " Linenova   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116909596.jpg"
+  },
+  {
+    "retailerProductId": "1116909652",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 42.99
+    },
+    "name": "LINENOVA Hotel Quality Soft Quilt Cover Sets Duvet Cover Pillowcases Set All Size - 10 Colors Choice Super King / Dark Grey",
+    "brand": "Linenova",
+    "path": "/shop/productdetails/1116909652/linenova-hotel-quality-soft-quilt-cover-sets-duvet-cover-pillowcases-set-all-size-10-colors-choice-super-king-dark-grey",
+    "description": " Linenova   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116909652.jpg"
+  },
+  {
+    "retailerProductId": "1136969764",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 159
+    },
+    "name": "Hoka Men's Bondi 9 Running Shoes Cosmic Grey/Ultramarine US Men's 8.5",
+    "brand": "Hoka",
+    "path": "/shop/productdetails/1136969764/hoka-men-s-bondi-9-running-shoes-cosmic-grey-ultramarine-us-men-s-8-5",
+    "description": " Hoka   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1136969764.jpg"
+  },
+  {
+    "retailerProductId": "1136969766",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 159
+    },
+    "name": "Hoka Men's Bondi 9 Running Shoes Cosmic Grey/Ultramarine US Men's 9",
+    "brand": "Hoka",
+    "path": "/shop/productdetails/1136969766/hoka-men-s-bondi-9-running-shoes-cosmic-grey-ultramarine-us-men-s-9",
+    "description": " Hoka   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1136969766.jpg"
+  },
+  {
+    "retailerProductId": "1136969768",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 159
+    },
+    "name": "Hoka Men's Bondi 9 Running Shoes Cosmic Grey/Ultramarine US Men's 9.5",
+    "brand": "Hoka",
+    "path": "/shop/productdetails/1136969768/hoka-men-s-bondi-9-running-shoes-cosmic-grey-ultramarine-us-men-s-9-5",
+    "description": " Hoka   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1136969768.jpg"
+  },
+  {
+    "retailerProductId": "1136969770",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 159
+    },
+    "name": "Hoka Men's Bondi 9 Running Shoes Cosmic Grey/Ultramarine US Men's 10",
+    "brand": "Hoka",
+    "path": "/shop/productdetails/1136969770/hoka-men-s-bondi-9-running-shoes-cosmic-grey-ultramarine-us-men-s-10",
+    "description": " Hoka   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1136969770.jpg"
+  },
+  {
+    "retailerProductId": "1136969774",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 159
+    },
+    "name": "Hoka Men's Bondi 9 Running Shoes Cosmic Grey/Ultramarine US Men's 11",
+    "brand": "Hoka",
+    "path": "/shop/productdetails/1136969774/hoka-men-s-bondi-9-running-shoes-cosmic-grey-ultramarine-us-men-s-11",
+    "description": " Hoka   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1136969774.jpg"
+  },
+  {
+    "retailerProductId": "1136969778",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 159
+    },
+    "name": "Hoka Men's Bondi 9 Running Shoes Cosmic Grey/Ultramarine US Men's 12",
+    "brand": "Hoka",
+    "path": "/shop/productdetails/1136969778/hoka-men-s-bondi-9-running-shoes-cosmic-grey-ultramarine-us-men-s-12",
+    "description": " Hoka   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1136969778.jpg"
+  },
+  {
+    "retailerProductId": "1115327593",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 76.95
+    },
+    "name": "Artiss 6 Chest of Drawers Tallboy Table - XAVI Walnut",
+    "brand": "Artiss",
+    "path": "/shop/productdetails/1115327593/artiss-6-chest-of-drawers-tallboy-table-xavi-walnut",
+    "description": " Artiss   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1115327593.jpg"
+  },
+  {
+    "retailerProductId": "1128022171",
+    "crossRetailerId": null,
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 7998
+    },
+    "name": "Samsung 85\" The Frame Pro LS03HW 4K Samsung Vision AI Smart TV (2026) (85\" Black)",
+    "brand": "Samsung",
+    "path": "/shop/productdetails/1128022171/samsung-85-the-frame-pro-ls03hw-4k-samsung-vision-ai-smart-tv-2026-85-black-",
+    "description": " Samsung   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128022171.jpg"
+  }
+]

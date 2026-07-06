@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "331784",
+    "crossRetailerId": "9002490210434",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 8 pack",
+      "price": 22
+    },
+    "name": "Red Bull Energy Drink Cans 250mL x 8 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/331784/red-bull-energy-drink-cans",
+    "description": " Red Bull Energy Drink Cans 250mL x 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/331784.jpg"
+  },
+  {
+    "retailerProductId": "162609",
+    "crossRetailerId": "9002490100759",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 4 pack",
+      "price": 13
+    },
+    "name": "Red Bull Energy Drink 250mL x 4 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/162609/red-bull-energy-drink",
+    "description": " Red Bull Energy Drink 250mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/162609.jpg"
+  },
+  {
+    "retailerProductId": "6062868",
+    "crossRetailerId": "9300650454187",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.14,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "140g",
+      "price": 1.6
+    },
+    "name": "Oreo Original Cookies 140g",
+    "brand": "Oreo",
+    "path": "/shop/productdetails/6062868/oreo-original-cookies",
+    "description": " Oreo Original Cookies  140g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6062868.jpg"
+  },
+  {
+    "retailerProductId": "84628",
+    "crossRetailerId": "9310072010816",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.19,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "365g",
+      "price": 8
+    },
+    "name": "Arnott's Tim Tam Original Family Pack Chocolate Biscuits 365g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/84628/arnott-s-tim-tam-original-family-pack-chocolate-biscuits",
+    "description": " Arnott's Tim Tam Original<br>Family Pack... 365g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/084628.jpg"
+  },
+  {
+    "retailerProductId": "36031",
+    "crossRetailerId": "9310072001005",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 4
+    },
+    "name": "Arnott's Monte Carlo Cream Biscuits 250g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36031/arnott-s-monte-carlo-cream-biscuits",
+    "description": " Arnott's Monte Carlo Cream<br>Biscuits 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036031.jpg"
+  },
+  {
+    "retailerProductId": "377589",
+    "crossRetailerId": "9334714000096",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.38,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "80g",
+      "price": 3.5
+    },
+    "name": "Cobs Popcorn Sea Salt 80g",
+    "brand": "Cobs",
+    "path": "/shop/productdetails/377589/cobs-popcorn-sea-salt-gluten-free",
+    "description": " Cobs Popcorn Sea Salt Gluten<br>Free 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/377589.jpg"
+  },
+  {
+    "retailerProductId": "773129",
+    "crossRetailerId": "9313820001487",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.62,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 30 pack",
+      "price": 29.5
+    },
+    "name": "Pepsi Max No Sugar Soft Drink Cans 375mL x 30 pack",
+    "brand": "Pepsi",
+    "path": "/shop/productdetails/773129/pepsi-max-no-sugar-soft-drink-cans",
+    "description": " Pepsi Max No Sugar Soft<br>Drink... 375mL x 30 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/773129.jpg"
+  },
+  {
+    "retailerProductId": "36022",
+    "crossRetailerId": "9310072001371",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 5.5
+    },
+    "name": "Arnott's Cream Favourites Assorted Biscuits 500g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36022/arnott-s-cream-favourites-assorted-biscuits",
+    "description": " Arnott's Cream Favourites<br>Assorted Biscuits 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036022.jpg"
+  },
+  {
+    "retailerProductId": "672966",
+    "crossRetailerId": "9300675079501",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "2L",
+      "price": 4
+    },
+    "name": "Coca-Cola Zero Sugar Soft Drink Bottle 2L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/672966/coca-cola-zero-sugar-soft-drink-bottle",
+    "description": " Coca-Cola Zero Sugar Soft<br>Drink Bottle 2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/672966.jpg"
+  },
+  {
+    "retailerProductId": "641532",
+    "crossRetailerId": "9310072029467",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "15 pack",
+      "price": 6
+    },
+    "name": "Arnott's Shapes Cracker Biscuits Variety 15 pack",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/641532/arnott-s-shapes-cracker-biscuits-variety",
+    "description": " Arnott's Shapes Cracker<br>Biscuits Variety 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/641532.jpg"
+  },
+  {
+    "retailerProductId": "6022302",
+    "crossRetailerId": "9300617309758",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "315g",
+      "price": 8.5
+    },
+    "name": "Cadbury Dairy Milk Large Chocolate Block 315g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/6022302/cadbury-dairy-milk-large-chocolate-block",
+    "description": " Cadbury Dairy Milk Large<br>Chocolate Block 315g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6022302.jpg"
+  },
+  {
+    "retailerProductId": "6064486",
+    "crossRetailerId": "9315596009698",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.33,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 6 pack",
+      "price": 6.5
+    },
+    "name": "Schweppes Lemon Lime & Bitters Soft Drink Mixer Mini Cans 250mL x 6 pack",
+    "brand": "Schweppes",
+    "path": "/shop/productdetails/6064486/schweppes-lemon-lime-bitters-soft-drink-mixer-mini-cans",
+    "description": " Schweppes Lemon Lime &<br>Bitters... 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6064486.jpg"
+  },
+  {
+    "retailerProductId": "223875",
+    "crossRetailerId": "9002490254476",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.33,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 12 pack",
+      "price": 25
+    },
+    "name": "Red Bull Energy Drink Cans 250mL x 12 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/223875/red-bull-energy-drink-cans",
+    "description": " Red Bull Energy Drink Cans  250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/223875.jpg"
+  },
+  {
+    "retailerProductId": "6059362",
+    "crossRetailerId": "9300617310662",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.59,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "195g",
+      "price": 7
+    },
+    "name": "Cadbury & More Creme Brulee Caramel Chocolate Block 195g",
+    "brand": "Cadbury",
+    "path": "/shop/productdetails/6059362/cadbury-more-creme-brulee-caramel-chocolate-block",
+    "description": " Cadbury & More Creme Brulee<br>Caramel Chocolate... 195g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6059362.jpg"
+  },
+  {
+    "retailerProductId": "820458",
+    "crossRetailerId": "9334714000638",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.15,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "65g 5 pack",
+      "price": 4
+    },
+    "name": "Cobs Sweet & Salty Popcorn 65g 5 pack",
+    "brand": "Cobs",
+    "path": "/shop/productdetails/820458/cobs-sweet-salty-popcorn",
+    "description": " Cobs Sweet & Salty Popcorn 65g 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/820458.jpg"
+  },
+  {
+    "retailerProductId": "511504",
+    "crossRetailerId": "9342866000536",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.25,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "500mL x 4 pack",
+      "price": 16.5
+    },
+    "name": "Monster Energy Ultra Cans 500mL x 4 pack",
+    "brand": "Monster",
+    "path": "/shop/productdetails/511504/monster-energy-ultra-cans",
+    "description": " Monster Energy Ultra Cans 500mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/511504.jpg"
+  },
+  {
+    "retailerProductId": "211973",
+    "crossRetailerId": "9310434005788",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.17,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "230g",
+      "price": 5
+    },
+    "name": "The Natural Confectionery Co. Snakes Lollies 230g",
+    "brand": "The Natural Confectionery Co.",
+    "path": "/shop/productdetails/211973/the-natural-confectionery-co-snakes-lollies",
+    "description": " The Natural Confectionery<br>Co. Snakes Lollies 230g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/211973.jpg"
+  },
+  {
+    "retailerProductId": "826731",
+    "crossRetailerId": "9310015241925",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.47,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "170g",
+      "price": 2.5
+    },
+    "name": "Doritos Corn Chips Cheese Supreme Share Pack 170g",
+    "brand": "Doritos",
+    "path": "/shop/productdetails/826731/doritos-corn-chips-cheese-supreme-share-pack",
+    "description": " Doritos Corn Chips Cheese<br>Supreme Share Pack 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826731.jpg"
+  },
+  {
+    "retailerProductId": "211982",
+    "crossRetailerId": "9310434005764",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.27,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "220g",
+      "price": 5
+    },
+    "name": "The Natural Confectionery Co. Party Mix Lollies 220g",
+    "brand": "The Natural Confectionery Co.",
+    "path": "/shop/productdetails/211982/the-natural-confectionery-co-party-mix-lollies",
+    "description": " The Natural Confectionery<br>Co. Party Mix... 220g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/211982.jpg"
+  },
+  {
+    "retailerProductId": "384245",
+    "crossRetailerId": "9310072026312",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.14,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "175g",
+      "price": 2
+    },
+    "name": "Arnott's Shapes Chicken Crimpy Cracker Biscuits 175g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/384245/arnott-s-shapes-chicken-crimpy-cracker-biscuits",
+    "description": " Arnott's Shapes Chicken<br>Crimpy Cracker... 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/384245.jpg"
+  },
+  {
+    "retailerProductId": "485436",
+    "crossRetailerId": "9310072028866",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.14,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "175g",
+      "price": 2
+    },
+    "name": "Arnott's Shapes Barbecue Cracker Biscuits 175g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/485436/arnott-s-shapes-barbecue-cracker-biscuits",
+    "description": " Arnott's Shapes Barbecue<br>Cracker Biscuits 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/485436.jpg"
+  },
+  {
+    "retailerProductId": "781394",
+    "crossRetailerId": "9310015240621",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.64,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "165g",
+      "price": 6
+    },
+    "name": "Red Rock Deli Potato Chips Honey Soy Chicken 165g",
+    "brand": "Red Rock Deli",
+    "path": "/shop/productdetails/781394/red-rock-deli-potato-chips-honey-soy-chicken",
+    "description": " Red Rock Deli Potato Chips<br>Honey Soy Chicken 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/781394.jpg"
+  },
+  {
+    "retailerProductId": "377593",
+    "crossRetailerId": "9334714000157",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 3.5
+    },
+    "name": "Cobs Natural Popcorn Lightly Salted Slightly Sweet 120g",
+    "brand": "Cobs",
+    "path": "/shop/productdetails/377593/cobs-natural-popcorn-lightly-salted-slightly-sweet",
+    "description": " Cobs Natural Popcorn Lightly<br>Salted Slightly... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/377593.jpg"
+  },
+  {
+    "retailerProductId": "32257",
+    "crossRetailerId": "9310072013855",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 6
+    },
+    "name": "Arnott's Tim Tam Double Chocolate Biscuits 200g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/32257/arnott-s-tim-tam-double-chocolate-biscuits",
+    "description": " Arnott's Tim Tam Double<br>Chocolate Biscuits 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/032257.jpg"
+  },
+  {
+    "retailerProductId": "781396",
+    "crossRetailerId": "9310015240614",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.64,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "165g",
+      "price": 6
+    },
+    "name": "Red Rock Deli Potato Chips Sea Salt 165g",
+    "brand": "Red Rock Deli",
+    "path": "/shop/productdetails/781396/red-rock-deli-potato-chips-sea-salt",
+    "description": " Red Rock Deli Potato Chips<br>Sea Salt 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/781396.jpg"
+  },
+  {
+    "retailerProductId": "781370",
+    "crossRetailerId": "9310015240645",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.64,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "165g",
+      "price": 6
+    },
+    "name": "Red Rock Deli Potato Chips Sweet Chilli & Sour Cream 165g",
+    "brand": "Red Rock Deli",
+    "path": "/shop/productdetails/781370/red-rock-deli-potato-chips-sweet-chilli-sour-cream",
+    "description": " Red Rock Deli Potato Chips<br>Sweet Chilli & Sour... 165g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/781370.jpg"
+  },
+  {
+    "retailerProductId": "707192",
+    "crossRetailerId": "9310015246142",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.97,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "175g",
+      "price": 5.2
+    },
+    "name": "Tostitos Corn Tortilla Chips Share Pack Lightly Salted 175g",
+    "brand": "Tostitos",
+    "path": "/shop/productdetails/707192/tostitos-corn-tortilla-chips-share-pack-lightly-salted",
+    "description": " Tostitos Corn Tortilla Chips<br>Share Pack Lightly... 175g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/707192.jpg"
+  },
+  {
+    "retailerProductId": "226913",
+    "crossRetailerId": "9002490200619",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 4 pack",
+      "price": 13
+    },
+    "name": "Red Bull Energy Drink Sugar Free 250mL x 4 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/226913/red-bull-energy-drink-sugar-free",
+    "description": " Red Bull Energy Drink Sugar<br>Free 250mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/226913.jpg"
+  },
+  {
+    "retailerProductId": "875162",
+    "crossRetailerId": "9300605126527",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.34,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "460g",
+      "price": 10.75
+    },
+    "name": "Milo Malt Drinking Chocolate Powder Hot Or Cold 460g",
+    "brand": "Milo",
+    "path": "/shop/productdetails/875162/milo-malt-drinking-chocolate-powder-hot-or-cold",
+    "description": " Milo Malt Drinking Chocolate<br>Powder Hot Or Cold 460g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/875162.jpg"
+  },
+  {
+    "retailerProductId": "365186",
+    "crossRetailerId": "9300624008330",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "600mL",
+      "price": 2.25
+    },
+    "name": "Powerade ION4 Gold Rush Sports Drink Sipper Cap 600mL",
+    "brand": "Powerade",
+    "path": "/shop/productdetails/365186/powerade-ion4-gold-rush-sports-drink-sipper-cap",
+    "description": " Powerade ION4 Gold Rush<br>Sports Drink... 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365186.jpg"
+  },
+  {
+    "retailerProductId": "36033",
+    "crossRetailerId": "9310072001784",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 4
+    },
+    "name": "Arnott's Shortbread Cream Biscuits 250g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36033/arnott-s-shortbread-cream-biscuits",
+    "description": " Arnott's Shortbread Cream<br>Biscuits 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036033.jpg"
+  },
+  {
+    "retailerProductId": "36059",
+    "crossRetailerId": "9310072000831",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "125g",
+      "price": 4
+    },
+    "name": "Arnott's Cruskits Original Crispbreads 125g",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/36059/arnott-s-cruskits-original-crispbreads",
+    "description": " Arnott's Cruskits Original<br>Crispbreads 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036059.jpg"
+  }
+]

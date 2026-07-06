@@ -1,0 +1,512 @@
+[
+  {
+    "retailerProductId": "6074133",
+    "crossRetailerId": "9330471025167",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 15.38,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "650g",
+      "price": 10
+    },
+    "name": "Luv-A-Duck Peking Duck Legs 650g",
+    "brand": "Luv-A-Duck",
+    "path": "/shop/productdetails/6074133/luv-a-duck-peking-duck-legs",
+    "description": " Luv-A-Duck Peking Duck Legs  650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6074133.jpg"
+  },
+  {
+    "retailerProductId": "846995",
+    "crossRetailerId": "9313107170929",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 76.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "150g",
+      "price": 11.5
+    },
+    "name": "Tassal Hot Smoked Salmon Natural 150g",
+    "brand": "Tassal",
+    "path": "/shop/productdetails/846995/tassal-hot-smoked-salmon-natural",
+    "description": " Tassal Hot Smoked Salmon<br>Natural  150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/846995.jpg"
+  },
+  {
+    "retailerProductId": "847118",
+    "crossRetailerId": "9313107161118",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 64,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "250g",
+      "price": 16
+    },
+    "name": "Tassal Smoked Salmon 250g",
+    "brand": "Tassal",
+    "path": "/shop/productdetails/847118/tassal-smoked-salmon",
+    "description": " Tassal Smoked Salmon  250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/847118.jpg"
+  },
+  {
+    "retailerProductId": "846997",
+    "crossRetailerId": "9313107161149",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 77.78,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "180g",
+      "price": 14
+    },
+    "name": "Superior Gold Salmon Smoked 180g",
+    "brand": "Superior Gold",
+    "path": "/shop/productdetails/846997/superior-gold-salmon-smoked",
+    "description": " Superior Gold Salmon Smoked  180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/846997.jpg"
+  },
+  {
+    "retailerProductId": "67486",
+    "crossRetailerId": "0273261000007",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 34,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 34
+    },
+    "name": "Don Melosi Double Smoked Ham Shaved From The Deli per 100g",
+    "brand": "Don",
+    "path": "/shop/productdetails/67486/don-melosi-double-smoked-ham-shaved-from-the-deli",
+    "description": " Don Melosi Double Smoked Ham<br>Shaved From The... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/067486.jpg"
+  },
+  {
+    "retailerProductId": "54241",
+    "crossRetailerId": "9339687104567",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "300g",
+      "price": 8
+    },
+    "name": "Woolworths BBQ Beef Steaks With Black Pepper 300g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/54241/woolworths-bbq-beef-steaks-with-black-pepper",
+    "description": " Woolworths BBQ Beef Steaks<br>With Black Pepper 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/054241.jpg"
+  },
+  {
+    "retailerProductId": "357418",
+    "crossRetailerId": "9339687349852",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "6 pack",
+      "price": 9
+    },
+    "name": "Woolworths Classic Angus Beef Sausages 6 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/357418/woolworths-classic-angus-beef-sausages",
+    "description": " Woolworths Classic Angus<br>Beef Sausages  6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/357418.jpg"
+  },
+  {
+    "retailerProductId": "6040154",
+    "crossRetailerId": "0276686000003",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 35.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 35.5
+    },
+    "name": "Woolworths Roast Beef Sliced From The Deli per 100g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/6040154/woolworths-roast-beef-sliced-from-the-deli",
+    "description": " Woolworths Roast Beef Sliced<br>From The Deli per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6040154.jpg"
+  },
+  {
+    "retailerProductId": "184649",
+    "crossRetailerId": "9339687207077",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "450g - 550g",
+      "price": 11
+    },
+    "name": "Macro Chicken Thigh Fillets Free Range 450g - 550g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/184649/macro-chicken-thigh-fillets-free-range",
+    "description": " Macro Chicken Thigh Fillets<br>Free Range 450g - 550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/184649.jpg"
+  },
+  {
+    "retailerProductId": "268605",
+    "crossRetailerId": "9339687326365",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "2kg",
+      "price": 8
+    },
+    "name": "Woolworths RSPCA Approved Chicken Drumsticks 2kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/268605/woolworths-rspca-approved-chicken-drumsticks",
+    "description": " Woolworths RSPCA Approved<br>Chicken Drumsticks 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/268605.jpg"
+  },
+  {
+    "retailerProductId": "6074234",
+    "crossRetailerId": "9330471025112",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 25.53,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "470g",
+      "price": 12
+    },
+    "name": "Luv-A-Duck Thai Red Duck Curry 470g",
+    "brand": "Luv-A-Duck",
+    "path": "/shop/productdetails/6074234/luv-a-duck-thai-red-duck-curry",
+    "description": " Luv-A-Duck Thai Red Duck<br>Curry  470g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6074234.jpg"
+  },
+  {
+    "retailerProductId": "345337",
+    "crossRetailerId": "9313107123079",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 57.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "200g",
+      "price": 11.5
+    },
+    "name": "Tassal Salmon For Cooking 200g",
+    "brand": "Tassal",
+    "path": "/shop/productdetails/345337/tassal-salmon-for-cooking",
+    "description": " Tassal Salmon For Cooking 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/345337.jpg"
+  },
+  {
+    "retailerProductId": "178137",
+    "crossRetailerId": "9322092000012",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 10
+    },
+    "name": "Peppercorn Extra Lean Beef Burger 6 Pack 500g",
+    "brand": "Peppercorn",
+    "path": "/shop/productdetails/178137/peppercorn-extra-lean-beef-burger-6-pack",
+    "description": " Peppercorn Extra Lean Beef<br>Burger 6 Pack 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/178137.jpg"
+  },
+  {
+    "retailerProductId": "901682",
+    "crossRetailerId": "9339687384471",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11.82,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "550g",
+      "price": 6.5
+    },
+    "name": "Woolworths 10 Chicken Sausages 550g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/901682/woolworths-10-chicken-sausages",
+    "description": " Woolworths 10 Chicken<br>Sausages  550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/901682.jpg"
+  },
+  {
+    "retailerProductId": "901650",
+    "crossRetailerId": "9339687384464",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11.82,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "550g",
+      "price": 6.5
+    },
+    "name": "Woolworths 10 Pork Sausages 550g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/901650/woolworths-10-pork-sausages",
+    "description": " Woolworths 10 Pork Sausages  550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/901650.jpg"
+  },
+  {
+    "retailerProductId": "134032",
+    "crossRetailerId": "9339687223985",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "700g",
+      "price": 7
+    },
+    "name": "Woolworths Creamy Garlic Stuffed Boneless Chicken Kyiv 700g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/134032/woolworths-creamy-garlic-stuffed-boneless-chicken-kyiv",
+    "description": " Woolworths Creamy Garlic<br>Stuffed Boneless... 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/134032.jpg"
+  },
+  {
+    "retailerProductId": "176564",
+    "crossRetailerId": "9300767081931",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 22,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 22
+    },
+    "name": "D'Orsogna Shortcut Bacon 1kg",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/176564/d-orsogna-shortcut-bacon",
+    "description": " D'Orsogna Shortcut Bacon  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/176564.jpg"
+  },
+  {
+    "retailerProductId": "157055",
+    "crossRetailerId": "9339687256556",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 41.3,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "4 pack",
+      "price": 19
+    },
+    "name": "Woolworths Salmon Portions Skin Off 4 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/157055/woolworths-salmon-portions-skin-off",
+    "description": " Woolworths Salmon Portions<br>Skin Off  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/157055.jpg"
+  },
+  {
+    "retailerProductId": "700269",
+    "crossRetailerId": "9339687207190",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "600g - 800g",
+      "price": 8
+    },
+    "name": "Macro Chicken Wing Nibbles Free Range 600g - 800g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/700269/macro-chicken-wing-nibbles-free-range",
+    "description": " Macro Chicken Wing Nibbles<br>Free Range 600g - 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/700269.jpg"
+  },
+  {
+    "retailerProductId": "23173",
+    "crossRetailerId": "0270790000003",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 130g",
+      "price": 6
+    },
+    "name": "Woolworths RSPCA Approved Chicken Wings Three Joint per 130g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/23173/woolworths-rspca-approved-chicken-wings-three-joint",
+    "description": " Woolworths RSPCA Approved<br>Chicken Wings... per 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/023173.jpg"
+  },
+  {
+    "retailerProductId": "786199",
+    "crossRetailerId": "0274200000003",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 26
+    },
+    "name": "Thawed Extra Large Raw Tiger Prawns per 100g",
+    "brand": null,
+    "path": "/shop/productdetails/786199/thawed-extra-large-raw-tiger-prawns",
+    "description": "  Thawed Extra Large Raw<br>Tiger Prawns per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/786199.jpg"
+  },
+  {
+    "retailerProductId": "764968",
+    "crossRetailerId": "9339687141876",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g - 2.2kg",
+      "price": 39.6
+    },
+    "name": "Woolworths Lamb Leg Roast 750g - 2.2kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/764968/woolworths-lamb-leg-roast",
+    "description": " Woolworths Lamb Leg Roast  750g - 2.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/764968.jpg"
+  },
+  {
+    "retailerProductId": "266794",
+    "crossRetailerId": "9300633974145",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 17.6,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "250g",
+      "price": 4.4
+    },
+    "name": "Woolworths Middle Bacon 250g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/266794/woolworths-middle-bacon-middle-cut-rashers",
+    "description": " Woolworths Middle Bacon<br>Middle Cut Rashers 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/266794.jpg"
+  },
+  {
+    "retailerProductId": "764541",
+    "crossRetailerId": "9339687141739",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1.3kg - 2.8kg",
+      "price": 28
+    },
+    "name": "Woolworths Pork Shoulder Roast Boneless 1.3kg - 2.8kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/764541/woolworths-pork-shoulder-roast-boneless-boneless-small",
+    "description": " Woolworths Pork Shoulder<br>Roast... 1.3kg - 2.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/764541.jpg"
+  },
+  {
+    "retailerProductId": "675623",
+    "crossRetailerId": "9339687142170",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "200g - 600g",
+      "price": 12
+    },
+    "name": "Woolworths Pork Loin Chop Medium 200g - 600g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/675623/woolworths-pork-loin-chop-medium",
+    "description": " Woolworths Pork Loin Chop<br>Medium  200g - 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/675623.jpg"
+  },
+  {
+    "retailerProductId": "935707",
+    "crossRetailerId": "9339687207350",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 12,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "850g - 1.25kg",
+      "price": 15
+    },
+    "name": "Woolworths BBQ Boneless Butterflied Chicken Greek Style 850g - 1.25kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/935707/woolworths-bbq-boneless-butterflied-chicken-greek-style",
+    "description": " Woolworths BBQ Boneless<br>... 850g - 1.25kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/935707.jpg"
+  },
+  {
+    "retailerProductId": "901683",
+    "crossRetailerId": "9339687384488",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11.82,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "550g",
+      "price": 6.5
+    },
+    "name": "Woolworths 16 Beef Chipolatas 550g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/901683/woolworths-16-beef-chipolatas",
+    "description": " Woolworths 16 Beef<br>Chipolatas  550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/901683.jpg"
+  },
+  {
+    "retailerProductId": "220824",
+    "crossRetailerId": "9326451005984",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 22,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "200g",
+      "price": 4.4
+    },
+    "name": "Don Short Cut Rindless Bacon 200g",
+    "brand": "Don",
+    "path": "/shop/productdetails/220824/don-short-cut-rindless-bacon",
+    "description": " Don Short Cut Rindless Bacon<br> 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/220824.jpg"
+  },
+  {
+    "retailerProductId": "96995",
+    "crossRetailerId": "0272512000001",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 22,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 22
+    },
+    "name": "Thawed Green Large Banana Prawns per 100g",
+    "brand": "Prawn",
+    "path": "/shop/productdetails/96995/prawn-thawed-green-large-banana-prawns",
+    "description": " Prawn Thawed Green Large<br>Banana Prawns per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/096995.jpg"
+  },
+  {
+    "retailerProductId": "354066",
+    "crossRetailerId": "9339687349661",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 13
+    },
+    "name": "Macro Free Range Diced Chicken Breast 500g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/354066/macro-free-range-diced-chicken-breast",
+    "description": " Macro Free Range Diced<br>Chicken Breast 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/354066.jpg"
+  }
+]

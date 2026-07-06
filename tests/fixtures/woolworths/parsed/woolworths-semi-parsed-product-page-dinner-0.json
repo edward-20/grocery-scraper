@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "705420",
+    "crossRetailerId": "9344988000074",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.06,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "310g",
+      "price": 9.5
+    },
+    "name": "Dr. Oetker Ristorante Pizza Pepperoni 310g",
+    "brand": "Dr. Oetker",
+    "path": "/shop/productdetails/705420/dr-oetker-ristorante-pizza-pepperoni",
+    "description": " Dr. Oetker Ristorante Pizza<br>Pepperoni 310g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/705420.jpg"
+  },
+  {
+    "retailerProductId": "181143",
+    "crossRetailerId": "9335068004570",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "550g",
+      "price": 6.05
+    },
+    "name": "Dari's Chicken Noodle Soup 550g",
+    "brand": "Dari's",
+    "path": "/shop/productdetails/181143/dari-s-chicken-noodle-soup",
+    "description": " Dari's Chicken Noodle Soup  550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/181143.jpg"
+  },
+  {
+    "retailerProductId": "917923",
+    "crossRetailerId": "9350539001704",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.19,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "2 pack",
+      "price": 11.5
+    },
+    "name": "Fropro Protein Pizza Slices BBQ Chicken 2 pack",
+    "brand": "Fropro",
+    "path": "/shop/productdetails/917923/fropro-protein-pizza-slices-bbq-chicken",
+    "description": " Fropro Protein Pizza Slices<br>BBQ Chicken 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/917923.jpg"
+  },
+  {
+    "retailerProductId": "6035202",
+    "crossRetailerId": "9350539001728",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.19,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "2 pack",
+      "price": 11.5
+    },
+    "name": "FroPro Protein Pizza Slices Cheeseburger 2 pack",
+    "brand": "FroPro",
+    "path": "/shop/productdetails/6035202/fropro-protein-pizza-slices-cheeseburger",
+    "description": " FroPro Protein Pizza Slices<br>Cheeseburger 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6035202.jpg"
+  },
+  {
+    "retailerProductId": "524322",
+    "crossRetailerId": "9300633614867",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 27.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "120g",
+      "price": 3.3
+    },
+    "name": "Woolworths Baby Leaf Spinach 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/524322/woolworths-baby-leaf-spinach",
+    "description": " Woolworths Baby Leaf Spinach<br> 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/524322.jpg"
+  },
+  {
+    "retailerProductId": "638009",
+    "crossRetailerId": "9300633682828",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "200g",
+      "price": 2.2
+    },
+    "name": "Woolworths Iceberg Shredded Lettuce 200g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/638009/woolworths-iceberg-shredded-lettuce-lettuce",
+    "description": " Woolworths Iceberg Shredded<br>Lettuce Lettuce 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/638009.jpg"
+  },
+  {
+    "retailerProductId": "524336",
+    "crossRetailerId": "9300633614850",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 17.86,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "280g",
+      "price": 5
+    },
+    "name": "Woolworths Baby Leaf Spinach 280g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/524336/woolworths-baby-leaf-spinach-spinach",
+    "description": " Woolworths Baby Leaf Spinach<br>Spinach 280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/524336.jpg"
+  },
+  {
+    "retailerProductId": "379515",
+    "crossRetailerId": "9317466301543",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 36.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "60g",
+      "price": 2.2
+    },
+    "name": "Woolworths Baby Leaf Spinach 60g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/379515/woolworths-baby-leaf-spinach",
+    "description": " Woolworths Baby Leaf Spinach<br> 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/379515.jpg"
+  },
+  {
+    "retailerProductId": "901719",
+    "crossRetailerId": "9339687384792",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.11,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1.8kg",
+      "price": 11
+    },
+    "name": "Market Value 26 Thin BBQ Sausages 1.8kg",
+    "brand": "Market Value",
+    "path": "/shop/productdetails/901719/market-value-26-thin-bbq-sausages",
+    "description": " Market Value 26 Thin BBQ<br>Sausages  1.8kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/901719.jpg"
+  },
+  {
+    "retailerProductId": "63005",
+    "crossRetailerId": "9339687134854",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.29,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "680g",
+      "price": 1.95
+    },
+    "name": "La Gina Italian Tomato Paste Passata 680g",
+    "brand": "La Gina",
+    "path": "/shop/productdetails/63005/la-gina-italian-tomato-paste-passata",
+    "description": " La Gina Italian Tomato Paste<br>Passata 680g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/063005.jpg"
+  },
+  {
+    "retailerProductId": "6036025",
+    "crossRetailerId": "9344988000067",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "345g",
+      "price": 9.5
+    },
+    "name": "Dr. Oetker Ristorante Frozen Pizza Speciale Pepperoni & Ham 345g",
+    "brand": "Dr. Oetker",
+    "path": "/shop/productdetails/6036025/dr-oetker-ristorante-frozen-pizza-speciale-pepperoni-ham",
+    "description": " Dr. Oetker Ristorante Frozen<br>Pizza Speciale... 345g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6036025.jpg"
+  },
+  {
+    "retailerProductId": "6074247",
+    "crossRetailerId": "8858984841285",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.32,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "302g",
+      "price": 7
+    },
+    "name": "Authentic Asia Prawn Wonton Tom Kha Soup 302g",
+    "brand": "Authentic Asia",
+    "path": "/shop/productdetails/6074247/authentic-asia-prawn-wonton-tom-kha-soup",
+    "description": " Authentic Asia Prawn Wonton<br>Tom Kha Soup  302g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6074247.jpg"
+  },
+  {
+    "retailerProductId": "6052819",
+    "crossRetailerId": "9357668000448",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18.75,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 7.5
+    },
+    "name": "Potato Utopia Potato Gratins Parmesan & Black Pepper 400g",
+    "brand": "Potato Utopia",
+    "path": "/shop/productdetails/6052819/potato-utopia-potato-gratins-parmesan-black-pepper",
+    "description": " Potato Utopia Potato Gratins<br>Parmesan & Black... 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6052819.jpg"
+  },
+  {
+    "retailerProductId": "118212",
+    "crossRetailerId": "9330752003471",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "300g",
+      "price": 8
+    },
+    "name": "Plantein Plant Based Garlic Kyivs 300g",
+    "brand": "Plantein",
+    "path": "/shop/productdetails/118212/plantein-plant-based-garlic-kyivs",
+    "description": " Plantein Plant Based Garlic<br>Kyivs  300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/118212.jpg"
+  },
+  {
+    "retailerProductId": "901649",
+    "crossRetailerId": "9339687384457",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11.82,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "550g",
+      "price": 6.5
+    },
+    "name": "Woolworths 10 Beef Sausages 550g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/901649/woolworths-10-beef-sausages",
+    "description": " Woolworths 10 Beef Sausages  550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/901649.jpg"
+  },
+  {
+    "retailerProductId": "177972",
+    "crossRetailerId": "89686170924",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 0.93,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "425g 5 pack",
+      "price": 3.95
+    },
+    "name": "Indomie Mi Goreng Instant Noodles 425g 5 pack",
+    "brand": "Indomie",
+    "path": "/shop/productdetails/177972/indomie-mi-goreng-instant-noodles",
+    "description": " Indomie Mi Goreng Instant<br>Noodles 425g 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/177972.jpg"
+  },
+  {
+    "retailerProductId": "769243",
+    "crossRetailerId": "0276964000008",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 3
+    },
+    "name": "Woolworths Chicken Garlic Kyiv From The Deli each",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/769243/woolworths-chicken-garlic-kyiv-from-the-deli",
+    "description": " Woolworths Chicken Garlic<br>Kyiv From The Deli each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/769243.jpg"
+  },
+  {
+    "retailerProductId": "364853",
+    "crossRetailerId": "9354680020003",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.47,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "225g x 2 pack",
+      "price": 2.1
+    },
+    "name": "Global Bakehouse Bakehouse Value Garlic Bread 225g x 2 pack",
+    "brand": "Global Bakehouse",
+    "path": "/shop/productdetails/364853/global-bakehouse-bakehouse-value-garlic-bread",
+    "description": " Global Bakehouse Bakehouse<br>Value... 225g x 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/364853.jpg"
+  },
+  {
+    "retailerProductId": "6076346",
+    "crossRetailerId": "8994963005498",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.93,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "425g 5 pack",
+      "price": 3.95
+    },
+    "name": "Indomie Instant Noodles Mi Goreng Spicy Beef Flavour 425g 5 pack",
+    "brand": "Indomie",
+    "path": "/shop/productdetails/6076346/indomie-instant-noodles-mi-goreng-spicy-beef-flavour",
+    "description": " Indomie Instant Noodles Mi<br>Goreng Spicy... 425g 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6076346.jpg"
+  },
+  {
+    "retailerProductId": "666237",
+    "crossRetailerId": "0271921000008",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.4,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 1.4
+    },
+    "name": "Chicken Sandwich Schnitzel each",
+    "brand": "Chicken Sandwich",
+    "path": "/shop/productdetails/666237/chicken-sandwich-chicken-sandwich-schnitzel",
+    "description": " Chicken Sandwich Chicken<br>Sandwich Schnitzel each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/666237.jpg"
+  },
+  {
+    "retailerProductId": "450687",
+    "crossRetailerId": "9300645111125",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.46,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 2.3
+    },
+    "name": "Leggo's Bolognese Chunky Tomato Garlic & Herbs Pasta Sauce 500g",
+    "brand": "Leggo's",
+    "path": "/shop/productdetails/450687/leggo-s-bolognese-chunky-tomato-garlic-herbs-pasta-sauce",
+    "description": " Leggo's Bolognese Chunky<br>Tomato Garlic &... 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/450687.jpg"
+  },
+  {
+    "retailerProductId": "158634",
+    "crossRetailerId": "0277913000001",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 120g",
+      "price": 9
+    },
+    "name": "Woolworths Honey Soy Wings with RSPCA Approved Chicken per 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/158634/woolworths-honey-soy-wings-with-rspca-approved-chicken",
+    "description": " Woolworths Honey Soy Wings<br>with RSPCA... per 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/158634.jpg"
+  },
+  {
+    "retailerProductId": "351196",
+    "crossRetailerId": "0270016000008",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 3
+    },
+    "name": "Chicken Schnitzel Crumbed From The Deli each",
+    "brand": null,
+    "path": "/shop/productdetails/351196/chicken-schnitzel-crumbed-from-the-deli",
+    "description": "  Chicken Schnitzel Crumbed<br>From The Deli each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/351196.jpg"
+  },
+  {
+    "retailerProductId": "54900",
+    "crossRetailerId": "9339687105892",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 27.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "120g",
+      "price": 3.3
+    },
+    "name": "Woolworths Baby Leaf Rocket 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/54900/woolworths-baby-leaf-rocket",
+    "description": " Woolworths Baby Leaf Rocket  120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/054900.jpg"
+  },
+  {
+    "retailerProductId": "700648",
+    "crossRetailerId": "9300633227425",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.36,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "700g",
+      "price": 2.5
+    },
+    "name": "Macro Organic Passata 700g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/700648/macro-organic-passata",
+    "description": " Macro Organic Passata  700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/700648.jpg"
+  },
+  {
+    "retailerProductId": "764264",
+    "crossRetailerId": "9339687265053",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 8
+    },
+    "name": "Woolworths Beef & Lamb Meatballs 400g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/764264/woolworths-beef-lamb-meatballs",
+    "description": " Woolworths Beef & Lamb<br>Meatballs 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/764264.jpg"
+  },
+  {
+    "retailerProductId": "753340",
+    "crossRetailerId": "9300633396565",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.03,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "190g",
+      "price": 1.95
+    },
+    "name": "Woolworths Pesto Basil 190g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/753340/woolworths-pesto-basil",
+    "description": " Woolworths Pesto Basil 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/753340.jpg"
+  },
+  {
+    "retailerProductId": "38963",
+    "crossRetailerId": "9310175200862",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.4,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "700g",
+      "price": 2.8
+    },
+    "name": "Val Verde Passata Sauce 700g",
+    "brand": "Val Verde",
+    "path": "/shop/productdetails/38963/val-verde-passata-sauce",
+    "description": " Val Verde Passata Sauce  700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/038963.jpg"
+  },
+  {
+    "retailerProductId": "109099",
+    "crossRetailerId": "9339687387502",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 5.5
+    },
+    "name": "Woolworths Beef Sausage Mince 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/109099/woolworths-beef-sausage-mince",
+    "description": " Woolworths Beef Sausage<br>Mince 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/109099.jpg"
+  },
+  {
+    "retailerProductId": "705439",
+    "crossRetailerId": "9339687060856",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 27.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "120g",
+      "price": 3.3
+    },
+    "name": "Woolworths Baby Leaf Spinach & Rocket 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/705439/woolworths-baby-leaf-spinach-rocket-rocket",
+    "description": " Woolworths Baby Leaf Spinach<br>& Rocket & Rocket 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/705439.jpg"
+  },
+  {
+    "retailerProductId": "714823",
+    "crossRetailerId": "9300633281540",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 15,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "200g",
+      "price": 3
+    },
+    "name": "Woolworths Mixed Leaf Salad 200g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/714823/woolworths-mixed-leaf-salad",
+    "description": " Woolworths Mixed Leaf Salad  200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/714823.jpg"
+  },
+  {
+    "retailerProductId": "791171",
+    "crossRetailerId": "9300633713980",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 2.5
+    },
+    "name": "Macro Organic Pasta Sauce Chunky Tomato Garlic Basil 500g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/791171/macro-organic-pasta-sauce-chunky-tomato-garlic-basil",
+    "description": " Macro Organic Pasta Sauce<br>Chunky Tomato... 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/791171.jpg"
+  }
+]

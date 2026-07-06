@@ -1,0 +1,424 @@
+[
+  {
+    "retailerProductId": "170932",
+    "crossRetailerId": "4953823243498",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.33,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "270mL",
+      "price": 9
+    },
+    "name": "Lotte Yukimi Mochi Ice Confectionery Strawberry 270mL",
+    "brand": "Lotte",
+    "path": "/shop/productdetails/170932/lotte-yukimi-mochi-ice-confectionery-strawberry",
+    "description": " Lotte Yukimi Mochi Ice<br>Confectionery... 270mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/170932.jpg"
+  },
+  {
+    "retailerProductId": "694751",
+    "crossRetailerId": "9300633292393",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.43,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 1.7
+    },
+    "name": "Essentials Coconut Milk 400mL",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/694751/essentials-coconut-milk",
+    "description": " Essentials Coconut Milk 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/694751.jpg"
+  },
+  {
+    "retailerProductId": "31370",
+    "crossRetailerId": "9300633313708",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.43,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 1.7
+    },
+    "name": "Essentials Coconut Cream 400mL",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/31370/essentials-coconut-cream",
+    "description": " Essentials Coconut Cream 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/031370.jpg"
+  },
+  {
+    "retailerProductId": "684034",
+    "crossRetailerId": "9339687043101",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.53,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 2.1
+    },
+    "name": "Macro Organic Coconut Milk 400mL",
+    "brand": "Macro",
+    "path": "/shop/productdetails/684034/macro-organic-coconut-milk",
+    "description": " Macro Organic Coconut Milk  400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/684034.jpg"
+  },
+  {
+    "retailerProductId": "93444",
+    "crossRetailerId": "9300695001285",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "30g",
+      "price": 2.7
+    },
+    "name": "Old El Paso Taco Spice Mix 30g",
+    "brand": "Old El Paso",
+    "path": "/shop/productdetails/93444/old-el-paso-taco-spice-mix-taco-spice-mix",
+    "description": " Old El Paso Taco Spice Mix<br>Taco Spice Mix 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/093444.jpg"
+  },
+  {
+    "retailerProductId": "297000",
+    "crossRetailerId": "9300633984403",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "400mL",
+      "price": null
+    },
+    "name": "Macro Organic Coconut Cream 400mL",
+    "brand": "Macro",
+    "path": "/shop/productdetails/297000/macro-organic-coconut-cream",
+    "description": " Macro Organic Coconut Cream 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/297000.jpg"
+  },
+  {
+    "retailerProductId": "6024088",
+    "crossRetailerId": "9339687423767",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.57,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "35g",
+      "price": 1.25
+    },
+    "name": "La Mesita Taco Seasoning Mild 35g",
+    "brand": "La Mesita",
+    "path": "/shop/productdetails/6024088/la-mesita-taco-seasoning-mild",
+    "description": " La Mesita Taco Seasoning<br>Mild 35g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6024088.jpg"
+  },
+  {
+    "retailerProductId": "248677",
+    "crossRetailerId": "9300695009205",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "10 pack",
+      "price": 5
+    },
+    "name": "Old El Paso Mini Taco Tortilla Wraps 10 pack",
+    "brand": "Old El Paso",
+    "path": "/shop/productdetails/248677/old-el-paso-mini-taco-tortilla-wraps",
+    "description": " Old El Paso Mini Taco<br>Tortilla Wraps  10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/248677.jpg"
+  },
+  {
+    "retailerProductId": "489128",
+    "crossRetailerId": "9556041604734",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.25,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 5
+    },
+    "name": "Ayam 100% Natural Coconut Milk 400mL",
+    "brand": "Ayam",
+    "path": "/shop/productdetails/489128/ayam-100-natural-coconut-milk",
+    "description": " Ayam 100% Natural Coconut<br>Milk 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/489128.jpg"
+  },
+  {
+    "retailerProductId": "154991",
+    "crossRetailerId": "0263163000007",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 3
+    },
+    "name": "Pak Choy Baby Asian Greens each",
+    "brand": null,
+    "path": "/shop/productdetails/154991/pak-choy-baby-asian-greens",
+    "description": "  Pak Choy Baby Asian Greens  each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/154991.jpg"
+  },
+  {
+    "retailerProductId": "134801",
+    "crossRetailerId": "0264545000004",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 3
+    },
+    "name": "Buk Choy Asian Greens each",
+    "brand": null,
+    "path": "/shop/productdetails/134801/buk-choy-asian-greens",
+    "description": "  Buk Choy Asian Greens  each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/134801.jpg"
+  },
+  {
+    "retailerProductId": "813764",
+    "crossRetailerId": "8809063751209",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.88,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "8 pack",
+      "price": 4.35
+    },
+    "name": "Sea Friend Roasted Seaweed 8 pack",
+    "brand": "Sea Friend",
+    "path": "/shop/productdetails/813764/sea-friend-roasted-seaweed",
+    "description": " Sea Friend Roasted Seaweed 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/813764.jpg"
+  },
+  {
+    "retailerProductId": "313632",
+    "crossRetailerId": "8852019002436",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "200g",
+      "price": 2.2
+    },
+    "name": "Erawan Rice Noodles Stick Pad Thai 200g",
+    "brand": "Erawan",
+    "path": "/shop/productdetails/313632/erawan-rice-noodles-stick-pad-thai",
+    "description": " Erawan Rice Noodles Stick<br>Pad Thai 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/313632.jpg"
+  },
+  {
+    "retailerProductId": "250311",
+    "crossRetailerId": "8852511011349",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.67,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "300g",
+      "price": 5
+    },
+    "name": "Kewpie Japanese Mayonnaise 300g",
+    "brand": "Kewpie",
+    "path": "/shop/productdetails/250311/kewpie-japanese-mayonnaise",
+    "description": " Kewpie Japanese Mayonnaise 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/250311.jpg"
+  },
+  {
+    "retailerProductId": "185395",
+    "crossRetailerId": "9310432400103",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "25g",
+      "price": 4
+    },
+    "name": "Obento Japanese Yaki Nori For Sushi 25g",
+    "brand": "Obento",
+    "path": "/shop/productdetails/185395/obento-japanese-yaki-nori-for-sushi",
+    "description": " Obento Japanese Yaki Nori<br>For Sushi 25g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/185395.jpg"
+  },
+  {
+    "retailerProductId": "189725",
+    "crossRetailerId": "9319224992901",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.56,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 2.25
+    },
+    "name": "Pandaroo Coconut Milk 400mL",
+    "brand": "Pandaroo",
+    "path": "/shop/productdetails/189725/pandaroo-coconut-milk",
+    "description": " Pandaroo Coconut Milk 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/189725.jpg"
+  },
+  {
+    "retailerProductId": "610345",
+    "crossRetailerId": "9317224403304",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.17,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "10 pack",
+      "price": 4.4
+    },
+    "name": "Mission Street Mini Tacos 10 pack",
+    "brand": "Mission",
+    "path": "/shop/productdetails/610345/mission-street-mini-tacos",
+    "description": " Mission Street Mini Tacos  10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/610345.jpg"
+  },
+  {
+    "retailerProductId": "6038264",
+    "crossRetailerId": "9300695009762",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.88,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "12 pack",
+      "price": 4.5
+    },
+    "name": "Old El Paso Original Taco Shells 12 pack",
+    "brand": "Old El Paso",
+    "path": "/shop/productdetails/6038264/old-el-paso-original-taco-shells",
+    "description": " Old El Paso Original Taco<br>Shells  12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6038264.jpg"
+  },
+  {
+    "retailerProductId": "116839",
+    "crossRetailerId": "9322586000306",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.61,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "440g",
+      "price": 2.7
+    },
+    "name": "Wokka Noodles Thin Egg Style Stir Fry 440g",
+    "brand": "Wokka",
+    "path": "/shop/productdetails/116839/wokka-noodles-thin-egg-style-stir-fry",
+    "description": " Wokka Noodles Thin Egg Style<br>Stir Fry 440g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/116839.jpg"
+  },
+  {
+    "retailerProductId": "65083",
+    "crossRetailerId": "9300695001681",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "30g",
+      "price": 2.7
+    },
+    "name": "Old El Paso Reduced Salt Taco Spice Mix 30g",
+    "brand": "Old El Paso",
+    "path": "/shop/productdetails/65083/old-el-paso-reduced-salt-taco-spice-mix-taco-spice-mix",
+    "description": " Old El Paso Reduced Salt<br>Taco Spice Mix Taco... 30g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/065083.jpg"
+  },
+  {
+    "retailerProductId": "333915",
+    "crossRetailerId": "9317224400402",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.78,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "12 pack",
+      "price": 4.5
+    },
+    "name": "Mission Original Tortillas 12 pack",
+    "brand": "Mission",
+    "path": "/shop/productdetails/333915/mission-original-tortillas",
+    "description": " Mission Original Tortillas  12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/333915.jpg"
+  },
+  {
+    "retailerProductId": "170154",
+    "crossRetailerId": "0265343000005",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.95,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 2.95
+    },
+    "name": "Fresh Chinese Cabbage Wombok Half each",
+    "brand": null,
+    "path": "/shop/productdetails/170154/fresh-chinese-cabbage-wombok-half",
+    "description": "  Fresh Chinese Cabbage<br>Wombok Half each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/170154.jpg"
+  },
+  {
+    "retailerProductId": "67866",
+    "crossRetailerId": "9300695009182",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.38,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "10 pack",
+      "price": 5.5
+    },
+    "name": "Old El Paso Fajita Tortilla Wraps 10 pack",
+    "brand": "Old El Paso",
+    "path": "/shop/productdetails/67866/old-el-paso-fajita-tortilla-wraps",
+    "description": " Old El Paso Fajita Tortilla<br>Wraps  10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/067866.jpg"
+  },
+  {
+    "retailerProductId": "168",
+    "crossRetailerId": "44738018371",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 0.8,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 3.2
+    },
+    "name": "TCC Coconut Milk 400mL",
+    "brand": "TCC",
+    "path": "/shop/productdetails/168/tcc-coconut-milk",
+    "description": " TCC Coconut Milk 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/000168.jpg"
+  },
+  {
+    "retailerProductId": "668740",
+    "crossRetailerId": "31146030996",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 3.68,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "68g",
+      "price": 2.5
+    },
+    "name": "Nong Shim Shin Cup Noodle Soup 68g",
+    "brand": "Nong Shim",
+    "path": "/shop/productdetails/668740/nong-shim-shin-cup-noodle-soup",
+    "description": " Nong Shim Shin Cup Noodle<br>Soup  68g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/668740.jpg"
+  }
+]

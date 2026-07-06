@@ -1,0 +1,543 @@
+[
+  {
+    "retailerProductId": "743732",
+    "crossRetailerId": "9418783003100",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.22,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "900g",
+      "price": 20
+    },
+    "name": "Karicare 2 Gentle Nutrition Baby Formula From 6 to 12 Months 900g",
+    "brand": "Karicare",
+    "path": "/shop/productdetails/743732/karicare-2-gentle-nutrition-baby-formula-from-6-to-12-months",
+    "description": " Karicare 2 Gentle Nutrition<br>Baby Formula From 6... 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/743732.jpg"
+  },
+  {
+    "retailerProductId": "6023109",
+    "crossRetailerId": "9369998071135",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.06,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "800g",
+      "price": 32.5
+    },
+    "name": "Mumamoo Infant Formula Stage 1 800g",
+    "brand": "Mumamoo",
+    "path": "/shop/productdetails/6023109/mumamoo-infant-formula-stage-1",
+    "description": " Mumamoo Infant Formula Stage<br>1 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6023109.jpg"
+  },
+  {
+    "retailerProductId": "743610",
+    "crossRetailerId": "9418783003094",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.22,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "900g",
+      "price": 20
+    },
+    "name": "Karicare 1 Gentle Nutrition Infant Formula From 0 to 6 Months 900g",
+    "brand": "Karicare",
+    "path": "/shop/productdetails/743610/karicare-1-gentle-nutrition-infant-formula-from-0-to-6-months",
+    "description": " Karicare 1 Gentle Nutrition<br>Infant Formula From... 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/743610.jpg"
+  },
+  {
+    "retailerProductId": "743687",
+    "crossRetailerId": "9418783003117",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.22,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "900g",
+      "price": 20
+    },
+    "name": "Karicare 3 Gentle Nutrition Toddler Milk Drink From 12+ Months 900g",
+    "brand": "Karicare",
+    "path": "/shop/productdetails/743687/karicare-3-gentle-nutrition-toddler-milk-drink-from-12-months",
+    "description": " Karicare 3 Gentle Nutrition<br>Toddler Milk Drink... 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/743687.jpg"
+  },
+  {
+    "retailerProductId": "159080",
+    "crossRetailerId": "9339687426843",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.63,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "16 pack",
+      "price": 10
+    },
+    "name": "Little One's Ultra Dry Nappy Pants Size 7 (18+kg) 16 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/159080/little-one-s-ultra-dry-nappy-pants-size-7-18-kg-",
+    "description": " Little One's Ultra Dry Nappy<br>Pants Size 7... 16 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/159080.jpg"
+  },
+  {
+    "retailerProductId": "113624",
+    "crossRetailerId": "686352602750",
+    "gtinFormat": 12,
+    "currentValue": {
+      "unitPrice": 7.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "18 pack",
+      "price": 2.85
+    },
+    "name": "Baby Mum-Mum Strawberry & Beetroot Rusks 18 pack",
+    "brand": "Baby Mum-Mum",
+    "path": "/shop/productdetails/113624/baby-mum-mum-strawberry-beetroot-rusks",
+    "description": " Baby Mum-Mum Strawberry &<br>Beetroot Rusks  18 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/113624.jpg"
+  },
+  {
+    "retailerProductId": "291193",
+    "crossRetailerId": "9421901080068",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Baby Food Pouch Spinach Apple Broccoli & Pea 4+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/291193/rafferty-s-garden-baby-food-pouch-spinach-apple-broccoli-pea-4-months",
+    "description": " Rafferty's Garden Baby Food<br>Pouch Spinach Apple... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/291193.jpg"
+  },
+  {
+    "retailerProductId": "36531",
+    "crossRetailerId": "93657037",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 1.09,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "110g",
+      "price": 1.2
+    },
+    "name": "Heinz Baby Food Apple Puree 4+ Months 110g",
+    "brand": "Heinz",
+    "path": "/shop/productdetails/36531/heinz-baby-food-apple-puree-4-months",
+    "description": " Heinz Baby Food Apple Puree<br>4+ Months 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036531.jpg"
+  },
+  {
+    "retailerProductId": "315435",
+    "crossRetailerId": "9421901080303",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Baby Food Pouch Chocolate Custard 6+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/315435/rafferty-s-garden-baby-food-pouch-chocolate-custard-6-months",
+    "description": " Rafferty's Garden Baby Food<br>Pouch Chocolate... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/315435.jpg"
+  },
+  {
+    "retailerProductId": "766376",
+    "crossRetailerId": "9337824002387",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.57,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "6 pack",
+      "price": 3
+    },
+    "name": "Little Bellies Organic Sultanas 6 pack",
+    "brand": "Little Bellies",
+    "path": "/shop/productdetails/766376/little-bellies-organic-sultanas",
+    "description": " Little Bellies Organic<br>Sultanas 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/766376.jpg"
+  },
+  {
+    "retailerProductId": "23523",
+    "crossRetailerId": "9338078005537",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.25,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "800g",
+      "price": 42
+    },
+    "name": "Bubs Goat Infant Formula Stage 1 800g",
+    "brand": "Bubs",
+    "path": "/shop/productdetails/23523/bubs-goat-infant-formula-stage-1",
+    "description": " Bubs Goat Infant Formula<br>Stage 1 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/023523.jpg"
+  },
+  {
+    "retailerProductId": "23524",
+    "crossRetailerId": "9338078005544",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.25,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "800g",
+      "price": 42
+    },
+    "name": "Bubs Goat Stage 2 Formula 800g",
+    "brand": "Bubs",
+    "path": "/shop/productdetails/23524/bubs-goat-stage-2-formula-stage-2",
+    "description": " Bubs Goat Stage 2 Formula<br>Stage 2 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/023524.jpg"
+  },
+  {
+    "retailerProductId": "88504",
+    "crossRetailerId": "9338078005711",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.25,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "800g",
+      "price": 34
+    },
+    "name": "Bubs Organic Grass Fed Toddler Formula Stage 3 800g",
+    "brand": "Bubs",
+    "path": "/shop/productdetails/88504/bubs-organic-grass-fed-toddler-formula-stage-3",
+    "description": " Bubs Organic Grass Fed<br>Toddler Formula... 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/088504.jpg"
+  },
+  {
+    "retailerProductId": "232256",
+    "crossRetailerId": "9310320000378",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.67,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "3 pack",
+      "price": 20
+    },
+    "name": "First Response Pregnancy Test Instream 3 pack",
+    "brand": "First Response",
+    "path": "/shop/productdetails/232256/first-response-pregnancy-test-instream",
+    "description": " First Response Pregnancy<br>Test Instream 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/232256.jpg"
+  },
+  {
+    "retailerProductId": "765211",
+    "crossRetailerId": "9403145303714",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 1.8
+    },
+    "name": "Only Organic 6 Months+ Banana Blueberry & Quinoa 120g",
+    "brand": "Only Organic",
+    "path": "/shop/productdetails/765211/only-organic-6-months-banana-blueberry-quinoa",
+    "description": " Only Organic 6 Months+<br>Banana Blueberry &... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/765211.jpg"
+  },
+  {
+    "retailerProductId": "52174",
+    "crossRetailerId": "9312818004301",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.57,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "28 pack",
+      "price": 16
+    },
+    "name": "BabyLove Cosifit Nappies Size 5 (12-17kg) 28 pack",
+    "brand": "BabyLove",
+    "path": "/shop/productdetails/52174/babylove-cosifit-nappies-size-5-12-17kg-",
+    "description": " BabyLove Cosifit Nappies<br>Size 5 (12-17kg) 28 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/052174.jpg"
+  },
+  {
+    "retailerProductId": "378532",
+    "crossRetailerId": "9418783002837",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "900g",
+      "price": 30
+    },
+    "name": "Aptamil Gold Stage 2 Follow On Baby Formula 6-12M 900g",
+    "brand": "Aptamil",
+    "path": "/shop/productdetails/378532/aptamil-gold-stage-2-follow-on-baby-formula-6-12m",
+    "description": " Aptamil Gold Stage 2 Follow<br>On Baby Formula... 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/378532.jpg"
+  },
+  {
+    "retailerProductId": "633988",
+    "crossRetailerId": "9340156000655",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Pear Puree & Nothing Else Baby Food Pouch 4+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/633988/rafferty-s-garden-pear-puree-nothing-else-baby-food-pouch-4-months",
+    "description": " Rafferty's Garden Pear Puree<br>& Nothing Else Baby... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/633988.jpg"
+  },
+  {
+    "retailerProductId": "568730",
+    "crossRetailerId": "9310088011685",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "26 pack",
+      "price": 13
+    },
+    "name": "Huggies Ultra Dry Nappy Pants Boys Size 5 (12-17kg) 26 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/568730/huggies-ultra-dry-nappy-pants-boys-size-5-12-17kg-",
+    "description": " Huggies Ultra Dry Nappy<br>Pants Boys Size... 26 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/568730.jpg"
+  },
+  {
+    "retailerProductId": "669670",
+    "crossRetailerId": "9339687021000",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.83,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 1
+    },
+    "name": "Woolworths Smiling Tums 6 Months+ Beef & Vegetables 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/669670/woolworths-smiling-tums-6-months-beef-vegetables",
+    "description": " Woolworths Smiling Tums 6<br>Months+ Beef &... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/669670.jpg"
+  },
+  {
+    "retailerProductId": "86175",
+    "crossRetailerId": "9339687165124",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.21,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "56 pack",
+      "price": 11.5
+    },
+    "name": "Little One's Ultra Dry Nappies Size 3 Crawler (6-11kg) 56 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/86175/little-one-s-ultra-dry-nappies-size-3-crawler-6-11kg-",
+    "description": " Little One's Ultra Dry<br>Nappies Size 3... 56 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/086175.jpg"
+  },
+  {
+    "retailerProductId": "333290",
+    "crossRetailerId": "9403145302779",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 1.8
+    },
+    "name": "Only Organic 8 Months+ Banana Raspberry & Vanilla 120g",
+    "brand": "Only Organic",
+    "path": "/shop/productdetails/333290/only-organic-8-months-banana-raspberry-vanilla",
+    "description": " Only Organic 8 Months+<br>Banana Raspberry &... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/333290.jpg"
+  },
+  {
+    "retailerProductId": "633987",
+    "crossRetailerId": "9340156000648",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Apple Puree & Nothing Else Baby Food Pouch 4+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/633987/rafferty-s-garden-apple-puree-nothing-else-baby-food-pouch-4-months",
+    "description": " Rafferty's Garden Apple<br>Puree & Nothing... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/633987.jpg"
+  },
+  {
+    "retailerProductId": "709557",
+    "crossRetailerId": "9421901088064",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Baby Food Pouch Apple Banana & Peach 4+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/709557/rafferty-s-garden-baby-food-pouch-apple-banana-peach-4-months",
+    "description": " Rafferty's Garden Baby Food<br>Pouch Apple Banana... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/709557.jpg"
+  },
+  {
+    "retailerProductId": "291188",
+    "crossRetailerId": "9421901080044",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Baby Food Pouch Pumpkin Apple & Sweetcorn 4+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/291188/rafferty-s-garden-baby-food-pouch-pumpkin-apple-sweetcorn-4-months",
+    "description": " Rafferty's Garden Baby Food<br>Pouch Pumpkin Apple... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/291188.jpg"
+  },
+  {
+    "retailerProductId": "214266",
+    "crossRetailerId": "9310088015829",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "8 pack",
+      "price": 12
+    },
+    "name": "Huggies DryNites Night Pants Boy 8-15 Years (27-57kg) 8 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/214266/huggies-drynites-night-pants-boy-8-15-years-27-57kg-",
+    "description": " Huggies DryNites Night Pants<br>Boy 8-15 Years... 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/214266.jpg"
+  },
+  {
+    "retailerProductId": "568657",
+    "crossRetailerId": "9310088011715",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "24 pack",
+      "price": null
+    },
+    "name": "Huggies Ultra Dry Nappy Pants Girls Size 6 (15-20kg) 24 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/568657/huggies-ultra-dry-nappy-pants-girls-size-6-15-20kg-",
+    "description": " Huggies Ultra Dry Nappy<br>Pants Girls Size... 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/568657.jpg"
+  },
+  {
+    "retailerProductId": "740039",
+    "crossRetailerId": "9312818003595",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.8,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "25 pack",
+      "price": 20
+    },
+    "name": "BabyLove Nappy Pants Size 5 (12-17kg) 25 pack",
+    "brand": "BabyLove",
+    "path": "/shop/productdetails/740039/babylove-nappy-pants-size-5-12-17kg-",
+    "description": " BabyLove Nappy Pants Size 5<br>(12-17kg) 25 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/740039.jpg"
+  },
+  {
+    "retailerProductId": "933164",
+    "crossRetailerId": "9403145304179",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "100g",
+      "price": 2.5
+    },
+    "name": "Only Organic Coconut Banana Acai 100g",
+    "brand": "Only Organic",
+    "path": "/shop/productdetails/933164/only-organic-coconut-banana-acai",
+    "description": " Only Organic Coconut Banana<br>Acai  100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/933164.jpg"
+  },
+  {
+    "retailerProductId": "59516",
+    "crossRetailerId": "9337824003056",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 24.38,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "16g",
+      "price": 3.9
+    },
+    "name": "Little Bellies Organic Strawberry Pick-Up Sticks 16g",
+    "brand": "Little Bellies",
+    "path": "/shop/productdetails/59516/little-bellies-organic-strawberry-pick-up-sticks",
+    "description": " Little Bellies Organic<br>Strawberry Pick-Up... 16g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/059516.jpg"
+  },
+  {
+    "retailerProductId": "568731",
+    "crossRetailerId": "9310088011692",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "26 pack",
+      "price": 13
+    },
+    "name": "Huggies Ultra Dry Nappy Pants Girls Size 5 (12-17kg) 26 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/568731/huggies-ultra-dry-nappy-pants-girls-size-5-12-17kg-",
+    "description": " Huggies Ultra Dry Nappy<br>Pants Girls Size... 26 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/568731.jpg"
+  },
+  {
+    "retailerProductId": "213891",
+    "crossRetailerId": "9310088015812",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.33,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "9 pack",
+      "price": 12
+    },
+    "name": "Huggies DryNites Night Pants Girl 4-7 Years (17-30kg) 9 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/213891/huggies-drynites-night-pants-girl-4-7-years-17-30kg-",
+    "description": " Huggies DryNites Night Pants<br>Girl 4-7 Years... 9 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/213891.jpg"
+  }
+]
