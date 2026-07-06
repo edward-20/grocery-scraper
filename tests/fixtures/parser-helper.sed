@@ -1,17 +1,19 @@
-/"Stockcode"/ {s/"Stockcode"/retailerProductId/; p}
-/"Barcode"/ {s/"Barcode"/crossRetailerId/; p}
-/"GtinFormat"/ {s/"GtinFormat"/gtinFormat/; p}
-/"DisplayName"/ {s/"DisplayName"/name/; p}
-/"Brand"/ {s/"Brand"/brand/}
-/"UrlFriendlyName"/ {s/"UrlFriendlyName"/path/; p}
-/"Description"/ {s/"Description"/description/; p}
+/"Stockcode"/ {s/[[:space:]]*"Stockcode"/{\n\tretailerProductId/; p}
+/"Barcode"/ {s/[[:space:]]*"Barcode"/\tcrossRetailerId/; p}
+/"GtinFormat"/ {s/[[:space:]]*"GtinFormat"/\tgtinFormat/; p}
 
-/"Price"/ {s/"Price"/price/; p}
+/"DisplayName"/ {s/^[[:space:]]*"DisplayName":[[:space:]]*"(.*)"/\tname: "\1"\n}/p}
 
-/"CupPrice"/ {s/"CupPrice"/unitPrice/; p}
+/"Brand"/ {s/[[:space:]]*"Brand"/\tbrand/}
+/"UrlFriendlyName"/ {s/[[:space:]]*"UrlFriendlyName"/\tpath/; p}
+/"Description"/ {s/[[:space:]]*"Description"/\tdescription/; p}
 
-/"CupMeasure"/ { s/"CupMeasure": "([0-9]+)([A-Za-z]+)",/unitPrice: \1,\n unitPriceUnit: \2,\n/;  p }
+/"Price"/ {s/[[:space:]]*"Price"/\tprice/; p}
 
-/"PackageSize"/ {s/"PackageSize"/size/; p}
+/"CupPrice"/ {s/[[:space:]]*"CupPrice"/\tunitPrice/; p}
 
-/"MediumImageFile"/ {s/"MediumImageFile"/imageUrl/; p}
+/"CupMeasure"/ { s/[[:space:]]*"CupMeasure": "([0-9]+)([A-Za-z]+)",/\tunitPrice: \1,\n\tunitPriceUnit: \2,\n/;  p }
+
+/"PackageSize"/ {s/[[:space:]]*"PackageSize"/\tsize/; p}
+
+/"MediumImageFile"/ {s/[[:space:]]*"MediumImageFile"/\timageUrl/; p}

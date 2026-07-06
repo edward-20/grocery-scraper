@@ -12,7 +12,7 @@ const WoolworthsCategoriesPayload = z.object({
   }))
 })
 
-const WoolworthsProductsPagePayload = z.object({
+export const WoolworthsProductsPagePayload = z.object({
   Bundles: z.array(z.object({
     Products: z.array(z.discriminatedUnion("HasCupPrice", [
       z.object({
@@ -53,8 +53,6 @@ const WoolworthsProductsPagePayload = z.object({
         PackageSize: z.string(),       // "80g" value_at_time: sizeQuantity
       }),
     ])),
-    Name: z.string(),
-    DisplayName: z.string()
   }))
 })
 

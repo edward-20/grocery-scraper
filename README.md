@@ -36,10 +36,11 @@ Use a different config file with:
 SCRAPER_CONFIG=config/other.yaml pnpm scrape:once
 ```
 
-## SQLite Tables
+## Testing
+Generating the fixtures required for testing involves a script as well as manual
+rewrite.
 
-- `scrape_runs`: one row per target run.
-- `products`: latest normalized product state.
-- `product_snapshots`: append-only raw and normalized observations.
+`pnpm gen:woolworths-fixture`
 
-The scraper does not attempt to bypass anti-bot protections. If a retailer blocks automation or changes markup, the run records errors instead of silently inventing product data.
+Then manually edit `tests/fixtures/woolworths-semi-parsed.json` to fit the
+required result.
