@@ -5,8 +5,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.8,
-      "unitPriceQuantity": "100G",
-      "unitPriceUnit": "100G",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
       "size": "250g",
       "price": 4.5
     },
@@ -22,8 +22,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 39.5,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "200g",
       "price": 7.9
     },
@@ -39,8 +39,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 35.91,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "220g",
       "price": 7.9
     },
@@ -56,8 +56,8 @@
     "gtinFormat": 8,
     "currentValue": {
       "unitPrice": 2.96,
-      "unitPriceQuantity": "100G",
-      "unitPriceUnit": "100G",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
       "size": "135g",
       "price": 4
     },
@@ -73,8 +73,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 30,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 30
     },
@@ -90,8 +90,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 24,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 24
     },
@@ -107,8 +107,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 15,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "500g",
       "price": 7.5
     },
@@ -124,8 +124,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 9.5,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 130g",
       "price": 9.5
     },
@@ -141,8 +141,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 22,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 22
     },
@@ -158,8 +158,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 22.8,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "250g",
       "price": 5.7
     },
@@ -175,8 +175,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 2.5,
-      "unitPriceQuantity": "100G",
-      "unitPriceUnit": "100G",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
       "size": "200g",
       "price": 5
     },
@@ -192,8 +192,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 2.5,
-      "unitPriceQuantity": "100G",
-      "unitPriceUnit": "100G",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
       "size": "200g",
       "price": 5
     },
@@ -209,8 +209,8 @@
     "gtinFormat": 8,
     "currentValue": {
       "unitPrice": 2.63,
-      "unitPriceQuantity": "100G",
-      "unitPriceUnit": "100G",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
       "size": "190g",
       "price": 5
     },
@@ -226,8 +226,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 3.4,
-      "unitPriceQuantity": "100G",
-      "unitPriceUnit": "100G",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
       "size": "50g x 2 pack",
       "price": 3.4
     },
@@ -243,8 +243,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 40,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "200g",
       "price": 8
     },
@@ -260,8 +260,8 @@
     "gtinFormat": 8,
     "currentValue": {
       "unitPrice": 66.67,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "15g",
       "price": 1
     },
@@ -277,8 +277,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 49.38,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "80g",
       "price": 3.95
     },
@@ -294,8 +294,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 16.5,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 16.5
     },
@@ -311,8 +311,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 27.92,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "4 pack",
       "price": 6.7
     },
@@ -328,8 +328,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.4,
-      "unitPriceQuantity": "100G",
-      "unitPriceUnit": "100G",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
       "size": "200g",
       "price": 2.8
     },
@@ -345,8 +345,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 39.5,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "100g",
       "price": 3.95
     },
@@ -362,8 +362,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 49.38,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "80g",
       "price": 3.95
     },
@@ -379,8 +379,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 25,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "200g",
       "price": 5
     },
@@ -396,8 +396,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.4,
-      "unitPriceQuantity": "100G",
-      "unitPriceUnit": "100G",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
       "size": "200g",
       "price": 2.8
     },
@@ -413,8 +413,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 24,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "125g",
       "price": 3
     },
@@ -430,8 +430,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 24,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 24
     },
@@ -447,8 +447,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 32,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 32
     },
@@ -464,8 +464,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 28,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 28
     },
@@ -481,8 +481,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 16.67,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "300g",
       "price": 5
     },
@@ -498,8 +498,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 38.4,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "125g",
       "price": 4.8
     },
@@ -515,8 +515,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 13.5,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 13.5
     },
@@ -532,8 +532,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 28,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "per 100g",
       "price": 28
     },

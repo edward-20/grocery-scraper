@@ -103,8 +103,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.5,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "10 pack",
       "price": 15
     },
@@ -134,8 +134,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.7,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "4 pack",
       "price": 6.8
     },
@@ -179,8 +179,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.58,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "24 pack",
       "price": 14
     },
@@ -224,8 +224,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.58,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "24 pack",
       "price": 14
     },
@@ -283,8 +283,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 3.54,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "6 pack",
       "price": 21.25
     },
@@ -328,8 +328,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 4,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "2 pack",
       "price": 8
     },

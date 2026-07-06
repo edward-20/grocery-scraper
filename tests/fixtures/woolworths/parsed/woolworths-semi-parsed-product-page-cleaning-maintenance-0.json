@@ -5,8 +5,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.36,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "8 pack",
       "price": 10.5
     },
@@ -22,8 +22,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.38,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "8 pack",
       "price": 10.8
     },
@@ -39,8 +39,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 13,
-      "unitPriceQuantity": "1L",
-      "unitPriceUnit": "1L",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
       "size": "2L",
       "price": 26
     },
@@ -56,8 +56,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 5.25,
-      "unitPriceQuantity": "1L",
-      "unitPriceUnit": "1L",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
       "size": "4L",
       "price": 21
     },
@@ -73,8 +73,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.85,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "224 pack",
       "price": 1.9
     },
@@ -90,8 +90,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.2,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "24 pack",
       "price": 9
     },
@@ -107,8 +107,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 2.78,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "3 x 60 pack",
       "price": 5
     },
@@ -124,8 +124,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.58,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "250 pack",
       "price": 1.45
     },
@@ -141,8 +141,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.31,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "24 pack",
       "price": 13.6
     },
@@ -158,8 +158,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.78,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "3 x 60 pack",
       "price": 3.2
     },
@@ -175,8 +175,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 13,
-      "unitPriceQuantity": "1KG",
-      "unitPriceUnit": "1KG",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
       "size": "2kg",
       "price": 26
     },
@@ -192,8 +192,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 5.79,
-      "unitPriceQuantity": "1L",
-      "unitPriceUnit": "1L",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
       "size": "1.9L",
       "price": 11
     },
@@ -209,8 +209,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.9,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "29 pack",
       "price": 26
     },
@@ -226,8 +226,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.48,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "20 pack",
       "price": 9.5
     },
@@ -243,8 +243,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.73,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "3 pack",
       "price": 5
     },
@@ -260,8 +260,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 2.74,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "95 pack",
       "price": 2.6
     },
@@ -277,8 +277,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.94,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "3 x 60 pack",
       "price": 3.5
     },
@@ -294,8 +294,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.24,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "20 pack",
       "price": 8.5
     },
@@ -311,8 +311,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.36,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "12 pack",
       "price": 6
     },
@@ -328,8 +328,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.26,
-      "unitPriceQuantity": "100ML",
-      "unitPriceUnit": "100ML",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "mL",
       "size": "1L",
       "price": 2.55
     },
@@ -345,8 +345,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.38,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "2 x 80 pack",
       "price": 2.2
     },
@@ -362,8 +362,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.14,
-      "unitPriceQuantity": "100ML",
-      "unitPriceUnit": "100ML",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "mL",
       "size": "1L",
       "price": 1.4
     },
@@ -379,8 +379,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 1.5,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "200 pack",
       "price": 3
     },
@@ -396,8 +396,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 2.19,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "2 x 120 pack",
       "price": 5.25
     },
@@ -413,7 +413,7 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.18,
-      "unitPriceQuantity": "1M",
+      "unitPriceQuantity": 1,
       "unitPriceUnit": "1M",
       "size": "15m",
       "price": 2.7
@@ -430,8 +430,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.09,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "30 pack",
       "price": 2.6
     },
@@ -447,8 +447,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.28,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "24 pack",
       "price": 12
     },
@@ -464,7 +464,7 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.15,
-      "unitPriceQuantity": "1M",
+      "unitPriceQuantity": 1,
       "unitPriceUnit": "1M",
       "size": "each",
       "price": 4.5
@@ -481,8 +481,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 2.22,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "6 x 60 pack",
       "price": 8
     },
@@ -498,8 +498,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.1,
-      "unitPriceQuantity": "1EA",
-      "unitPriceUnit": "1EA",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
       "size": "25 pack",
       "price": 2.5
     },
@@ -515,8 +515,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 3.26,
-      "unitPriceQuantity": "100 sheets",
-      "unitPriceUnit": "100 sheets",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "sheets",
       "size": "95 pack",
       "price": 3.1
     },
@@ -532,8 +532,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 0.31,
-      "unitPriceQuantity": "100ML",
-      "unitPriceUnit": "100ML",
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "mL",
       "size": "700mL",
       "price": 2.2
     },

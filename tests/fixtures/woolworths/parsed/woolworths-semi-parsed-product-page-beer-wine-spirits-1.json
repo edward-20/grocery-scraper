@@ -61,8 +61,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 4.22,
-      "unitPriceQuantity": "1L",
-      "unitPriceUnit": "1L",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
       "size": "375mL x 6 pack",
       "price": 9.5
     },
@@ -134,8 +134,8 @@
     "gtinFormat": 13,
     "currentValue": {
       "unitPrice": 24,
-      "unitPriceQuantity": "1L",
-      "unitPriceUnit": "1L",
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
       "size": "750mL",
       "price": 18
     },
