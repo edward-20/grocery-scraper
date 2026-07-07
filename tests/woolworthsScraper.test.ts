@@ -3,6 +3,7 @@ import { chromium, Browser, Page, BrowserContext } from "playwright";
 import { WoolworthsScraper } from "../src/scraper/woolworthsScraper.js";
 import { readFile } from "fs/promises";
 import { Category, Product } from "../src/db/repository.js";
+import { readdir } from "fs/promises";
 
 describe("WoolworthsScraper", () => {
   let scraper: WoolworthsScraper;
@@ -61,6 +62,10 @@ describe("WoolworthsScraper", () => {
   });
 
   it("parses the products of a product page payload", async () => {
+    const path = "tests/fixtures/woolworths/parsed";
+    const files = await readdir("tests/fixtures/woolworths/parsed", "utf-8");
+
+    for (const file of files.filter(filename => filename.endsWith(".json"))) {
     const mockProductPagePayload = await readFile('tests/fixtures/woolworths-product-page-payload.json', 'utf-8');
 
     await context.route("https://www.woolworths.com.au/apis/ui/browse/category", route => {
