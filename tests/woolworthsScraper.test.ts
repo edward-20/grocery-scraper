@@ -157,12 +157,14 @@ describe("WoolworthsScraper", () => {
     }
 
     await context.route("https://www.woolworths.com.au/apis/ui/browse/category", async route => {
-      route.fulfill({
+      await route.fulfill({
         body: rawPayloads.shift(),
         contentType: "application/json",
         status: 200
       })
-    }, { times: 1 });
+    });
+    
+    // possibly need to mock the woolworths page here
 
     const category: Category = {
       retailerDesignatedCategoryId: categoryName, // not correct, but for the purpose of testing will be fine
@@ -171,7 +173,7 @@ describe("WoolworthsScraper", () => {
     };
 
     const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
-    const expectedProducts: Product[] = parsedPayloads.flat().map(parsedPayload => JSON.parse(parsedPayload));
+    const expectedProducts: Product[] = parsedPayloads.map(parsedPayload => JSON.parse(parsedPayload)).flat();
 
     expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
     receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
