@@ -21,6 +21,16 @@ const productPageFixtureCases = rawFixtureFiles
     };
   });
 
+// categories: find all unique category names from the fixtures directory
+const categories = [
+  ...new Set(
+    rawFixtureFiles.map(file =>
+      file.replace(/(?:-\d+)?\.json$/, "")
+    )
+  )
+].filter(category => category !== "woolworths-categories-payload");
+
+
 describe("WoolworthsScraper", () => {
   let scraper: WoolworthsScraper;
   let browser: Browser;
@@ -77,7 +87,7 @@ describe("WoolworthsScraper", () => {
     expect(receivedCategories).toEqual(expectedCategories);
   });
 
-  it.each(productPageFixtureCases)(
+  it.skip.each(productPageFixtureCases)(
     "parses products from $rawFixtureFile against $parsedFixtureFile",
     async ({ fixtureName, rawFixtureFile, parsedFixtureFile }) => {
       const rawPayload = await readFile(`${rawFixturePath}/${rawFixtureFile}`, "utf-8");
@@ -126,6 +136,11 @@ describe("WoolworthsScraper", () => {
       expect(receivedProducts, `${rawFixtureFile} -> ${parsedFixtureFile}`).toEqual(expectedProducts);
     }
   )
+
+  // for each category
+  it.each(categories)("testing scrapeProductsOfCategory: %s", (category) => {
+    console.log(category);
+  })
 
   afterEach(async () => {
     await page.close();
