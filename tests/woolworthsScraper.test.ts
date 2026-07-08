@@ -7,6 +7,9 @@ import { Category, Product } from "../src/db/repository.js";
 const rawFixturePath = "tests/fixtures/woolworths/raw";
 const parsedFixturePath = "tests/fixtures/woolworths/parsed";
 const rawFixtureFiles = await readdir(rawFixturePath);
+const parsedFixtureFiles = await readdir(parsedFixturePath);
+
+// for old test
 const productPageFixtureCases = rawFixtureFiles
   .filter(filename => filename !== "woolworths-categories-payload.json")
   .sort()
@@ -138,8 +141,42 @@ describe("WoolworthsScraper", () => {
   )
 
   // for each category
-  it.each(categories)("testing scrapeProductsOfCategory: %s", (category) => {
-    console.log(category);
+  it.each(categories)("testing scrapeProductsOfCategory: %s", async (categoryName) => {
+    // derive the raw and parsed fixture name from categoryName
+    const categoryRawFixtureFiles = rawFixtureFiles.filter(rawFixtureFile => rawFixtureFile.includes(categoryName));
+    const categoryParsedFixtureFiles = parsedFixtureFiles.filter(parsedFixtureFile => parsedFixtureFile.includes(categoryName));
+
+    let rawPayloads: string[] = [];
+    for (const categoryRawFixtureFile of categoryRawFixtureFiles) {
+      rawPayloads.push(await readFile(`${rawFixturePath}/${categoryRawFixtureFile}`, "utf-8"));
+    }
+
+    let parsedPayloads: string[] = [];
+    for (const categoryParsedFixtureFile of categoryParsedFixtureFiles) {
+      parsedPayloads.push(await readFile(`${parsedFixturePath}/${categoryParsedFixtureFile}`, "utf-8"));
+    }
+
+    await context.route("https://www.woolworths.com.au/apis/ui/browse/category", async route => {
+      route.fulfill({
+        body: rawPayloads.shift(),
+        contentType: "application/json",
+        status: 200
+      })
+    }, { times: 1 });
+
+    const category: Category = {
+      retailerDesignatedCategoryId: categoryName, // not correct, but for the purpose of testing will be fine
+      name: categoryName,
+      path: `/shop/browse/${categoryName}`,
+    };
+
+    const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
+    const expectedProducts: Product[] = parsedPayloads.flat().map(parsedPayload => JSON.parse(parsedPayload));
+
+    expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
+    receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
+
+    expect(receivedProducts, `scrape of ${categoryName} to match its corresponding fixture files`).toEqual(expectedProducts);
   })
 
   afterEach(async () => {
