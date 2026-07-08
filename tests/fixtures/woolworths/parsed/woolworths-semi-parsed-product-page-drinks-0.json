@@ -1,0 +1,512 @@
+[
+  {
+    "retailerProductId": "162609",
+    "crossRetailerId": "9002490100759",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 4 pack",
+      "price": 13
+    },
+    "name": "Red Bull Energy Drink 250mL x 4 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/162609/red-bull-energy-drink",
+    "description": " Red Bull Energy Drink 250mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/162609.jpg"
+  },
+  {
+    "retailerProductId": "136874",
+    "crossRetailerId": "9300624034315",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 10 pack",
+      "price": 21
+    },
+    "name": "Mount Franklin Lightly Sparkling Water Passionfruit Cans 375mL x 10 pack",
+    "brand": "Mount Franklin",
+    "path": "/shop/productdetails/136874/mount-franklin-lightly-sparkling-water-passionfruit-cans",
+    "description": " Mount Franklin Lightly<br>... 375mL x 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/136874.jpg"
+  },
+  {
+    "retailerProductId": "331784",
+    "crossRetailerId": "9002490210434",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 8 pack",
+      "price": 22
+    },
+    "name": "Red Bull Energy Drink Cans 250mL x 8 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/331784/red-bull-energy-drink-cans",
+    "description": " Red Bull Energy Drink Cans 250mL x 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/331784.jpg"
+  },
+  {
+    "retailerProductId": "223875",
+    "crossRetailerId": "9002490254476",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.33,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 12 pack",
+      "price": 25
+    },
+    "name": "Red Bull Energy Drink Cans 250mL x 12 pack",
+    "brand": "Red Bull",
+    "path": "/shop/productdetails/223875/red-bull-energy-drink-cans",
+    "description": " Red Bull Energy Drink Cans  250mL x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/223875.jpg"
+  },
+  {
+    "retailerProductId": "748595",
+    "crossRetailerId": "9300633386689",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Full Cream Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/748595/woolworths-full-cream-long-life-milk-uht",
+    "description": " Woolworths Full Cream Long<br>Life Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/748595.jpg"
+  },
+  {
+    "retailerProductId": "116784",
+    "crossRetailerId": "9339687216253",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.65,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "600mL x 24 pack",
+      "price": 9.4
+    },
+    "name": "Woolworths Spring Water Bottles 600mL x 24 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/116784/woolworths-spring-water-bottles",
+    "description": " Woolworths Spring Water<br>Bottles  600mL x 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/116784.jpg"
+  },
+  {
+    "retailerProductId": "669683",
+    "crossRetailerId": "9300675079709",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.89,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 24 pack",
+      "price": 26
+    },
+    "name": "Coca-Cola Zero Sugar Soft Drink Cans 375mL x 24 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/669683/coca-cola-zero-sugar-soft-drink-cans",
+    "description": " Coca-Cola Zero Sugar Soft<br>Drink... 375mL x 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/669683.jpg"
+  },
+  {
+    "retailerProductId": "32731",
+    "crossRetailerId": "9300675001113",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.36,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 4.2
+    },
+    "name": "Coca-Cola Classic  Soft Drink Bottle 1.25L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/32731/coca-cola-classic-soft-drink-bottle",
+    "description": " Coca-Cola Classic  Soft<br>Drink Bottle  1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/032731.jpg"
+  },
+  {
+    "retailerProductId": "799813",
+    "crossRetailerId": "9300633785536",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.1,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.1
+    },
+    "name": "Woolworths Free From Lactose Lite Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/799813/woolworths-free-from-lactose-lite-long-life-milk-uht",
+    "description": " Woolworths Free From Lactose<br>Lite Long Life Milk... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/799813.jpg"
+  },
+  {
+    "retailerProductId": "42605",
+    "crossRetailerId": "9300675000628",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.89,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 24 pack",
+      "price": 26
+    },
+    "name": "Coca-Cola Classic Soft Drink Cans 375mL x 24 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/42605/coca-cola-classic-soft-drink-cans",
+    "description": " Coca-Cola Classic Soft Drink<br>Cans 375mL x 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/042605.jpg"
+  },
+  {
+    "retailerProductId": "176210",
+    "crossRetailerId": "9300624034285",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 10 pack",
+      "price": 21
+    },
+    "name": "Mount Franklin Lightly Sparkling Water Mango 375mL x 10 pack",
+    "brand": "Mount Franklin",
+    "path": "/shop/productdetails/176210/mount-franklin-lightly-sparkling-water-mango",
+    "description": " Mount Franklin Lightly<br>... 375mL x 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/176210.jpg"
+  },
+  {
+    "retailerProductId": "6064486",
+    "crossRetailerId": "9315596009698",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.33,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 6 pack",
+      "price": 6.5
+    },
+    "name": "Schweppes Lemon Lime & Bitters Soft Drink Mixer Mini Cans 250mL x 6 pack",
+    "brand": "Schweppes",
+    "path": "/shop/productdetails/6064486/schweppes-lemon-lime-bitters-soft-drink-mixer-mini-cans",
+    "description": " Schweppes Lemon Lime &<br>Bitters... 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6064486.jpg"
+  },
+  {
+    "retailerProductId": "6064067",
+    "crossRetailerId": "9315596010267",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.33,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 6 pack",
+      "price": 6.5
+    },
+    "name": "Schweppes Coastal Fizz Lemon Lychee Mini Can No Sugar Mixer Soft Drink 250mL x 6 pack",
+    "brand": "Schweppes",
+    "path": "/shop/productdetails/6064067/schweppes-coastal-fizz-lemon-lychee-mini-can-no-sugar-mixer-soft-drink",
+    "description": " Schweppes Coastal Fizz Lemon<br>Lychee... 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6064067.jpg"
+  },
+  {
+    "retailerProductId": "6063977",
+    "crossRetailerId": "9315596010243",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.33,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "250mL x 6 pack",
+      "price": 6.5
+    },
+    "name": "Schweppes Summer Fizz Blood Orange Lime No Sugar Mixer Soft Drink 250mL x 6 pack",
+    "brand": "Schweppes",
+    "path": "/shop/productdetails/6063977/schweppes-summer-fizz-blood-orange-lime-no-sugar-mixer-soft-drink",
+    "description": " Schweppes Summer Fizz Blood<br>Orange... 250mL x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6063977.jpg"
+  },
+  {
+    "retailerProductId": "623034",
+    "crossRetailerId": "9300675079488",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.36,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 4.2
+    },
+    "name": "Coca-Cola Zero Sugar Soft Drink Bottle 1.25L",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/623034/coca-cola-zero-sugar-soft-drink-bottle",
+    "description": " Coca-Cola Zero Sugar Soft<br>Drink Bottle 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/623034.jpg"
+  },
+  {
+    "retailerProductId": "33557",
+    "crossRetailerId": "9300639500041",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.2,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.2
+    },
+    "name": "Devondale 100% Pure Full Cream Long Life Milk UHT 1L",
+    "brand": "Devondale",
+    "path": "/shop/productdetails/33557/devondale-100-pure-full-cream-long-life-milk-uht",
+    "description": " Devondale 100% Pure Full<br>Cream Long Life Milk... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/033557.jpg"
+  },
+  {
+    "retailerProductId": "748597",
+    "crossRetailerId": "9300633386702",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Skim Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/748597/woolworths-skim-long-life-milk-uht",
+    "description": " Woolworths Skim Long Life<br>Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/748597.jpg"
+  },
+  {
+    "retailerProductId": "799638",
+    "crossRetailerId": "9339687219438",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.88,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 1.1
+    },
+    "name": "Woolworths Sparkling Mineral Water 1.25L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/799638/woolworths-sparkling-mineral-water",
+    "description": " Woolworths Sparkling Mineral<br>Water 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/799638.jpg"
+  },
+  {
+    "retailerProductId": "748596",
+    "crossRetailerId": "9300633386696",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Lite Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/748596/woolworths-lite-long-life-milk-uht",
+    "description": " Woolworths Lite Long Life<br>Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/748596.jpg"
+  },
+  {
+    "retailerProductId": "799811",
+    "crossRetailerId": "9300633785529",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.1,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 2.1
+    },
+    "name": "Woolworths Free From Lactose Full Cream Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/799811/woolworths-free-from-lactose-full-cream-long-life-milk-uht",
+    "description": " Woolworths Free From Lactose<br>Full Cream Long Life... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/799811.jpg"
+  },
+  {
+    "retailerProductId": "7985",
+    "crossRetailerId": "9313820016504",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 1.87
+    },
+    "name": "Pepsi Max Cola No Sugar Soft Drink Bottle 1.25L",
+    "brand": "Pepsi",
+    "path": "/shop/productdetails/7985/pepsi-max-cola-no-sugar-soft-drink-bottle",
+    "description": " Pepsi Max Cola No Sugar Soft<br>Drink Bottle 1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/007985.jpg"
+  },
+  {
+    "retailerProductId": "799637",
+    "crossRetailerId": "9300633440756",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.25L",
+      "price": 1.15
+    },
+    "name": "Woolworths Soda Water 1.25L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/799637/woolworths-soda-water",
+    "description": " Woolworths Soda Water  1.25L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/799637.jpg"
+  },
+  {
+    "retailerProductId": "825527",
+    "crossRetailerId": "9300633701284",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.35,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "2L",
+      "price": 2.7
+    },
+    "name": "Woolworths Apple Juice 2L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/825527/woolworths-apple-juice",
+    "description": " Woolworths Apple Juice  2L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/825527.jpg"
+  },
+  {
+    "retailerProductId": "56731",
+    "crossRetailerId": "9312336049013",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 4.5
+    },
+    "name": "Bonsoy Soy Long Life Milk UHT 1L",
+    "brand": "Bonsoy",
+    "path": "/shop/productdetails/56731/bonsoy-soy-long-life-milk-uht",
+    "description": " Bonsoy Soy Long Life Milk<br>UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/056731.jpg"
+  },
+  {
+    "retailerProductId": "669379",
+    "crossRetailerId": "9300675079686",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.6,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 10 pack",
+      "price": 21
+    },
+    "name": "Coca-Cola Zero Sugar Soft Drink Cans 375mL x 10 pack",
+    "brand": "Coca-Cola",
+    "path": "/shop/productdetails/669379/coca-cola-zero-sugar-soft-drink-cans",
+    "description": " Coca-Cola Zero Sugar Soft<br>Drink... 375mL x 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/669379.jpg"
+  },
+  {
+    "retailerProductId": "779130",
+    "crossRetailerId": "9300633473648",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.75,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.75
+    },
+    "name": "Woolworths Soy Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/779130/woolworths-soy-long-life-milk-uht",
+    "description": " Woolworths Soy Long Life<br>Milk UHT 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/779130.jpg"
+  },
+  {
+    "retailerProductId": "54291",
+    "crossRetailerId": "9313820016146",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.39,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "375mL x 24 pack",
+      "price": 39.5
+    },
+    "name": "Pepsi Max No Sugar Soft Drink Cans 375mL x 24 pack",
+    "brand": "Pepsi",
+    "path": "/shop/productdetails/54291/pepsi-max-no-sugar-soft-drink-cans",
+    "description": " Pepsi Max No Sugar Soft<br>Drink... 375mL x 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/054291.jpg"
+  },
+  {
+    "retailerProductId": "749792",
+    "crossRetailerId": "9300633394172",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.54,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1.5L x 6 pack",
+      "price": 4.9
+    },
+    "name": "Woolworths Spring Water Bottles 1.5L x 6 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/749792/woolworths-spring-water-bottles",
+    "description": " Woolworths Spring Water<br>Bottles  1.5L x 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/749792.jpg"
+  },
+  {
+    "retailerProductId": "365190",
+    "crossRetailerId": "9300624008354",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "600mL",
+      "price": 2.25
+    },
+    "name": "Powerade ION4 Mountain Blast Sports Drink Sipper Cap 600mL",
+    "brand": "Powerade",
+    "path": "/shop/productdetails/365190/powerade-ion4-mountain-blast-sports-drink-sipper-cap",
+    "description": " Powerade ION4 Mountain Blast<br>Sports Drink... 600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365190.jpg"
+  },
+  {
+    "retailerProductId": "779134",
+    "crossRetailerId": "9300633473686",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "1L",
+      "price": 1.85
+    },
+    "name": "Woolworths Unsweetened Almond Long Life Milk UHT 1L",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/779134/woolworths-unsweetened-almond-long-life-milk-uht",
+    "description": " Woolworths Unsweetened<br>Almond Long Life Milk... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/779134.jpg"
+  }
+]

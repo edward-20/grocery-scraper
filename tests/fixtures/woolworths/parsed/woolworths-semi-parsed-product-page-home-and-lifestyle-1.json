@@ -1,0 +1,496 @@
+[
+  {
+    "retailerProductId": "283104",
+    "crossRetailerId": "71641301627",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "2 pack",
+      "price": 3.9
+    },
+    "name": "Sharpie Permanent Marker Pens Fine Point Black 2 pack",
+    "brand": "Sharpie",
+    "path": "/shop/productdetails/283104/sharpie-permanent-marker-pens-fine-point-black",
+    "description": " Sharpie Permanent Marker<br>Pens Fine Point... 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/283104.jpg"
+  },
+  {
+    "retailerProductId": "239956",
+    "crossRetailerId": "9313139334719",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "10 pack",
+      "price": 3.5
+    },
+    "name": "Paper Mate Kilometrico Ballpoint Pens Assorted Colours 10 pack",
+    "brand": "Paper Mate",
+    "path": "/shop/productdetails/239956/paper-mate-kilometrico-ballpoint-pens-assorted-colours",
+    "description": " Paper Mate Kilometrico<br>Ballpoint Pens... 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/239956.jpg"
+  },
+  {
+    "retailerProductId": "910320",
+    "crossRetailerId": "71641218635",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "5 pack",
+      "price": 15
+    },
+    "name": "Sharpie Creative Acrylic Markers 5 pack",
+    "brand": "Sharpie",
+    "path": "/shop/productdetails/910320/sharpie-creative-acrylic-markers",
+    "description": " Sharpie Creative Acrylic<br>Markers  5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/910320.jpg"
+  },
+  {
+    "retailerProductId": "95445",
+    "crossRetailerId": "71641172098",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "2 pack",
+      "price": 5.6
+    },
+    "name": "Sharpie S Gel 07mm Pens Black 2 pack",
+    "brand": "Sharpie",
+    "path": "/shop/productdetails/95445/sharpie-s-gel-07mm-pens-black",
+    "description": " Sharpie S Gel 07mm Pens<br>Black 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/095445.jpg"
+  },
+  {
+    "retailerProductId": "744052",
+    "crossRetailerId": "9300633369026",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.75,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "300mL x 4 pack",
+      "price": 3
+    },
+    "name": "Essentials Food Containers Rectangle 300mL x 4 pack",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/744052/essentials-food-containers-rectangle",
+    "description": " Essentials Food Containers<br>Rectangle 300mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/744052.jpg"
+  },
+  {
+    "retailerProductId": "221698",
+    "crossRetailerId": "9339687301720",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.13,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "25 pack",
+      "price": 3.2
+    },
+    "name": "Armada Paper Cups 25 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/221698/armada-paper-cups",
+    "description": " Armada Paper Cups  25 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/221698.jpg"
+  },
+  {
+    "retailerProductId": "744028",
+    "crossRetailerId": "9300633368982",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.6,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "600mL x 5 pack",
+      "price": 3
+    },
+    "name": "Essentials Food Containers Round 600mL x 5 pack",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/744028/essentials-food-containers-round",
+    "description": " Essentials Food Containers<br>Round 600mL x 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/744028.jpg"
+  },
+  {
+    "retailerProductId": "852041",
+    "crossRetailerId": "9339687083565",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.04,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 1.8
+    },
+    "name": "Armada Cocktail Serviettes White 2Ply 50 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/852041/armada-cocktail-serviettes-white-2ply",
+    "description": " Armada Cocktail Serviettes<br>White 2Ply  50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/852041.jpg"
+  },
+  {
+    "retailerProductId": "147733",
+    "crossRetailerId": "9310331475806",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "100 pack",
+      "price": 3
+    },
+    "name": "Dollar Sweets Assorted Large Patty Pans 100 pack",
+    "brand": "Dollar Sweets",
+    "path": "/shop/productdetails/147733/dollar-sweets-assorted-large-patty-pans",
+    "description": " Dollar Sweets Assorted Large<br>Patty Pans  100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/147733.jpg"
+  },
+  {
+    "retailerProductId": "21366",
+    "crossRetailerId": "7310688002511",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.78,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "45 pack",
+      "price": 3.5
+    },
+    "name": "Redheads Extra Long Matches 45 pack",
+    "brand": "Redheads",
+    "path": "/shop/productdetails/21366/redheads-extra-long-matches-extra-long",
+    "description": " Redheads Extra Long Matches<br>Extra Long 45 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/021366.jpg"
+  },
+  {
+    "retailerProductId": "547489",
+    "crossRetailerId": "5056585802190",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16.8,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 16.8
+    },
+    "name": "Scholl Gel Activ Work & Boot Insoles Large Pair each",
+    "brand": "Scholl",
+    "path": "/shop/productdetails/547489/scholl-gel-activ-work-boot-insoles-large-pair",
+    "description": " Scholl Gel Activ Work & Boot<br>Insoles Large Pair each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/547489.jpg"
+  },
+  {
+    "retailerProductId": "6029190",
+    "crossRetailerId": "5056585803746",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 24.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 24.5
+    },
+    "name": "Dr.Scholl's 24 Hour Energy Multipurpose Insoles Large each",
+    "brand": "Dr.Scholl's",
+    "path": "/shop/productdetails/6029190/dr-scholl-s-24-hour-energy-multipurpose-insoles-large",
+    "description": " Dr.Scholl's 24 Hour Energy<br>Multipurpose... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6029190.jpg"
+  },
+  {
+    "retailerProductId": "118558",
+    "crossRetailerId": "71641086654",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "12 pack",
+      "price": 15.6
+    },
+    "name": "Expo Whiteboard Vibrant Marker Pens Chisel Tip 12 pack",
+    "brand": "Expo",
+    "path": "/shop/productdetails/118558/expo-whiteboard-vibrant-marker-pens-chisel-tip",
+    "description": " Expo Whiteboard Vibrant<br>Marker Pens... 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/118558.jpg"
+  },
+  {
+    "retailerProductId": "547223",
+    "crossRetailerId": "5056585802114",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16.8,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 16.8
+    },
+    "name": "Scholl Gel Activ Work & Boot Insoles Small Pair each",
+    "brand": "Scholl",
+    "path": "/shop/productdetails/547223/scholl-gel-activ-work-boot-insoles-small-pair",
+    "description": " Scholl Gel Activ Work & Boot<br>Insoles Small Pair each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/547223.jpg"
+  },
+  {
+    "retailerProductId": "676819",
+    "crossRetailerId": "9300621028065",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "900mL x 3 pack",
+      "price": 8.5
+    },
+    "name": "Decor Microsafe Jewel Container Set 900mL x 3 pack",
+    "brand": "Decor",
+    "path": "/shop/productdetails/676819/decor-microsafe-jewel-container-set",
+    "description": " Decor Microsafe Jewel<br>Container... 900mL x 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/676819.jpg"
+  },
+  {
+    "retailerProductId": "790070",
+    "crossRetailerId": "9300633709327",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.09,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 4.5
+    },
+    "name": "Armada Dinner Serviettes White 2 Ply 50 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/790070/armada-dinner-serviettes-white-2-ply",
+    "description": " Armada Dinner Serviettes<br>White 2 Ply 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/790070.jpg"
+  },
+  {
+    "retailerProductId": "250327",
+    "crossRetailerId": "9359427000171",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.23,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "24 pack",
+      "price": 5.5
+    },
+    "name": "Redheads Foil-Sealed Firelighters 24 pack",
+    "brand": "Redheads",
+    "path": "/shop/productdetails/250327/redheads-foil-sealed-firelighters-fire-lighters",
+    "description": " Redheads Foil-Sealed<br>Firelighters... 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/250327.jpg"
+  },
+  {
+    "retailerProductId": "21462",
+    "crossRetailerId": "7310688002450",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.3,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "270 pack",
+      "price": 3.5
+    },
+    "name": "Redheads Long Safety Matches 270 pack",
+    "brand": "Redheads",
+    "path": "/shop/productdetails/21462/redheads-long-safety-matches-handy-pack",
+    "description": " Redheads Long Safety Matches<br>Handy Pack 270 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/021462.jpg"
+  },
+  {
+    "retailerProductId": "183572",
+    "crossRetailerId": "9310331476285",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.03,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "100 pack",
+      "price": 3
+    },
+    "name": "Dollar Sweets Muffin Cases Assorted 100 pack",
+    "brand": "Dollar Sweets",
+    "path": "/shop/productdetails/183572/dollar-sweets-muffin-cases-assorted",
+    "description": " Dollar Sweets Muffin Cases<br>Assorted 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/183572.jpg"
+  },
+  {
+    "retailerProductId": "16111",
+    "crossRetailerId": "9310719071255",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 2.2
+    },
+    "name": "Sellotape Masking Tape 24Mm X 18M each",
+    "brand": "Sellotape",
+    "path": "/shop/productdetails/16111/sellotape-masking-tape-24mm-x-18m",
+    "description": " Sellotape Masking Tape 24Mm<br>X 18M each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/016111.jpg"
+  },
+  {
+    "retailerProductId": "31417",
+    "crossRetailerId": "9310004261538",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.08,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 3.8
+    },
+    "name": "Deeko Serviettes Lunch 2 Ply Assorted 50 pack",
+    "brand": "Deeko",
+    "path": "/shop/productdetails/31417/deeko-serviettes-lunch-2-ply-assorted",
+    "description": " Deeko Serviettes Lunch 2 Ply<br>Assorted 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/031417.jpg"
+  },
+  {
+    "retailerProductId": "55498",
+    "crossRetailerId": "9300633114961",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.25,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 5
+    },
+    "name": "Armada BBQ Foil Trays Small 4 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/55498/armada-bbq-foil-trays-small",
+    "description": " Armada BBQ Foil Trays Small 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/055498.jpg"
+  },
+  {
+    "retailerProductId": "188385",
+    "crossRetailerId": "9310171001180",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "2 pack",
+      "price": 3.15
+    },
+    "name": "Sellotape Sticky Tape Refill 18Mmx25M 2 pack",
+    "brand": "Sellotape",
+    "path": "/shop/productdetails/188385/sellotape-sticky-tape-refill-18mmx25m",
+    "description": " Sellotape Sticky Tape Refill<br>18Mmx25M 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/188385.jpg"
+  },
+  {
+    "retailerProductId": "172472",
+    "crossRetailerId": "9316861040019",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.7,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 8.7
+    },
+    "name": "Grillworx Push Button Refillable Lighter Assorted each",
+    "brand": "Grillworx",
+    "path": "/shop/productdetails/172472/grillworx-push-button-refillable-lighter-assorted",
+    "description": " Grillworx Push Button<br>Refillable Lighter... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/172472.jpg"
+  },
+  {
+    "retailerProductId": "747615",
+    "crossRetailerId": "94733075893",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 1.85,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 1.85
+    },
+    "name": "Hot Hands Hand Warmers Pair each",
+    "brand": "Hot Hands",
+    "path": "/shop/productdetails/747615/hot-hands-hand-warmers-pair",
+    "description": " Hot Hands Hand Warmers Pair each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/747615.jpg"
+  },
+  {
+    "retailerProductId": "807232",
+    "crossRetailerId": "9339687064588",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "4 pack",
+      "price": 7
+    },
+    "name": "MINT Stainless Steel Forks 4 pack",
+    "brand": "MINT",
+    "path": "/shop/productdetails/807232/mint-stainless-steel-forks",
+    "description": " MINT Stainless Steel Forks 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/807232.jpg"
+  },
+  {
+    "retailerProductId": "221694",
+    "crossRetailerId": "9339687301782",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.09,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 4.5
+    },
+    "name": "Armada Paper Cups 40mls 50 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/221694/armada-paper-cups-40mls",
+    "description": " Armada Paper Cups 40mls  50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/221694.jpg"
+  },
+  {
+    "retailerProductId": "698042",
+    "crossRetailerId": "9339687056552",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.04,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "100 pack",
+      "price": 4
+    },
+    "name": "Armada Paper Straws Striped 100 pack",
+    "brand": "Armada",
+    "path": "/shop/productdetails/698042/armada-paper-straws-striped",
+    "description": " Armada Paper Straws Striped 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/698042.jpg"
+  },
+  {
+    "retailerProductId": "379159",
+    "crossRetailerId": "9300621014976",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 5.5
+    },
+    "name": "Decor Tellfresh Cupcake Container 4L each",
+    "brand": "Decor",
+    "path": "/shop/productdetails/379159/decor-tellfresh-cupcake-container-4l",
+    "description": " Decor Tellfresh Cupcake<br>Container 4L each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/379159.jpg"
+  },
+  {
+    "retailerProductId": "140703",
+    "crossRetailerId": "9344062055969",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.75,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 0.75
+    },
+    "name": "BioPak Wooden Cutlery With Napkin Set each",
+    "brand": "BioPak",
+    "path": "/shop/productdetails/140703/biopak-wooden-cutlery-with-napkin-set",
+    "description": " BioPak Wooden Cutlery With<br>Napkin Set each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/140703.jpg"
+  },
+  {
+    "retailerProductId": "28004",
+    "crossRetailerId": "9300621033687",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "375mL x 3 pack",
+      "price": 6
+    },
+    "name": "Decor Microsafe Jewel Microwavable Container Set 375mL x 3 pack",
+    "brand": "Decor",
+    "path": "/shop/productdetails/28004/decor-microsafe-jewel-microwavable-container-set",
+    "description": " Decor Microsafe Jewel<br>... 375mL x 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/028004.jpg"
+  }
+]

@@ -1,9 +1,25 @@
 import { describe, expect, it, beforeEach, afterEach } from "vitest";
 import { chromium, Browser, Page, BrowserContext } from "playwright";
 import { WoolworthsScraper } from "../src/scraper/woolworthsScraper.js";
-import { readFile } from "fs/promises";
+import { readFile, readdir } from "fs/promises";
 import { Category, Product } from "../src/db/repository.js";
-import { readdir } from "fs/promises";
+
+const rawFixturePath = "tests/fixtures/woolworths/raw";
+const parsedFixturePath = "tests/fixtures/woolworths/parsed";
+const rawFixtureFiles = await readdir(rawFixturePath);
+const productPageFixtureCases = rawFixtureFiles
+  .filter(filename => filename !== "woolworths-categories-payload.json")
+  .sort()
+  .map(rawFixtureFile => {
+    const fixtureName = rawFixtureFile.replace(/\.[^.]+$/, "");
+    const parsedFixtureFile = `woolworths-parsed-product-page-${fixtureName}.json`;
+
+    return {
+      fixtureName,
+      rawFixtureFile,
+      parsedFixtureFile,
+    };
+  });
 
 describe("WoolworthsScraper", () => {
   let scraper: WoolworthsScraper;
@@ -61,37 +77,55 @@ describe("WoolworthsScraper", () => {
     expect(receivedCategories).toEqual(expectedCategories);
   });
 
-  it("parses the products of a product page payload", async () => {
-    const path = "tests/fixtures/woolworths/parsed";
-    const files = await readdir("tests/fixtures/woolworths/parsed", "utf-8");
+  it.each(productPageFixtureCases)(
+    "parses products from $rawFixtureFile against $parsedFixtureFile",
+    async ({ fixtureName, rawFixtureFile, parsedFixtureFile }) => {
+      const rawPayload = await readFile(`${rawFixturePath}/${rawFixtureFile}`, "utf-8");
+      const parsedPayload = await readFile(
+        `${parsedFixturePath}/${parsedFixtureFile}`,
+        "utf-8"
+      );
 
-    for (const file of files.filter(filename => filename.endsWith(".json"))) {
-    const mockProductPagePayload = await readFile('tests/fixtures/woolworths-product-page-payload.json', 'utf-8');
+      await context.route("https://www.woolworths.com.au/apis/ui/browse/category", route => {
+        route.fulfill({
+          body: rawPayload,
+          contentType: "application/json",
+          status: 200
+        })
+      }, { times: 1 });
 
-    await context.route("https://www.woolworths.com.au/apis/ui/browse/category", route => {
-      route.fulfill({
-        body: mockProductPagePayload,
-        contentType: "application/json",
-        status: 200
-      })
-    })
+      await context.route("https://www.woolworths.com.au/shop/browse/**", route => {
+        route.fulfill({
+          body: `
+            <!doctype html>
+            <html>
+              <body>
+                <script>
+                  fetch("/apis/ui/browse/category");
+                </script>
+              </body>
+            </html>
+          `,
+          contentType: "text/html",
+          status: 200
+        })
+      }, { times: 1 });
 
-    const category = {
-      "retailerDesignatedCategoryId": "1_DEB537E",
-      "name": "Bakery",
-      "path": "/shop/browse/bakery",
-      "retailerDesignatedProductCount": 0
-    };
+      const category: Category = {
+        retailerDesignatedCategoryId: fixtureName,
+        name: fixtureName,
+        path: `/shop/browse/${fixtureName.replace(/-\d+$/, "")}`,
+      };
 
-    const receivedProducts: Product[] = await scraper.scrapeProductsOfCategory(page, category);
-    const expectedProductsPayload = await readFile("tests/fixtures/woolworths-parsed-product-page.json", "utf-8");
-    const expectedProducts: Product[] = await JSON.parse(expectedProductsPayload);
-    // order doesn't matter in the array (order it by something)
-    expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
-    receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
+      const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
+      const expectedProducts: Product[] = JSON.parse(parsedPayload);
 
-    expect(receivedProducts).toEqual(expectedProducts);
-  })
+      expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
+      receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
+
+      expect(receivedProducts, `${rawFixtureFile} -> ${parsedFixtureFile}`).toEqual(expectedProducts);
+    }
+  )
 
   afterEach(async () => {
     await page.close();

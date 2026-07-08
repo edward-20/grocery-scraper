@@ -1,0 +1,478 @@
+[
+  {
+    "retailerProductId": "278397",
+    "crossRetailerId": "9335068004679",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "550g",
+      "price": 6.05
+    },
+    "name": "Dari's Pea & Ham Soup 550g",
+    "brand": "Dari's",
+    "path": "/shop/productdetails/278397/dari-s-pea-ham-soup",
+    "description": " Dari's Pea & Ham Soup  550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/278397.jpg"
+  },
+  {
+    "retailerProductId": "180479",
+    "crossRetailerId": "9335068004594",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "550g",
+      "price": 6.05
+    },
+    "name": "Dari's Lentil Soup 550g",
+    "brand": "Dari's",
+    "path": "/shop/productdetails/180479/dari-s-lentil-soup",
+    "description": " Dari's Lentil Soup  550g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180479.jpg"
+  },
+  {
+    "retailerProductId": "6074315",
+    "crossRetailerId": "9354853001785",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.04,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 7.6
+    },
+    "name": "Made With Plants Meat-Free Duck 250g",
+    "brand": "Made With Plants",
+    "path": "/shop/productdetails/6074315/made-with-plants-meat-free-duck",
+    "description": " Made With Plants Meat-Free<br>Duck  250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6074315.jpg"
+  },
+  {
+    "retailerProductId": "6074203",
+    "crossRetailerId": "9356418003739",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.74,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "227g",
+      "price": 8.5
+    },
+    "name": "Daring. Cajun Plant Chicken Pieces 227g",
+    "brand": "Daring.",
+    "path": "/shop/productdetails/6074203/daring-cajun-plant-chicken-pieces",
+    "description": " Daring. Cajun Plant Chicken<br>Pieces  227g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6074203.jpg"
+  },
+  {
+    "retailerProductId": "921142",
+    "crossRetailerId": "9321406001660",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "300g",
+      "price": 3.3
+    },
+    "name": "Just Veg. Carrot Shred 300g",
+    "brand": "Just Veg.",
+    "path": "/shop/productdetails/921142/just-veg-carrot-shred",
+    "description": " Just Veg. Carrot Shred  300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/921142.jpg"
+  },
+  {
+    "retailerProductId": "214863",
+    "crossRetailerId": "9310023145215",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.18,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 2.95
+    },
+    "name": "La Famiglia Garlic Bread 250g",
+    "brand": "La Famiglia",
+    "path": "/shop/productdetails/214863/la-famiglia-garlic-bread",
+    "description": " La Famiglia Garlic Bread  250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/214863.jpg"
+  },
+  {
+    "retailerProductId": "694859",
+    "crossRetailerId": "9339687320905",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.12,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "375g",
+      "price": 4.2
+    },
+    "name": "Woolworths Butter Chicken & Rice 375g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/694859/woolworths-butter-chicken-rice-null",
+    "description": " Woolworths Butter Chicken &<br>Rice NULL 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/694859.jpg"
+  },
+  {
+    "retailerProductId": "758286",
+    "crossRetailerId": "9310012038771",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 4.6
+    },
+    "name": "Dolmio Extra Bolognese Tomato Pasta Sauce 500g",
+    "brand": "Dolmio",
+    "path": "/shop/productdetails/758286/dolmio-extra-bolognese-tomato-pasta-sauce",
+    "description": " Dolmio Extra Bolognese<br>Tomato Pasta Sauce 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758286.jpg"
+  },
+  {
+    "retailerProductId": "804634",
+    "crossRetailerId": "9354680021000",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "450g",
+      "price": 4.5
+    },
+    "name": "Global Bakehouse Garlic Bread 450g",
+    "brand": "Global Bakehouse",
+    "path": "/shop/productdetails/804634/global-bakehouse-garlic-bread",
+    "description": " Global Bakehouse Garlic<br>Bread  450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/804634.jpg"
+  },
+  {
+    "retailerProductId": "918333",
+    "crossRetailerId": "9310174121731",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.44,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "450g",
+      "price": 11
+    },
+    "name": "McCain Rustica Sourdough Frozen Pizza Supreme 450g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/918333/mccain-rustica-sourdough-frozen-pizza-supreme",
+    "description": " McCain Rustica Sourdough<br>Frozen Pizza... 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/918333.jpg"
+  },
+  {
+    "retailerProductId": "749838",
+    "crossRetailerId": "0274163000003",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 120g",
+      "price": 9
+    },
+    "name": "Woolworths Buffalo Wings RSPCA Approved Chicken per 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/749838/woolworths-buffalo-wings-rspca-approved-chicken",
+    "description": " Woolworths Buffalo Wings<br>RSPCA Approved... per 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/749838.jpg"
+  },
+  {
+    "retailerProductId": "30758",
+    "crossRetailerId": "9339687094790",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9.4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 4.7
+    },
+    "name": "Woolworths Diced Pumpkin & Sweet Potato 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/30758/woolworths-diced-pumpkin-sweet-potato",
+    "description": " Woolworths Diced Pumpkin &<br>Sweet Potato  500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/030758.jpg"
+  },
+  {
+    "retailerProductId": "83534",
+    "crossRetailerId": "9339687161362",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 31.48,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "270g",
+      "price": 8.5
+    },
+    "name": "Woolworths BBQ Marinated Lamb Steaks With Thyme & Garlic 270g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/83534/woolworths-bbq-marinated-lamb-steaks-with-thyme-garlic",
+    "description": " Woolworths BBQ Marinated<br>Lamb Steaks With... 270g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/083534.jpg"
+  },
+  {
+    "retailerProductId": "134085",
+    "crossRetailerId": "9339687224074",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 25.71,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "350g",
+      "price": 9
+    },
+    "name": "Woolworths Southern Fried Chicken Thigh Fillet Burgers 350g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/134085/woolworths-southern-fried-chicken-thigh-fillet-burgers",
+    "description": " Woolworths Southern Fried<br>Chicken Thigh... 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/134085.jpg"
+  },
+  {
+    "retailerProductId": "193753",
+    "crossRetailerId": "9300633100551",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.58,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "520g",
+      "price": 5.5
+    },
+    "name": "Woolworths Crunchy Noodle Coleslaw Kit 520g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/193753/woolworths-crunchy-noodle-coleslaw-kit",
+    "description": " Woolworths Crunchy Noodle<br>Coleslaw Kit 520g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/193753.jpg"
+  },
+  {
+    "retailerProductId": "451922",
+    "crossRetailerId": "9300645111149",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.46,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 2.3
+    },
+    "name": "Leggo's Red Wine Bolognese With Chunky Tomato & Herbs Pasta Sauce 500g",
+    "brand": "Leggo's",
+    "path": "/shop/productdetails/451922/leggo-s-red-wine-bolognese-with-chunky-tomato-herbs-pasta-sauce",
+    "description": " Leggo's Red Wine Bolognese<br>With Chunky Tomato... 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/451922.jpg"
+  },
+  {
+    "retailerProductId": "901510",
+    "crossRetailerId": "9339687384563",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13.86,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "505g",
+      "price": 7
+    },
+    "name": "Woolworths 6 Beef Sausages 505g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/901510/woolworths-6-beef-sausages",
+    "description": " Woolworths 6 Beef Sausages  505g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/901510.jpg"
+  },
+  {
+    "retailerProductId": "764527",
+    "crossRetailerId": "9339687141722",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1.2kg - 2.6kg",
+      "price": 27.3
+    },
+    "name": "Woolworths Pork Leg Roast Boneless 1.2kg - 2.6kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/764527/woolworths-pork-leg-roast-boneless-boneless-small",
+    "description": " Woolworths Pork Leg Roast<br>Boneless... 1.2kg - 2.6kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/764527.jpg"
+  },
+  {
+    "retailerProductId": "310432",
+    "crossRetailerId": "5000116128495",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9.82,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "10 pack",
+      "price": 2.75
+    },
+    "name": "Findus Crumbed Fish Fingers 10 pack",
+    "brand": "Findus",
+    "path": "/shop/productdetails/310432/findus-crumbed-fish-fingers",
+    "description": " Findus Crumbed Fish Fingers  10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/310432.jpg"
+  },
+  {
+    "retailerProductId": "15479",
+    "crossRetailerId": "9300462130132",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.54,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 2.7
+    },
+    "name": "Raguletto Red Wine Bolognese Pasta Sauce With Tomato & Garlic 500g",
+    "brand": "Raguletto",
+    "path": "/shop/productdetails/15479/raguletto-red-wine-bolognese-pasta-sauce-with-tomato-garlic",
+    "description": " Raguletto Red Wine Bolognese<br>Pasta Sauce With... 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/015479.jpg"
+  },
+  {
+    "retailerProductId": "180652",
+    "crossRetailerId": "9310081128823",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 6
+    },
+    "name": "Birds Eye Golden Crunch Crinkle Cut Chips 900g",
+    "brand": "Birds Eye",
+    "path": "/shop/productdetails/180652/birds-eye-golden-crunch-crinkle-cut-chips",
+    "description": " Birds Eye Golden Crunch<br>Crinkle Cut Chips 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180652.jpg"
+  },
+  {
+    "retailerProductId": "34287",
+    "crossRetailerId": "9300644234511",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.46,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "420g",
+      "price": 1.95
+    },
+    "name": "Campbell's Condensed Soup Tomato 420g",
+    "brand": "Campbell's",
+    "path": "/shop/productdetails/34287/campbell-s-condensed-soup-tomato",
+    "description": " Campbell's Condensed Soup<br>Tomato 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/034287.jpg"
+  },
+  {
+    "retailerProductId": "251433",
+    "crossRetailerId": "9300695008840",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.71,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "350g",
+      "price": 9.5
+    },
+    "name": "Old El Paso Hard 'N Soft Taco Kit Mexican Style 350g",
+    "brand": "Old El Paso",
+    "path": "/shop/productdetails/251433/old-el-paso-hard-n-soft-taco-kit-mexican-style",
+    "description": " Old El Paso Hard 'N Soft<br>Taco Kit Mexican... 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/251433.jpg"
+  },
+  {
+    "retailerProductId": "503713",
+    "crossRetailerId": "9339687362783",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 3.6
+    },
+    "name": "Woolworths Shoestring Fries 900g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/503713/woolworths-shoestring-fries",
+    "description": " Woolworths Shoestring Fries  900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/503713.jpg"
+  },
+  {
+    "retailerProductId": "854298",
+    "crossRetailerId": "9310174154128",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.27,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g",
+      "price": 7.7
+    },
+    "name": "McCain Straight Sweet Potato Chips 750g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/854298/mccain-straight-sweet-potato-chips",
+    "description": " McCain Straight Sweet Potato<br>Chips 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/854298.jpg"
+  },
+  {
+    "retailerProductId": "662935",
+    "crossRetailerId": "9310174157488",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.78,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 4.3
+    },
+    "name": "McCain Superfries Crinkle Cut 900g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/662935/mccain-superfries-crinkle-cut",
+    "description": " McCain Superfries Crinkle<br>Cut 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/662935.jpg"
+  },
+  {
+    "retailerProductId": "60974",
+    "crossRetailerId": "9353333005312",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "350g",
+      "price": 11.95
+    },
+    "name": "My Muscle Chef Chicken Vodka Penne High Protein 350g",
+    "brand": "My Muscle Chef",
+    "path": "/shop/productdetails/60974/my-muscle-chef-chicken-vodka-penne-high-protein",
+    "description": " My Muscle Chef Chicken Vodka<br>Penne High Protein 350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/060974.jpg"
+  },
+  {
+    "retailerProductId": "164677",
+    "crossRetailerId": "9339687265558",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 23.75,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 9.5
+    },
+    "name": "Woolworths Roasted Garlic Chicken Tenderloins 400g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/164677/woolworths-roasted-garlic-chicken-tenderloins",
+    "description": " Woolworths Roasted Garlic<br>Chicken Tenderloins 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/164677.jpg"
+  }
+]

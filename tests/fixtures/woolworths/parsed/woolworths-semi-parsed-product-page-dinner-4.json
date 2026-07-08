@@ -1,0 +1,529 @@
+[
+  {
+    "retailerProductId": "758286",
+    "crossRetailerId": "9310012038771",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 4.6
+    },
+    "name": "Dolmio Extra Bolognese Tomato Pasta Sauce 500g",
+    "brand": "Dolmio",
+    "path": "/shop/productdetails/758286/dolmio-extra-bolognese-tomato-pasta-sauce",
+    "description": " Dolmio Extra Bolognese<br>Tomato Pasta Sauce 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758286.jpg"
+  },
+  {
+    "retailerProductId": "758377",
+    "crossRetailerId": "9310012039839",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 2.5
+    },
+    "name": "Dolmio Classic Tomato With Basil Pasta Sauce 500g",
+    "brand": "Dolmio",
+    "path": "/shop/productdetails/758377/dolmio-classic-tomato-with-basil-pasta-sauce",
+    "description": " Dolmio Classic Tomato With<br>Basil Pasta Sauce 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758377.jpg"
+  },
+  {
+    "retailerProductId": "758342",
+    "crossRetailerId": "9310012039587",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 4.6
+    },
+    "name": "Dolmio Extra Tomato Onion & Roast Garlic Pasta Sauce 500g",
+    "brand": "Dolmio",
+    "path": "/shop/productdetails/758342/dolmio-extra-tomato-onion-roast-garlic-pasta-sauce",
+    "description": " Dolmio Extra Tomato Onion &<br>Roast Garlic Pasta... 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758342.jpg"
+  },
+  {
+    "retailerProductId": "6073538",
+    "crossRetailerId": "8858984841261",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.8,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "305g",
+      "price": 5.5
+    },
+    "name": "Authentic Asia Prawn Wonton Soup 305g",
+    "brand": "Authentic Asia",
+    "path": "/shop/productdetails/6073538/authentic-asia-prawn-wonton-soup",
+    "description": " Authentic Asia Prawn Wonton<br>Soup 305g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6073538.jpg"
+  },
+  {
+    "retailerProductId": "388386",
+    "crossRetailerId": "9339687354887",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.12,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "375g",
+      "price": 4.2
+    },
+    "name": "Woolworths Beef Lasagne 375g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/388386/woolworths-beef-lasagne",
+    "description": " Woolworths Beef Lasagne  375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/388386.jpg"
+  },
+  {
+    "retailerProductId": "315147",
+    "crossRetailerId": "0276820000005",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 1
+    },
+    "name": "Woolworths RSPCA Approved Chicken Kebab Satay each",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/315147/woolworths-rspca-approved-chicken-kebab-satay",
+    "description": " Woolworths RSPCA Approved<br>Chicken Kebab Satay each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/315147.jpg"
+  },
+  {
+    "retailerProductId": "4533",
+    "crossRetailerId": "9300462130156",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.54,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 2.7
+    },
+    "name": "Raguletto Napolitana Bolognese Pasta Sauce With Tomato & Garlic 500g",
+    "brand": "Raguletto",
+    "path": "/shop/productdetails/4533/raguletto-napolitana-bolognese-pasta-sauce-with-tomato-garlic",
+    "description": " Raguletto Napolitana<br>Bolognese Pasta... 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/004533.jpg"
+  },
+  {
+    "retailerProductId": "725992",
+    "crossRetailerId": "9300633260392",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 8
+    },
+    "name": "Woolworths BBQ Chicken Wing Nibbles Honey Soy 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/725992/woolworths-bbq-chicken-wing-nibbles-honey-soy",
+    "description": " Woolworths BBQ Chicken Wing<br>Nibbles Honey Soy 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/725992.jpg"
+  },
+  {
+    "retailerProductId": "898511",
+    "crossRetailerId": "9339687384839",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "450g",
+      "price": 9
+    },
+    "name": "Woolworths Gourmet Pork Sausages Italian Style With Fennel & Garlic 450g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/898511/woolworths-gourmet-pork-sausages-italian-style-with-fennel-garlic",
+    "description": " Woolworths Gourmet Pork<br>Sausages Italian... 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/898511.jpg"
+  },
+  {
+    "retailerProductId": "764567",
+    "crossRetailerId": "9339687141654",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g - 2kg",
+      "price": 36
+    },
+    "name": "Woolworths Beef Bolar Blade Roast 900g - 2kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/764567/woolworths-beef-bolar-blade-roast",
+    "description": " Woolworths Beef Bolar Blade<br>Roast  900g - 2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/764567.jpg"
+  },
+  {
+    "retailerProductId": "6052818",
+    "crossRetailerId": "9357668000455",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18.75,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 7.5
+    },
+    "name": "Potato Utopia Potato Gratins Mozzarella & Hot Honey 400g",
+    "brand": "Potato Utopia",
+    "path": "/shop/productdetails/6052818/potato-utopia-potato-gratins-mozzarella-hot-honey",
+    "description": " Potato Utopia Potato Gratins<br>Mozzarella & Hot... 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6052818.jpg"
+  },
+  {
+    "retailerProductId": "758288",
+    "crossRetailerId": "9310012039648",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 4.6
+    },
+    "name": "Dolmio Extra Red Wine & Italian Herbs Tomato Pasta Sauce 500g",
+    "brand": "Dolmio",
+    "path": "/shop/productdetails/758288/dolmio-extra-red-wine-italian-herbs-tomato-pasta-sauce",
+    "description": " Dolmio Extra Red Wine &<br>Italian Herbs... 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758288.jpg"
+  },
+  {
+    "retailerProductId": "176963",
+    "crossRetailerId": "9330752003969",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "300g",
+      "price": 8
+    },
+    "name": "Plantein Plant Based Sweet Chilli Tenders 300g",
+    "brand": "Plantein",
+    "path": "/shop/productdetails/176963/plantein-plant-based-sweet-chilli-tenders",
+    "description": " Plantein Plant Based Sweet<br>Chilli Tenders 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/176963.jpg"
+  },
+  {
+    "retailerProductId": "90130",
+    "crossRetailerId": "9330752003358",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "300g",
+      "price": 8
+    },
+    "name": "Plantein Plant Based Schnitzel 300g",
+    "brand": "Plantein",
+    "path": "/shop/productdetails/90130/plantein-plant-based-schnitzel",
+    "description": " Plantein Plant Based<br>Schnitzel  300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/090130.jpg"
+  },
+  {
+    "retailerProductId": "899857",
+    "crossRetailerId": "9339687384648",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 17,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 8.5
+    },
+    "name": "Woolworths 4 Classic Beef Burgers 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/899857/woolworths-4-classic-beef-burgers-patties",
+    "description": " Woolworths 4 Classic Beef<br>Burgers Patties 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/899857.jpg"
+  },
+  {
+    "retailerProductId": "828744",
+    "crossRetailerId": "9300633716882",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.49,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "475g",
+      "price": 7.1
+    },
+    "name": "Woolworths Classic Potato Mash 475g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/828744/woolworths-classic-potato-mash",
+    "description": " Woolworths Classic Potato<br>Mash 475g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/828744.jpg"
+  },
+  {
+    "retailerProductId": "200152",
+    "crossRetailerId": "9339687296910",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 23,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g - 1.4kg",
+      "price": 32.2
+    },
+    "name": "Woolworths Lamb Easy Carve Leg Roast 900g - 1.4kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/200152/woolworths-lamb-easy-carve-leg-roast",
+    "description": " Woolworths Lamb Easy Carve<br>Leg Roast 900g - 1.4kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/200152.jpg"
+  },
+  {
+    "retailerProductId": "34290",
+    "crossRetailerId": "9300644126212",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.46,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "420g",
+      "price": 1.95
+    },
+    "name": "Campbell's Condensed Soup Cream of Mushroom 420g",
+    "brand": "Campbell's",
+    "path": "/shop/productdetails/34290/campbell-s-condensed-soup-cream-of-mushroom",
+    "description": " Campbell's Condensed Soup<br>Cream of Mushroom 420g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/034290.jpg"
+  },
+  {
+    "retailerProductId": "134036",
+    "crossRetailerId": "9339687224005",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.33,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1.5kg",
+      "price": 15.5
+    },
+    "name": "Woolworths Chicken Bulk Schnitzels 1.5kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/134036/woolworths-chicken-bulk-schnitzels",
+    "description": " Woolworths Chicken Bulk<br>Schnitzels  1.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/134036.jpg"
+  },
+  {
+    "retailerProductId": "318573",
+    "crossRetailerId": "9360319000018",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.18,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "280g",
+      "price": 8.9
+    },
+    "name": "Bibigo Mandu Pork Dumplings 280g",
+    "brand": "Bibigo",
+    "path": "/shop/productdetails/318573/bibigo-mandu-pork-dumplings",
+    "description": " Bibigo Mandu Pork Dumplings  280g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/318573.jpg"
+  },
+  {
+    "retailerProductId": "134082",
+    "crossRetailerId": "9339687224050",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 15,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "600g",
+      "price": 9
+    },
+    "name": "Woolworths Chicken Schnitzels Garlic & Herb 600g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/134082/woolworths-chicken-schnitzels-garlic-herb",
+    "description": " Woolworths Chicken<br>Schnitzels Garlic &... 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/134082.jpg"
+  },
+  {
+    "retailerProductId": "70787",
+    "crossRetailerId": "9339687137282",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.12,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "375g",
+      "price": 4.2
+    },
+    "name": "Woolworths Spaghetti Bolognese Frozen Meal 375g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/70787/woolworths-spaghetti-bolognese-frozen-meal",
+    "description": " Woolworths Spaghetti<br>Bolognese Frozen... 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/070787.jpg"
+  },
+  {
+    "retailerProductId": "662937",
+    "crossRetailerId": "9310174157495",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.78,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 4.3
+    },
+    "name": "McCain Superfries Shoestring 900g",
+    "brand": "McCain",
+    "path": "/shop/productdetails/662937/mccain-superfries-shoestring",
+    "description": " McCain Superfries Shoestring<br> 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/662937.jpg"
+  },
+  {
+    "retailerProductId": "827628",
+    "crossRetailerId": "9300633619169",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18.33,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "120g",
+      "price": 2.2
+    },
+    "name": "Woolworths Mixed Leaf Salad 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/827628/woolworths-mixed-leaf-salad",
+    "description": " Woolworths Mixed Leaf Salad  120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/827628.jpg"
+  },
+  {
+    "retailerProductId": "6050955",
+    "crossRetailerId": "9339687442096",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "300g",
+      "price": 4
+    },
+    "name": "Woolworths Chicken & Corn Soup 300g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/6050955/woolworths-chicken-corn-soup",
+    "description": " Woolworths Chicken & Corn<br>Soup  300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6050955.jpg"
+  },
+  {
+    "retailerProductId": "972913",
+    "crossRetailerId": "9339687397686",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.15,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 3.15
+    },
+    "name": "Essentials French Fries 1kg",
+    "brand": "Essentials",
+    "path": "/shop/productdetails/972913/essentials-french-fries",
+    "description": " Essentials French Fries  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/972913.jpg"
+  },
+  {
+    "retailerProductId": "409785",
+    "crossRetailerId": "5029062000938",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.58,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "190g",
+      "price": 3
+    },
+    "name": "Classic Italia Green Pesto 190g",
+    "brand": "Classic Italia",
+    "path": "/shop/productdetails/409785/classic-italia-green-pesto-190g",
+    "description": " Classic Italia Green Pesto<br>190g 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/409785.jpg"
+  },
+  {
+    "retailerProductId": "315578",
+    "crossRetailerId": "8076809513654",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.9,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "400g",
+      "price": 3.6
+    },
+    "name": "Barilla Bolognese Pasta Sauce 400g",
+    "brand": "Barilla",
+    "path": "/shop/productdetails/315578/barilla-bolognese-pasta-sauce-bolognese",
+    "description": " Barilla Bolognese Pasta<br>Sauce Bolognese 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/315578.jpg"
+  },
+  {
+    "retailerProductId": "6050782",
+    "crossRetailerId": "9339687442058",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "300g",
+      "price": 4
+    },
+    "name": "Woolworths Chicken Noodle Soup 300g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/6050782/woolworths-chicken-noodle-soup",
+    "description": " Woolworths Chicken Noodle<br>Soup  300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6050782.jpg"
+  },
+  {
+    "retailerProductId": "3466",
+    "crossRetailerId": "8076809513753",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "190g",
+      "price": 4.75
+    },
+    "name": "Barilla Pesto Genovese Pasta Sauce 190g",
+    "brand": "Barilla",
+    "path": "/shop/productdetails/3466/barilla-pesto-genovese-pasta-sauce-alla-genovese",
+    "description": " Barilla Pesto Genovese Pasta<br>Sauce Alla Genovese 190g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/003466.jpg"
+  },
+  {
+    "retailerProductId": "705436",
+    "crossRetailerId": "9339687060870",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 15.71,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "350g",
+      "price": 5.5
+    },
+    "name": "Woolworths Kale Slaw Kit 350g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/705436/woolworths-kale-slaw-kit",
+    "description": " Woolworths Kale Slaw Kit  350g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/705436.jpg"
+  }
+]

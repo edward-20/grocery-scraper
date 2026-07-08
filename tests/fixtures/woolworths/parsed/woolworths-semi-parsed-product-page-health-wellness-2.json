@@ -1,0 +1,529 @@
+[
+  {
+    "retailerProductId": "103542",
+    "crossRetailerId": "9316450956233",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.67,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "5 pack",
+      "price": 6
+    },
+    "name": "Kez's Kitchen Honey Joy 5 pack",
+    "brand": "Kez's Kitchen",
+    "path": "/shop/productdetails/103542/kez-s-kitchen-honey-joy",
+    "description": " Kez's Kitchen Honey Joy  5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/103542.jpg"
+  },
+  {
+    "retailerProductId": "6049880",
+    "crossRetailerId": "9336925010345",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "4 pack",
+      "price": 7
+    },
+    "name": "Springhill Farm Rice Puff Bars Vanilla Sprinkles 4 pack",
+    "brand": "Springhill Farm",
+    "path": "/shop/productdetails/6049880/springhill-farm-rice-puff-bars-vanilla-sprinkles",
+    "description": " Springhill Farm Rice Puff<br>Bars Vanilla... 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6049880.jpg"
+  },
+  {
+    "retailerProductId": "6044176",
+    "crossRetailerId": "9403110160267",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.95,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "9 pack",
+      "price": 7.5
+    },
+    "name": "Tasti Smooshed Protein Balls Choc Fudge & Peanut Butter 9 pack",
+    "brand": "Tasti",
+    "path": "/shop/productdetails/6044176/tasti-smooshed-protein-balls-choc-fudge-peanut-butter",
+    "description": " Tasti Smooshed Protein Balls<br>Choc Fudge &... 9 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6044176.jpg"
+  },
+  {
+    "retailerProductId": "939554",
+    "crossRetailerId": "9311723033314",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 30.56,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "72 pack",
+      "price": 22
+    },
+    "name": "Herron Nicaway Stop Smoking Peppermint Lozenges 4Mg 72 pack",
+    "brand": "Herron",
+    "path": "/shop/productdetails/939554/herron-nicaway-stop-smoking-peppermint-lozenges-4mg",
+    "description": " Herron Nicaway Stop Smoking<br>Peppermint... 72 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/939554.jpg"
+  },
+  {
+    "retailerProductId": "6027807",
+    "crossRetailerId": "5060811384527",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "60g",
+      "price": 5
+    },
+    "name": "Grenade Salted Caramel Protein Bar 60g",
+    "brand": "Grenade",
+    "path": "/shop/productdetails/6027807/grenade-salted-caramel-protein-bar",
+    "description": " Grenade Salted Caramel<br>Protein Bar  60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6027807.jpg"
+  },
+  {
+    "retailerProductId": "334757",
+    "crossRetailerId": "9337803000076",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "375g",
+      "price": 5
+    },
+    "name": "Macro Organic Hulled Tahini Spread 375g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/334757/macro-organic-hulled-tahini-spread",
+    "description": " Macro Organic Hulled Tahini<br>Spread 375g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/334757.jpg"
+  },
+  {
+    "retailerProductId": "698018",
+    "crossRetailerId": "9339687056750",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.26,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "500g",
+      "price": 6.3
+    },
+    "name": "Macro Organic Brown Flaxseed Meal 500g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/698018/macro-organic-brown-flaxseed-meal",
+    "description": " Macro Organic Brown Flaxseed<br>Meal  500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/698018.jpg"
+  },
+  {
+    "retailerProductId": "62842",
+    "crossRetailerId": "9315991022001",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.9,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "100g",
+      "price": 4.9
+    },
+    "name": "Vege Chips Natural 100g",
+    "brand": "Vege Chips",
+    "path": "/shop/productdetails/62842/vege-chips-natural",
+    "description": " Vege Chips Natural  100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/062842.jpg"
+  },
+  {
+    "retailerProductId": "236145",
+    "crossRetailerId": "9359171000007",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g",
+      "price": 3.5
+    },
+    "name": "Funday Fruity Flavoured Gummy Snakes 50g",
+    "brand": "Funday",
+    "path": "/shop/productdetails/236145/funday-fruity-flavoured-gummy-snakes",
+    "description": " Funday Fruity Flavoured<br>Gummy Snakes  50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/236145.jpg"
+  },
+  {
+    "retailerProductId": "8519",
+    "crossRetailerId": "9300657590604",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "40g x 3 pack",
+      "price": 3
+    },
+    "name": "Golden Days Snacks Sesame Snaps 40g x 3 pack",
+    "brand": "Golden Days",
+    "path": "/shop/productdetails/8519/golden-days-snacks-sesame-snaps",
+    "description": " Golden Days Snacks Sesame<br>Snaps 40g x 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/008519.jpg"
+  },
+  {
+    "retailerProductId": "6008830",
+    "crossRetailerId": "9314057022665",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.38,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "16 pack",
+      "price": 6
+    },
+    "name": "Difflam Soothing Cough Sore Throat & Blocked Nose Lozenges 16 pack",
+    "brand": "Difflam",
+    "path": "/shop/productdetails/6008830/difflam-soothing-cough-sore-throat-blocked-nose-lozenges",
+    "description": " Difflam Soothing Cough Sore<br>Throat & Blocked... 16 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6008830.jpg"
+  },
+  {
+    "retailerProductId": "206027",
+    "crossRetailerId": "9314057017555",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.5,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "200mL",
+      "price": 17
+    },
+    "name": "Duro-Tuss Relief Cough Plus Cold & Flu 200mL",
+    "brand": "Duro Tuss",
+    "path": "/shop/productdetails/206027/duro-tuss-duro-tuss-relief-cough-plus-cold-flu",
+    "description": " Duro Tuss Duro-Tuss Relief<br>Cough Plus Cold &... 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/206027.jpg"
+  },
+  {
+    "retailerProductId": "137752",
+    "crossRetailerId": "4005800278907",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.75,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "5 pack",
+      "price": 6.75
+    },
+    "name": "Elastoplast Sensitive XL Dressings For Post Op Wounds 5 pack",
+    "brand": "Elastoplast",
+    "path": "/shop/productdetails/137752/elastoplast-sensitive-xl-dressings-for-post-op-wounds",
+    "description": " Elastoplast Sensitive XL<br>Dressings For... 5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/137752.jpg"
+  },
+  {
+    "retailerProductId": "6029142",
+    "crossRetailerId": "9317039002501",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.61,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "40 pack",
+      "price": 24.4
+    },
+    "name": "Hydralyte Electrolyte Tablets Watermelon Burst Flovoured 40 pack",
+    "brand": "Hydralyte",
+    "path": "/shop/productdetails/6029142/hydralyte-electrolyte-tablets-watermelon-burst-flovoured",
+    "description": " Hydralyte Electrolyte<br>Tablets... 40 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6029142.jpg"
+  },
+  {
+    "retailerProductId": "119059",
+    "crossRetailerId": "9312331003072",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.83,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 5.8
+    },
+    "name": "True Fruit True Fruit Apple & Strawberry Straps 120g",
+    "brand": "True Fruit",
+    "path": "/shop/productdetails/119059/true-fruit-apple-strawberry-straps",
+    "description": " True Fruit True Fruit Apple<br>& Strawberry Straps 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/119059.jpg"
+  },
+  {
+    "retailerProductId": "779237",
+    "crossRetailerId": "9300633473105",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.81,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "160g",
+      "price": 2.9
+    },
+    "name": "Woolworths Free From Gluten Chocolate Chip Biscuit 160g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/779237/woolworths-free-from-gluten-chocolate-chip-biscuit",
+    "description": " Woolworths Free From Gluten<br>Chocolate Chip... 160g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/779237.jpg"
+  },
+  {
+    "retailerProductId": "363226",
+    "crossRetailerId": "9415748005100",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.64,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "110g",
+      "price": 4
+    },
+    "name": "Ceres Organics Rice Cakes 110g",
+    "brand": "Ceres Organics",
+    "path": "/shop/productdetails/363226/ceres-organics-rice-cakes-no-added-salt",
+    "description": " Ceres Organics Rice Cakes No<br>Added Salt 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/363226.jpg"
+  },
+  {
+    "retailerProductId": "6028961",
+    "crossRetailerId": "5060811384831",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "60g",
+      "price": 5
+    },
+    "name": "Grenade Protein Bar White Oreo 60g",
+    "brand": "Grenade",
+    "path": "/shop/productdetails/6028961/grenade-protein-bar-white-oreo",
+    "description": " Grenade Protein Bar White<br>Oreo 60g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6028961.jpg"
+  },
+  {
+    "retailerProductId": "357265",
+    "crossRetailerId": "9300633209629",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.4,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "250g",
+      "price": 6
+    },
+    "name": "Macro Natural Almond Spread 250g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/357265/macro-natural-almond-spread",
+    "description": " Macro Natural Almond Spread 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/357265.jpg"
+  },
+  {
+    "retailerProductId": "6044601",
+    "crossRetailerId": "9359171000304",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g",
+      "price": 3.5
+    },
+    "name": "Funday Natural Sweets Peaches & Cream Flavoured Gummies 50g",
+    "brand": "Funday",
+    "path": "/shop/productdetails/6044601/funday-natural-sweets-peaches-cream-flavoured-gummies",
+    "description": " Funday Natural Sweets<br>Peaches & Cream... 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6044601.jpg"
+  },
+  {
+    "retailerProductId": "131",
+    "crossRetailerId": "9300657590475",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.67,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "150g",
+      "price": 4
+    },
+    "name": "Golden Days Fruit Snacks Bites Apricot Delight 150g",
+    "brand": "Golden Days",
+    "path": "/shop/productdetails/131/golden-days-fruit-snacks-bites-apricot-delight",
+    "description": " Golden Days Fruit Snacks<br>Bites Apricot... 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/000131.jpg"
+  },
+  {
+    "retailerProductId": "781444",
+    "crossRetailerId": "9415748008804",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 44,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "5g",
+      "price": 2.2
+    },
+    "name": "Ceres Organics Seaweed Nori Original Snack 5g",
+    "brand": "Ceres Organics",
+    "path": "/shop/productdetails/781444/ceres-organics-seaweed-nori-original-snack",
+    "description": " Ceres Organics Seaweed Nori<br>Original Snack 5g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/781444.jpg"
+  },
+  {
+    "retailerProductId": "133300",
+    "crossRetailerId": "9339687221783",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 22.8,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "250g",
+      "price": 5.7
+    },
+    "name": "Macro Organic Natural Pumpkin Kernels 250g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/133300/macro-organic-natural-pumpkin-kernels",
+    "description": " Macro Organic Natural<br>Pumpkin Kernels 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/133300.jpg"
+  },
+  {
+    "retailerProductId": "749540",
+    "crossRetailerId": "9300633646615",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 22,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 11
+    },
+    "name": "Woolworths Walnuts Kernel 500g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/749540/woolworths-walnuts-kernel",
+    "description": " Woolworths Walnuts Kernel 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/749540.jpg"
+  },
+  {
+    "retailerProductId": "965281",
+    "crossRetailerId": "9339687345106",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.4,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "150g",
+      "price": 6.6
+    },
+    "name": "Macro Chia Seed Black & White 150g",
+    "brand": "Macro",
+    "path": "/shop/productdetails/965281/macro-chia-seed-black-white",
+    "description": " Macro Chia Seed Black &<br>White 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/965281.jpg"
+  },
+  {
+    "retailerProductId": "209105",
+    "crossRetailerId": "9400581051698",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8.45,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "58g",
+      "price": 4.9
+    },
+    "name": "Musashi Protein Cookie Choc Chip Low Sugar Snack 58g",
+    "brand": "Musashi",
+    "path": "/shop/productdetails/209105/musashi-protein-cookie-choc-chip-low-sugar-snack",
+    "description": " Musashi Protein Cookie Choc<br>Chip Low Sugar Snack 58g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/209105.jpg"
+  },
+  {
+    "retailerProductId": "774695",
+    "crossRetailerId": "9300633434687",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 24.89,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "450g",
+      "price": 11.2
+    },
+    "name": "Medjool Dates Punnet 450g",
+    "brand": "Golden Palm",
+    "path": "/shop/productdetails/774695/golden-palm-medjool-dates-punnet",
+    "description": " Golden Palm Medjool Dates<br>Punnet 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/774695.jpg"
+  },
+  {
+    "retailerProductId": "202399",
+    "crossRetailerId": "9300633194819",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 18.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "750g",
+      "price": 14
+    },
+    "name": "Woolworths Cashews Roasted & Unsalted 750g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/202399/woolworths-cashews-roasted-unsalted",
+    "description": " Woolworths Cashews Roasted &<br>Unsalted 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/202399.jpg"
+  },
+  {
+    "retailerProductId": "791123",
+    "crossRetailerId": "9339687020140",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.8,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "200 pack",
+      "price": 1.6
+    },
+    "name": "Help@Hand Cotton Balls 200 pack",
+    "brand": "Help@Hand",
+    "path": "/shop/productdetails/791123/help-hand-cotton-balls",
+    "description": " Help@Hand Cotton Balls  200 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/791123.jpg"
+  },
+  {
+    "retailerProductId": "6029112",
+    "crossRetailerId": "9350551000693",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "150g",
+      "price": 7.5
+    },
+    "name": "Koja Oat Bites Raspberry Choc Chip 150g",
+    "brand": "Koja",
+    "path": "/shop/productdetails/6029112/koja-oat-bites-raspberry-choc-chip",
+    "description": " Koja Oat Bites Raspberry<br>Choc Chip 150g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6029112.jpg"
+  },
+  {
+    "retailerProductId": "184482",
+    "crossRetailerId": "9369998084869",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g",
+      "price": 3.5
+    },
+    "name": "Funday Natural Sweets No Sugar Added Lollies Sour Peach Hearts 50g",
+    "brand": "Funday",
+    "path": "/shop/productdetails/184482/funday-natural-sweets-no-sugar-added-lollies-sour-peach-hearts",
+    "description": " Funday Natural Sweets No<br>Sugar Added Lollies... 50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/184482.jpg"
+  }
+]

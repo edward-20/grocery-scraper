@@ -1,0 +1,450 @@
+[
+  {
+    "retailerProductId": "902023",
+    "crossRetailerId": "7312040017034",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "1L",
+      "price": 77
+    },
+    "name": "Absolut Vodka 1L",
+    "brand": "Absolut",
+    "path": "/shop/productdetails/902023/absolut-vodka",
+    "description": " Absolut Vodka  1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/902023.jpg"
+  },
+  {
+    "retailerProductId": "630642",
+    "crossRetailerId": "7312040551668",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "700mL",
+      "price": 57
+    },
+    "name": "Absolut Vodka Lime 700mL",
+    "brand": "Absolut",
+    "path": "/shop/productdetails/630642/absolut-vodka-lime",
+    "description": " Absolut Vodka Lime 700mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/630642.jpg"
+  },
+  {
+    "retailerProductId": "579096",
+    "crossRetailerId": "9300727020826",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "375mL x 10 case",
+      "price": 65
+    },
+    "name": "Jameson Smooth Dry & Lime Irish Whiskey 375mL x 10 case",
+    "brand": "Jameson",
+    "path": "/shop/productdetails/579096/jameson-smooth-dry-lime-irish-whiskey",
+    "description": " Jameson Smooth Dry & Lime<br>Irish... 375mL x 10 case",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/579096.jpg"
+  },
+  {
+    "retailerProductId": "750381",
+    "crossRetailerId": "9338979000525",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 30
+    },
+    "name": "Petaluma Chardonnay 750ml",
+    "brand": "Petaluma",
+    "path": "/shop/productdetails/750381/petaluma-chardonnay",
+    "description": " Petaluma Chardonnay  750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/750381.jpg"
+  },
+  {
+    "retailerProductId": "758373",
+    "crossRetailerId": "9300633420154",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 20
+    },
+    "name": "Cape Campbell Marlborough Sauvignon Blanc Marlborough 750ml",
+    "brand": "Cape Campbell",
+    "path": "/shop/productdetails/758373/cape-campbell-marlborough-sauvignon-blanc-marlborough",
+    "description": " Cape Campbell Marlborough<br>Sauvignon Blanc... 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758373.jpg"
+  },
+  {
+    "retailerProductId": "346076",
+    "crossRetailerId": "9300633753009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 5.5
+    },
+    "name": "Chancellor & Co Brut Cuvee Sparkling 750mL",
+    "brand": "Chancellor & Co",
+    "path": "/shop/productdetails/346076/chancellor-co-brut-cuvee-sparkling",
+    "description": " Chancellor & Co Brut Cuvee<br>Sparkling 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/346076.jpg"
+  },
+  {
+    "retailerProductId": "826673",
+    "crossRetailerId": "9300633780135",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 4.3
+    },
+    "name": "Riverside Landing Sauvignon Blanc 750ml",
+    "brand": "Riverside Landing",
+    "path": "/shop/productdetails/826673/riverside-landing-sauvignon-blanc",
+    "description": " Riverside Landing Sauvignon<br>Blanc  750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826673.jpg"
+  },
+  {
+    "retailerProductId": "772655",
+    "crossRetailerId": "9300633455934",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "4L",
+      "price": 12
+    },
+    "name": "Sonata Estate Cask Wine Fresh Dry White 4L",
+    "brand": "Sonata Estate",
+    "path": "/shop/productdetails/772655/sonata-estate-cask-wine-fresh-dry-white",
+    "description": " Sonata Estate Cask Wine<br>Fresh Dry White 4L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/772655.jpg"
+  },
+  {
+    "retailerProductId": "74569",
+    "crossRetailerId": "9311043403309",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 10
+    },
+    "name": "Jacob's Creek Sparkling Chardonnay P/Noir Wine 750mL",
+    "brand": "Jacob's Creek",
+    "path": "/shop/productdetails/74569/jacob-s-creek-sparkling-chardonnay-p-noir-wine",
+    "description": " Jacob's Creek Sparkling<br>Chardonnay P/Noir... 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/074569.jpg"
+  },
+  {
+    "retailerProductId": "906782",
+    "crossRetailerId": "9311789001043",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 10
+    },
+    "name": "Yalumba y Series Pinot Grigio 750ml",
+    "brand": "Yalumba",
+    "path": "/shop/productdetails/906782/yalumba-y-series-pinot-grigio",
+    "description": " Yalumba Y Series Pinot<br>Grigio  750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/906782.jpg"
+  },
+  {
+    "retailerProductId": "39385",
+    "crossRetailerId": "738986012020",
+    "gtinFormat": 12,
+    "currentValue": {
+      "size": "750mL",
+      "price": 26
+    },
+    "name": "Grant Burge Merlot Hillcot Merlot 750ml",
+    "brand": "Grant Burge",
+    "path": "/shop/productdetails/39385/grant-burge-merlot-hillcot-merlot",
+    "description": " Grant Burge Merlot Hillcot<br>Merlot 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/039385.jpg"
+  },
+  {
+    "retailerProductId": "976801",
+    "crossRetailerId": "9300727019172",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "375mL x 4 pack",
+      "price": 25
+    },
+    "name": "Jameson Dry & Lime Cans 375mL x 4 pack",
+    "brand": "Jameson",
+    "path": "/shop/productdetails/976801/jameson-dry-lime-cans",
+    "description": " Jameson Dry & Lime Cans 375mL x 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/976801.jpg"
+  },
+  {
+    "retailerProductId": "91241",
+    "crossRetailerId": "87000006829",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "700mL",
+      "price": 55
+    },
+    "name": "Chivas Regal Scotch Whisky 12 Years Old 700mL",
+    "brand": "Chivas Regal",
+    "path": "/shop/productdetails/91241/chivas-regal-scotch-whisky-12-years-old",
+    "description": " Chivas Regal Scotch Whisky<br>12 Years Old 700mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/091241.jpg"
+  },
+  {
+    "retailerProductId": "793361",
+    "crossRetailerId": "9300727016362",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 16
+    },
+    "name": "Jacob's Creek Double Barrel Shiraz 750ml",
+    "brand": "Jacob's Creek",
+    "path": "/shop/productdetails/793361/jacob-s-creek-double-barrel-shiraz",
+    "description": " Jacob's Creek Double Barrel<br>Shiraz 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/793361.jpg"
+  },
+  {
+    "retailerProductId": "758048",
+    "crossRetailerId": "9358432019437",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 13
+    },
+    "name": "Lobster Reef Sauvignon Blanc 750ml",
+    "brand": "Lobster Reef",
+    "path": "/shop/productdetails/758048/lobster-reef-sauvignon-blanc",
+    "description": " Lobster Reef Sauvignon Blanc<br> 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/758048.jpg"
+  },
+  {
+    "retailerProductId": "900394",
+    "crossRetailerId": "9329982026220",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "330mL x 24 case",
+      "price": 61
+    },
+    "name": "Asahi Super Dry Lager Bottles 330mL x 24 case",
+    "brand": "Asahi",
+    "path": "/shop/productdetails/900394/asahi-super-dry-lager-bottles",
+    "description": " Asahi Super Dry Lager<br>Bottles 330mL x 24 case",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/900394.jpg"
+  },
+  {
+    "retailerProductId": "653813",
+    "crossRetailerId": "9320000511339",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "330mL x 24 case",
+      "price": 60
+    },
+    "name": "Great Northern Brewing Co Super Crisp Lager Bottles 330mL x 24 case",
+    "brand": "Great Northern Brewing Co",
+    "path": "/shop/productdetails/653813/great-northern-brewing-co-super-crisp-lager-bottles",
+    "description": " Great Northern Brewing Co<br>Super... 330mL x 24 case",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/653813.jpg"
+  },
+  {
+    "retailerProductId": "446855",
+    "crossRetailerId": "9320000511346",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "375mL x 30 case",
+      "price": 70
+    },
+    "name": "Great Northern Brewing Co Super Crisp Lager Cans 375mL x 30 case",
+    "brand": "Great Northern Brewing Co",
+    "path": "/shop/productdetails/446855/great-northern-brewing-co-super-crisp-lager-cans",
+    "description": " Great Northern Brewing Co<br>Super... 375mL x 30 case",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/446855.jpg"
+  },
+  {
+    "retailerProductId": "144469",
+    "crossRetailerId": "9300770033255",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 20
+    },
+    "name": "Pepperjack Shiraz Barossa 750ml",
+    "brand": "Pepperjack",
+    "path": "/shop/productdetails/144469/pepperjack-shiraz-barossa",
+    "description": " Pepperjack Shiraz Barossa 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/144469.jpg"
+  },
+  {
+    "retailerProductId": "826660",
+    "crossRetailerId": "9300633780128",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 4.3
+    },
+    "name": "Riverside Landing Chardonnay 750ml",
+    "brand": "Riverside Landing",
+    "path": "/shop/productdetails/826660/riverside-landing-chardonnay",
+    "description": " Riverside Landing Chardonnay<br> 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826660.jpg"
+  },
+  {
+    "retailerProductId": "826681",
+    "crossRetailerId": "9300633780142",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 4.3
+    },
+    "name": "Riverside Landing Shiraz 750ml",
+    "brand": "Riverside Landing",
+    "path": "/shop/productdetails/826681/riverside-landing-shiraz",
+    "description": " Riverside Landing Shiraz  750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/826681.jpg"
+  },
+  {
+    "retailerProductId": "103200",
+    "crossRetailerId": "9339687185108",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 8
+    },
+    "name": "Koa Sauvignon Blanc 750ml",
+    "brand": "Koa",
+    "path": "/shop/productdetails/103200/koa-sauvignon-blanc",
+    "description": " Koa Sauvignon Blanc  750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/103200.jpg"
+  },
+  {
+    "retailerProductId": "608178",
+    "crossRetailerId": "9344154011507",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 13
+    },
+    "name": "Elephant In The Room Palatial Pinot Noir 750ml",
+    "brand": "Elephant In The Room",
+    "path": "/shop/productdetails/608178/elephant-in-the-room-palatial-pinot-noir",
+    "description": " Elephant In The Room<br>Palatial Pinot... 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/608178.jpg"
+  },
+  {
+    "retailerProductId": "73984",
+    "crossRetailerId": "9315743910211",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 7
+    },
+    "name": "McGuigan Red Varietal Black Label Wine 750mL",
+    "brand": "McGuigan",
+    "path": "/shop/productdetails/73984/mcguigan-red-varietal-black-label-wine",
+    "description": " McGuigan Red Varietal Black<br>Label Wine 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/073984.jpg"
+  },
+  {
+    "retailerProductId": "322002",
+    "crossRetailerId": "9358432018218",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 14
+    },
+    "name": "Cat Amongst The Pigeons Shiraz 750ml",
+    "brand": "Cat Amongst The Pigeons",
+    "path": "/shop/productdetails/322002/cat-amongst-the-pigeons-shiraz",
+    "description": " Cat Amongst The Pigeons<br>Shiraz  750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/322002.jpg"
+  },
+  {
+    "retailerProductId": "797193",
+    "crossRetailerId": "9358432019956",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 10
+    },
+    "name": "Silver Moki Sauvignon Blanc 750ml",
+    "brand": "Silver Moki",
+    "path": "/shop/productdetails/797193/silver-moki-sauvignon-blanc",
+    "description": " Silver Moki Sauvignon Blanc  750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/797193.jpg"
+  },
+  {
+    "retailerProductId": "6231",
+    "crossRetailerId": "25428407",
+    "gtinFormat": 8,
+    "currentValue": {
+      "size": "750mL",
+      "price": 8
+    },
+    "name": "Wolf Blass Sparkling Red Brut Chardonnay Pinot Nv 750ml",
+    "brand": "Wolf Blass",
+    "path": "/shop/productdetails/6231/wolf-blass-sparkling-red-brut-chardonnay-pinot-nv",
+    "description": " Wolf Blass Sparkling Red<br>Brut Chardonnay... 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/006231.jpg"
+  },
+  {
+    "retailerProductId": "988203",
+    "crossRetailerId": "9320000511179",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "330mL x 24 case",
+      "price": 58
+    },
+    "name": "Carlton Dry Bottle 330mL x 24 case",
+    "brand": "Carlton",
+    "path": "/shop/productdetails/988203/carlton-dry-bottle",
+    "description": " Carlton Dry Bottle 330mL x 24 case",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/988203.jpg"
+  },
+  {
+    "retailerProductId": "853430",
+    "crossRetailerId": "9358432020556",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "1L",
+      "price": 9
+    },
+    "name": "Baily & Baily Silhouette Pinot Grigio 1L",
+    "brand": "Baily & Baily",
+    "path": "/shop/productdetails/853430/baily-baily-silhouette-pinot-grigio",
+    "description": " Baily & Baily Silhouette<br>Pinot Grigio  1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/853430.jpg"
+  },
+  {
+    "retailerProductId": "84736",
+    "crossRetailerId": "9320000090360",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "375mL x 30 case",
+      "price": 72
+    },
+    "name": "Victoria Bitter Lager Cans 375mL x 30 case",
+    "brand": "Victoria Bitter",
+    "path": "/shop/productdetails/84736/victoria-bitter-lager-cans",
+    "description": " Victoria Bitter Lager Cans 375mL x 30 case",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/084736.jpg"
+  },
+  {
+    "retailerProductId": "675412",
+    "crossRetailerId": "9339687027545",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "750mL",
+      "price": 8
+    },
+    "name": "Koa Cove Margaret River Semillion Sauvignon Blanc 750ml",
+    "brand": "Koa",
+    "path": "/shop/productdetails/675412/koa-cove-margaret-river-semillion-sauvignon-blanc",
+    "description": " Koa Cove Margaret River<br>Semillion... 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/675412.jpg"
+  },
+  {
+    "retailerProductId": "167364",
+    "crossRetailerId": "9358432003184",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "700ml",
+      "price": 39
+    },
+    "name": "Rivka Premium Vodka Triple Distilled 700ml",
+    "brand": "Rivka",
+    "path": "/shop/productdetails/167364/rivka-premium-vodka-triple-distilled",
+    "description": " Rivka Rivka Premium Vodka<br>Triple Distilled 700ml",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/167364.jpg"
+  }
+]

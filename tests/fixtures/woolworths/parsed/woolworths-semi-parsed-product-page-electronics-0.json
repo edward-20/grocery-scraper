@@ -1,0 +1,362 @@
+[
+  {
+    "retailerProductId": "23597",
+    "crossRetailerId": "8888021204421",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.78,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "16 pack",
+      "price": 28.5
+    },
+    "name": "Energizer Max AA Alkaline Batteries 16 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/23597/energizer-max-aa-alkaline-batteries",
+    "description": " Energizer Max AA Alkaline<br>Batteries  16 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/023597.jpg"
+  },
+  {
+    "retailerProductId": "425291",
+    "crossRetailerId": "8888021308662",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.78,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "16 pack",
+      "price": 28.5
+    },
+    "name": "Energizer Max AAA Alkaline Batteries 16 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/425291/energizer-max-aaa-alkaline-batteries",
+    "description": " Energizer Max AAA Alkaline<br>Batteries  16 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/425291.jpg"
+  },
+  {
+    "retailerProductId": "1128022171",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 9998
+    },
+    "name": "Samsung 85\" The Frame Pro LS03HW 4K Samsung Vision AI Smart TV (2026) (85\" Black)",
+    "brand": "Samsung",
+    "path": "/shop/productdetails/1128022171/samsung-85-the-frame-pro-ls03hw-4k-samsung-vision-ai-smart-tv-2026-85-black-",
+    "description": " Samsung   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128022171.jpg"
+  },
+  {
+    "retailerProductId": "262173",
+    "crossRetailerId": "9339346024014",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.6,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "10 pack",
+      "price": 6
+    },
+    "name": "Chevron Alkaline Aa 10 Pack",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/262173/chevron-alkaline-aa-alkaline",
+    "description": " Chevron Alkaline AA Alkaline 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/262173.jpg"
+  },
+  {
+    "retailerProductId": "693102",
+    "crossRetailerId": "8888021206036",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.01,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "16 pack",
+      "price": 16.1
+    },
+    "name": "Energizer Max Plus High Performance AA Alkaline Batteries 16 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/693102/energizer-max-plus-high-performance-aa-alkaline-batteries",
+    "description": " Energizer Max Plus High<br>Performance AA... 16 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/693102.jpg"
+  },
+  {
+    "retailerProductId": "262176",
+    "crossRetailerId": "9339346024045",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.6,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "10 pack",
+      "price": 6
+    },
+    "name": "Chevron Alkaline Aaa 10 Pack",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/262176/chevron-alkaline-aaa-alkaline",
+    "description": " Chevron Alkaline AAA<br>Alkaline 10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/262176.jpg"
+  },
+  {
+    "retailerProductId": "1128090267",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 7999
+    },
+    "name": "Samsung 85\" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026) (Black 85\")",
+    "brand": "Samsung",
+    "path": "/shop/productdetails/1128090267/samsung-85-micro-rgb-r95h-4k-samsung-vision-ai-smart-tv-2026-black-85-",
+    "description": " Samsung   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128090267.jpg"
+  },
+  {
+    "retailerProductId": "1117689243",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 2035
+    },
+    "name": "Sony Bravia TV 75\" - 4K Ultra HD - High Dynamic Range (HDR) - Smart (Google TV) - FWD75X77L",
+    "brand": "Sony",
+    "path": "/shop/productdetails/1117689243/sony-bravia-tv-75-4k-ultra-hd-high-dynamic-range-hdr-smart-google-tv-fwd75x77l",
+    "description": " Sony   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1117689243.jpg"
+  },
+  {
+    "retailerProductId": "1117689241",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 2999
+    },
+    "name": "LG 86\" 4K UHD HDR LED Smart TV (86UR801C)",
+    "brand": "LG",
+    "path": "/shop/productdetails/1117689241/lg-86-4k-uhd-hdr-led-smart-tv-86ur801c-",
+    "description": " LG   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1117689241.jpg"
+  },
+  {
+    "retailerProductId": "693103",
+    "crossRetailerId": "8888021206043",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.01,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "16 pack",
+      "price": 16.1
+    },
+    "name": "Energizer Max Plus High Performance AAA Alkaline Batteries 16 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/693103/energizer-max-plus-high-performance-aaa-alkaline-batteries",
+    "description": " Energizer Max Plus High<br>Performance AAA... 16 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/693103.jpg"
+  },
+  {
+    "retailerProductId": "1124158739",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 9999
+    },
+    "name": "Samsung 98\" Neo QLED QN90F 4K Samsung Vision AI Smart TV (Black 98\")",
+    "brand": "Samsung",
+    "path": "/shop/productdetails/1124158739/samsung-98-neo-qled-qn90f-4k-samsung-vision-ai-smart-tv-black-98-",
+    "description": " Samsung   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1124158739.jpg"
+  },
+  {
+    "retailerProductId": "221795",
+    "crossRetailerId": "8888021306132",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.25,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "2 pack",
+      "price": 10.5
+    },
+    "name": "Energizer 2032 CR2032 Lithium Coin Battery 2 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/221795/energizer-2032-cr2032-lithium-coin-battery",
+    "description": " Energizer 2032 CR2032<br>Lithium Coin... 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/221795.jpg"
+  },
+  {
+    "retailerProductId": "1125778877",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 63.2
+    },
+    "name": "R36S Retro Handheld Game Console Linux OS",
+    "brand": "BDI Technology",
+    "path": "/shop/productdetails/1125778877/r36s-retro-handheld-game-console-linux-os",
+    "description": " BDI Technology   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1125778877.jpg"
+  },
+  {
+    "retailerProductId": "21027",
+    "crossRetailerId": "6920403161822",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.69,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 6.75
+    },
+    "name": "Eveready Gold AAA Alkaline Batteries 4 pack",
+    "brand": "Eveready",
+    "path": "/shop/productdetails/21027/eveready-gold-aaa-alkaline-batteries",
+    "description": " Eveready Gold AAA Alkaline<br>Batteries  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/021027.jpg"
+  },
+  {
+    "retailerProductId": "1119353471",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 3299
+    },
+    "name": "Formovie Cinema Edge UST 4K Laser TV Projector Featuring Google TV with Netflix",
+    "brand": "Formovie",
+    "path": "/shop/productdetails/1119353471/formovie-cinema-edge-ust-4k-laser-tv-projector-featuring-google-tv-with-netflix",
+    "description": " Formovie   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1119353471.jpg"
+  },
+  {
+    "retailerProductId": "262177",
+    "crossRetailerId": "9339346023994",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.63,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "2 pack",
+      "price": 5.25
+    },
+    "name": "Chevron Alkaline 9v 2 Pack",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/262177/chevron-alkaline-9v-alkaline",
+    "description": " Chevron Alkaline 9V Alkaline 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/262177.jpg"
+  },
+  {
+    "retailerProductId": "848417",
+    "crossRetailerId": "6920403164496",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.25,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "24 pack",
+      "price": 30
+    },
+    "name": "Energizer Max AAA Alkaline Batteries 24 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/848417/energizer-max-aaa-alkaline-batteries-aaa-batteries",
+    "description": " Energizer Max AAA Alkaline<br>Batteries AAA... 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/848417.jpg"
+  },
+  {
+    "retailerProductId": "1122724047",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 1199
+    },
+    "name": "PS5 PlayStation 5 Slim Digital Console 1TB",
+    "brand": "Sony",
+    "path": "/shop/productdetails/1122724047/ps5-playstation-5-slim-digital-console-1tb",
+    "description": " Sony   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1122724047.jpg"
+  },
+  {
+    "retailerProductId": "1123088569",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 215
+    },
+    "name": "Kodak Pixpro FZ55 Digital Compact Camera Black",
+    "brand": "Kodak",
+    "path": "/shop/productdetails/1123088569/kodak-pixpro-fz55-digital-compact-camera-black",
+    "description": " Kodak   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1123088569.jpg"
+  },
+  {
+    "retailerProductId": "1126536791",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 699.95
+    },
+    "name": "Nintendo Switch 2 Console",
+    "brand": "Nintendo",
+    "path": "/shop/productdetails/1126536791/nintendo-switch-2-console",
+    "description": " Nintendo   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1126536791.jpg"
+  },
+  {
+    "retailerProductId": "70613",
+    "crossRetailerId": "9312931530275",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "10 pack",
+      "price": 15
+    },
+    "name": "Energizer Max AA Alkaline Batteries 10 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/70613/energizer-max-aa-alkaline-batteries",
+    "description": " Energizer Max AA Alkaline<br>Batteries  10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/070613.jpg"
+  },
+  {
+    "retailerProductId": "21016",
+    "crossRetailerId": "6920403163734",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.69,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 6.75
+    },
+    "name": "Eveready Gold AA Alkaline Batteries 4 pack",
+    "brand": "Eveready",
+    "path": "/shop/productdetails/21016/eveready-gold-aa-alkaline-batteries",
+    "description": " Eveready Gold AA Alkaline<br>Batteries  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/021016.jpg"
+  },
+  {
+    "retailerProductId": "1127836597",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 3069.65
+    },
+    "name": "Sony BRAVIA S30 85\" 4K HDR Smart Google TV with X1 Processor & TV Tuner",
+    "brand": "Sony",
+    "path": "/shop/productdetails/1127836597/sony-bravia-s30-85-4k-hdr-smart-google-tv-with-x1-processor-tv-tuner",
+    "description": " Sony   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1127836597.jpg"
+  },
+  {
+    "retailerProductId": "1128022149",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 3999
+    },
+    "name": "Samsung 75\" The Frame Pro LS03HW 4K Samsung Vision AI Smart TV (2026) (75\", Black)",
+    "brand": "Samsung",
+    "path": "/shop/productdetails/1128022149/samsung-75-the-frame-pro-ls03hw-4k-samsung-vision-ai-smart-tv-2026-75-black-",
+    "description": " Samsung   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128022149.jpg"
+  }
+]

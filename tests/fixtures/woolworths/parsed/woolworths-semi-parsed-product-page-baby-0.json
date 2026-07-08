@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "378532",
+    "crossRetailerId": "9418783002837",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "900g",
+      "price": 30
+    },
+    "name": "Aptamil Gold Stage 2 Follow On Baby Formula 6-12M 900g",
+    "brand": "Aptamil",
+    "path": "/shop/productdetails/378532/aptamil-gold-stage-2-follow-on-baby-formula-6-12m",
+    "description": " Aptamil Gold Stage 2 Follow<br>On Baby Formula... 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/378532.jpg"
+  },
+  {
+    "retailerProductId": "444306",
+    "crossRetailerId": "4987176013989",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "3 pack",
+      "price": 18
+    },
+    "name": "Clearblue Pregnancy Test Rapid Detection 3 pack",
+    "brand": "Clearblue",
+    "path": "/shop/productdetails/444306/clearblue-pregnancy-test-rapid-detection",
+    "description": " Clearblue Pregnancy Test<br>Rapid Detection 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/444306.jpg"
+  },
+  {
+    "retailerProductId": "482440",
+    "crossRetailerId": "4987176212023",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.48,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 34.8
+    },
+    "name": "Clearblue Trying To Get Pregnant Kit 10 Ovulation & 1 Pregnancy Test each",
+    "brand": "Clearblue",
+    "path": "/shop/productdetails/482440/clearblue-trying-to-get-pregnant-kit-10-ovulation-1-pregnancy-test",
+    "description": " Clearblue Trying To Get<br>Pregnant Kit 10... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/482440.jpg"
+  },
+  {
+    "retailerProductId": "6009022",
+    "crossRetailerId": "4987176009517",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 14.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "2 pack",
+      "price": 29
+    },
+    "name": "Clearblue Digital Pregnancy Test Ultra Early 2 pack",
+    "brand": "Clearblue",
+    "path": "/shop/productdetails/6009022/clearblue-digital-pregnancy-test-ultra-early",
+    "description": " Clearblue Digital Pregnancy<br>Test Ultra Early 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6009022.jpg"
+  },
+  {
+    "retailerProductId": "20391",
+    "crossRetailerId": "9310088024395",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.38,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "80 pack",
+      "price": 3.5
+    },
+    "name": "Huggies Glentle Cleanse Baby Wipes Fragrance Free 80 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/20391/huggies-glentle-cleanse-baby-wipes-fragrance-free",
+    "description": " Huggies Glentle Cleanse Baby<br>Wipes Fragrance... 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/020391.jpg"
+  },
+  {
+    "retailerProductId": "961095",
+    "crossRetailerId": "9300633587772",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "80 pack",
+      "price": 2
+    },
+    "name": "Little One's Baby Wipes 80 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/961095/little-one-s-baby-wipes",
+    "description": " Little One's Baby Wipes  80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/961095.jpg"
+  },
+  {
+    "retailerProductId": "961134",
+    "crossRetailerId": "9300633587796",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.29,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "480 pack",
+      "price": 11
+    },
+    "name": "Little One's Baby Wipes 480 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/961134/little-one-s-baby-wipes",
+    "description": " Little One's Baby Wipes  480 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/961134.jpg"
+  },
+  {
+    "retailerProductId": "216801",
+    "crossRetailerId": "9310088015430",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.86,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "72 pack",
+      "price": 3.5
+    },
+    "name": "Huggies PURE 99% Purified Water Baby Wipes 72 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/216801/huggies-pure-99-purified-water-baby-wipes",
+    "description": " Huggies PURE 99% Purified<br>Water Baby Wipes 72 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/216801.jpg"
+  },
+  {
+    "retailerProductId": "500427",
+    "crossRetailerId": "9310088010787",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.38,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "80 pack",
+      "price": 3.5
+    },
+    "name": "Huggies Glentle Cleanse Baby Wipes Coconut Oil 80 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/500427/huggies-glentle-cleanse-baby-wipes-coconut-oil",
+    "description": " Huggies Glentle Cleanse Baby<br>Wipes Coconut... 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/500427.jpg"
+  },
+  {
+    "retailerProductId": "368693",
+    "crossRetailerId": "9310088092776",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.38,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "80 pack",
+      "price": 3.5
+    },
+    "name": "Huggies Glentle Cleanse Baby Wipes Cucumber & Aloe 80 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/368693/huggies-glentle-cleanse-baby-wipes-cucumber-aloe",
+    "description": " Huggies Glentle Cleanse Baby<br>Wipes Cucumber &... 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/368693.jpg"
+  },
+  {
+    "retailerProductId": "803377",
+    "crossRetailerId": "4987176014351",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.67,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "3 pack",
+      "price": 17
+    },
+    "name": "Clearblue Pregnancy Test Ultra Early 3 pack",
+    "brand": "Clearblue",
+    "path": "/shop/productdetails/803377/clearblue-pregnancy-test-ultra-early",
+    "description": " Clearblue Pregnancy Test<br>Ultra Early  3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/803377.jpg"
+  },
+  {
+    "retailerProductId": "275790",
+    "crossRetailerId": "4987176178510",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 5.14,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "7 pack",
+      "price": 36
+    },
+    "name": "Clearblue Visual Early Detect Pregnancy Tests 7 pack",
+    "brand": "Clearblue",
+    "path": "/shop/productdetails/275790/clearblue-visual-early-detect-pregnancy-tests",
+    "description": " Clearblue Visual Early<br>Detect Pregnancy... 7 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/275790.jpg"
+  },
+  {
+    "retailerProductId": "310931",
+    "crossRetailerId": "4987176018380",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "3 pack",
+      "price": 26
+    },
+    "name": "Clearblue Pregnancy Test Combo 3 pack",
+    "brand": "Clearblue",
+    "path": "/shop/productdetails/310931/clearblue-pregnancy-test-combo-pack",
+    "description": " Clearblue Pregnancy Test<br>Combo Pack 3 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/310931.jpg"
+  },
+  {
+    "retailerProductId": "378531",
+    "crossRetailerId": "9418783002820",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.33,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "900g",
+      "price": 30
+    },
+    "name": "Aptamil Gold+ 1 Baby Infant Formula From Birth To 6 Months 900g",
+    "brand": "Aptamil",
+    "path": "/shop/productdetails/378531/aptamil-gold-1-baby-infant-formula-from-birth-to-6-months",
+    "description": " Aptamil Gold+ 1 Baby Infant<br>Formula From Birth... 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/378531.jpg"
+  },
+  {
+    "retailerProductId": "86177",
+    "crossRetailerId": "9339687165148",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.26,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "44 pack",
+      "price": 11.5
+    },
+    "name": "Little One's Ultra Dry Nappies Size 5 Walker (12-17kg) 44 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/86177/little-one-s-ultra-dry-nappies-size-5-walker-12-17kg-",
+    "description": " Little One's Ultra Dry<br>Nappies Size 5... 44 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/086177.jpg"
+  },
+  {
+    "retailerProductId": "961133",
+    "crossRetailerId": "9300633587789",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "80 pack",
+      "price": 2
+    },
+    "name": "Little One's Baby Wipes Scented 80 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/961133/little-one-s-baby-wipes-scented",
+    "description": " Little One's Baby Wipes<br>Scented 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/961133.jpg"
+  },
+  {
+    "retailerProductId": "80347",
+    "crossRetailerId": "9339687156498",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.44,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "80 pack",
+      "price": 2.75
+    },
+    "name": "Little One's Premium Baby Wipes Thick Unscented 80 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/80347/little-one-s-premium-baby-wipes-thick-unscented",
+    "description": " Little One's Premium Baby<br>Wipes Thick... 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/080347.jpg"
+  },
+  {
+    "retailerProductId": "573517",
+    "crossRetailerId": "9300633634681",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "200 pack",
+      "price": 3.2
+    },
+    "name": "Little One's Nappy Bags Odour Neutralising 200 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/573517/little-one-s-nappy-bags-odour-neutralising",
+    "description": " Little One's Nappy Bags<br>Odour... 200 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/573517.jpg"
+  },
+  {
+    "retailerProductId": "627742",
+    "crossRetailerId": "9337824002233",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 23.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "8g",
+      "price": 1.9
+    },
+    "name": "Little Bellies Organic Berry & Apple Softcorn 8g",
+    "brand": "Little Bellies",
+    "path": "/shop/productdetails/627742/little-bellies-organic-berry-apple-softcorn",
+    "description": " Little Bellies Organic Berry<br>& Apple Softcorn 8g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/627742.jpg"
+  },
+  {
+    "retailerProductId": "86178",
+    "crossRetailerId": "9339687165155",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.29,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "40 pack",
+      "price": 11.5
+    },
+    "name": "Little One's Ultra Dry Nappies Size 6 Junior (15-20kg) 40 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/86178/little-one-s-ultra-dry-nappies-size-6-junior-15-20kg-",
+    "description": " Little One's Ultra Dry<br>Nappies Size 6... 40 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/086178.jpg"
+  },
+  {
+    "retailerProductId": "669672",
+    "crossRetailerId": "9339687021024",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.83,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 1
+    },
+    "name": "Woolworths Smiling Tums Pear Banana & Mango 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/669672/woolworths-smiling-tums-pear-banana-mango",
+    "description": " Woolworths Smiling Tums Pear<br>Banana & Mango 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/669672.jpg"
+  },
+  {
+    "retailerProductId": "86176",
+    "crossRetailerId": "9339687165131",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.23,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "50 pack",
+      "price": 11.5
+    },
+    "name": "Little One's Ultra Dry Nappies Size 4 Toddler (9-14kg) 50 pack",
+    "brand": "Little One's",
+    "path": "/shop/productdetails/86176/little-one-s-ultra-dry-nappies-size-4-toddler-9-14kg-",
+    "description": " Little One's Ultra Dry<br>Nappies Size 4... 50 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/086176.jpg"
+  },
+  {
+    "retailerProductId": "669671",
+    "crossRetailerId": "9339687021017",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.83,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 1
+    },
+    "name": "Woolworths Smiling Tums 6 Months+ Apple & Banana With Oats 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/669671/woolworths-smiling-tums-6-months-apple-banana-with-oats",
+    "description": " Woolworths Smiling Tums 6<br>Months+ Apple &... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/669671.jpg"
+  },
+  {
+    "retailerProductId": "669673",
+    "crossRetailerId": "9339687021031",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.83,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 1
+    },
+    "name": "Woolworths Smiling Tums Apple Pear & Cinnamon 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/669673/woolworths-smiling-tums-apple-pear-cinnamon",
+    "description": " Woolworths Smiling Tums<br>Apple Pear &... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/669673.jpg"
+  },
+  {
+    "retailerProductId": "627754",
+    "crossRetailerId": "9337824002219",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 23.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "8g",
+      "price": 1.9
+    },
+    "name": "Little Bellies Organic Banana Softcorn 8g",
+    "brand": "Little Bellies",
+    "path": "/shop/productdetails/627754/little-bellies-organic-banana-softcorn",
+    "description": " Little Bellies Organic<br>Banana Softcorn 8g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/627754.jpg"
+  },
+  {
+    "retailerProductId": "64807",
+    "crossRetailerId": "9340156058977",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Baby Food Pouch Pear & Prune & Nothing Else 4+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/64807/rafferty-s-garden-baby-food-pouch-pear-prune-nothing-else-4-months",
+    "description": " Rafferty's Garden Baby Food<br>Pouch Pear & Prune... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/064807.jpg"
+  },
+  {
+    "retailerProductId": "713568",
+    "crossRetailerId": "9300633268909",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.25,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 1.5
+    },
+    "name": "Macro Organic Baby Food Apple & Pear 6m 120g",
+    "brand": "Macro Organic",
+    "path": "/shop/productdetails/713568/macro-organic-baby-food-apple-pear-6m",
+    "description": " Macro Organic Baby Food<br>Apple & Pear 6m 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/713568.jpg"
+  },
+  {
+    "retailerProductId": "213889",
+    "crossRetailerId": "9310088015805",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.33,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "9 pack",
+      "price": 12
+    },
+    "name": "Huggies DryNites Night Pants Boy 4-7 Years (17-30kg) 9 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/213889/huggies-drynites-night-pants-boy-4-7-years-17-30kg-",
+    "description": " Huggies DryNites Night Pants<br>Boy 4-7 Years... 9 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/213889.jpg"
+  },
+  {
+    "retailerProductId": "291278",
+    "crossRetailerId": "9421901080006",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Banana Pear & Mango Baby Food Puree Pouch 4+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/291278/rafferty-s-garden-banana-pear-mango-baby-food-puree-pouch-4-months",
+    "description": " Rafferty's Garden Banana<br>Pear & Mango Baby... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/291278.jpg"
+  },
+  {
+    "retailerProductId": "414360",
+    "crossRetailerId": "9337824001991",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 15.83,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "12g",
+      "price": 1.9
+    },
+    "name": "Little Bellies Organic Puffs Apple & Cinnamon 12g",
+    "brand": "Little Bellies",
+    "path": "/shop/productdetails/414360/little-bellies-organic-puffs-apple-cinnamon",
+    "description": " Little Bellies Organic Puffs<br>Apple & Cinnamon 12g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/414360.jpg"
+  },
+  {
+    "retailerProductId": "740040",
+    "crossRetailerId": "9312818003915",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.91,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "22 pack",
+      "price": 20
+    },
+    "name": "BabyLove Nappy Pants Size 6 (15-25kg) 22 pack",
+    "brand": "BabyLove",
+    "path": "/shop/productdetails/740040/babylove-nappy-pants-size-6-15-25kg-",
+    "description": " BabyLove Nappy Pants Size 6<br>(15-25kg) 22 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/740040.jpg"
+  },
+  {
+    "retailerProductId": "225747",
+    "crossRetailerId": "9340156091974",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g",
+      "price": 2.3
+    },
+    "name": "Rafferty's Garden Strawberry & Chia Yoghurt Brekkie Baby Food 8+ Months 120g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/225747/rafferty-s-garden-strawberry-chia-yoghurt-brekkie-baby-food-8-months",
+    "description": " Rafferty's Garden Strawberry<br>& Chia Yoghurt... 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/225747.jpg"
+  }
+]

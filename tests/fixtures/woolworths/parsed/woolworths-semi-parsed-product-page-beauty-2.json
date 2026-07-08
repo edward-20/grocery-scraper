@@ -1,0 +1,512 @@
+[
+  {
+    "retailerProductId": "6011811",
+    "crossRetailerId": "9329224003903",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 13.75,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "8g",
+      "price": 11
+    },
+    "name": "Dermal Therapy Tinted Lip Balm Peach Nude 8g",
+    "brand": "Dermal Therapy",
+    "path": "/shop/productdetails/6011811/dermal-therapy-tinted-lip-balm-peach-nude",
+    "description": " Dermal Therapy Tinted Lip<br>Balm Peach Nude 8g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6011811.jpg"
+  },
+  {
+    "retailerProductId": "136620",
+    "crossRetailerId": "9329224001343",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 11.2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "125g",
+      "price": 14
+    },
+    "name": "Dermal Therapy Very Dry Skin Cream 125g",
+    "brand": "Dermal Therapy",
+    "path": "/shop/productdetails/136620/dermal-therapy-very-dry-skin-cream",
+    "description": " Dermal Therapy Very Dry Skin<br>Cream  125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/136620.jpg"
+  },
+  {
+    "retailerProductId": "946107",
+    "crossRetailerId": "9310320004437",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.36,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "24 pack",
+      "price": 8.7
+    },
+    "name": "Hero. Mighty Patch Invisible+ Hydrocolloid Patches 24 pack",
+    "brand": "Hero.",
+    "path": "/shop/productdetails/946107/hero-mighty-patch-invisible-hydrocolloid-patches",
+    "description": " Hero. Mighty Patch<br>Invisible+... 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/946107.jpg"
+  },
+  {
+    "retailerProductId": "104933",
+    "crossRetailerId": "3616301253082",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 12.67,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "each",
+      "price": 19
+    },
+    "name": "Sally Hansen Miracle Gel Out Of This Pearl each",
+    "brand": "Sally Hansen",
+    "path": "/shop/productdetails/104933/sally-hansen-miracle-gel-out-of-this-pearl",
+    "description": " Sally Hansen Miracle Gel Out<br>Of This Pearl  each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/104933.jpg"
+  },
+  {
+    "retailerProductId": "30378",
+    "crossRetailerId": "93250917",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 8,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g",
+      "price": 4
+    },
+    "name": "Vaseline Petroleum Jelly 50g",
+    "brand": "Vaseline",
+    "path": "/shop/productdetails/30378/vaseline-petroleum-jelly",
+    "description": " Vaseline Petroleum Jelly  50g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/030378.jpg"
+  },
+  {
+    "retailerProductId": "688099",
+    "crossRetailerId": "9300607761306",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "1L",
+      "price": 30
+    },
+    "name": "Aveeno Daily Moisturising Body Lotion Fragrance Free Sensitive Skin 1L",
+    "brand": "Aveeno",
+    "path": "/shop/productdetails/688099/aveeno-daily-moisturising-body-lotion-fragrance-free-sensitive-skin",
+    "description": " Aveeno Daily Moisturising<br>Body Lotion Fragrance... 1L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/688099.jpg"
+  },
+  {
+    "retailerProductId": "511815",
+    "crossRetailerId": "9331880029302",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.96,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "100mL",
+      "price": 19.6
+    },
+    "name": "MCoBeauty Miracle Flawless Setting Spray 100mL",
+    "brand": "MCoBeauty",
+    "path": "/shop/productdetails/511815/mcobeauty-miracle-flawless-setting-spray",
+    "description": " MCoBeauty Miracle Flawless<br>Setting Spray  100mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/511815.jpg"
+  },
+  {
+    "retailerProductId": "103147",
+    "crossRetailerId": "4005900766670",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.42,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "4.8g",
+      "price": 5
+    },
+    "name": "Nivea Lip Care Balm Watermelon Shine 4.8g",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/103147/nivea-lip-care-balm-watermelon-shine",
+    "description": " Nivea Lip Care Balm<br>Watermelon Shine 4.8g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/103147.jpg"
+  },
+  {
+    "retailerProductId": "274916",
+    "crossRetailerId": "9331880022426",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "36 pack",
+      "price": 4.5
+    },
+    "name": "MCoBeauty Miracle Pimple Patch 36 pack",
+    "brand": "MCoBeauty",
+    "path": "/shop/productdetails/274916/mcobeauty-miracle-pimple-patch",
+    "description": " MCoBeauty Miracle Pimple<br>Patch  36 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/274916.jpg"
+  },
+  {
+    "retailerProductId": "56452",
+    "crossRetailerId": "6923700977554",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 8,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 8
+    },
+    "name": "Garnier Skin Active Hydra Bomb Sheet Face Mask Pomegranate each",
+    "brand": "Garnier",
+    "path": "/shop/productdetails/56452/garnier-skin-active-hydra-bomb-sheet-face-mask-pomegranate",
+    "description": " Garnier Skin Active Hydra<br>Bomb Sheet Face... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/056452.jpg"
+  },
+  {
+    "retailerProductId": "104938",
+    "crossRetailerId": "3616301758426",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 14.44,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "each",
+      "price": 13
+    },
+    "name": "Sally Hansen Insta Dri Pink Blink Nail Polish each",
+    "brand": "Sally Hansen",
+    "path": "/shop/productdetails/104938/sally-hansen-insta-dri-pink-blink-nail-polish",
+    "description": " Sally Hansen Insta Dri Pink<br>Blink Nail Polish each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/104938.jpg"
+  },
+  {
+    "retailerProductId": "273110",
+    "crossRetailerId": "4005808369928",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.42,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "4.8g",
+      "price": 5
+    },
+    "name": "Nivea Hydrocare Lip Balm SPF 15 4.8g",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/273110/nivea-hydrocare-lip-balm-spf-15",
+    "description": " Nivea Hydrocare Lip Balm SPF<br>15 4.8g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/273110.jpg"
+  },
+  {
+    "retailerProductId": "205926",
+    "crossRetailerId": "4005808369836",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.42,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "48g",
+      "price": 5
+    },
+    "name": "Nivea Fruity Shine Strawberry Lip Balm 48g",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/205926/nivea-fruity-shine-strawberry-lip-balm",
+    "description": " Nivea Fruity Shine<br>Strawberry Lip Balm 48g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/205926.jpg"
+  },
+  {
+    "retailerProductId": "385334",
+    "crossRetailerId": "9310320004420",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.33,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "24 pack",
+      "price": 7.9
+    },
+    "name": "Hero. Mighty Patch The Original 24 pack",
+    "brand": "Hero.",
+    "path": "/shop/productdetails/385334/hero-mighty-patch-the-original",
+    "description": " Hero. Mighty Patch The<br>Original  24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/385334.jpg"
+  },
+  {
+    "retailerProductId": "381675",
+    "crossRetailerId": "93518987",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 2.24,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "125mL",
+      "price": 2.8
+    },
+    "name": "Oscar Orsen Nail Polish Remover Nourishing 125mL",
+    "brand": "Oscar Orsen",
+    "path": "/shop/productdetails/381675/oscar-orsen-nail-polish-remover-nourishing",
+    "description": " Oscar Orsen Nail Polish<br>Remover Nourishing 125mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/381675.jpg"
+  },
+  {
+    "retailerProductId": "138041",
+    "crossRetailerId": "4005900759672",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "150mL",
+      "price": 13.5
+    },
+    "name": "Nivea Caring Cleansing Cream Face Wash Dry & Sensitive Skin 150mL",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/138041/nivea-caring-cleansing-cream-face-wash-dry-sensitive-skin",
+    "description": " Nivea Caring Cleansing Cream<br>Face Wash Dry &... 150mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/138041.jpg"
+  },
+  {
+    "retailerProductId": "200345",
+    "crossRetailerId": "9400562431235",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.17,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "750mL",
+      "price": 8.75
+    },
+    "name": "Vaseline Intensive Care Body Lotion Deep Restore 750mL",
+    "brand": "Vaseline",
+    "path": "/shop/productdetails/200345/vaseline-intensive-care-body-lotion-deep-restore",
+    "description": " Vaseline Intensive Care Body<br>Lotion Deep... 750mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/200345.jpg"
+  },
+  {
+    "retailerProductId": "38698",
+    "crossRetailerId": "9300673869548",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.71,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "4.2g",
+      "price": 4.5
+    },
+    "name": "Chapstick Strawberry Lip Balm With SPF 15+ Sunscreen 4.2g",
+    "brand": "Chapstick",
+    "path": "/shop/productdetails/38698/chapstick-strawberry-lip-balm-with-spf-15-sunscreen",
+    "description": " Chapstick Strawberry Lip<br>Balm With SPF 15+... 4.2g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/038698.jpg"
+  },
+  {
+    "retailerProductId": "108822",
+    "crossRetailerId": "9329224000773",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.5,
+      "unitPriceQuantity": "10G",
+      "unitPriceUnit": "10G",
+      "size": "10g",
+      "price": 6.5
+    },
+    "name": "Dermal Therapy Lip Balm 10g",
+    "brand": "Dermal Therapy",
+    "path": "/shop/productdetails/108822/dermal-therapy-lip-balm",
+    "description": " Dermal Therapy Lip Balm  10g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/108822.jpg"
+  },
+  {
+    "retailerProductId": "137908",
+    "crossRetailerId": "41554590517",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 19.44,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "each",
+      "price": 14
+    },
+    "name": "Maybelline Lash Sensational Sky High Mascara Black Washable each",
+    "brand": "Maybelline",
+    "path": "/shop/productdetails/137908/maybelline-lash-sensational-sky-high-mascara-black-washable",
+    "description": " Maybelline Lash Sensational<br>Sky High Mascara... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/137908.jpg"
+  },
+  {
+    "retailerProductId": "72569",
+    "crossRetailerId": "4005900717931",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 10
+    },
+    "name": "Nivea Aloe & Soothing Hydrating Body Lotion 400mL",
+    "brand": "Nivea",
+    "path": "/shop/productdetails/72569/nivea-aloe-soothing-hydrating-body-lotion",
+    "description": " Nivea Aloe & Soothing<br>Hydrating Body... 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/072569.jpg"
+  },
+  {
+    "retailerProductId": "65103",
+    "crossRetailerId": "52651000052",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 2.08,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "240mL",
+      "price": 5
+    },
+    "name": "T.N. Dickinson's Toners Witch Hazel 240mL",
+    "brand": "T.N. Dickinson's",
+    "path": "/shop/productdetails/65103/t-n-dickinson-s-toners-witch-hazel",
+    "description": " T.N. Dickinson's Toners<br>Witch Hazel 240mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/065103.jpg"
+  },
+  {
+    "retailerProductId": "231929",
+    "crossRetailerId": "9300711283138",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.5,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "200mL",
+      "price": 7
+    },
+    "name": "Clearasil Rapid Action Face Cleanser Gel Wash for Clearer Skin 200mL",
+    "brand": "Clearasil",
+    "path": "/shop/productdetails/231929/clearasil-rapid-action-face-cleanser-gel-wash-for-clearer-skin",
+    "description": " Clearasil Rapid Action Face<br>Cleanser Gel Wash... 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/231929.jpg"
+  },
+  {
+    "retailerProductId": "6010621",
+    "crossRetailerId": "75371028168",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 8.46,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "227mL",
+      "price": 19.2
+    },
+    "name": "Tree Hut Moisturising Shave Oil Vanilla 227mL",
+    "brand": "Tree Hut",
+    "path": "/shop/productdetails/6010621/tree-hut-moisturising-shave-oil-vanilla",
+    "description": " Tree Hut Moisturising Shave<br>Oil Vanilla 227mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010621.jpg"
+  },
+  {
+    "retailerProductId": "6056270",
+    "crossRetailerId": "9318637044573",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.63,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "236mL",
+      "price": 18
+    },
+    "name": "Cetaphil Moisturising Lotion 236mL",
+    "brand": "Cetaphil",
+    "path": "/shop/productdetails/6056270/cetaphil-moisturising-lotion",
+    "description": " Cetaphil Moisturising Lotion<br> 236mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6056270.jpg"
+  },
+  {
+    "retailerProductId": "6035800",
+    "crossRetailerId": "10181042652",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 3.25,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 13
+    },
+    "name": "Palmer's Cocoa Butter Formula Tahitian Vanilla Body Lotion 400mL",
+    "brand": "Palmer's",
+    "path": "/shop/productdetails/6035800/palmer-s-cocoa-butter-formula-tahitian-vanilla-body-lotion",
+    "description": " Palmer's Cocoa Butter<br>Formula Tahitian... 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6035800.jpg"
+  },
+  {
+    "retailerProductId": "378909",
+    "crossRetailerId": "3600524109714",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "400mL",
+      "price": 15
+    },
+    "name": "L'Oreal Paris Hair Spray Elnett Supreme Volume Hold 400mL",
+    "brand": "L'Oreal Paris",
+    "path": "/shop/productdetails/378909/l-oreal-paris-hair-spray-elnett-supreme-volume-hold",
+    "description": " L'Oreal Paris Hair Spray<br>Elnett Supreme... 400mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/378909.jpg"
+  },
+  {
+    "retailerProductId": "198497",
+    "crossRetailerId": "9331880016395",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.5,
+      "unitPriceQuantity": "10ML",
+      "unitPriceUnit": "10ML",
+      "size": "10mL",
+      "price": 10.5
+    },
+    "name": "MCoBeauty Hair & Brow Magic Wand 10mL",
+    "brand": "MCoBeauty",
+    "path": "/shop/productdetails/198497/mcobeauty-hair-brow-magic-wand",
+    "description": " MCoBeauty Hair & Brow Magic<br>Wand  10mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/198497.jpg"
+  },
+  {
+    "retailerProductId": "381672",
+    "crossRetailerId": "93518994",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 2.24,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "125mL",
+      "price": 2.8
+    },
+    "name": "Oscar Orsen Nail Polish Remover Acetone Free 125mL",
+    "brand": "Oscar Orsen",
+    "path": "/shop/productdetails/381672/oscar-orsen-nail-polish-remover-acetone-free",
+    "description": " Oscar Orsen Nail Polish<br>Remover Acetone... 125mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/381672.jpg"
+  },
+  {
+    "retailerProductId": "236711",
+    "crossRetailerId": "9314807081119",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.12,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "330g",
+      "price": 7
+    },
+    "name": "Redwin Vitamin E Cream With Evening Primrose Oil 330g",
+    "brand": "Redwin",
+    "path": "/shop/productdetails/236711/redwin-vitamin-e-cream-with-evening-primrose-oil",
+    "description": " Redwin Vitamin E Cream With<br>Evening Primrose... 330g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/236711.jpg"
+  }
+]

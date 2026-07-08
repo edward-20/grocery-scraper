@@ -1,0 +1,538 @@
+[
+  {
+    "retailerProductId": "769558",
+    "crossRetailerId": "9310264912768",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 21.4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "500g",
+      "price": 10.7
+    },
+    "name": "Bega Tasty Cheese Slices 500g",
+    "brand": "Bega",
+    "path": "/shop/productdetails/769558/bega-tasty-cheese-slices-slices",
+    "description": " Bega Tasty Cheese Slices<br>Slices 500g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/769558.jpg"
+  },
+  {
+    "retailerProductId": "6019911",
+    "crossRetailerId": "9310015257797",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "25g x 8 pack",
+      "price": 4
+    },
+    "name": "Parker's Baked Pretzels Mini Minis 25g x 8 pack",
+    "brand": "Parker's",
+    "path": "/shop/productdetails/6019911/parker-s-baked-pretzels-mini-minis",
+    "description": " Parker's Baked Pretzels Mini<br>Minis 25g x 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6019911.jpg"
+  },
+  {
+    "retailerProductId": "641537",
+    "crossRetailerId": "9310072029597",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "15 pack",
+      "price": 6
+    },
+    "name": "Arnott's Tiny Teddy Variety Biscuits 15 pack",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/641537/arnott-s-tiny-teddy-variety-biscuits",
+    "description": " Arnott's Tiny Teddy Variety<br>Biscuits 15 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/641537.jpg"
+  },
+  {
+    "retailerProductId": "245856",
+    "crossRetailerId": "9310015231988",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.34,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "20 pack",
+      "price": 8.9
+    },
+    "name": "Smith's Crinkle Cut Potato Chips Variety 20 pack",
+    "brand": "Smith's",
+    "path": "/shop/productdetails/245856/smith-s-crinkle-cut-potato-chips-variety",
+    "description": " Smith's Crinkle Cut Potato<br>Chips Variety 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/245856.jpg"
+  },
+  {
+    "retailerProductId": "133211",
+    "crossRetailerId": "0264011000002",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.88,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 0.88
+    },
+    "name": "Cavendish Bananas each",
+    "path": "/shop/productdetails/133211/cavendish-bananas",
+    "description": "  Cavendish Bananas  each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/133211.jpg"
+  },
+  {
+    "retailerProductId": "130935",
+    "crossRetailerId": "0264139000007",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.31,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 1.31
+    },
+    "name": "Fresh Granny Smith Apples each",
+    "path": "/shop/productdetails/130935/fresh-granny-smith-apples",
+    "description": "  Fresh Granny Smith Apples each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/130935.jpg"
+  },
+  {
+    "retailerProductId": "144607",
+    "crossRetailerId": "9300633026028",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 24,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "250g",
+      "price": 6
+    },
+    "name": "Strawberries Punnet 250g",
+    "path": "/shop/productdetails/144607/strawberries-punnet",
+    "description": "  Strawberries Punnet 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/144607.jpg"
+  },
+  {
+    "retailerProductId": "135369",
+    "crossRetailerId": "9300633121051",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.7,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 1.7
+    },
+    "name": "Woolworths Australian Grown Carrots 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/135369/woolworths-australian-grown-carrots",
+    "description": " Woolworths Australian Grown<br>Carrots 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/135369.jpg"
+  },
+  {
+    "retailerProductId": "169067",
+    "crossRetailerId": "9300633001674",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "250g",
+      "price": 4
+    },
+    "name": "Woolworths Qukes Baby Cucumbers Punnet 250g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/169067/woolworths-qukes-baby-cucumbers-punnet",
+    "description": " Woolworths Qukes Baby<br>Cucumbers Punnet 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/169067.jpg"
+  },
+  {
+    "retailerProductId": "116784",
+    "crossRetailerId": "9339687216253",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.65,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "600mL x 24 pack",
+      "price": 9.4
+    },
+    "name": "Woolworths Spring Water Bottles 600mL x 24 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/116784/woolworths-spring-water-bottles",
+    "description": " Woolworths Spring Water<br>Bottles  600mL x 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/116784.jpg"
+  },
+  {
+    "retailerProductId": "6057214",
+    "crossRetailerId": "9300650454309",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.91,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "367g",
+      "price": 7
+    },
+    "name": "Oreo Mini Cookies Original Bags 18 pack 367g",
+    "brand": "Oreo",
+    "path": "/shop/productdetails/6057214/oreo-mini-cookies-original-bags-18-pack",
+    "description": " Oreo Mini Cookies Original<br>Bags 18 pack 367g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6057214.jpg"
+  },
+  {
+    "retailerProductId": "79773",
+    "crossRetailerId": "9310015249020",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.37,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "20 pack",
+      "price": 8.9
+    },
+    "name": "Fun Mix Chips Variety 20 pack",
+    "brand": "Fun Mix",
+    "path": "/shop/productdetails/79773/fun-mix-chips-variety",
+    "description": " Fun Mix Chips Variety 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/079773.jpg"
+  },
+  {
+    "retailerProductId": "720545",
+    "crossRetailerId": "9421901088491",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 21.43,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "28g",
+      "price": 6
+    },
+    "name": "Rafferty's Garden Baby Food Strawberry Yoghurt Buttons 12+ Months 28g",
+    "brand": "Rafferty's Garden",
+    "path": "/shop/productdetails/720545/rafferty-s-garden-baby-food-strawberry-yoghurt-buttons-12-months",
+    "description": " Rafferty's Garden Baby Food<br>Strawberry Yoghurt... 28g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/720545.jpg"
+  },
+  {
+    "retailerProductId": "365804",
+    "crossRetailerId": "9310072033525",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.2,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "6 pack",
+      "price": 4.8
+    },
+    "name": "Arnott's Snack Right Oaty Bites Cocoa & Oat 6 pack",
+    "brand": "Arnott's",
+    "path": "/shop/productdetails/365804/arnott-s-snack-right-oaty-bites-cocoa-oat",
+    "description": " Arnott's Snack Right Oaty<br>Bites Cocoa & Oat 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365804.jpg"
+  },
+  {
+    "retailerProductId": "149620",
+    "crossRetailerId": "9300633607333",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 12,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "250g",
+      "price": 3
+    },
+    "name": "Woolworths Cherry Tomatoes Punnet 250g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/149620/woolworths-cherry-tomatoes-punnet",
+    "description": " Woolworths Cherry Tomatoes<br>Punnet 250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/149620.jpg"
+  },
+  {
+    "retailerProductId": "267084",
+    "crossRetailerId": "0263279000007",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.39,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 1.39
+    },
+    "name": "Zespri SunGold Kiwifruit each",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/267084/woolworths-sungold-kiwifruit-gold",
+    "description": " Woolworths SunGold Kiwifruit<br>Gold each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/267084.jpg"
+  },
+  {
+    "retailerProductId": "169792",
+    "crossRetailerId": "9317948004511",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 44,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "125g",
+      "price": 5.5
+    },
+    "name": "Blueberries Punnet 125g",
+    "path": "/shop/productdetails/169792/blueberries-punnet",
+    "description": "  Blueberries Punnet 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/169792.jpg"
+  },
+  {
+    "retailerProductId": "139238",
+    "crossRetailerId": "0266460000008",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.02,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 1.02
+    },
+    "name": "Kiwi Fruit Green each",
+    "path": "/shop/productdetails/139238/kiwi-fruit-green",
+    "description": "  Kiwi Fruit Green  each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/139238.jpg"
+  },
+  {
+    "retailerProductId": "165262",
+    "crossRetailerId": "9317948008038",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 36,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "125g",
+      "price": 4.5
+    },
+    "name": "Raspberries Punnet 125g",
+    "brand": "Driscoll's",
+    "path": "/shop/productdetails/165262/driscoll-s-raspberries-punnet",
+    "description": " Driscoll's Raspberries<br>Punnet 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/165262.jpg"
+  },
+  {
+    "retailerProductId": "138801",
+    "crossRetailerId": "0264274000009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.9,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 7.9
+    },
+    "name": "White Seedless Grapes Bag Approx. 900g each",
+    "path": "/shop/productdetails/138801/white-seedless-grapes-bag-approx-900g",
+    "description": "  White Seedless Grapes Bag<br>Approx. 900g each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/138801.jpg"
+  },
+  {
+    "retailerProductId": "129693",
+    "crossRetailerId": "0276562000004",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 24,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 24
+    },
+    "name": "D'Orsogna Champagne Leg Ham Shaved From The Deli per 100g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/129693/d-orsogna-champagne-leg-ham-shaved-from-the-deli",
+    "description": " D'Orsogna Champagne Leg Ham<br>Shaved From The... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/129693.jpg"
+  },
+  {
+    "retailerProductId": "106218",
+    "crossRetailerId": "9334969003507",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "5 pack",
+      "price": 3.5
+    },
+    "name": "Bananas Kids 5 pack",
+    "path": "/shop/productdetails/106218/bananas-kids",
+    "description": "  Bananas Kids  5 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/106218.jpg"
+  },
+  {
+    "retailerProductId": "524322",
+    "crossRetailerId": "9300633614867",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 27.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "120g",
+      "price": 3.3
+    },
+    "name": "Woolworths Baby Leaf Spinach 120g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/524322/woolworths-baby-leaf-spinach",
+    "description": " Woolworths Baby Leaf Spinach<br> 120g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/524322.jpg"
+  },
+  {
+    "retailerProductId": "727144",
+    "crossRetailerId": "9300633317621",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 15,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "200g",
+      "price": 3
+    },
+    "name": "Woolworths Sweet Solanato Tomato Punnet 200g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/727144/woolworths-sweet-solanato-tomato-punnet-punnet",
+    "description": " Woolworths Sweet Solanato<br>Tomato Punnet... 200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/727144.jpg"
+  },
+  {
+    "retailerProductId": "130276",
+    "crossRetailerId": "0278776000009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 19.9,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 19.9
+    },
+    "name": "Leg Ham Shaved From The Deli per 100g",
+    "path": "/shop/productdetails/130276/leg-ham-shaved-from-the-deli",
+    "description": "  Leg Ham Shaved From The<br>Deli per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/130276.jpg"
+  },
+  {
+    "retailerProductId": "175734",
+    "crossRetailerId": "0278697000003",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 28,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 28
+    },
+    "name": "D'Orsogna Ham Leg Triple Smoked 97% Fat Free Shaved From The Deli per 100g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/175734/d-orsogna-ham-leg-triple-smoked-97-fat-free-shaved-from-the-deli",
+    "description": " D'Orsogna Ham Leg Triple<br>Smoked 97% Fat... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/175734.jpg"
+  },
+  {
+    "retailerProductId": "263669",
+    "crossRetailerId": "9310023138705",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.67,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "700g",
+      "price": 4.7
+    },
+    "name": "Wonder White Bread Vitamins & Minerals Sandwich 700g",
+    "brand": "Wonder",
+    "path": "/shop/productdetails/263669/wonder-white-bread-vitamins-minerals-sandwich",
+    "description": " Wonder White Bread Vitamins<br>& Minerals Sandwich 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/263669.jpg"
+  },
+  {
+    "retailerProductId": "771258",
+    "crossRetailerId": "9336243005023",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.94,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "425mL",
+      "price": 4.65
+    },
+    "name": "Rokeby Protein Smoothie Dutch Chocolate 425mL",
+    "brand": "Rokeby",
+    "path": "/shop/productdetails/771258/rokeby-protein-smoothie-dutch-chocolate",
+    "description": " Rokeby Protein Smoothie<br>Dutch Chocolate 425mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/771258.jpg"
+  },
+  {
+    "retailerProductId": "6010283",
+    "crossRetailerId": "9339687411702",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.14,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "70g",
+      "price": 0.8
+    },
+    "name": "Woolworths Strawberry Yoghurt Pouch 70g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/6010283/woolworths-strawberry-yoghurt-pouch-strawberry",
+    "description": " Woolworths Strawberry<br>Yoghurt Pouch... 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010283.jpg"
+  },
+  {
+    "retailerProductId": "38609",
+    "crossRetailerId": "9350177000152",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 31.05,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "95g",
+      "price": 2.95
+    },
+    "name": "Sirena Tuna In Oil Italian Style 95g",
+    "brand": "Sirena",
+    "path": "/shop/productdetails/38609/sirena-tuna-in-oil-italian-style",
+    "description": " Sirena Tuna In Oil Italian<br>Style 95g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/038609.jpg"
+  },
+  {
+    "retailerProductId": "314012",
+    "crossRetailerId": "9300633097622",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.9,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 4.9
+    },
+    "name": "Woolworths Royal Gala Apple Punnet 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/314012/woolworths-royal-gala-apple-punnet",
+    "description": " Woolworths Royal Gala Apple<br>Punnet 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/314012.jpg"
+  },
+  {
+    "retailerProductId": "6010295",
+    "crossRetailerId": "9339687411689",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.14,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "70g",
+      "price": 0.8
+    },
+    "name": "Woolworths Vanilla Yoghurt Pouch 70g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/6010295/woolworths-vanilla-yoghurt-pouch-vanilla",
+    "description": " Woolworths Vanilla Yoghurt<br>Pouch Vanilla 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010295.jpg"
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "retailerProductId": "345587",
+    "crossRetailerId": "9316642010095",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "600g",
+      "price": 6
+    },
+    "name": "Paws Fresh Adult Chilled Dog Food Diced Tender Chicken 600g",
+    "brand": "Paws Fresh",
+    "path": "/shop/productdetails/345587/paws-fresh-adult-chilled-dog-food-diced-tender-chicken",
+    "description": " Paws Fresh Adult Chilled Dog<br>Food Diced Tender... 600g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/345587.jpg"
+  },
+  {
+    "retailerProductId": "349075",
+    "crossRetailerId": "9334214018430",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.68,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g x 7 pack",
+      "price": 10
+    },
+    "name": "Dine Adult Wet Cat Food Saucy Morsels with Salmon Trays 85g x 7 pack",
+    "brand": "Dine",
+    "path": "/shop/productdetails/349075/dine-adult-wet-cat-food-saucy-morsels-with-salmon-trays",
+    "description": " Dine Adult Wet Cat Food<br>Saucy... 85g x 7 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/349075.jpg"
+  },
+  {
+    "retailerProductId": "625692",
+    "crossRetailerId": "9334214040462",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g x 12 pack",
+      "price": 13
+    },
+    "name": "Whiskas Adult 1 + Years Wet Cat Food Tuna Favourites In Jelly 85g x 12 pack",
+    "brand": "Whiskas",
+    "path": "/shop/productdetails/625692/whiskas-adult-1-years-wet-cat-food-tuna-favourites-in-jelly",
+    "description": " Whiskas Adult 1 + Years Wet<br>Cat Food... 85g x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/625692.jpg"
+  },
+  {
+    "retailerProductId": "692986",
+    "crossRetailerId": "9319185743307",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.74,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "2.5Kg",
+      "price": 18.5
+    },
+    "name": "Fussy Cat Grain Free Adult Dry Cat Food Beef Kangaroo & Sweet Potato 2.5kg",
+    "brand": "Fussy Cat",
+    "path": "/shop/productdetails/692986/fussy-cat-grain-free-adult-dry-cat-food-beef-kangaroo-sweet-potato",
+    "description": " Fussy Cat Grain Free Adult<br>Dry Cat Food Beef... 2.5Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/692986.jpg"
+  },
+  {
+    "retailerProductId": "114159",
+    "crossRetailerId": "9310768113760",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "400g",
+      "price": 2
+    },
+    "name": "Ultimates Indulge Beef Casserole With Vegetables Wet Dog Food 400g",
+    "brand": "Ultimates Indulge",
+    "path": "/shop/productdetails/114159/ultimates-indulge-beef-casserole-with-vegetables-wet-dog-food",
+    "description": " Ultimates Indulge Beef<br>Casserole With... 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/114159.jpg"
+  },
+  {
+    "retailerProductId": "214646",
+    "crossRetailerId": "9310022193200",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.57,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "700g",
+      "price": 4
+    },
+    "name": "Optimum Adult Wet Dog Food with Beef & Rice Can 700g",
+    "brand": "Optimum",
+    "path": "/shop/productdetails/214646/optimum-adult-wet-dog-food-with-beef-rice-can",
+    "description": " Optimum Adult Wet Dog Food<br>with Beef & Rice... 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/214646.jpg"
+  },
+  {
+    "retailerProductId": "332931",
+    "crossRetailerId": "9334214009599",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.8,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "100g",
+      "price": 1.8
+    },
+    "name": "My Dog Adult 7+ Turkey & Rice With Vegetables Wet Food Tray 100g",
+    "brand": "My Dog",
+    "path": "/shop/productdetails/332931/my-dog-adult-7-turkey-rice-with-vegetables-wet-food-tray",
+    "description": " My Dog Adult 7+ Turkey &<br>Rice With... 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/332931.jpg"
+  },
+  {
+    "retailerProductId": "58867",
+    "crossRetailerId": "9314364111250",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "700g",
+      "price": 3.5
+    },
+    "name": "Nature's Gift Adult Wet Dog Food Loaf Lamb Recipe With Vegetables & Pasta 700g",
+    "brand": "Nature's Gift",
+    "path": "/shop/productdetails/58867/nature-s-gift-adult-wet-dog-food-loaf-lamb-recipe-with-vegetables-pasta",
+    "description": " Nature's Gift Adult Wet Dog<br>Food Loaf Lamb... 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/058867.jpg"
+  },
+  {
+    "retailerProductId": "336399",
+    "crossRetailerId": "93532952",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 2.94,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 2.5
+    },
+    "name": "Dine Desire Pure Tuna Whitemeat Grain Free Wet Cat Food Can 85g",
+    "brand": "Dine",
+    "path": "/shop/productdetails/336399/dine-desire-pure-tuna-whitemeat-grain-free-wet-cat-food-can",
+    "description": " Dine Desire Pure Tuna<br>Whitemeat Grain Free... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/336399.jpg"
+  },
+  {
+    "retailerProductId": "55060",
+    "crossRetailerId": "9310768112558",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "400g",
+      "price": 2
+    },
+    "name": "Ultimates Indulge Wet Dog Food Beef Mince In Gravy 400g",
+    "brand": "Ultimates Indulge",
+    "path": "/shop/productdetails/55060/ultimates-indulge-wet-dog-food-beef-mince-in-gravy",
+    "description": " Ultimates Indulge Wet Dog<br>Food Beef Mince In... 400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/055060.jpg"
+  },
+  {
+    "retailerProductId": "924580",
+    "crossRetailerId": "9319185007829",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "80g x 12 pack",
+      "price": 13.5
+    },
+    "name": "Fussy Cat Fishy Slices & Jelly Wet Cat Food 80g x 12 pack",
+    "brand": "Fussy Cat",
+    "path": "/shop/productdetails/924580/fussy-cat-fishy-slices-jelly-wet-cat-food",
+    "description": " Fussy Cat Fishy Slices &<br>Jelly Wet... 80g x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/924580.jpg"
+  },
+  {
+    "retailerProductId": "360069",
+    "crossRetailerId": "9334214019499",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.77,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "3kg",
+      "price": 23
+    },
+    "name": "Optimum Puppy All Breed Dry Dog Food with Chicken 3kg",
+    "brand": "Optimum",
+    "path": "/shop/productdetails/360069/optimum-puppy-all-breed-dry-dog-food-with-chicken",
+    "description": " Optimum Puppy All Breed Dry<br>Dog Food with... 3kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/360069.jpg"
+  },
+  {
+    "retailerProductId": "6057514",
+    "crossRetailerId": "9319185009557",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "2.5kg",
+      "price": 15
+    },
+    "name": "Nature's Gift Grain Free Sensitive Adult Dry Dog Food With Fish 2.5kg",
+    "brand": "Nature's Gift",
+    "path": "/shop/productdetails/6057514/nature-s-gift-grain-free-sensitive-adult-dry-dog-food-with-fish",
+    "description": " Nature's Gift Grain Free<br>Sensitive Adult... 2.5kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6057514.jpg"
+  },
+  {
+    "retailerProductId": "520614",
+    "crossRetailerId": "9421907880129",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.3,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 33
+    },
+    "name": "Animals Like Us RawMix33 Dry Dog Food With Ocean Fish 1kg",
+    "brand": "Animals Like Us",
+    "path": "/shop/productdetails/520614/animals-like-us-rawmix33-dry-dog-food-with-ocean-fish",
+    "description": " Animals Like Us RawMix33 Dry<br>Dog Food With Ocean... 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/520614.jpg"
+  },
+  {
+    "retailerProductId": "327271",
+    "crossRetailerId": "8850127009538",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 1.2
+    },
+    "name": "Fancy Feast Liver & Chicken Feast In Gravy Wet Cat Food 85g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/327271/fancy-feast-liver-chicken-feast-in-gravy-wet-cat-food",
+    "description": " Fancy Feast Liver & Chicken<br>Feast In Gravy Wet... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/327271.jpg"
+  },
+  {
+    "retailerProductId": "481065",
+    "crossRetailerId": "9339687428274",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.53,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 5.25
+    },
+    "name": "Smitten Dry Cat Food Beef Lamb & Vegetables 1kg",
+    "brand": "Smitten",
+    "path": "/shop/productdetails/481065/smitten-dry-cat-food-beef-lamb-vegetables",
+    "description": " Smitten Dry Cat Food Beef<br>Lamb & Vegetables 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/481065.jpg"
+  },
+  {
+    "retailerProductId": "480930",
+    "crossRetailerId": "9300633554040",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.27,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1.2kg",
+      "price": 3.2
+    },
+    "name": "Baxter's Wet Dog Food Casserole Lamb Pasta & Vegetables 1.2kg",
+    "brand": "Baxter's",
+    "path": "/shop/productdetails/480930/baxter-s-wet-dog-food-casserole-lamb-pasta-vegetables",
+    "description": " Baxter's Wet Dog Food<br>Casserole Lamb... 1.2kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/480930.jpg"
+  },
+  {
+    "retailerProductId": "477601",
+    "crossRetailerId": "9300605108189",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.98,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g x 12 pack",
+      "price": 10
+    },
+    "name": "Felix Sensations Jellies Favourites Menu Wet Cat Food 85g x 12 pack",
+    "brand": "Felix",
+    "path": "/shop/productdetails/477601/felix-sensations-jellies-favourites-menu-wet-cat-food",
+    "description": " Felix Sensations Jellies<br>Favourites... 85g x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/477601.jpg"
+  },
+  {
+    "retailerProductId": "239623",
+    "crossRetailerId": "9353767306214",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "80g",
+      "price": 2
+    },
+    "name": "Pretty Wild Shredded Chicken & Tuna Wet Cat Food 80g",
+    "brand": "Pretty Wild",
+    "path": "/shop/productdetails/239623/pretty-wild-shredded-chicken-tuna-wet-cat-food",
+    "description": " Pretty Wild Shredded Chicken<br>& Tuna Wet Cat Food 80g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/239623.jpg"
+  },
+  {
+    "retailerProductId": "477637",
+    "crossRetailerId": "9334214038285",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.68,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g x 7 pack",
+      "price": 10
+    },
+    "name": "Dine Adult Wet Cat Food Saucy Morsels with Tuna & Cheese 85g x 7 pack",
+    "brand": "Dine",
+    "path": "/shop/productdetails/477637/dine-adult-wet-cat-food-saucy-morsels-with-tuna-cheese",
+    "description": " Dine Adult Wet Cat Food<br>Saucy... 85g x 7 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/477637.jpg"
+  },
+  {
+    "retailerProductId": "360613",
+    "crossRetailerId": "50000578412",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 1.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 1.2
+    },
+    "name": "Fancy Feast Gravy Lovers Salmon Wet Cat Food 85g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/360613/fancy-feast-gravy-lovers-salmon-wet-cat-food",
+    "description": " Fancy Feast Gravy Lovers<br>Salmon Wet Cat Food 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/360613.jpg"
+  },
+  {
+    "retailerProductId": "349690",
+    "crossRetailerId": "9334214018331",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.88,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 1.6
+    },
+    "name": "Dine Adult Wet Cat Food Saucy Morsels with Tuna & Cheese 85g",
+    "brand": "Dine",
+    "path": "/shop/productdetails/349690/dine-adult-wet-cat-food-saucy-morsels-with-tuna-cheese",
+    "description": " Dine Adult Wet Cat Food<br>Saucy Morsels with... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/349690.jpg"
+  },
+  {
+    "retailerProductId": "27652",
+    "crossRetailerId": "9310022034701",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.38,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1.2Kg",
+      "price": 4.5
+    },
+    "name": "Pedigree Homestyle With Beef Pasta & Veggies Wet Dog Food Can 1.2kg",
+    "brand": "Pedigree",
+    "path": "/shop/productdetails/27652/pedigree-homestyle-with-beef-pasta-veggies-wet-dog-food-can",
+    "description": " Pedigree Homestyle With Beef<br>Pasta & Veggies... 1.2Kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/027652.jpg"
+  },
+  {
+    "retailerProductId": "672106",
+    "crossRetailerId": "9339687023882",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "1L",
+      "unitPriceUnit": "1L",
+      "size": "20L",
+      "price": 20
+    },
+    "name": "Smitten Recycled Paper Cat Litter 20l",
+    "brand": "Smitten",
+    "path": "/shop/productdetails/672106/smitten-recycled-paper-cat-litter",
+    "description": " Smitten Recycled Paper Cat<br>Litter 20L",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/672106.jpg"
+  },
+  {
+    "retailerProductId": "336403",
+    "crossRetailerId": "93532938",
+    "gtinFormat": 8,
+    "currentValue": {
+      "unitPrice": 2.94,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 2.5
+    },
+    "name": "Dine Desire Tuna & Prawn In Sauce Grain Free Wet Cat Food 85g",
+    "brand": "Dine",
+    "path": "/shop/productdetails/336403/dine-desire-tuna-prawn-in-sauce-grain-free-wet-cat-food",
+    "description": " Dine Desire Tuna & Prawn In<br>Sauce Grain Free Wet... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/336403.jpg"
+  },
+  {
+    "retailerProductId": "727075",
+    "crossRetailerId": "9300605080553",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.75,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "40g",
+      "price": 1.9
+    },
+    "name": "Fancy Feast Adult Royale Broths Tuna Surimi Whitebait Wet Cat Food 40g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/727075/fancy-feast-adult-royale-broths-tuna-surimi-whitebait-wet-cat-food",
+    "description": " Fancy Feast Adult Royale<br>Broths Tuna Surimi... 40g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/727075.jpg"
+  },
+  {
+    "retailerProductId": "141502",
+    "crossRetailerId": "9300605153943",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.71,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "70g",
+      "price": 1.9
+    },
+    "name": "Purina One Adult Indoor With Chicken In Gravy Wet Cat Food 70g",
+    "brand": "Purina One",
+    "path": "/shop/productdetails/141502/purina-one-adult-indoor-with-chicken-in-gravy-wet-cat-food",
+    "description": " Purina One Adult Indoor With<br>Chicken In Gravy Wet... 70g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/141502.jpg"
+  },
+  {
+    "retailerProductId": "63690",
+    "crossRetailerId": "50000172757",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 3.06,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 2.6
+    },
+    "name": "Fancy Feast Adult Savory Centers Patè Salmon Gravy Wet Cat Food 85g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/63690/fancy-feast-adult-savory-centers-pat-salmon-gravy-wet-cat-food",
+    "description": " Fancy Feast Adult Savory<br>Centers Patè Salmon... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/063690.jpg"
+  },
+  {
+    "retailerProductId": "359587",
+    "crossRetailerId": "9334214019086",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.8,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "100g",
+      "price": 1.8
+    },
+    "name": "My Dog Puppy Chicken With Rice Carrot & Spinach Wet Food Tray 100g",
+    "brand": "My Dog",
+    "path": "/shop/productdetails/359587/my-dog-puppy-chicken-with-rice-carrot-spinach-wet-food-tray",
+    "description": " My Dog Puppy Chicken With<br>Rice Carrot &... 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/359587.jpg"
+  },
+  {
+    "retailerProductId": "784320",
+    "crossRetailerId": "9334214030678",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g x 12 pack",
+      "price": 13
+    },
+    "name": "Whiskas Adult 1 + Years Wet Cat Food Mixed Favourites In Jelly 85g x 12 pack",
+    "brand": "Whiskas",
+    "path": "/shop/productdetails/784320/whiskas-adult-1-years-wet-cat-food-mixed-favourites-in-jelly",
+    "description": " Whiskas Adult 1 + Years Wet<br>Cat Food... 85g x 12 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/784320.jpg"
+  },
+  {
+    "retailerProductId": "938947",
+    "crossRetailerId": "8850127000658",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 1.2
+    },
+    "name": "Fancy Feast Kitten Classic Pate Tender Chicken Wet Cat Food 85g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/938947/fancy-feast-kitten-classic-pate-tender-chicken-wet-cat-food",
+    "description": " Fancy Feast Kitten Classic<br>Pate Tender Chicken... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/938947.jpg"
+  },
+  {
+    "retailerProductId": "334048",
+    "crossRetailerId": "9321855002232",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.45,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 2.45
+    },
+    "name": "Bow Wow Beef Roo Roll Dog Treat each",
+    "brand": "Bow Wow",
+    "path": "/shop/productdetails/334048/bow-wow-beef-roo-roll-dog-treat",
+    "description": " Bow Wow Beef Roo Roll Dog<br>Treat each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/334048.jpg"
+  }
+]

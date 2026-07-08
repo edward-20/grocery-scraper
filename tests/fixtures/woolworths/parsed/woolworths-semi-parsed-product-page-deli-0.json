@@ -1,0 +1,426 @@
+[
+  {
+    "retailerProductId": "6035811",
+    "crossRetailerId": "9330370015016",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.4,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "50g x 2 pack",
+      "price": 3.4
+    },
+    "name": "Nuffin Hommus Dip 50g x 2 pack",
+    "brand": "Nuffin",
+    "path": "/shop/productdetails/6035811/nuffin-hommus-dip",
+    "description": " Nuffin Hommus Dip  50g x 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6035811.jpg"
+  },
+  {
+    "retailerProductId": "129693",
+    "crossRetailerId": "0276562000004",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 24,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 24
+    },
+    "name": "D'Orsogna Champagne Leg Ham Shaved From The Deli per 100g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/129693/d-orsogna-champagne-leg-ham-shaved-from-the-deli",
+    "description": " D'Orsogna Champagne Leg Ham<br>Shaved From The... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/129693.jpg"
+  },
+  {
+    "retailerProductId": "71841",
+    "crossRetailerId": "0277540000009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 125g",
+      "price": 10.5
+    },
+    "name": "D'Orsogna Shortcut Bacon From the Deli per 125g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/71841/d-orsogna-shortcut-bacon-from-the-deli",
+    "description": " D'Orsogna Shortcut Bacon<br>From the Deli per 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/071841.jpg"
+  },
+  {
+    "retailerProductId": "714680",
+    "crossRetailerId": "0272476000000",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 19,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 170g",
+      "price": 19
+    },
+    "name": "Hans Middle Bacon Rashers From the Deli per 170g",
+    "brand": "Hans",
+    "path": "/shop/productdetails/714680/hans-middle-bacon-rashers-from-the-deli",
+    "description": " Hans Middle Bacon Rashers<br>From the Deli per 170g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/714680.jpg"
+  },
+  {
+    "retailerProductId": "130276",
+    "crossRetailerId": "0278776000009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 19.9,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 19.9
+    },
+    "name": "Leg Ham Shaved From The Deli per 100g",
+    "path": "/shop/productdetails/130276/leg-ham-shaved-from-the-deli",
+    "description": "  Leg Ham Shaved From The<br>Deli per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/130276.jpg"
+  },
+  {
+    "retailerProductId": "175734",
+    "crossRetailerId": "0278697000003",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 28,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 28
+    },
+    "name": "D'Orsogna Ham Leg Triple Smoked 97% Fat Free Shaved From The Deli per 100g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/175734/d-orsogna-ham-leg-triple-smoked-97-fat-free-shaved-from-the-deli",
+    "description": " D'Orsogna Ham Leg Triple<br>Smoked 97% Fat... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/175734.jpg"
+  },
+  {
+    "retailerProductId": "746376",
+    "crossRetailerId": "0276620000007",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 23,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 110g",
+      "price": 23
+    },
+    "name": "D'Orsogna Streaky Bacon From The Deli per 110g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/746376/d-orsogna-streaky-bacon-from-the-deli",
+    "description": " D'Orsogna Streaky Bacon From<br>The Deli per 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/746376.jpg"
+  },
+  {
+    "retailerProductId": "785788",
+    "crossRetailerId": "0273818000009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 30.15,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 30.15
+    },
+    "name": "Moira Mac's Roasted Chicken Breast Shredded From The Deli per 100g",
+    "brand": "Moira Mac's",
+    "path": "/shop/productdetails/785788/moira-mac-s-roasted-chicken-breast-shredded-from-the-deli",
+    "description": " Moira Mac's Roasted Chicken<br>Breast Shredded... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/785788.jpg"
+  },
+  {
+    "retailerProductId": "103449",
+    "crossRetailerId": "0270200000005",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 28,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 28
+    },
+    "name": "D'Orsogna Honey Ham Shaved From The Deli per 100g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/103449/d-orsogna-honey-ham-shaved-from-the-deli",
+    "description": " D'Orsogna Honey Ham Shaved<br>From The Deli per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/103449.jpg"
+  },
+  {
+    "retailerProductId": "353946",
+    "crossRetailerId": "0271484000002",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 35,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 35
+    },
+    "name": "Bertocchi Premium Boneless Leg Ham Shaved From The Deli per 100g",
+    "brand": "Bertocchi",
+    "path": "/shop/productdetails/353946/bertocchi-premium-boneless-leg-ham-shaved-from-the-deli",
+    "description": " Bertocchi Premium Boneless<br>Leg Ham Shaved... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/353946.jpg"
+  },
+  {
+    "retailerProductId": "199215",
+    "crossRetailerId": "0279082000004",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 26,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 130g",
+      "price": 26
+    },
+    "name": "D'Orsogna Chorizo From The Deli per 130g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/199215/d-orsogna-chorizo-from-the-deli",
+    "description": " D'Orsogna Chorizo From The<br>Deli per 130g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/199215.jpg"
+  },
+  {
+    "retailerProductId": "85587",
+    "crossRetailerId": "9339687164394",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 22.8,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "250g",
+      "price": 5.7
+    },
+    "name": "Woolworths Shredded Parmesan Cheese 250g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/85587/woolworths-shredded-parmesan-cheese",
+    "description": " Woolworths Shredded Parmesan<br>Cheese  250g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/085587.jpg"
+  },
+  {
+    "retailerProductId": "390450",
+    "crossRetailerId": "9300767182508",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20.94,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "4 pack",
+      "price": 6.7
+    },
+    "name": "D'Orsogna Leg Ham Shaved 4 pack",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/390450/d-orsogna-leg-ham-shaved",
+    "description": " D'Orsogna Leg Ham Shaved 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/390450.jpg"
+  },
+  {
+    "retailerProductId": "937258",
+    "crossRetailerId": "0272368000002",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 29,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 29
+    },
+    "name": "D'Orsogna Premium Ham Off The Bone Shaved From The Deli per 100g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/937258/d-orsogna-premium-ham-off-the-bone-shaved-from-the-deli",
+    "description": " D'Orsogna Premium Ham Off<br>The Bone Shaved... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/937258.jpg"
+  },
+  {
+    "retailerProductId": "509865",
+    "crossRetailerId": "9300633568696",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 19,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "200g",
+      "price": 3.8
+    },
+    "name": "Woolworths Short Cut Bacon 200g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/509865/woolworths-short-cut-bacon",
+    "description": " Woolworths Short Cut Bacon  200g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/509865.jpg"
+  },
+  {
+    "retailerProductId": "55375",
+    "crossRetailerId": "9339687105038",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 12.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 12.5
+    },
+    "name": "Woolworths Shortcut Bacon 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/55375/woolworths-shortcut-bacon",
+    "description": " Woolworths Shortcut Bacon  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/055375.jpg"
+  },
+  {
+    "retailerProductId": "544761",
+    "crossRetailerId": "9311594016966",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 39.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "100g",
+      "price": 3.95
+    },
+    "name": "Primo Champagne Leg Ham Sliced 100g",
+    "brand": "Primo",
+    "path": "/shop/productdetails/544761/primo-champagne-leg-ham-sliced",
+    "description": " Primo Champagne Leg Ham<br>Sliced 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/544761.jpg"
+  },
+  {
+    "retailerProductId": "71860",
+    "crossRetailerId": "0278511000004",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 20
+    },
+    "name": "D'Orsogna Diced Bacon From the Deli per 100g",
+    "brand": "D'Orsogna",
+    "path": "/shop/productdetails/71860/d-orsogna-diced-bacon-from-the-deli",
+    "description": " D'Orsogna Diced Bacon From<br>the Deli per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/071860.jpg"
+  },
+  {
+    "retailerProductId": "27316",
+    "crossRetailerId": "0272234000006",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 30,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 30
+    },
+    "name": "Ingham's Turkey Breast Shaved From The Deli per 100g",
+    "brand": "Ingham's",
+    "path": "/shop/productdetails/27316/ingham-s-turkey-breast-shaved-from-the-deli",
+    "description": " Ingham's Turkey Breast<br>Shaved From The... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/027316.jpg"
+  },
+  {
+    "retailerProductId": "741794",
+    "crossRetailerId": "0274806000001",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 9.5
+    },
+    "name": "Don Cocktail Frankfurts From The Deli per 100g",
+    "brand": "Don",
+    "path": "/shop/productdetails/741794/don-cocktail-frankfurts-from-the-deli",
+    "description": " Don Cocktail Frankfurts From<br>The Deli per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/741794.jpg"
+  },
+  {
+    "retailerProductId": "777945",
+    "crossRetailerId": "0273495000002",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 29.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 29.5
+    },
+    "name": "KRC Mild Hungarian Salami Shaved From The Deli per 100g",
+    "brand": "KRC",
+    "path": "/shop/productdetails/777945/krc-mild-hungarian-salami-shaved-from-the-deli",
+    "description": " KRC Mild Hungarian Salami<br>Shaved From The... per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/777945.jpg"
+  },
+  {
+    "retailerProductId": "48527",
+    "crossRetailerId": "0270001000006",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 9.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "per 100g",
+      "price": 9.5
+    },
+    "name": "Hans Devon Sliced From The Deli per 100g",
+    "brand": "Hans",
+    "path": "/shop/productdetails/48527/hans-devon-sliced-from-the-deli",
+    "description": " Hans Devon Sliced From The<br>Deli per 100g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/048527.jpg"
+  },
+  {
+    "retailerProductId": "42161",
+    "crossRetailerId": "9300665023217",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 38.4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "125g",
+      "price": 4.8
+    },
+    "name": "Perfect Italiano Parmesan Cheese Grated 125g",
+    "brand": "Perfect Italiano",
+    "path": "/shop/productdetails/42161/perfect-italiano-parmesan-cheese-grated-parmesan",
+    "description": " Perfect Italiano Parmesan<br>Cheese Grated... 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/042161.jpg"
+  },
+  {
+    "retailerProductId": "250708",
+    "crossRetailerId": "9311594022110",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 16.67,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "300g",
+      "price": 5
+    },
+    "name": "Primo Diced Bacon Style Pieces Cook & Create Twin Pack 300g",
+    "brand": "Primo",
+    "path": "/shop/productdetails/250708/primo-diced-bacon-style-pieces-cook-create-twin-pack",
+    "description": " Primo Diced Bacon Style<br>Pieces Cook &... 300g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/250708.jpg"
+  },
+  {
+    "retailerProductId": "48358",
+    "crossRetailerId": "9300633351045",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 12.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "1kg",
+      "price": 12.5
+    },
+    "name": "Woolworths Middle Bacon 1kg",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/48358/woolworths-middle-bacon-middle-rashers",
+    "description": " Woolworths Middle Bacon<br>Middle Rashers 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/048358.jpg"
+  }
+]

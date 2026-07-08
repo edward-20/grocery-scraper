@@ -16,23 +16,23 @@ for (const file of files.filter(filename => filename.endsWith(".json")).filter(f
 
     const semiParsedResult = naiveProducts.Bundles
       .map(bundle => bundle.Products[0])
-      .filter(product => product.Price !== undefined || product.Price !== null)
+      .filter(product => product.Price !== undefined && product.Price !== null)
       .map(product => ({
         retailerProductId: product.Stockcode.toString(),
-        crossRetailerId: product.Barcode,
+        crossRetailerId: product.Barcode ?? undefined,
         gtinFormat: product.GtinFormat,
         currentValue: product.HasCupPrice ? {
           unitPrice: product.CupPrice,
           unitPriceQuantity: product.CupMeasure, // manual editing
           unitPriceUnit: product.CupMeasure,
           size: product.PackageSize,
-          price: product.Price,
+          price: product.Price as number,
         } : {
           size: product.PackageSize,
-          price: product.Price,
+          price: product.Price as number,
         },
         name: product.DisplayName,
-        brand: product.Brand,
+        brand: product.Brand ?? undefined,
         path: `/shop/productdetails/${product.Stockcode}/${product.UrlFriendlyName}`,
         description: product.Description,
         image_url: product.MediumImageFile,

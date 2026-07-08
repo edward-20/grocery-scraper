@@ -1,0 +1,543 @@
+[
+  {
+    "retailerProductId": "181156",
+    "crossRetailerId": "8850006943380",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.15,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 12.6
+    },
+    "name": "Colgate Toothbrush 360 Advanced Medium 4 pack",
+    "brand": "Colgate",
+    "path": "/shop/productdetails/181156/colgate-toothbrush-360-advanced-medium",
+    "description": " Colgate Toothbrush 360<br>Advanced Medium 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/181156.jpg"
+  },
+  {
+    "retailerProductId": "320638",
+    "crossRetailerId": "4987176158031",
+    "gtinFormat": 13,
+    "currentValue": {
+      "size": "each",
+      "price": 14
+    },
+    "name": "Gillette Venus Comfortglide Sensitive Razor With 2 Blades each",
+    "brand": "Gillette",
+    "path": "/shop/productdetails/320638/gillette-venus-comfortglide-sensitive-razor-with-2-blades",
+    "description": " Gillette Venus Comfortglide<br>Sensitive Razor... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/320638.jpg"
+  },
+  {
+    "retailerProductId": "6037823",
+    "crossRetailerId": "4987176324009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 17.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 17.5
+    },
+    "name": "Gillette Venus ComfortGlide Olay Razor With Refill Sugarberry each",
+    "brand": "Gillette",
+    "path": "/shop/productdetails/6037823/gillette-venus-comfortglide-olay-razor-with-refill-sugarberry",
+    "description": " Gillette Venus ComfortGlide<br>Olay Razor With... each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6037823.jpg"
+  },
+  {
+    "retailerProductId": "6029717",
+    "crossRetailerId": "4987176305473",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.36,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "8 pack",
+      "price": 10.85
+    },
+    "name": "Gillette Sensor3 Sensitive Disposable Razors 8 pack",
+    "brand": "Gillette",
+    "path": "/shop/productdetails/6029717/gillette-sensor3-sensitive-disposable-razors",
+    "description": " Gillette Sensor3 Sensitive<br>Disposable Razors 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6029717.jpg"
+  },
+  {
+    "retailerProductId": "742707",
+    "crossRetailerId": "9311505863887",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.55,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "6 pack",
+      "price": 5.8
+    },
+    "name": "Quilton King Size 3 Ply Toilet Paper Unscented 6 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/742707/quilton-king-size-3-ply-toilet-paper-unscented",
+    "description": " Quilton King Size 3 Ply<br>Toilet Paper... 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/742707.jpg"
+  },
+  {
+    "retailerProductId": "228797",
+    "crossRetailerId": "9300462406220",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.13,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "800g",
+      "price": 5.7
+    },
+    "name": "Birds Eye Golden Crunch Hash Browns 800g",
+    "brand": "Birds Eye",
+    "path": "/shop/productdetails/228797/birds-eye-golden-crunch-hash-browns",
+    "description": " Birds Eye Golden Crunch Hash<br>Browns 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/228797.jpg"
+  },
+  {
+    "retailerProductId": "196464",
+    "crossRetailerId": "9311505883168",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.42,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "8 pack",
+      "price": 12
+    },
+    "name": "Quilton Double Length White 3 Ply Toilet Paper 8 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/196464/quilton-double-length-white-3-ply-toilet-paper",
+    "description": " Quilton Double Length White<br>3 Ply Toilet... 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/196464.jpg"
+  },
+  {
+    "retailerProductId": "371049",
+    "crossRetailerId": "9310140005744",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.48,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "120g x 2 pack",
+      "price": 3.55
+    },
+    "name": "Sunrice Microwave Basmati Rice Cup 120g x 2 pack",
+    "brand": "Sunrice",
+    "path": "/shop/productdetails/371049/sunrice-microwave-basmati-rice-cup-2-quick-cups",
+    "description": " Sunrice Microwave Basmati<br>Rice Cup 2... 120g x 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/371049.jpg"
+  },
+  {
+    "retailerProductId": "644240",
+    "crossRetailerId": "9311505810041",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.2,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "100 pack",
+      "price": 2.2
+    },
+    "name": "Quilton Gold 4 Ply Tissues Aloe Vera 100 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/644240/quilton-gold-4-ply-tissues-aloe-vera",
+    "description": " Quilton Gold 4 Ply Tissues<br>Aloe Vera 100 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/644240.jpg"
+  },
+  {
+    "retailerProductId": "180109",
+    "crossRetailerId": "9310081128793",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 7.56,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "900g",
+      "price": 6.8
+    },
+    "name": "Birds Eye Potato Gems Bite Size Hash Brown 900g",
+    "brand": "Birds Eye",
+    "path": "/shop/productdetails/180109/birds-eye-potato-gems-bite-size-hash-brown",
+    "description": " Birds Eye Potato Gems Bite<br>Size Hash Brown 900g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180109.jpg"
+  },
+  {
+    "retailerProductId": "6026062",
+    "crossRetailerId": "4987176288165",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 54,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "40 pack",
+      "price": 21.6
+    },
+    "name": "VOOST Performance Plus Effervescent Tablets Orange 40 pack",
+    "brand": "VOOST",
+    "path": "/shop/productdetails/6026062/voost-performance-plus-effervescent-tablets-orange",
+    "description": " VOOST Performance Plus<br>Effervescent... 40 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6026062.jpg"
+  },
+  {
+    "retailerProductId": "352411",
+    "crossRetailerId": "9300632075096",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "110g",
+      "price": 11
+    },
+    "name": "Colgate Sensitive Toothpaste Pro-Relief Whitening 110g",
+    "brand": "Colgate",
+    "path": "/shop/productdetails/352411/colgate-sensitive-toothpaste-pro-relief-whitening",
+    "description": " Colgate Sensitive Toothpaste<br>Pro-Relief... 110g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/352411.jpg"
+  },
+  {
+    "retailerProductId": "86477",
+    "crossRetailerId": "9347580000701",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 42,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "20 pack",
+      "price": 8.4
+    },
+    "name": "VOOST Hydrate & Electrolyte Tablets Orange Flavour 20 pack",
+    "brand": "VOOST",
+    "path": "/shop/productdetails/86477/voost-hydrate-electrolyte-tablets-orange-flavour",
+    "description": " VOOST Hydrate & Electrolyte<br>Tablets Orange... 20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/086477.jpg"
+  },
+  {
+    "retailerProductId": "202979",
+    "crossRetailerId": "9347580000749",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.42,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "20 pack",
+      "price": 8.4
+    },
+    "name": "VOOST Hydrate Electrolyte Tablets 20 pack",
+    "brand": "VOOST",
+    "path": "/shop/productdetails/202979/voost-hydrate-electrolyte-tablets",
+    "description": " VOOST Hydrate Electrolyte<br>Tablets  20 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/202979.jpg"
+  },
+  {
+    "retailerProductId": "178201",
+    "crossRetailerId": "8850006934951",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.92,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "180g",
+      "price": 3.45
+    },
+    "name": "Colgate Cavity Protection Toothpaste Great Regular Flavour 180g",
+    "brand": "Colgate",
+    "path": "/shop/productdetails/178201/colgate-cavity-protection-toothpaste-great-regular-flavour",
+    "description": " Colgate Cavity Protection<br>Toothpaste Great... 180g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/178201.jpg"
+  },
+  {
+    "retailerProductId": "382716",
+    "crossRetailerId": "50000579310",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 1.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 1.2
+    },
+    "name": "Fancy Feast Adult Delights Chicken & Cheddar Cheese Wet Cat Food 85g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/382716/fancy-feast-adult-delights-chicken-cheddar-cheese-wet-cat-food",
+    "description": " Fancy Feast Adult Delights<br>Chicken & Cheddar... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/382716.jpg"
+  },
+  {
+    "retailerProductId": "179506",
+    "crossRetailerId": "8850011076080",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 1.2
+    },
+    "name": "Fancy Feast Adult Classic Chicken Feast Gravy Grilled Wet Cat Food 85g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/179506/fancy-feast-adult-classic-chicken-feast-gravy-grilled-wet-cat-food",
+    "description": " Fancy Feast Adult Classic<br>Chicken Feast Gravy... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/179506.jpg"
+  },
+  {
+    "retailerProductId": "42812",
+    "crossRetailerId": "9310161001015",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.33,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "300mL",
+      "price": 4
+    },
+    "name": "Bulla Thickened Cream 300mL",
+    "brand": "Bulla",
+    "path": "/shop/productdetails/42812/bulla-thickened-cream",
+    "description": " Bulla Thickened Cream  300mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/042812.jpg"
+  },
+  {
+    "retailerProductId": "47022",
+    "crossRetailerId": "9310161001022",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.05,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "600mL",
+      "price": 6.3
+    },
+    "name": "Bulla Thickened Cream 600mL",
+    "brand": "Bulla",
+    "path": "/shop/productdetails/47022/bulla-thickened-cream",
+    "description": " Bulla Thickened Cream  600mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/047022.jpg"
+  },
+  {
+    "retailerProductId": "368693",
+    "crossRetailerId": "9310088092776",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4.38,
+      "unitPriceQuantity": "100EA",
+      "unitPriceUnit": "100EA",
+      "size": "80 pack",
+      "price": 3.5
+    },
+    "name": "Huggies Glentle Cleanse Baby Wipes Cucumber & Aloe 80 pack",
+    "brand": "Huggies",
+    "path": "/shop/productdetails/368693/huggies-glentle-cleanse-baby-wipes-cucumber-aloe",
+    "description": " Huggies Glentle Cleanse Baby<br>Wipes Cucumber &... 80 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/368693.jpg"
+  },
+  {
+    "retailerProductId": "197107",
+    "crossRetailerId": "8850006943472",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.09,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "115g",
+      "price": 7
+    },
+    "name": "Colgate Whitening Toothpaste Advanced Whiten Tartar Control 115g",
+    "brand": "Colgate",
+    "path": "/shop/productdetails/197107/colgate-whitening-toothpaste-advanced-whiten-tartar-control",
+    "description": " Colgate Whitening Toothpaste<br>Advanced Whiten... 115g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/197107.jpg"
+  },
+  {
+    "retailerProductId": "87271",
+    "crossRetailerId": "8850011075984",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 1.2
+    },
+    "name": "Fancy Feast Ocean whitefish & Tuna Adult Wet Cat Food 85g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/87271/fancy-feast-ocean-whitefish-tuna-adult-wet-cat-food",
+    "description": " Fancy Feast Ocean whitefish<br>& Tuna Adult Wet Cat... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/087271.jpg"
+  },
+  {
+    "retailerProductId": "360904",
+    "crossRetailerId": "9310052277277",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 38.4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "125g",
+      "price": 4.8
+    },
+    "name": "Perfect Italiano Parmesan Cheese Shaved 125g",
+    "brand": "Perfect Italiano",
+    "path": "/shop/productdetails/360904/perfect-italiano-parmesan-cheese-shaved-parmesan",
+    "description": " Perfect Italiano Parmesan<br>Cheese Shaved... 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/360904.jpg"
+  },
+  {
+    "retailerProductId": "852042",
+    "crossRetailerId": "9311505824345",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.31,
+      "unitPriceQuantity": "100 sheets",
+      "unitPriceUnit": "100 sheets",
+      "size": "24 pack",
+      "price": 13.6
+    },
+    "name": "Quilton Prints 3 Ply Toilet Paper 24 pack",
+    "brand": "Quilton",
+    "path": "/shop/productdetails/852042/quilton-prints-3-ply-toilet-paper-180-sheets",
+    "description": " Quilton Prints 3 Ply Toilet<br>Paper 180 Sheets 24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/852042.jpg"
+  },
+  {
+    "retailerProductId": "267557",
+    "crossRetailerId": "9310140002286",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.46,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 4.55
+    },
+    "name": "Sunrice Rice Jasmine 1kg",
+    "brand": "Sunrice",
+    "path": "/shop/productdetails/267557/sunrice-rice-jasmine",
+    "description": " Sunrice Rice Jasmine 1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/267557.jpg"
+  },
+  {
+    "retailerProductId": "352041",
+    "crossRetailerId": "9310140005263",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.42,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "125g x 2 pack",
+      "price": 3.55
+    },
+    "name": "Sunrice Microwave White Long Grain Rice Cup 125g x 2 pack",
+    "brand": "Sunrice",
+    "path": "/shop/productdetails/352041/sunrice-microwave-white-long-grain-rice-cup",
+    "description": " Sunrice Microwave White Long<br>Grain Rice... 125g x 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/352041.jpg"
+  },
+  {
+    "retailerProductId": "251758",
+    "crossRetailerId": "9310140011950",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.48,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "1kg",
+      "price": 4.8
+    },
+    "name": "Sunrice Japanese Style Sushi Rice 1kg",
+    "brand": "Sunrice",
+    "path": "/shop/productdetails/251758/sunrice-japanese-style-sushi-rice",
+    "description": " Sunrice Japanese Style Sushi<br>Rice  1kg",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/251758.jpg"
+  },
+  {
+    "retailerProductId": "302306",
+    "crossRetailerId": "9310052273941",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 38.4,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "125g",
+      "price": 4.8
+    },
+    "name": "Perfect Italiano Parmesan Cheese Grated Extra Sharp 125g",
+    "brand": "Perfect Italiano",
+    "path": "/shop/productdetails/302306/perfect-italiano-parmesan-cheese-grated-extra-sharp",
+    "description": " Perfect Italiano Parmesan<br>Cheese Grated Extra... 125g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/302306.jpg"
+  },
+  {
+    "retailerProductId": "6006275",
+    "crossRetailerId": "9339687407965",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.5,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "400g",
+      "price": 1.4
+    },
+    "name": "La Gina Chickpeas 400g",
+    "brand": "La Gina",
+    "path": "/shop/productdetails/6006275/la-gina-chickpeas",
+    "description": " La Gina Chickpeas  400g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6006275.jpg"
+  },
+  {
+    "retailerProductId": "768622",
+    "crossRetailerId": "9310081431039",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 6.47,
+      "unitPriceQuantity": "1KG",
+      "unitPriceUnit": "1KG",
+      "size": "850g",
+      "price": 5.5
+    },
+    "name": "Birds Eye Stir Fry Oriental 850g",
+    "brand": "Birds Eye",
+    "path": "/shop/productdetails/768622/birds-eye-stir-fry-oriental",
+    "description": " Birds Eye Stir Fry Oriental 850g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/768622.jpg"
+  },
+  {
+    "retailerProductId": "42449",
+    "crossRetailerId": "9310161001046",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.98,
+      "unitPriceQuantity": "100ML",
+      "unitPriceUnit": "100ML",
+      "size": "200mL",
+      "price": 3.95
+    },
+    "name": "Bulla Light Sour Cream 200mL",
+    "brand": "Bulla",
+    "path": "/shop/productdetails/42449/bulla-light-sour-cream",
+    "description": " Bulla Light Sour Cream 200mL",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/042449.jpg"
+  },
+  {
+    "retailerProductId": "268269",
+    "crossRetailerId": "50000503896",
+    "gtinFormat": 0,
+    "currentValue": {
+      "unitPrice": 1.41,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "85g",
+      "price": 1.2
+    },
+    "name": "Fancy Feast Adult Classic Salmon Feast Gravy Grilled Wet Cat Food 85g",
+    "brand": "Fancy Feast",
+    "path": "/shop/productdetails/268269/fancy-feast-adult-classic-salmon-feast-gravy-grilled-wet-cat-food",
+    "description": " Fancy Feast Adult Classic<br>Salmon Feast Gravy... 85g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/268269.jpg"
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "retailerProductId": "6033364",
+    "crossRetailerId": "9339423009781",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.94,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "6 pack",
+      "price": 4
+    },
+    "name": "Golden Banana Bread Flavoured Crumpets 6 pack",
+    "brand": "Golden",
+    "path": "/shop/productdetails/6033364/golden-banana-bread-flavoured-crumpets",
+    "description": " Golden Banana Bread<br>Flavoured... 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6033364.jpg"
+  },
+  {
+    "retailerProductId": "6071665",
+    "crossRetailerId": "9339423010213",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.66,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "680g",
+      "price": 4.5
+    },
+    "name": "Tip Top The One Digestive Health Soft White Sliced Loaf 680g",
+    "brand": "Tip Top",
+    "path": "/shop/productdetails/6071665/tip-top-the-one-digestive-health-soft-white-sliced-loaf",
+    "description": " Tip Top The One Digestive<br>Health Soft White... 680g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6071665.jpg"
+  },
+  {
+    "retailerProductId": "384286",
+    "crossRetailerId": "9317224401393",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.99,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "8 pack",
+      "price": 5.6
+    },
+    "name": "Mission Wraps Wholegrain 8 pack",
+    "brand": "Mission",
+    "path": "/shop/productdetails/384286/mission-wraps-wholegrain",
+    "description": " Mission Wraps Wholegrain 8 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/384286.jpg"
+  },
+  {
+    "retailerProductId": "883001",
+    "crossRetailerId": "9300633522056",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.13,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 4.5
+    },
+    "name": "Woolworths Blueberry Muffins 4 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/883001/woolworths-blueberry-muffins",
+    "description": " Woolworths Blueberry Muffins<br> 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/883001.jpg"
+  },
+  {
+    "retailerProductId": "103774",
+    "crossRetailerId": "9339423008845",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.72,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "760g",
+      "price": 5.5
+    },
+    "name": "Abbott's Bakery Sourdough Rye Bread Sandwich Slice Loaf 760g",
+    "brand": "Abbott's Bakery",
+    "path": "/shop/productdetails/103774/abbott-s-bakery-sourdough-rye-bread-sandwich-slice-loaf",
+    "description": " Abbott's Bakery Sourdough<br>Rye Bread Sandwich... 760g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/103774.jpg"
+  },
+  {
+    "retailerProductId": "757540",
+    "crossRetailerId": "0285069000004",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.59,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "6 pack",
+      "price": 3.55
+    },
+    "name": "Woolworths Jumbo Crusty Tiger Rolls 6 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/757540/woolworths-jumbo-crusty-tiger-rolls",
+    "description": " Woolworths Jumbo Crusty<br>Tiger Rolls  6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/757540.jpg"
+  },
+  {
+    "retailerProductId": "61227",
+    "crossRetailerId": "3587220003617",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.65,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "10 pack",
+      "price": 6.5
+    },
+    "name": "Brioche Gourmet Sliders 10 pack",
+    "brand": "Brioche Gourmet",
+    "path": "/shop/productdetails/61227/brioche-gourmet-sliders",
+    "description": " Brioche Gourmet Sliders  10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/061227.jpg"
+  },
+  {
+    "retailerProductId": "889314",
+    "crossRetailerId": "9310023146021",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.74,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "680g",
+      "price": 5
+    },
+    "name": "Wonder 5 Star Soft White High Fibre Bread Loaf 680g",
+    "brand": "Wonder",
+    "path": "/shop/productdetails/889314/wonder-5-star-soft-white-high-fibre-bread-loaf",
+    "description": " Wonder 5 Star Soft White<br>High Fibre Bread... 680g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/889314.jpg"
+  },
+  {
+    "retailerProductId": "242694",
+    "crossRetailerId": "0289871000009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 2.5
+    },
+    "name": "Woolworths Rustic White Baguette each",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/242694/woolworths-rustic-white-baguette",
+    "description": " Woolworths Rustic White<br>Baguette  each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/242694.jpg"
+  },
+  {
+    "retailerProductId": "71654",
+    "crossRetailerId": "9313153001086",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.08,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "4 pack",
+      "price": 3.9
+    },
+    "name": "Glicks Plain Bagel 4 pack",
+    "brand": "Glicks",
+    "path": "/shop/productdetails/71654/glicks-plain-bagel",
+    "description": " Glicks Plain Bagel  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/071654.jpg"
+  },
+  {
+    "retailerProductId": "232833",
+    "crossRetailerId": "9310043008934",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.86,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "700g",
+      "price": 6
+    },
+    "name": "Burgen Soy & Linseed Low GI Sliced Bread Loaf Bakery 700g",
+    "brand": "Burgen",
+    "path": "/shop/productdetails/232833/burgen-soy-linseed-low-gi-sliced-bread-loaf-bakery",
+    "description": " Burgen Soy & Linseed Low GI<br>Sliced Bread Loaf... 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/232833.jpg"
+  },
+  {
+    "retailerProductId": "240473",
+    "crossRetailerId": "9334169000566",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.55,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "6 pack",
+      "price": 6.5
+    },
+    "name": "Simson's Pantry Low Carb High Protein + Fibre Large Wraps 6 pack",
+    "brand": "Simson's Pantry",
+    "path": "/shop/productdetails/240473/simson-s-pantry-low-carb-high-protein-fibre-large-wraps",
+    "description": " Simson's Pantry Low Carb<br>High Protein +... 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/240473.jpg"
+  },
+  {
+    "retailerProductId": "233155",
+    "crossRetailerId": "0280180000001",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.45,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "800g",
+      "price": 3.6
+    },
+    "name": "Woolworths Multigrain Loaf 800g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/233155/woolworths-multigrain-loaf-grain-loaf",
+    "description": " Woolworths Multigrain Loaf<br>Grain Loaf 800g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/233155.jpg"
+  },
+  {
+    "retailerProductId": "19899",
+    "crossRetailerId": "9310043008637",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.6,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "650g",
+      "price": 3.9
+    },
+    "name": "Tip Top Sunblest Soft White Sandwich Slice Bread Loaf Bakery 650g",
+    "brand": "Tip Top",
+    "path": "/shop/productdetails/19899/tip-top-sunblest-soft-white-sandwich-slice-bread-loaf-bakery",
+    "description": " Tip Top Sunblest Soft White<br>Sandwich Slice... 650g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/019899.jpg"
+  },
+  {
+    "retailerProductId": "6032991",
+    "crossRetailerId": "9339423009996",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.96,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "575g",
+      "price": 5.5
+    },
+    "name": "Tip Top Wholemeal Raisin Toast Loaf 575g",
+    "brand": "Tip Top",
+    "path": "/shop/productdetails/6032991/tip-top-wholemeal-raisin-toast-loaf",
+    "description": " Tip Top Wholemeal Raisin<br>Toast Loaf  575g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6032991.jpg"
+  },
+  {
+    "retailerProductId": "140171",
+    "crossRetailerId": "9339687227365",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.72,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "4 pack",
+      "price": 5.5
+    },
+    "name": "Woolworths Free From Gluten White Burger Buns 4 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/140171/woolworths-free-from-gluten-white-burger-buns",
+    "description": " Woolworths Free From Gluten<br>White Burger Buns 4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/140171.jpg"
+  },
+  {
+    "retailerProductId": "154935",
+    "crossRetailerId": "0284494000009",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.9,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "each",
+      "price": 1.9
+    },
+    "name": "Woolworths Crusty Baguette each",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/154935/woolworths-crusty-baguette-french-stick",
+    "description": " Woolworths Crusty Baguette<br>French Stick each",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/154935.jpg"
+  },
+  {
+    "retailerProductId": "673117",
+    "crossRetailerId": "9421001850783",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.39,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "4 pack",
+      "price": 5
+    },
+    "name": "Abe's Bagels The Everything 4 pack",
+    "brand": "Abe's Bagels",
+    "path": "/shop/productdetails/673117/abe-s-bagels-the-everything",
+    "description": " Abe's Bagels The Everything  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/673117.jpg"
+  },
+  {
+    "retailerProductId": "603317",
+    "crossRetailerId": "9339423007299",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.63,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "240g",
+      "price": 3.9
+    },
+    "name": "Tip Top Thins Wholemeal 240g",
+    "brand": "Tip Top",
+    "path": "/shop/productdetails/603317/tip-top-thins-wholemeal-bread-bakery",
+    "description": " Tip Top Thins Wholemeal<br>Bread Bakery 240g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/603317.jpg"
+  },
+  {
+    "retailerProductId": "243014",
+    "crossRetailerId": "9300602375225",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.02,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "2 pack",
+      "price": 8.5
+    },
+    "name": "Toscano Sourdough Pizza Base 2 pack",
+    "brand": "Toscano",
+    "path": "/shop/productdetails/243014/toscano-sourdough-pizza-base",
+    "description": " Toscano Sourdough Pizza Base 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/243014.jpg"
+  },
+  {
+    "retailerProductId": "140173",
+    "crossRetailerId": "9339687227389",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 4
+    },
+    "name": "Woolworths Soft & Glazed Milk Buns 4 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/140173/woolworths-soft-glazed-milk-buns",
+    "description": " Woolworths Soft & Glazed<br>Milk Buns  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/140173.jpg"
+  },
+  {
+    "retailerProductId": "89470",
+    "crossRetailerId": "9339687168590",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "2 pack",
+      "price": 5
+    },
+    "name": "Woolworths High Protein Lower Carb Thin Crust Pizza Base 2 pack",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/89470/woolworths-high-protein-lower-carb-thin-crust-pizza-base",
+    "description": " Woolworths High Protein<br>Lower Carb Thin... 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/089470.jpg"
+  },
+  {
+    "retailerProductId": "277579",
+    "crossRetailerId": "9339687336012",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.22,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "450g",
+      "price": 5.5
+    },
+    "name": "Woolworths Free From Gluten Wholemeal Bread Loaf 450g",
+    "brand": "Woolworths",
+    "path": "/shop/productdetails/277579/woolworths-free-from-gluten-wholemeal-bread-loaf",
+    "description": " Woolworths Free From Gluten<br>Wholemeal Bread... 450g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/277579.jpg"
+  },
+  {
+    "retailerProductId": "893462",
+    "crossRetailerId": "9310023146045",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.86,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "700g",
+      "price": 6
+    },
+    "name": "Helga's Crafted White Sourdough Bread Loaf 700g",
+    "brand": "Helga's",
+    "path": "/shop/productdetails/893462/helga-s-crafted-white-sourdough-bread-loaf",
+    "description": " Helga's Crafted White<br>Sourdough Bread... 700g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/893462.jpg"
+  },
+  {
+    "retailerProductId": "341277",
+    "crossRetailerId": "9339423004229",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.71,
+      "unitPriceQuantity": "100G",
+      "unitPriceUnit": "100G",
+      "size": "750g",
+      "price": 5.3
+    },
+    "name": "Abbott's Bakery Harvest Seeds & Grains Sandwich Slice Bread Loaf 750g",
+    "brand": "Abbott's Bakery",
+    "path": "/shop/productdetails/341277/abbott-s-bakery-harvest-seeds-grains-sandwich-slice-bread-loaf",
+    "description": " Abbott's Bakery Harvest<br>Seeds & Grains... 750g",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/341277.jpg"
+  },
+  {
+    "retailerProductId": "165220",
+    "crossRetailerId": "9310043005612",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.82,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "6 pack",
+      "price": 4.9
+    },
+    "name": "Tip Top Hot Dog Bread Rolls BBQ Bakery 6 pack",
+    "brand": "Tip Top",
+    "path": "/shop/productdetails/165220/tip-top-hot-dog-bread-rolls-bbq-bakery",
+    "description": " Tip Top Hot Dog Bread Rolls<br>BBQ Bakery 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/165220.jpg"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "retailerProductId": "1123466287",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 1295
+    },
+    "name": "Valve Steam Deck OLED 1TB - Black",
+    "brand": "Valve",
+    "path": "/shop/productdetails/1123466287/valve-steam-deck-oled-1tb-black",
+    "description": " Valve   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1123466287.jpg"
+  },
+  {
+    "retailerProductId": "1103114483",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 4999
+    },
+    "name": "SATKING Promax Plus Fully Automatic Motorised Satellite TV System",
+    "brand": "Satking",
+    "path": "/shop/productdetails/1103114483/satking-promax-plus-fully-automatic-motorised-satellite-tv-system",
+    "description": " Satking   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1103114483.jpg"
+  },
+  {
+    "retailerProductId": "1126526961",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 2419
+    },
+    "name": "Ubiquiti Elevator Starter Kit PoE++ Up/Down/Stop/Full/Door Open Close/5 Car",
+    "brand": "Ubiquiti",
+    "path": "/shop/productdetails/1126526961/ubiquiti-elevator-starter-kit-poe-up-down-stop-full-door-open-close-5-car",
+    "description": " Ubiquiti   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1126526961.jpg"
+  },
+  {
+    "retailerProductId": "1116215805",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 9999
+    },
+    "name": "Cat S62 (5.65'', 128GB/4GB, Rugged phone) - Black",
+    "brand": "Cat",
+    "path": "/shop/productdetails/1116215805/cat-s62-5-65-128gb-4gb-rugged-phone-black",
+    "description": " Cat   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1116215805.jpg"
+  },
+  {
+    "retailerProductId": "1122170723",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 1459
+    },
+    "name": "(Refurbished) Apple iPhone 16 Pro Max 256GB Black Titanium (Excellent Condition)",
+    "brand": "Apple",
+    "path": "/shop/productdetails/1122170723/-refurbished-apple-iphone-16-pro-max-256gb-black-titanium-excellent-condition-",
+    "description": " Apple   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1122170723.jpg"
+  },
+  {
+    "retailerProductId": "1128022169",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 3799
+    },
+    "name": "Samsung 85\" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026) (85\", Black)",
+    "brand": "Samsung",
+    "path": "/shop/productdetails/1128022169/samsung-85-neo-qled-qn70h-4k-samsung-vision-ai-smart-tv-2026-85-black-",
+    "description": " Samsung   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128022169.jpg"
+  },
+  {
+    "retailerProductId": "1124308761",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 399.96
+    },
+    "name": "PXN V10 Pro 3.5nm Direct Drive Sim Racing Steering Wheel & Pedals Kit Black",
+    "brand": "PXN",
+    "path": "/shop/productdetails/1124308761/pxn-v10-pro-3-5nm-direct-drive-sim-racing-steering-wheel-pedals-kit-black",
+    "description": " PXN   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1124308761.jpg"
+  },
+  {
+    "retailerProductId": "431163",
+    "crossRetailerId": "8888021308648",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "10 pack",
+      "price": 15
+    },
+    "name": "Energizer Max AAA Alkaline Batteries 10 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/431163/energizer-max-aaa-alkaline-batteries",
+    "description": " Energizer Max AAA Alkaline<br>Batteries  10 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/431163.jpg"
+  },
+  {
+    "retailerProductId": "1126445765",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 9999
+    },
+    "name": "HP ZBook Fury G1i 16 inch Mobile Workstation PC WUXGA IR TS U9-285HX 32GB",
+    "brand": "HP",
+    "path": "/shop/productdetails/1126445765/hp-zbook-fury-g1i-16-inch-mobile-workstation-pc-wuxga-ir-ts-u9-285hx-32gb",
+    "description": " HP   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1126445765.jpg"
+  },
+  {
+    "retailerProductId": "268125",
+    "crossRetailerId": "9339346024069",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 1.7,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "4 pack",
+      "price": 6.8
+    },
+    "name": "Chevron Alkaline c 4 Pack",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/268125/chevron-alkaline-c",
+    "description": " Chevron Alkaline C  4 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/268125.jpg"
+  },
+  {
+    "retailerProductId": "1128648611",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 14819
+    },
+    "name": "HP ZBSG11 U7-165H 16 32GB/1T PC",
+    "brand": "HP",
+    "path": "/shop/productdetails/1128648611/hp-zbsg11-u7-165h-16-32gb-1t-pc",
+    "description": " HP   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128648611.jpg"
+  },
+  {
+    "retailerProductId": "1123303619",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 11999
+    },
+    "name": "MSI Raider Series Gaming Notebook 18\" RTX 5090 Intel Core U9 Laptop",
+    "brand": "MSI",
+    "path": "/shop/productdetails/1123303619/msi-raider-series-gaming-notebook-18-rtx-5090-intel-core-u9-laptop",
+    "description": " MSI   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1123303619.jpg"
+  },
+  {
+    "retailerProductId": "683403",
+    "crossRetailerId": "9339687042692",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.58,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "24 pack",
+      "price": 14
+    },
+    "name": "Chevron Alkaline Aaa 24 Pack",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/683403/chevron-alkaline-aaa",
+    "description": " Chevron Alkaline AAA  24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/683403.jpg"
+  },
+  {
+    "retailerProductId": "1119960739",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 399
+    },
+    "name": "PS5 PlayStation 5 DualSense Edge Wireless Controller",
+    "brand": "",
+    "path": "/shop/productdetails/1119960739/ps5-playstation-5-dualsense-edge-wireless-controller",
+    "description": "    ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1119960739.jpg"
+  },
+  {
+    "retailerProductId": "1137258452",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 2597.99
+    },
+    "name": "Apple iPhone 17 Pro Max 512GB - Silver Silver",
+    "brand": "Apple",
+    "path": "/shop/productdetails/1137258452/apple-iphone-17-pro-max-512gb-silver-silver",
+    "description": " Apple   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1137258452.jpg"
+  },
+  {
+    "retailerProductId": "683404",
+    "crossRetailerId": "9339687042708",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 0.58,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "24 pack",
+      "price": 14
+    },
+    "name": "Chevron Alkaline Aa 24 Pack",
+    "brand": "Chevron",
+    "path": "/shop/productdetails/683404/chevron-alkaline-aa",
+    "description": " Chevron Alkaline AA  24 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/683404.jpg"
+  },
+  {
+    "retailerProductId": "1128650601",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "",
+      "price": 5449
+    },
+    "name": "Dell Pro 14 Plus PB14250 - 14in FHD+ 1920x1200 - Ultra 5 238V vPro CoPilot+ - 32GB DDR5 Onboard - 512GB SSD - FHD IR Camera - 3-Cell 55W - Windows 11 Pro - 3Y PS + 99 WD25 DOCK",
+    "brand": "Dell",
+    "path": "/shop/productdetails/1128650601/dell-pro-14-plus-pb14250-14in-fhd-1920x1200-ultra-5-238v-vpro-copilot-32gb-ddr5-onboard-512gb-ssd-fhd-ir-camera-3-cell-55w-windows-11-pro-3y-ps-99-wd25-dock",
+    "description": " Dell   ",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1128650601.jpg"
+  },
+  {
+    "retailerProductId": "1123639365",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 5942.91
+    },
+    "name": "HP Elitebok X G1i 14\" WUXGA Next Gen AI Touch Ultra U7-258V Notebook Laptop B9GD8PT Silver",
+    "brand": "HP",
+    "path": "/shop/productdetails/1123639365/hp-elitebok-x-g1i-14-wuxga-next-gen-ai-touch-ultra-u7-258v-notebook-laptop-b9gd8pt-silver",
+    "description": " HP   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1123639365.jpg"
+  },
+  {
+    "retailerProductId": "1123587503",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 99.95
+    },
+    "name": "Assassins Creed Shadows PS5",
+    "brand": "Ubisoft",
+    "path": "/shop/productdetails/1123587503/assassins-creed-shadows-ps5",
+    "description": " Ubisoft   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1123587503.jpg"
+  },
+  {
+    "retailerProductId": "430873",
+    "crossRetailerId": "8888021308624",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 3.54,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "6 pack",
+      "price": 21.25
+    },
+    "name": "Energizer 2032 CR2032 Lithium Coin Battery 6 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/430873/energizer-2032-cr2032-lithium-coin-battery",
+    "description": " Energizer 2032 CR2032<br>Lithium Coin... 6 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/430873.jpg"
+  },
+  {
+    "retailerProductId": "1123088487",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 158
+    },
+    "name": "Kodak Pixpro FZ45 Digital Compact Camera White",
+    "brand": "Kodak",
+    "path": "/shop/productdetails/1123088487/kodak-pixpro-fz45-digital-compact-camera-white",
+    "description": " Kodak   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1123088487.jpg"
+  },
+  {
+    "retailerProductId": "1120381813",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 599.95
+    },
+    "name": "ENGLAON 32’’ Full HD 12V Smart TV With Chromecast, Bluetooth & Google TV",
+    "brand": "Englaon",
+    "path": "/shop/productdetails/1120381813/englaon-32-full-hd-12v-smart-tv-with-chromecast-bluetooth-google-tv",
+    "description": " Englaon   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1120381813.jpg"
+  },
+  {
+    "retailerProductId": "221175",
+    "crossRetailerId": "8888021306811",
+    "gtinFormat": 13,
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": "1EA",
+      "unitPriceUnit": "1EA",
+      "size": "2 pack",
+      "price": 8
+    },
+    "name": "Energizer LR44 A76 Alkaline Button Battery 2 pack",
+    "brand": "Energizer",
+    "path": "/shop/productdetails/221175/energizer-lr44-a76-alkaline-button-battery",
+    "description": " Energizer LR44 A76 Alkaline<br>Button Battery 2 pack",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/221175.jpg"
+  },
+  {
+    "retailerProductId": "1120381811",
+    "gtinFormat": 0,
+    "currentValue": {
+      "size": "1EA",
+      "price": 799.95
+    },
+    "name": "ENGLAON 40’’ Full HD 12V Smart TV With Chromecast, Bluetooth & Google TV",
+    "brand": "Englaon",
+    "path": "/shop/productdetails/1120381811/englaon-40-full-hd-12v-smart-tv-with-chromecast-bluetooth-google-tv",
+    "description": " Englaon   1EA",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/1120381811.jpg"
+  }
+]
