@@ -2,7 +2,7 @@ BEGIN;
 
 -- enums
 CREATE TYPE IF NOT EXISTS unit_of_measurement AS ENUM (
-  "Each", "Kg", "g", "L", "mL", "SS", "sheets"
+  "Each", "Kg", "g", "L", "mL", "SS", "sheets", "m"
 );
 
 -- domain data

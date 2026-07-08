@@ -493,20 +493,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365190.jpg"
   },
   {
-    "retailerProductId": "84763",
-    "crossRetailerId": "9339687161942",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "397g",
-      "price": null
-    },
-    "name": "Woolworths Sweetened Condensed Milk 397g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/84763/woolworths-sweetened-condensed-milk",
-    "description": " Woolworths Sweetened<br>Condensed Milk  397g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/084763.jpg"
-  },
-  {
     "retailerProductId": "779134",
     "crossRetailerId": "9300633473686",
     "gtinFormat": 13,

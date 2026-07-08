@@ -1,7 +1,6 @@
 [
   {
     "retailerProductId": "1123466287",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -15,7 +14,6 @@
   },
   {
     "retailerProductId": "1103114483",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -29,7 +27,6 @@
   },
   {
     "retailerProductId": "1126526961",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "",
@@ -43,7 +40,6 @@
   },
   {
     "retailerProductId": "1116215805",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "",
@@ -57,7 +53,6 @@
   },
   {
     "retailerProductId": "1122170723",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -71,7 +66,6 @@
   },
   {
     "retailerProductId": "1128022169",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "",
@@ -85,7 +79,6 @@
   },
   {
     "retailerProductId": "1124308761",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -116,7 +109,6 @@
   },
   {
     "retailerProductId": "1126445765",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "",
@@ -147,7 +139,6 @@
   },
   {
     "retailerProductId": "1128648611",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "",
@@ -161,7 +152,6 @@
   },
   {
     "retailerProductId": "1123303619",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -192,7 +182,6 @@
   },
   {
     "retailerProductId": "1119960739",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "",
@@ -206,7 +195,6 @@
   },
   {
     "retailerProductId": "1137258452",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "",
@@ -237,7 +225,6 @@
   },
   {
     "retailerProductId": "1128650601",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "",
@@ -251,7 +238,6 @@
   },
   {
     "retailerProductId": "1123639365",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -265,7 +251,6 @@
   },
   {
     "retailerProductId": "1123587503",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -296,7 +281,6 @@
   },
   {
     "retailerProductId": "1123088487",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -310,7 +294,6 @@
   },
   {
     "retailerProductId": "1120381813",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -341,7 +324,6 @@
   },
   {
     "retailerProductId": "1120381811",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",

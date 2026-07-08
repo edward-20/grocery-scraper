@@ -289,20 +289,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/213893.jpg"
   },
   {
-    "retailerProductId": "609209",
-    "crossRetailerId": "8710908056505",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "250mL",
-      "price": null
-    },
-    "name": "Dove Hair Dry Shampoo Refresh & Care 250mL",
-    "brand": "Dove",
-    "path": "/shop/productdetails/609209/dove-hair-dry-shampoo-refresh-care",
-    "description": " Dove Hair Dry Shampoo<br>Refresh & Care 250mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/609209.jpg"
-  },
-  {
     "retailerProductId": "329373",
     "crossRetailerId": "4005808246014",
     "gtinFormat": 13,
@@ -386,20 +372,6 @@
     "path": "/shop/productdetails/71404/garnier-skinactive-hydra-bomb-tissue-face-mask-sakura",
     "description": " Garnier Skinactive Hydra<br>Bomb Tissue Face... each",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/071404.jpg"
-  },
-  {
-    "retailerProductId": "147737",
-    "crossRetailerId": "4005900776730",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "25 pack",
-      "price": null
-    },
-    "name": "Nivea Sensitive Biodegradable Face Cleansing Makeup Wipes 25 pack",
-    "brand": "Nivea",
-    "path": "/shop/productdetails/147737/nivea-sensitive-biodegradable-face-cleansing-makeup-wipes",
-    "description": " Nivea Sensitive<br>Biodegradable... 25 pack",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/147737.jpg"
   },
   {
     "retailerProductId": "823177",

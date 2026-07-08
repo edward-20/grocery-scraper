@@ -408,20 +408,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010621.jpg"
   },
   {
-    "retailerProductId": "32952",
-    "crossRetailerId": "9300703000132",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "250g",
-      "price": null
-    },
-    "name": "Cedel Hair Spray Extra Firm 250g",
-    "brand": "Cedel",
-    "path": "/shop/productdetails/32952/cedel-hair-spray-extra-firm",
-    "description": " Cedel Hair Spray Extra Firm 250g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/032952.jpg"
-  },
-  {
     "retailerProductId": "6056270",
     "crossRetailerId": "9318637044573",
     "gtinFormat": 13,

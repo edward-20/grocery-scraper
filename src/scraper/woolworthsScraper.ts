@@ -91,6 +91,26 @@ export class WoolworthsScraper extends RetailerScraper {
     }))
   }
 
+  private parseRawUnit(rawUnit: string) : Unit {
+    switch(rawUnit) {
+      case "EA":
+        return "Each";
+      case "KG":
+        return "Kg";
+      case "G":
+        return "g";
+      case "ML":
+        return "mL";
+      case "L":
+        return "L";
+      case "sheets":
+        return "sheets";
+      case "M":
+        return "m";
+      default: 
+        throw Error(`Couldn't parse the raw unit string: ${rawUnit}`);
+    }
+  }
   private parseProductsPageJSON(json: JSON) : Product[] {
     const productsPayload = WoolworthsProductsPagePayload.parse(json);
     const bundles = productsPayload.Bundles;
@@ -98,19 +118,25 @@ export class WoolworthsScraper extends RetailerScraper {
 
     return bundles
       .map(bundle => bundle.Products[0])
-      .filter(product => product.Price !== null)
+      .filter(product => product.Price !== null && product.Price !== undefined)
       .map(product => {
         let result: Product;
         if (product.HasCupPrice) {
+          let unitPriceQuantityMatch = product.CupMeasure.match(/^[0-9]+/);
+          let unitPriceUnitMatch = product.CupMeasure.match(/^([0-9]+)([\s]*)([A-Za-z]+)/);
+
+          let unitPriceQuantity = unitPriceQuantityMatch === null ? 0 : Number(unitPriceQuantityMatch[0]);
+          let unitPriceUnit: Unit = this.parseRawUnit(unitPriceUnitMatch === null ? "" : unitPriceUnitMatch[3]) ;
+
+
           result = {
             retailerProductId: product.Stockcode.toString(),
-            crossRetailerId: product.Barcode,
+            crossRetailerId: product.Barcode ?? undefined,
             gtinFormat: product.GtinFormat,
             currentValue: {
               unitPrice: product.CupPrice,
-              unitPriceQuantity: 1, // this is incorrect and needs to be parsed from the product.CupMeasure
-              unitPriceUnit: product.CupMeasure as Unit, // this is a kludge and we'll try to see where it fails in the tests
-
+              unitPriceQuantity,
+              unitPriceUnit,
               size: product.PackageSize,
               price: product.Price as number,
             }, 
@@ -123,7 +149,7 @@ export class WoolworthsScraper extends RetailerScraper {
         } else {
           result ={
             retailerProductId: product.Stockcode.toString(),
-            crossRetailerId: product.Barcode,
+            crossRetailerId: product.Barcode ?? undefined,
             gtinFormat: product.GtinFormat,
             currentValue: {
               size: product.PackageSize,

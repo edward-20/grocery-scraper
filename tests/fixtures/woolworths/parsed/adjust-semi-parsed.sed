@@ -21,5 +21,8 @@
     s/"unitPriceUnit": "[0-9]+[[:space:]]*sheets"/"unitPriceUnit": "sheets"/
 	t end
 
+    s/"unitPriceUnit": "[0-9]+[[:space:]]*M"/"unitPriceUnit": "m"/
+	t end
+
 	:end
 }

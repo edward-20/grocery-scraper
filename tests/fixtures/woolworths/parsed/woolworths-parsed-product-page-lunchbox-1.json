@@ -493,20 +493,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/508827.jpg"
   },
   {
-    "retailerProductId": "6010159",
-    "crossRetailerId": "9339687411696",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "70g",
-      "price": null
-    },
-    "name": "Woolworths Blueberry Yoghurt Pouch 70g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/6010159/woolworths-blueberry-yoghurt-pouch-blueberry",
-    "description": " Woolworths Blueberry Yoghurt<br>Pouch Blueberry 70g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010159.jpg"
-  },
-  {
     "retailerProductId": "500187",
     "crossRetailerId": "9300633539047",
     "gtinFormat": 13,

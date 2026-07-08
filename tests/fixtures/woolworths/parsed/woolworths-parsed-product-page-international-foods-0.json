@@ -85,20 +85,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/093444.jpg"
   },
   {
-    "retailerProductId": "297000",
-    "crossRetailerId": "9300633984403",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "400mL",
-      "price": null
-    },
-    "name": "Macro Organic Coconut Cream 400mL",
-    "brand": "Macro",
-    "path": "/shop/productdetails/297000/macro-organic-coconut-cream",
-    "description": " Macro Organic Coconut Cream 400mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/297000.jpg"
-  },
-  {
     "retailerProductId": "6024088",
     "crossRetailerId": "9339687423767",
     "gtinFormat": 13,
@@ -161,7 +147,6 @@
       "price": 3
     },
     "name": "Pak Choy Baby Asian Greens each",
-    "brand": null,
     "path": "/shop/productdetails/154991/pak-choy-baby-asian-greens",
     "description": "  Pak Choy Baby Asian Greens  each",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/154991.jpg"
@@ -178,7 +163,6 @@
       "price": 3
     },
     "name": "Buk Choy Asian Greens each",
-    "brand": null,
     "path": "/shop/productdetails/134801/buk-choy-asian-greens",
     "description": "  Buk Choy Asian Greens  each",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/134801.jpg"
@@ -365,7 +349,6 @@
       "price": 2.95
     },
     "name": "Fresh Chinese Cabbage Wombok Half each",
-    "brand": null,
     "path": "/shop/productdetails/170154/fresh-chinese-cabbage-wombok-half",
     "description": "  Fresh Chinese Cabbage<br>Wombok Half each",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/170154.jpg"

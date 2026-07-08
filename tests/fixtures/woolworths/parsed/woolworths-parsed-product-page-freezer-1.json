@@ -323,20 +323,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/374274.jpg"
   },
   {
-    "retailerProductId": "815129",
-    "crossRetailerId": "9339687072835",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "450g",
-      "price": null
-    },
-    "name": "Macro Organic Frozen Mixed Berries 450g",
-    "brand": "Macro",
-    "path": "/shop/productdetails/815129/macro-organic-frozen-mixed-berries",
-    "description": " Macro Organic Frozen Mixed<br>Berries 450g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/815129.jpg"
-  },
-  {
     "retailerProductId": "259674",
     "crossRetailerId": "9310080105764",
     "gtinFormat": 13,

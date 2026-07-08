@@ -414,7 +414,7 @@
     "currentValue": {
       "unitPrice": 0.18,
       "unitPriceQuantity": 1,
-      "unitPriceUnit": "1M",
+      "unitPriceUnit": "m",
       "size": "15m",
       "price": 2.7
     },
@@ -465,7 +465,7 @@
     "currentValue": {
       "unitPrice": 0.15,
       "unitPriceQuantity": 1,
-      "unitPriceUnit": "1M",
+      "unitPriceUnit": "m",
       "size": "each",
       "price": 4.5
     },

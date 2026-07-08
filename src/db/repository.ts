@@ -30,7 +30,7 @@ export interface Product_Category_Link {
   productId: number,
 }
 
-export type Unit ="Each" | "Kg" | "g" | "L" | "mL" | "SS" | "sheets";
+export type Unit ="Each" | "Kg" | "g" | "L" | "mL" | "SS" | "sheets" | "m";
 export type ValueAtTime = {
   unitPrice: number;
   unitPriceQuantity: number;

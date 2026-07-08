@@ -340,20 +340,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036016.jpg"
   },
   {
-    "retailerProductId": "365548",
-    "crossRetailerId": "9300675024051",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "600mL",
-      "price": null
-    },
-    "name": "Powerade ION4 Lemon Lime Sports Drink Sipper Cap 600mL",
-    "brand": "Powerade",
-    "path": "/shop/productdetails/365548/powerade-ion4-lemon-lime-sports-drink-sipper-cap",
-    "description": " Powerade ION4 Lemon Lime<br>Sports Drink... 600mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/365548.jpg"
-  },
-  {
     "retailerProductId": "84628",
     "crossRetailerId": "9310072010816",
     "gtinFormat": 13,
