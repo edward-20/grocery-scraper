@@ -103,7 +103,6 @@
   },
   {
     "retailerProductId": "1099893051",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",
@@ -244,7 +243,6 @@
   },
   {
     "retailerProductId": "1095149859",
-    "crossRetailerId": null,
     "gtinFormat": 0,
     "currentValue": {
       "size": "1EA",

@@ -68,20 +68,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/855564.jpg"
   },
   {
-    "retailerProductId": "724892",
-    "crossRetailerId": "8850006491447",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "250mL",
-      "price": null
-    },
-    "name": "Palmolive Foaming Liquid Hand Wash Antibacterial Soap Pump Lime 250mL",
-    "brand": "Palmolive",
-    "path": "/shop/productdetails/724892/palmolive-foaming-liquid-hand-wash-antibacterial-soap-pump-lime",
-    "description": " Palmolive Foaming Liquid<br>Hand Wash... 250mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/724892.jpg"
-  },
-  {
     "retailerProductId": "280261",
     "crossRetailerId": "9300631532705",
     "gtinFormat": 13,
@@ -269,20 +255,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/244372.jpg"
   },
   {
-    "retailerProductId": "307481",
-    "crossRetailerId": "9300701445577",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "200mL",
-      "price": null
-    },
-    "name": "Dettol Liquid Antibacterial Instant Hand Sanitiser Refresh 200mL",
-    "brand": "Dettol",
-    "path": "/shop/productdetails/307481/dettol-liquid-antibacterial-instant-hand-sanitiser-refresh",
-    "description": " Dettol Liquid Antibacterial<br>Instant Hand... 200mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/307481.jpg"
-  },
-  {
     "retailerProductId": "791122",
     "crossRetailerId": "9339687020133",
     "gtinFormat": 13,
@@ -400,20 +372,6 @@
     "path": "/shop/productdetails/33186/libra-tampons-regular",
     "description": " Libra Tampons Regular 16 pack",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/033186.jpg"
-  },
-  {
-    "retailerProductId": "234666",
-    "crossRetailerId": "9339687309184",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "1L",
-      "price": null
-    },
-    "name": "The Balnea Body Company Milk & Honey Body Wash 1L",
-    "brand": "The Balnea Body Company",
-    "path": "/shop/productdetails/234666/the-balnea-body-company-milk-honey-body-wash",
-    "description": " The Balnea Body Company Milk<br>& Honey Body Wash  1L",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/234666.jpg"
   },
   {
     "retailerProductId": "728601",

@@ -340,20 +340,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/318573.jpg"
   },
   {
-    "retailerProductId": "34936",
-    "crossRetailerId": "9310174001477",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "750g",
-      "price": null
-    },
-    "name": "McCain Pub Style Fries 750g",
-    "brand": "McCain",
-    "path": "/shop/productdetails/34936/mccain-pub-style-fries",
-    "description": " McCain Pub Style Fries 750g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/034936.jpg"
-  },
-  {
     "retailerProductId": "134082",
     "crossRetailerId": "9339687224050",
     "gtinFormat": 13,

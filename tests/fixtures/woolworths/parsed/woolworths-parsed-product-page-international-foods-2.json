@@ -272,20 +272,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/322616.jpg"
   },
   {
-    "retailerProductId": "135037",
-    "crossRetailerId": "0264544000005",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "each",
-      "price": null
-    },
-    "name": "Woolworths Baby Buk Choy Asian Greens each",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/135037/woolworths-baby-buk-choy-asian-greens",
-    "description": " Woolworths Baby Buk Choy<br>Asian Greens each",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/135037.jpg"
-  },
-  {
     "retailerProductId": "318452",
     "crossRetailerId": "9360319000032",
     "gtinFormat": 13,

@@ -474,33 +474,5 @@
     "path": "/shop/productdetails/114253/woolworths-rspca-approved-chicken-breast-schnitzels",
     "description": " Woolworths RSPCA Approved<br>Chicken Breast... 500g",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/114253.jpg"
-  },
-  {
-    "retailerProductId": "705461",
-    "crossRetailerId": "9300633418946",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "500g",
-      "price": null
-    },
-    "name": "Macro Chicken Mince Free Range 500g",
-    "brand": "Macro",
-    "path": "/shop/productdetails/705461/macro-chicken-mince-free-range",
-    "description": " Macro Chicken Mince Free<br>Range 500g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/705461.jpg"
-  },
-  {
-    "retailerProductId": "134041",
-    "crossRetailerId": "9339687224043",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "600g",
-      "price": null
-    },
-    "name": "Woolworths Chicken Schnitzels 600g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/134041/woolworths-chicken-schnitzels",
-    "description": " Woolworths Chicken<br>Schnitzels  600g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/134041.jpg"
   }
 ]

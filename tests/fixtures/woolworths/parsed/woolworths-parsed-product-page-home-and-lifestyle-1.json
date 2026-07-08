@@ -384,20 +384,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/172472.jpg"
   },
   {
-    "retailerProductId": "165756",
-    "crossRetailerId": "9312828005701",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "each",
-      "price": null
-    },
-    "name": "Spirax A5 Notebook 200 Pages each",
-    "brand": "Spirax",
-    "path": "/shop/productdetails/165756/spirax-a5-notebook-200-pages",
-    "description": " Spirax A5 Notebook 200 Pages each",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/165756.jpg"
-  },
-  {
     "retailerProductId": "747615",
     "crossRetailerId": "94733075893",
     "gtinFormat": 0,

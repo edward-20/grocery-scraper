@@ -508,33 +508,5 @@
     "path": "/shop/productdetails/646684/yopro-protein-yoghurt-vanilla",
     "description": " YoPRO Protein Yoghurt<br>Vanilla 160g",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/646684.jpg"
-  },
-  {
-    "retailerProductId": "918070",
-    "crossRetailerId": "9339687391028",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "1kg",
-      "price": null
-    },
-    "name": "Woolworths Vanilla Yoghurt 1kg",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/918070/woolworths-vanilla-yoghurt",
-    "description": " Woolworths Vanilla Yoghurt  1kg",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/918070.jpg"
-  },
-  {
-    "retailerProductId": "168114",
-    "crossRetailerId": "9300658408243",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "130g",
-      "price": null
-    },
-    "name": "Farmers Union Greek Style Yoghurt Pouch Passionfruit 130g",
-    "brand": "Farmers Union",
-    "path": "/shop/productdetails/168114/farmers-union-greek-style-yoghurt-pouch-passionfruit",
-    "description": " Farmers Union Greek Style<br>Yoghurt Pouch... 130g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/168114.jpg"
   }
 ]

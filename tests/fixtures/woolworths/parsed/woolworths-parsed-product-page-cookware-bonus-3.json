@@ -289,20 +289,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/244754.jpg"
   },
   {
-    "retailerProductId": "36493",
-    "crossRetailerId": "9310140283807",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "1kg",
-      "price": null
-    },
-    "name": "Sunrice White Rice Premium Long Grain 1kg",
-    "brand": "Sunrice",
-    "path": "/shop/productdetails/36493/sunrice-white-rice-premium-long-grain",
-    "description": " Sunrice White Rice Premium<br>Long Grain 1kg",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/036493.jpg"
-  },
-  {
     "retailerProductId": "180752",
     "crossRetailerId": "9310081114475",
     "gtinFormat": 13,
@@ -318,20 +304,6 @@
     "path": "/shop/productdetails/180752/birds-eye-steam-fresh-carrot-cauliflower-broccoli",
     "description": " Birds Eye Steam Fresh Carrot<br>Cauliflower &... 750g",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180752.jpg"
-  },
-  {
-    "retailerProductId": "307481",
-    "crossRetailerId": "9300701445577",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "200mL",
-      "price": null
-    },
-    "name": "Dettol Liquid Antibacterial Instant Hand Sanitiser Refresh 200mL",
-    "brand": "Dettol",
-    "path": "/shop/productdetails/307481/dettol-liquid-antibacterial-instant-hand-sanitiser-refresh",
-    "description": " Dettol Liquid Antibacterial<br>Instant Hand... 200mL",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/307481.jpg"
   },
   {
     "retailerProductId": "96336",

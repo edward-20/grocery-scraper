@@ -340,20 +340,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/858008.jpg"
   },
   {
-    "retailerProductId": "729026",
-    "crossRetailerId": "9300633326319",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "500g",
-      "price": null
-    },
-    "name": "Woolworths Tasty Shredded Cheese 500g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/729026/woolworths-tasty-shredded-cheese",
-    "description": " Woolworths Tasty Shredded<br>Cheese 500g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/729026.jpg"
-  },
-  {
     "retailerProductId": "310237",
     "crossRetailerId": "9300633988098",
     "gtinFormat": 13,
@@ -454,20 +440,6 @@
     "path": "/shop/productdetails/31547/farmers-union-greek-style-natural-yoghurt",
     "description": " Farmers Union Greek Style<br>Natural Yoghurt 1kg",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/031547.jpg"
-  },
-  {
-    "retailerProductId": "729008",
-    "crossRetailerId": "9300633326210",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "500g",
-      "price": null
-    },
-    "name": "Woolworths Light Tasty Shredded Cheese 500g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/729008/woolworths-light-tasty-shredded-cheese",
-    "description": " Woolworths Light Tasty<br>Shredded Cheese 500g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/729008.jpg"
   },
   {
     "retailerProductId": "360847",

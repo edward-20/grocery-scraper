@@ -153,20 +153,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/328005.jpg"
   },
   {
-    "retailerProductId": "703500",
-    "crossRetailerId": "9312726001997",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "200g",
-      "price": null
-    },
-    "name": "Chris' Dips Tzatziki 200g",
-    "brand": "Chris'",
-    "path": "/shop/productdetails/703500/chris-dips-tzatziki",
-    "description": " Chris' Dips Tzatziki  200g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/703500.jpg"
-  },
-  {
     "retailerProductId": "904897",
     "crossRetailerId": "9334864006603",
     "gtinFormat": 13,

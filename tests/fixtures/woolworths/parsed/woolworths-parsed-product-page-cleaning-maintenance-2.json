@@ -442,20 +442,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/013542.jpg"
   },
   {
-    "retailerProductId": "178479",
-    "crossRetailerId": "9339687272235",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "1.25L",
-      "price": null
-    },
-    "name": "Strike Pro Disinfectant Lavender Hospital Grade 1.25L",
-    "brand": "Strike",
-    "path": "/shop/productdetails/178479/strike-pro-disinfectant-lavender-hospital-grade",
-    "description": " Strike Pro Disinfectant<br>Lavender Hospital... 1.25L",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/178479.jpg"
-  },
-  {
     "retailerProductId": "18324",
     "crossRetailerId": "9300633183240",
     "gtinFormat": 13,

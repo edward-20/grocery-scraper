@@ -118,7 +118,7 @@ export class WoolworthsScraper extends RetailerScraper {
 
     return bundles
       .map(bundle => bundle.Products[0])
-      .filter(product => product.Price !== null || product.Price !== undefined)
+      .filter(product => product.Price !== null && product.Price !== undefined)
       .map(product => {
         let result: Product;
         if (product.HasCupPrice) {

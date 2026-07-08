@@ -153,20 +153,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/508827.jpg"
   },
   {
-    "retailerProductId": "6010159",
-    "crossRetailerId": "9339687411696",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "70g",
-      "price": null
-    },
-    "name": "Woolworths Blueberry Yoghurt Pouch 70g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/6010159/woolworths-blueberry-yoghurt-pouch-blueberry",
-    "description": " Woolworths Blueberry Yoghurt<br>Pouch Blueberry 70g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010159.jpg"
-  },
-  {
     "retailerProductId": "6064533",
     "crossRetailerId": "9344962004692",
     "gtinFormat": 13,
@@ -301,20 +287,6 @@
     "path": "/shop/productdetails/663177/farmers-union-greek-style-yoghurt-pouch-real-vanilla-bean",
     "description": " Farmers Union Greek Style<br>Yoghurt Pouch Real... 130g",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/663177.jpg"
-  },
-  {
-    "retailerProductId": "6010720",
-    "crossRetailerId": "9339687411672",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "70g",
-      "price": null
-    },
-    "name": "Woolworths Banana Yoghurt Pouch 70g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/6010720/woolworths-banana-yoghurt-pouch-banana",
-    "description": " Woolworths Banana Yoghurt<br>Pouch Banana 70g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010720.jpg"
   },
   {
     "retailerProductId": "296507",

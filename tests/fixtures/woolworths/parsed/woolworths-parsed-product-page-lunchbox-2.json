@@ -102,20 +102,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/663177.jpg"
   },
   {
-    "retailerProductId": "6010720",
-    "crossRetailerId": "9339687411672",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "70g",
-      "price": null
-    },
-    "name": "Woolworths Banana Yoghurt Pouch 70g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/6010720/woolworths-banana-yoghurt-pouch-banana",
-    "description": " Woolworths Banana Yoghurt<br>Pouch Banana 70g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010720.jpg"
-  },
-  {
     "retailerProductId": "749792",
     "crossRetailerId": "9300633394172",
     "gtinFormat": 13,
@@ -263,7 +249,6 @@
       "price": 6.9
     },
     "name": "Kiwi Fruit Green 8 pack",
-    "brand": null,
     "path": "/shop/productdetails/786152/kiwi-fruit-green",
     "description": "  Kiwi Fruit Green  8 pack",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/786152.jpg"
@@ -314,7 +299,6 @@
       "price": 0.99
     },
     "name": "Banana Red Tipped each",
-    "brand": null,
     "path": "/shop/productdetails/180148/banana-red-tipped",
     "description": "  Banana Red Tipped  each",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180148.jpg"

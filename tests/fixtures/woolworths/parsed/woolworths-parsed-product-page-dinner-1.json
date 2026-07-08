@@ -323,20 +323,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/180109.jpg"
   },
   {
-    "retailerProductId": "134041",
-    "crossRetailerId": "9339687224043",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "600g",
-      "price": null
-    },
-    "name": "Woolworths Chicken Schnitzels 600g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/134041/woolworths-chicken-schnitzels",
-    "description": " Woolworths Chicken<br>Schnitzels  600g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/134041.jpg"
-  },
-  {
     "retailerProductId": "326",
     "crossRetailerId": "9300633003265",
     "gtinFormat": 13,

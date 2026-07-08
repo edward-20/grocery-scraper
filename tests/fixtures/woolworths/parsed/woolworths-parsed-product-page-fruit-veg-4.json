@@ -96,7 +96,6 @@
       "price": 1.44
     },
     "name": "Banana Lady Finger each",
-    "brand": null,
     "path": "/shop/productdetails/133390/banana-lady-finger",
     "description": "  Banana Lady Finger  each",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/133390.jpg"
@@ -215,7 +214,6 @@
       "price": 2.21
     },
     "name": "Fresh Eggplant each",
-    "brand": null,
     "path": "/shop/productdetails/137546/fresh-eggplant",
     "description": "  Fresh Eggplant  each",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/137546.jpg"
@@ -423,20 +421,6 @@
     "path": "/shop/productdetails/459369/zerella-fresh-spudlite-baby-potatoes",
     "description": " Zerella Fresh Spudlite Baby<br>Potatoes 750g",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/459369.jpg"
-  },
-  {
-    "retailerProductId": "829360",
-    "crossRetailerId": "9300633719272",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "each",
-      "price": null
-    },
-    "name": "The Odd Bunch Continental Cucumber each",
-    "brand": "The Odd Bunch",
-    "path": "/shop/productdetails/829360/the-odd-bunch-continental-cucumber",
-    "description": " The Odd Bunch Continental<br>Cucumber  each",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/829360.jpg"
   },
   {
     "retailerProductId": "315670",

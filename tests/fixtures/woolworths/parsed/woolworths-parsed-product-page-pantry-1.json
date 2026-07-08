@@ -357,20 +357,6 @@
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/6076346.jpg"
   },
   {
-    "retailerProductId": "84763",
-    "crossRetailerId": "9339687161942",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "397g",
-      "price": null
-    },
-    "name": "Woolworths Sweetened Condensed Milk 397g",
-    "brand": "Woolworths",
-    "path": "/shop/productdetails/84763/woolworths-sweetened-condensed-milk",
-    "description": " Woolworths Sweetened<br>Condensed Milk  397g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/084763.jpg"
-  },
-  {
     "retailerProductId": "62735",
     "crossRetailerId": "9310155620505",
     "gtinFormat": 13,
@@ -522,19 +508,5 @@
     "path": "/shop/productdetails/58537/essentials-white-sugar",
     "description": " Essentials White Sugar  1kg",
     "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/058537.jpg"
-  },
-  {
-    "retailerProductId": "700638",
-    "crossRetailerId": "9300633227272",
-    "gtinFormat": 13,
-    "currentValue": {
-      "size": "425g",
-      "price": null
-    },
-    "name": "Macro Organic Chickpeas 425g",
-    "brand": "Macro",
-    "path": "/shop/productdetails/700638/macro-organic-chickpeas",
-    "description": " Macro Organic Chickpeas 425g",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/medium/700638.jpg"
   }
 ]
