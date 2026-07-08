@@ -67,15 +67,41 @@ export class WoolworthsScraper extends RetailerScraper {
     return categories.filter(category => category.retailerDesignatedCategoryId !== "specialsgroup"); 
   }
 
-  async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
+  private async waitForProductPagePayloadResponse(page: Page) {
     const responsePromise = page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
+    return await responsePromise;
+  }
+
+  async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
+
     await page.goto(`${this.retailerUrl}${category.path}`);
+    let response = await this.waitForProductPagePayloadResponse(page);
+    let rawData = await response?.json();
+    let products: Product[] = this.parseProductsPageJSON(rawData);
 
-    // scrape and then go to the next page
+    while (true) {
+      // get the 
+      const nextLink = page.getByRole("link", { name: "Next" });
 
-    const response = await responsePromise;
-    const data = await response?.json()
-    const products = this.parseProductsPageJSON(data);
+      // Stop if no next button or disabled
+      if (!(await nextLink.isVisible()) || await nextLink.isDisabled()) {
+        break;
+      }
+
+      // Start waiting BEFORE clicking
+      const nextResponse = this.waitForProductPagePayloadResponse(page);
+
+      await nextLink.click();
+
+      // This resolves when the click triggers the API request
+      response = await nextResponse;
+      rawData = await response?.json();
+
+      products = [...products, ...this.parseProductsPageJSON(rawData)];
+    }
+    // const response = await responsePromise;
+    // const data = await response?.json()
+    // const products = this.parseProductsPageJSON(data);
     return products;
   }
 
