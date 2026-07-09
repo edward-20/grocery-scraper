@@ -9,21 +9,6 @@ const parsedFixturePath = "tests/fixtures/woolworths/parsed";
 const rawFixtureFiles = await readdir(rawFixturePath);
 const parsedFixtureFiles = await readdir(parsedFixturePath);
 
-// for old test
-const productPageFixtureCases = rawFixtureFiles
-  .filter(filename => filename !== "woolworths-categories-payload.json")
-  .sort()
-  .map(rawFixtureFile => {
-    const fixtureName = rawFixtureFile.replace(/\.[^.]+$/, "");
-    const parsedFixtureFile = `woolworths-parsed-product-page-${fixtureName}.json`;
-
-    return {
-      fixtureName,
-      rawFixtureFile,
-      parsedFixtureFile,
-    };
-  });
-
 // categories: find all unique category names from the fixtures directory
 const categories = [
   ...new Set(
@@ -59,7 +44,7 @@ describe("WoolworthsScraper", () => {
 
   }, 0)
 
-  it.skip("parses the categories payload", async () => {
+  it("parses the categories payload", async () => {
     const mockCategoriesPayload = await readFile('tests/fixtures/woolworths-categories-payload.json', 'utf-8');
 
     await context.route("https://www.woolworths.com.au/apis/ui/PiesCategoriesWithSpecials", route => {
@@ -79,7 +64,7 @@ describe("WoolworthsScraper", () => {
     expect(receivedCategories).toEqual(expectedCategories);
   });
 
-  it.skip("discovers the categories correctly on 18/06/2026", async () => {
+  it("discovers the categories correctly on 18/06/2026", async () => {
     const receivedCategories: Category[] = await scraper.discoverCategories(page);
     const expectedCategoriesUnparsed = await readFile("tests/fixtures/woolworths-parsed-categories.json", "utf-8");
     const expectedCategories: Category[] = await JSON.parse(expectedCategoriesUnparsed);
@@ -89,56 +74,6 @@ describe("WoolworthsScraper", () => {
 
     expect(receivedCategories).toEqual(expectedCategories);
   });
-
-  // it.skip.each(productPageFixtureCases)(
-  //   "parses products from $rawFixtureFile against $parsedFixtureFile",
-  //   async ({ fixtureName, rawFixtureFile, parsedFixtureFile }) => {
-  //     const rawPayload = await readFile(`${rawFixturePath}/${rawFixtureFile}`, "utf-8");
-  //     const parsedPayload = await readFile(
-  //       `${parsedFixturePath}/${parsedFixtureFile}`,
-  //       "utf-8"
-  //     );
-
-  //     await context.route("https://www.woolworths.com.au/apis/ui/browse/category", route => {
-  //       route.fulfill({
-  //         body: rawPayload,
-  //         contentType: "application/json",
-  //         status: 200
-  //       })
-  //     }, { times: 1 });
-
-  //     await context.route("https://www.woolworths.com.au/shop/browse/**", route => {
-  //       route.fulfill({
-  //         body: `
-  //           <!doctype html>
-  //           <html>
-  //             <body>
-  //               <script>
-  //                 fetch("/apis/ui/browse/category");
-  //               </script>
-  //             </body>
-  //           </html>
-  //         `,
-  //         contentType: "text/html",
-  //         status: 200
-  //       })
-  //     }, { times: 1 });
-
-  //     const category: Category = {
-  //       retailerDesignatedCategoryId: fixtureName,
-  //       name: fixtureName,
-  //       path: `/shop/browse/${fixtureName.replace(/-\d+$/, "")}`,
-  //     };
-
-  //     const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
-  //     const expectedProducts: Product[] = JSON.parse(parsedPayload);
-
-  //     expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
-  //     receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
-
-  //     expect(receivedProducts, `${rawFixtureFile} -> ${parsedFixtureFile}`).toEqual(expectedProducts);
-  //   }
-  // )
 
   // for each category
   it.each(categories)("testing scrapeProductsOfCategory: %s", async (categoryName) => {

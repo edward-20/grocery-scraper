@@ -72,22 +72,10 @@ export class WoolworthsScraper extends RetailerScraper {
   }
 
   getFulfilledResponse(page: Page) {
-    // wait for the correct request url
-    // check for the correct response
-    // return the response object
     return page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
-    // return page.waitForResponse(async (res) => {
-    //   if (res.url() !== `${this.retailerUrl}/apis/ui/browse/category`) {
-    //     return false;
-    //   }
-
-    //   const responseBody = await res.json();
-    //   return responseBody.status === "Success";
-    // });
   }
 
   async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
-    let pagesScraped = 0;
     let productPageResponse = this.getFulfilledResponse(page);
 
     await page.goto(`${this.retailerUrl}${category.path}`);
@@ -95,8 +83,6 @@ export class WoolworthsScraper extends RetailerScraper {
     let response = await productPageResponse;
     let rawData = await response?.json();
     let products: Product[] = this.parseProductsPageJSON(rawData);
-    console.log("page scraped");
-    pagesScraped++;
 
     while (true) {
       const nextLink = page.locator('a[rel="next"]');
@@ -104,7 +90,6 @@ export class WoolworthsScraper extends RetailerScraper {
 
       // Stop if no next button or disabled
       if (!(await nextLink.isVisible()) || await nextLink.isDisabled()) {
-        console.log("couldn't find next link");
         break;
       }
       await nextLink.scrollIntoViewIfNeeded();
@@ -121,13 +106,7 @@ export class WoolworthsScraper extends RetailerScraper {
       rawData = await response?.json();
 
       products = [...products, ...this.parseProductsPageJSON(rawData)];
-      console.log("page scraped");
-      pagesScraped++;
     }
-    // const response = await responsePromise;
-    // const data = await response?.json()
-    // const products = this.parseProductsPageJSON(data);
-    console.log(`${category.name}: scraped ${pagesScraped}`);
     return products;
   }
 
