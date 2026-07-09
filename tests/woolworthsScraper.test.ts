@@ -90,55 +90,55 @@ describe("WoolworthsScraper", () => {
     expect(receivedCategories).toEqual(expectedCategories);
   });
 
-  it.skip.each(productPageFixtureCases)(
-    "parses products from $rawFixtureFile against $parsedFixtureFile",
-    async ({ fixtureName, rawFixtureFile, parsedFixtureFile }) => {
-      const rawPayload = await readFile(`${rawFixturePath}/${rawFixtureFile}`, "utf-8");
-      const parsedPayload = await readFile(
-        `${parsedFixturePath}/${parsedFixtureFile}`,
-        "utf-8"
-      );
+  // it.skip.each(productPageFixtureCases)(
+  //   "parses products from $rawFixtureFile against $parsedFixtureFile",
+  //   async ({ fixtureName, rawFixtureFile, parsedFixtureFile }) => {
+  //     const rawPayload = await readFile(`${rawFixturePath}/${rawFixtureFile}`, "utf-8");
+  //     const parsedPayload = await readFile(
+  //       `${parsedFixturePath}/${parsedFixtureFile}`,
+  //       "utf-8"
+  //     );
 
-      await context.route("https://www.woolworths.com.au/apis/ui/browse/category", route => {
-        route.fulfill({
-          body: rawPayload,
-          contentType: "application/json",
-          status: 200
-        })
-      }, { times: 1 });
+  //     await context.route("https://www.woolworths.com.au/apis/ui/browse/category", route => {
+  //       route.fulfill({
+  //         body: rawPayload,
+  //         contentType: "application/json",
+  //         status: 200
+  //       })
+  //     }, { times: 1 });
 
-      await context.route("https://www.woolworths.com.au/shop/browse/**", route => {
-        route.fulfill({
-          body: `
-            <!doctype html>
-            <html>
-              <body>
-                <script>
-                  fetch("/apis/ui/browse/category");
-                </script>
-              </body>
-            </html>
-          `,
-          contentType: "text/html",
-          status: 200
-        })
-      }, { times: 1 });
+  //     await context.route("https://www.woolworths.com.au/shop/browse/**", route => {
+  //       route.fulfill({
+  //         body: `
+  //           <!doctype html>
+  //           <html>
+  //             <body>
+  //               <script>
+  //                 fetch("/apis/ui/browse/category");
+  //               </script>
+  //             </body>
+  //           </html>
+  //         `,
+  //         contentType: "text/html",
+  //         status: 200
+  //       })
+  //     }, { times: 1 });
 
-      const category: Category = {
-        retailerDesignatedCategoryId: fixtureName,
-        name: fixtureName,
-        path: `/shop/browse/${fixtureName.replace(/-\d+$/, "")}`,
-      };
+  //     const category: Category = {
+  //       retailerDesignatedCategoryId: fixtureName,
+  //       name: fixtureName,
+  //       path: `/shop/browse/${fixtureName.replace(/-\d+$/, "")}`,
+  //     };
 
-      const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
-      const expectedProducts: Product[] = JSON.parse(parsedPayload);
+  //     const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
+  //     const expectedProducts: Product[] = JSON.parse(parsedPayload);
 
-      expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
-      receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
+  //     expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
+  //     receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
 
-      expect(receivedProducts, `${rawFixtureFile} -> ${parsedFixtureFile}`).toEqual(expectedProducts);
-    }
-  )
+  //     expect(receivedProducts, `${rawFixtureFile} -> ${parsedFixtureFile}`).toEqual(expectedProducts);
+  //   }
+  // )
 
   // for each category
   it.each(categories)("testing scrapeProductsOfCategory: %s", async (categoryName) => {
@@ -158,14 +158,14 @@ describe("WoolworthsScraper", () => {
 
     await context.route("https://www.woolworths.com.au/apis/ui/browse/category", async route => {
       await route.fulfill({
-        body: rawPayloads.shift(),
+        body: rawPayloads.length > 0 ? rawPayloads.shift() : `{
+          "Bundles": []
+        }`,
         contentType: "application/json",
         status: 200
       })
     });
     
-    // possibly need to mock the woolworths page here
-
     const category: Category = {
       retailerDesignatedCategoryId: categoryName, // not correct, but for the purpose of testing will be fine
       name: categoryName,
