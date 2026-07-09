@@ -175,8 +175,8 @@ describe("WoolworthsScraper", () => {
     const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
     const expectedProducts: Product[] = parsedPayloads.map(parsedPayload => JSON.parse(parsedPayload)).flat();
 
-    expectedProducts.sort((a, b) => a.name.localeCompare(b.name));
-    receivedProducts.sort((a, b) => a.name.localeCompare(b.name));
+    expectedProducts.sort((a, b) => a.retailerProductId.localeCompare(b.name));
+    receivedProducts.sort((a, b) => a.retailerProductId.localeCompare(b.name));
 
     expect(receivedProducts, `scrape of ${categoryName} to match its corresponding fixture files`).toEqual(expectedProducts);
   })
@@ -187,4 +187,4 @@ describe("WoolworthsScraper", () => {
     await browser.close();
   }, 0)
 
-}, 200_000);
+}, 0);

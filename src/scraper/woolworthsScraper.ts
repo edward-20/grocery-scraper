@@ -67,41 +67,67 @@ export class WoolworthsScraper extends RetailerScraper {
     return categories.filter(category => category.retailerDesignatedCategoryId !== "specialsgroup"); 
   }
 
-  private async waitForProductPagePayloadResponse(page: Page) {
-    const responsePromise = page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
-    return await responsePromise;
+  private async sleep(time: number) {
+    return new Promise((resolve) => setTimeout(resolve, time));
+  }
+
+  getFulfilledResponse(page: Page) {
+    // wait for the correct request url
+    // check for the correct response
+    // return the response object
+    return page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
+    // return page.waitForResponse(async (res) => {
+    //   if (res.url() !== `${this.retailerUrl}/apis/ui/browse/category`) {
+    //     return false;
+    //   }
+
+    //   const responseBody = await res.json();
+    //   return responseBody.status === "Success";
+    // });
   }
 
   async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
+    let pagesScraped = 0;
+    let productPageResponse = this.getFulfilledResponse(page);
 
     await page.goto(`${this.retailerUrl}${category.path}`);
-    let response = await this.waitForProductPagePayloadResponse(page);
+
+    let response = await productPageResponse;
     let rawData = await response?.json();
     let products: Product[] = this.parseProductsPageJSON(rawData);
+    console.log("page scraped");
+    pagesScraped++;
 
     while (true) {
-      // get the 
-      const nextLink = page.getByRole("link", { name: "Next" });
+      const nextLink = page.locator('a[rel="next"]');
+      await this.sleep(10000);
 
       // Stop if no next button or disabled
       if (!(await nextLink.isVisible()) || await nextLink.isDisabled()) {
+        console.log("couldn't find next link");
         break;
       }
+      await nextLink.scrollIntoViewIfNeeded();
 
       // Start waiting BEFORE clicking
-      const nextResponse = this.waitForProductPagePayloadResponse(page);
+      let productPageResponse = this.getFulfilledResponse(page);
 
+      await this.sleep(3000);
       await nextLink.click();
+      await this.sleep(5000);
 
       // This resolves when the click triggers the API request
-      response = await nextResponse;
+      response = await productPageResponse;
       rawData = await response?.json();
 
       products = [...products, ...this.parseProductsPageJSON(rawData)];
+      console.log("page scraped");
+      pagesScraped++;
     }
     // const response = await responsePromise;
     // const data = await response?.json()
     // const products = this.parseProductsPageJSON(data);
+    console.log(`${category.name}: scraped ${pagesScraped}`);
     return products;
   }
 
