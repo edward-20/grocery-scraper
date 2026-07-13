@@ -45,20 +45,27 @@ describe("ColesScraper", () => {
   }, 0)
 
   it("parses the categories payload", async () => {
-    // coles categories aren't extracted from a network request but instead is
-    // embedded in the home page, so we have to mock the home page 
     const mockCategoriesPayload = await readFile('tests/fixtures/coles/raw/coles-categories-payload.txt', 'utf-8');
 
+    await context.route("https://www.coles.com.au/_next/data/20260702.2-cdcde970c50768337017410cc7320816bc2580c8/browse/en/browse.json", route => {
+      route.fulfill({
+        body: mockCategoriesPayload,
+        contentType: "application/json",
+        status: 200
+      })
+    })
+
+    // also need to mock the API version
+    const mockNextData = await readFile('tests/fixtures/coles/raw/next-data.html');
     await context.route("https://www.coles.com.au", route => {
       route.fulfill({
         body: `
-          <html lang="en">
-            <head>
-            </head>
-            <body>
-              <script id="__NEXT_DATA__" type="application/json">${mockCategoriesPayload}</script>
-            </body>
-          </html>
+<html>
+  <head></head>
+  <body>
+    ${mockNextData}
+  </body>
+</html>
 `,
         contentType: "text/html",
         status: 200
