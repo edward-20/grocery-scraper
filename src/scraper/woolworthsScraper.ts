@@ -117,8 +117,6 @@ export class WoolworthsScraper extends RetailerScraper {
       retailerDesignatedCategoryId: category.NodeId,
       name: category.Description,
       path: `/shop/browse/${category.UrlFriendlyName}`,
-      pages: 0,
-      retailerDesignatedProductCount: 0
     }))
   }
 

@@ -2,134 +2,112 @@
 	{
 	  "retailerDesignatedCategoryId": "8904801",
 	  "name": "Back to School",
-	  "path": "/browse/back-to-school",
-	  "retailerDesignatedProductCount": 690
+	  "path": "/browse/back-to-school"
 	},
 	{
 	  "retailerDesignatedCategoryId": "891716390",
 	  "name": "Bonus Credit Products",
-	  "path": "/browse/bonus-credit-products",
-	  "retailerDesignatedProductCount": 824
+	  "path": "/browse/bonus-credit-products"
 	},
 	{
 	  "retailerDesignatedCategoryId": "772566492",
 	  "name": "Big Pack Value",
-	  "path": "/browse/big-pack-value",
-	  "retailerDesignatedProductCount": 76
+	  "path": "/browse/big-pack-value"
 	},
 	{
 	  "retailerDesignatedCategoryId": "551677585",
 	  "name": "Deliver More Range",
-	  "path": "/browse/deliver-more-range",
-	  "retailerDesignatedProductCount": 770
+	  "path": "/browse/deliver-more-range"
 	},
 	{
 	  "retailerDesignatedCategoryId": "7238",
 	  "name": "Meat & Seafood",
-	  "path": "/browse/meat-seafood",
-	  "retailerDesignatedProductCount": 579
+	  "path": "/browse/meat-seafood"
 	},
 	{
 	  "retailerDesignatedCategoryId": "2100",
 	  "name": "Fruit & Vegetables",
-	  "path": "/browse/fruit-vegetables",
-	  "retailerDesignatedProductCount": 484
+	  "path": "/browse/fruit-vegetables"
 	},
 	{
 	  "retailerDesignatedCategoryId": "8906007",
 	  "name": "Down Down",
-	  "path": "/browse/down-down",
-	  "retailerDesignatedProductCount": 411
+	  "path": "/browse/down-down"
 	},
 	{
 	  "retailerDesignatedCategoryId": "1300",
 	  "name": "Dairy, Eggs & Fridge",
-	  "path": "/browse/dairy-eggs-fridge",
-	  "retailerDesignatedProductCount": 2171
+	  "path": "/browse/dairy-eggs-fridge"
 	},
 	{
 	  "retailerDesignatedCategoryId": "8892906",
 	  "name": "Bakery",
-	  "path": "/browse/bakery",
-	  "retailerDesignatedProductCount": 546
+	  "path": "/browse/bakery"
 	},
 	{
 	  "retailerDesignatedCategoryId": "8892715",
 	  "name": "Deli",
-	  "path": "/browse/deli",
-	  "retailerDesignatedProductCount": 476
+	  "path": "/browse/deli"
 	},
 	{
 	  "retailerDesignatedCategoryId": "10302",
 	  "name": "Pantry",
-	  "path": "/browse/pantry",
-	  "retailerDesignatedProductCount": 6115
+	  "path": "/browse/pantry"
 	},
 	{
 	  "retailerDesignatedCategoryId": "674112512",
 	  "name": "Dietary & World Foods",
-	  "path": "/browse/dietary-world-foods",
-	  "retailerDesignatedProductCount": 4173
+	  "path": "/browse/dietary-world-foods"
 	},
 	{
 	  "retailerDesignatedCategoryId": "8916201",
 	  "name": "Chips, Chocolates & Snacks",
-	  "path": "/browse/chips-chocolates-snacks",
-	  "retailerDesignatedProductCount": 1641
+	  "path": "/browse/chips-chocolates-snacks"
 	},
 	{
 	  "retailerDesignatedCategoryId": "11456",
 	  "name": "Drinks",
-	  "path": "/browse/drinks",
-	  "retailerDesignatedProductCount": 1573
+	  "path": "/browse/drinks"
 	},
 	{
 	  "retailerDesignatedCategoryId": "85946",
 	  "name": "Liquorland",
-	  "path": "/browse/liquorland",
-	  "retailerDesignatedProductCount": 2310
+	  "path": "/browse/liquorland"
 	},
 	{
 	  "retailerDesignatedCategoryId": "85471",
 	  "name": "Frozen",
-	  "path": "/browse/frozen",
-	  "retailerDesignatedProductCount": 1236
+	  "path": "/browse/frozen"
 	},
 	{
 	  "retailerDesignatedCategoryId": "910869560",
 	  "name": "Cleaning & Laundry",
-	  "path": "/browse/cleaning-laundry",
-	  "retailerDesignatedProductCount": 1512
+	  "path": "/browse/cleaning-laundry"
 	},
 	{
 	  "retailerDesignatedCategoryId": "15083",
 	  "name": "Health & Beauty",
-	  "path": "/browse/health-beauty",
-	  "retailerDesignatedProductCount": 4605
+	  "path": "/browse/health-beauty"
 	},
 	{
 	  "retailerDesignatedCategoryId": "15603",
 	  "name": "Baby",
-	  "path": "/browse/baby",
-	  "retailerDesignatedProductCount": 804
+	  "path": "/browse/baby"
 	},
 	{
 	  "retailerDesignatedCategoryId": "16427",
 	  "name": "Pet",
-	  "path": "/browse/pet",
-	  "retailerDesignatedProductCount": 798
+	  "path": "/browse/pet"
 	},
 	{
 	  "retailerDesignatedCategoryId": "910912322",
 	  "name": "Home & Garden",
-	  "path": "/browse/home-garden",
-	  "retailerDesignatedProductCount": 1581
+	  "path": "/browse/home-garden"
 	},
 	{
 	  "retailerDesignatedCategoryId": "17490",
 	  "name": "Tobacco",
-	  "path": "/browse/tobacco",
-	  "retailerDesignatedProductCount": 187
+	  "path": "/browse/tobacco"
 	}
 
 ]

@@ -9,8 +9,7 @@ const ColesCategoriesPayload = z.object({
       catalogGroupView: z.array(z.object({
         id: z.string(),
         name: z.string(),
-        seoToken: z.string(),
-        productCount: z.number()
+        seoToken: z.string()
       }))
     })
   })
@@ -37,8 +36,13 @@ export class ColesScraper extends RetailerScraper {
     return parsedContents.buildId;
   }
 
+  private async sleep(time: number) {
+    return new Promise((resolve) => setTimeout(resolve, time));
+  }
+
   async discoverCategories(page: Page): Promise<Category[]> {
     this.apiVersion = await this.getAPIVersion(page);
+    await this.sleep(20_000);
     const response = await page.goto(`${this.retailerUrl}/_next/data/${this.apiVersion}/en/browse.json`);
 
     const json = await response?.json();
@@ -56,8 +60,7 @@ export class ColesScraper extends RetailerScraper {
     return payload.pageProps.allProductCategories.catalogGroupView.map(catalog => ({
       retailerDesignatedCategoryId: catalog.id,
       name: catalog.name,
-      path: `/browse/${catalog.seoToken}`,
-      retailerDesignatedProductCount: catalog.productCount
+      path: `/browse/${catalog.seoToken}`
     }))
   }
 }

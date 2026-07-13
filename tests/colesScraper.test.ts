@@ -1,5 +1,7 @@
 import { describe, expect, it, beforeEach, afterEach } from "vitest";
-import { chromium, Browser, Page, BrowserContext } from "playwright";
+import { Browser, Page, BrowserContext } from "playwright";
+import { chromium } from "playwright-extra";
+import StealthPlugin from "puppeteer-extra-plugin-stealth"
 import { ColesScraper } from "../src/scraper/colesScraper.js";
 import { readFile, readdir } from "fs/promises";
 import { Category, Product } from "../src/db/repository.js";
@@ -33,12 +35,14 @@ describe("ColesScraper", () => {
       productByProduct: false
     });
 
+    chromium.use(StealthPlugin());
     browser = await chromium.launch({ headless: false });
     context = await browser.newContext({
       locale: "en-AU",
       timezoneId: "Australia/Sydney",
       userAgent:
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      viewport: { width: 1280, height: 720 }
     })
     page = await context.newPage();
 

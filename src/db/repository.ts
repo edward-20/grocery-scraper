@@ -5,7 +5,6 @@ export interface Category {
   retailerDesignatedCategoryId: string;
   name: string;
   path: string;
-  retailerDesignatedProductCount?: number;
 }
 
 // what do we need from the Product returned by scrapeProductsOfCategoryPage in
@@ -131,7 +130,7 @@ export class GroceryRepository {
     throw new Error("Not implemented");
   }
 
-  updateCategory(categoryId: CategoryId, path?: CategoryPath, name?: string, retailerDesignatedProductCount?: number) {
+  updateCategory(categoryId: CategoryId, path?: CategoryPath, name?: string) {
     throw new Error("Not implemented");
   }
 
