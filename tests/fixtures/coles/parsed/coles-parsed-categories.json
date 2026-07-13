@@ -1,0 +1,135 @@
+[
+	{
+	  "retailerDesignatedCategoryId": "8904801",
+	  "name": "Back to School",
+	  "path": "/browse/back-to-school",
+	  "retailerDesignatedProductCount": 690
+	},
+	{
+	  "retailerDesignatedCategoryId": "891716390",
+	  "name": "Bonus Credit Products",
+	  "path": "/browse/bonus-credit-products",
+	  "retailerDesignatedProductCount": 824
+	},
+	{
+	  "retailerDesignatedCategoryId": "772566492",
+	  "name": "Big Pack Value",
+	  "path": "/browse/big-pack-value",
+	  "retailerDesignatedProductCount": 76
+	},
+	{
+	  "retailerDesignatedCategoryId": "551677585",
+	  "name": "Deliver More Range",
+	  "path": "/browse/deliver-more-range",
+	  "retailerDesignatedProductCount": 770
+	},
+	{
+	  "retailerDesignatedCategoryId": "7238",
+	  "name": "Meat & Seafood",
+	  "path": "/browse/meat-seafood",
+	  "retailerDesignatedProductCount": 579
+	},
+	{
+	  "retailerDesignatedCategoryId": "2100",
+	  "name": "Fruit & Vegetables",
+	  "path": "/browse/fruit-vegetables",
+	  "retailerDesignatedProductCount": 484
+	},
+	{
+	  "retailerDesignatedCategoryId": "8906007",
+	  "name": "Down Down",
+	  "path": "/browse/down-down",
+	  "retailerDesignatedProductCount": 411
+	},
+	{
+	  "retailerDesignatedCategoryId": "1300",
+	  "name": "Dairy, Eggs & Fridge",
+	  "path": "/browse/dairy-eggs-fridge",
+	  "retailerDesignatedProductCount": 2171
+	},
+	{
+	  "retailerDesignatedCategoryId": "8892906",
+	  "name": "Bakery",
+	  "path": "/browse/bakery",
+	  "retailerDesignatedProductCount": 546
+	},
+	{
+	  "retailerDesignatedCategoryId": "8892715",
+	  "name": "Deli",
+	  "path": "/browse/deli",
+	  "retailerDesignatedProductCount": 476
+	},
+	{
+	  "retailerDesignatedCategoryId": "10302",
+	  "name": "Pantry",
+	  "path": "/browse/pantry",
+	  "retailerDesignatedProductCount": 6115
+	},
+	{
+	  "retailerDesignatedCategoryId": "674112512",
+	  "name": "Dietary & World Foods",
+	  "path": "/browse/dietary-world-foods",
+	  "retailerDesignatedProductCount": 4173
+	},
+	{
+	  "retailerDesignatedCategoryId": "8916201",
+	  "name": "Chips, Chocolates & Snacks",
+	  "path": "/browse/chips-chocolates-snacks",
+	  "retailerDesignatedProductCount": 1641
+	},
+	{
+	  "retailerDesignatedCategoryId": "11456",
+	  "name": "Drinks",
+	  "path": "/browse/drinks",
+	  "retailerDesignatedProductCount": 1573
+	},
+	{
+	  "retailerDesignatedCategoryId": "85946",
+	  "name": "Liquorland",
+	  "path": "/browse/liquorland",
+	  "retailerDesignatedProductCount": 2310
+	},
+	{
+	  "retailerDesignatedCategoryId": "85471",
+	  "name": "Frozen",
+	  "path": "/browse/frozen",
+	  "retailerDesignatedProductCount": 1236
+	},
+	{
+	  "retailerDesignatedCategoryId": "910869560",
+	  "name": "Cleaning & Laundry",
+	  "path": "/browse/cleaning-laundry",
+	  "retailerDesignatedProductCount": 1512
+	},
+	{
+	  "retailerDesignatedCategoryId": "15083",
+	  "name": "Health & Beauty",
+	  "path": "/browse/health-beauty",
+	  "retailerDesignatedProductCount": 4605
+	},
+	{
+	  "retailerDesignatedCategoryId": "146053",
+	  "name": "Baby",
+	  "path": "/browse/baby",
+	  "retailerDesignatedProductCount": 804
+	},
+	{
+	  "retailerDesignatedCategoryId": "18047",
+	  "name": "Pet",
+	  "path": "/browse/pet",
+	  "retailerDesignatedProductCount": 798
+	},
+	{
+	  "retailerDesignatedCategoryId": "910912322",
+	  "name": "Home & Garden",
+	  "path": "/browse/home-garden",
+	  "retailerDesignatedProductCount": 1581
+	},
+	{
+	  "retailerDesignatedCategoryId": "17490",
+	  "name": "Tobacco",
+	  "path": "/browse/tobacco",
+	  "retailerDesignatedProductCount": 187
+	}
+
+]
