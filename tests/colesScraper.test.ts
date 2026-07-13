@@ -16,7 +16,7 @@ const categories = [
       file.replace(/(?:-\d+)?\.json$/, "")
     )
   )
-].filter(category => category !== "woolworths-categories-payload");
+].filter(category => category !== "");
 
 
 describe("ColesScraper", () => {
@@ -47,7 +47,7 @@ describe("ColesScraper", () => {
   it("parses the categories payload", async () => {
     const mockCategoriesPayload = await readFile('tests/fixtures/coles/raw/coles-categories-payload.txt', 'utf-8');
 
-    await context.route("https://www.coles.com.au/_next/data/20260702.2-cdcde970c50768337017410cc7320816bc2580c8/browse/en/browse.json", route => {
+    await context.route("https://www.coles.com.au/_next/data/20260702.2-cdcde970c50768337017410cc7320816bc2580c8/en/browse.json", route => {
       route.fulfill({
         body: mockCategoriesPayload,
         contentType: "application/json",
@@ -83,7 +83,7 @@ describe("ColesScraper", () => {
 
   it("discovers the categories correctly on 13/07/2026", async () => {
     const receivedCategories: Category[] = await scraper.discoverCategories(page);
-    const expectedCategoriesUnparsed = await readFile("tests/fixtures/woolworths-parsed-categories.json", "utf-8");
+    const expectedCategoriesUnparsed = await readFile("tests/fixtures/coles/parsed/coles-parsed-categories.json", "utf-8");
     const expectedCategories: Category[] = await JSON.parse(expectedCategoriesUnparsed);
     // order doesn't matter in the array (order it by something)
     receivedCategories.sort((a, b) => a.name.localeCompare(b.name));
