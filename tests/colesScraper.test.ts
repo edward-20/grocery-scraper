@@ -98,7 +98,6 @@ describe("ColesScraper", () => {
 
   // for each category
   it.skip.each(categories)("testing scrapeProductsOfCategory: %s", async (categoryName) => {
-    throw new Error("Not implemented");
     // derive the raw and parsed fixture name from categoryName
     const categoryRawFixtureFiles = rawFixtureFiles.filter(rawFixtureFile => rawFixtureFile.includes(categoryName));
     const categoryParsedFixtureFiles = parsedFixtureFiles.filter(parsedFixtureFile => parsedFixtureFile.includes(categoryName));

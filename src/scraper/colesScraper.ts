@@ -15,7 +15,39 @@ const ColesCategoriesPayload = z.object({
   })
 });
 
-export const ColesProductsPagePayload = z.object({})
+export const ColesProductsPagePayload = z.object({
+  pageProps: z.object({
+    searchResults: z.object({
+      results: z.array(z.discriminatedUnion("_type", [
+        z.object({
+          _type: z.literal("PRODUCT"),
+          id: z.number(),
+          name: z.string(),
+          brand: z.string(),
+          description: z.string(),
+          size: z.string(),
+          imageUris: z.array(z.object({
+            uri: z.string(),
+          })),
+          pricing: z.object({
+            now: z.number(),
+            unit: z.object({
+              quantity: z.number(),
+              ofMeasureQuantity: z.number(),
+              ofMeasureUnits: z.string(),
+              price: z.number(),
+              ofMeasureType: z.string(),
+            })
+          }),
+          comparable: z.string()
+        }),
+        z.object({
+          _type: z.literal("SINGLE_TILE")
+        })
+      ]))
+    })
+  })
+})
 
 export class ColesScraper extends RetailerScraper {
   protected retailerUrl = "https://www.coles.com.au"
