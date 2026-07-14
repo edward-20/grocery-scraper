@@ -1,0 +1,872 @@
+[
+  {
+    "retailerProductId": "332383",
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "300g",
+      "price": 4.8
+    },
+    "name": "Crumpet Rounds Original",
+    "brand": "Golden",
+    "path": "/product/golden-crumpet-rounds:original:.:300-gram-332383",
+    "description": "GOLDEN CRUMPET ROUNDS:ORIGINAL:.:300 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/2/332383-zm.jpg"
+  },
+  {
+    "retailerProductId": "1673969",
+    "currentValue": {
+      "unitPrice": 3.47,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "300g",
+      "price": 10.4
+    },
+    "name": "Caramel Biscuit Blondie",
+    "brand": "Choclt",
+    "path": "/product/choclt-caramel-biscuit-blondie-300g-1673969",
+    "description": "CHOCLT CARAMEL BISCUIT BLONDIE 300G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/7/1673969-zm.jpg"
+  },
+  {
+    "retailerProductId": "5111440",
+    "currentValue": {
+      "unitPrice": 3.12,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "240g",
+      "price": 7.5
+    },
+    "name": "95% Sugar Free Banana Bread Slices",
+    "brand": "Noshu",
+    "path": "/product/noshu-95%-sugar-free-banana-bread-slices-5111440",
+    "description": "NOSHU 95% SUGAR FREE BANANA BREAD SLICES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/1/5111440-zm.jpg"
+  },
+  {
+    "retailerProductId": "4215337",
+    "currentValue": {
+      "unitPrice": 4.17,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "180g",
+      "price": 7.5
+    },
+    "name": "95% Sugar Free Iced Carrot Cakes",
+    "brand": "Noshu",
+    "path": "/product/noshu-95%-sugar-free-iced-carrot-cakes-4215337",
+    "description": "NOSHU 95% SUGAR FREE ICED CARROT CAKES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/1/4215337-zm.jpg"
+  },
+  {
+    "retailerProductId": "8071363",
+    "currentValue": {
+      "unitPrice": 3.95,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "190g",
+      "price": 7.5
+    },
+    "name": "95% Sugar Free Fudgy Peanut Brownies",
+    "brand": "Noshu",
+    "path": "/product/noshu-95%-sugar-free-fudgy-peanut-fudgy-brownies-190g-8071363",
+    "description": "NOSHU 95% SUGAR FREE FUDGY PEANUT FUDGY BROWNIES 190G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/7/8071363-zm.jpg"
+  },
+  {
+    "retailerProductId": "3340843",
+    "currentValue": {
+      "unitPrice": 0.6,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "450g",
+      "price": 2.7
+    },
+    "name": "Pittes Souvlaki",
+    "brand": "MEB",
+    "path": "/product/meb-pita-souvlaki-3340843",
+    "description": "MEB PITA SOUVLAKI",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/4/3340843-zm.jpg"
+  },
+  {
+    "retailerProductId": "7741835",
+    "currentValue": {
+      "unitPrice": 1.81,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "360g",
+      "price": 6.5
+    },
+    "name": "Mini Pizza Base 4 Pack",
+    "brand": "Toscano",
+    "path": "/product/toscano-mini-pizza-base-4pk-7741835",
+    "description": "TOSCANO MINI PIZZA BASE 4PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/4/7741835-zm.jpg"
+  },
+  {
+    "retailerProductId": "3751724",
+    "currentValue": {
+      "unitPrice": 2.46,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "240g",
+      "price": 5.9
+    },
+    "name": "Gluten Free Crumpet",
+    "brand": "Liberate",
+    "path": "/product/liberate-gf-crumpet-240g-3751724",
+    "description": "LIBERATE GF CRUMPET 240G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3751724-zm.jpg"
+  },
+  {
+    "retailerProductId": "8569863",
+    "currentValue": {
+      "unitPrice": 2.07,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "420g",
+      "price": 8.7
+    },
+    "name": "Sourdough Pizza Base Twin Pack",
+    "brand": "Toscano",
+    "path": "/product/toscano-sourdough-pizza-base-twin-pack-8569863",
+    "description": "TOSCANO SOURDOUGH PIZZA BASE TWIN PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/6/8569863-zm.jpg"
+  },
+  {
+    "retailerProductId": "7120758",
+    "currentValue": {
+      "unitPrice": 2.03,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "300g",
+      "price": 6.1
+    },
+    "name": "Pizza Base Pane 2 Pack",
+    "brand": "Toscano",
+    "path": "/product/pizza-base-pane-toscano-2-pack-7120758",
+    "description": "PIZZA BASE PANE TOSCANO 2 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/2/7120758-zm.jpg"
+  },
+  {
+    "retailerProductId": "2298297",
+    "currentValue": {
+      "unitPrice": 4.25,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "180g",
+      "price": 7.65
+    },
+    "name": "Gluten Free Pizza Base",
+    "brand": "Toscano",
+    "path": "/product/toscano-gluten-free-pizza-base-2298297",
+    "description": "TOSCANO GLUTEN FREE PIZZA BASE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/9/2298297-zm.jpg"
+  },
+  {
+    "retailerProductId": "4799340",
+    "currentValue": {
+      "unitPrice": 1.25,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "200g",
+      "price": 2.5
+    },
+    "name": "Pikelets 8 Pack",
+    "brand": "Coles",
+    "path": "/product/coles-pikelets-8pk-4799340",
+    "description": "COLES PIKELETS 8PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/9/4799340-zm.jpg"
+  },
+  {
+    "retailerProductId": "4344704",
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 3
+    },
+    "name": "Super Soft Hamburger Rolls",
+    "brand": "Coles",
+    "path": "/product/hamburger-soft-rolls-6pk-4344704",
+    "description": "HAMBURGER SOFT ROLLS 6PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/4/4344704-zm.jpg"
+  },
+  {
+    "retailerProductId": "5795130",
+    "currentValue": {
+      "unitPrice": 0.67,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 4.7
+    },
+    "name": "White Bread + Vitamins & Minerals",
+    "brand": "Wonder",
+    "path": "/product/wonder-bread-+-vitamins-&-minerals:white:.:700gram-5795130",
+    "description": "WONDER BREAD + VITAMINS & MINERALS:WHITE:.:700GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/9/5795130-zm.jpg"
+  },
+  {
+    "retailerProductId": "8956189",
+    "currentValue": {
+      "unitPrice": 0.67,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 4.7
+    },
+    "name": "The One White Toast Bread",
+    "brand": "Tip Top",
+    "path": "/product/tip-top-the-one-bread-700g:white-toast:.:700-gram-8956189",
+    "description": "TIP TOP THE ONE BREAD 700G:WHITE TOAST:.:700 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/5/8956189-zm.jpg"
+  },
+  {
+    "retailerProductId": "8162200",
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 4.5
+    },
+    "name": "Stonebaked White Sourdough Vienna",
+    "brand": "Coles Bakery",
+    "path": "/product/coles-stonebaked-white-sourdough-vienna-8162200",
+    "description": "COLES STONEBAKED WHITE SOURDOUGH VIENNA",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8162200-zm.jpg"
+  },
+  {
+    "retailerProductId": "332394",
+    "currentValue": {
+      "unitPrice": 0.8,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "400g",
+      "price": 3.2
+    },
+    "name": "Muffins English",
+    "brand": "Tip Top",
+    "path": "/product/tip-top-muffins:english:.:400-gram-332394",
+    "description": "TIP TOP MUFFINS:ENGLISH:.:400 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/2/332394-zm.jpg"
+  },
+  {
+    "retailerProductId": "5625017",
+    "currentValue": {
+      "unitPrice": 0.68,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "400g",
+      "price": 2.7
+    },
+    "name": "Turkish Rolls 4 Pack",
+    "brand": "Coles",
+    "path": "/product/coles-turkish-rolls-4pk-5625017",
+    "description": "COLES TURKISH ROLLS 4PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/2/5625017-zm.jpg"
+  },
+  {
+    "retailerProductId": "8956156",
+    "currentValue": {
+      "unitPrice": 0.67,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 4.7
+    },
+    "name": "The One Bread White Sliced",
+    "brand": "Tip Top",
+    "path": "/product/tip-top-the-one-bread-700g:white-sliced:.:700-gram-8956156",
+    "description": "TIP TOP THE ONE BREAD 700G:WHITE SLICED:.:700 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/5/8956156-zm.jpg"
+  },
+  {
+    "retailerProductId": "8162312",
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 4.5
+    },
+    "name": "Stone Baked By Laurent Pane Di Casa",
+    "brand": "Coles Bakery",
+    "path": "/product/coles-bakery-stone-baked-by-laurent-pane-di-casa-8162312",
+    "description": "COLES BAKERY STONE BAKED BY LAURENT PANE DI CASA",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8162312-zm.jpg"
+  },
+  {
+    "retailerProductId": "5322140",
+    "currentValue": {
+      "unitPrice": 0.67,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 4.7
+    },
+    "name": "Bread Wholemeal Plus Iron",
+    "brand": "Wonder",
+    "path": "/product/wonder-bread-wholemeal:plus-iron:.:700gram-5322140",
+    "description": "WONDER BREAD WHOLEMEAL:PLUS IRON:.:700GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/2/5322140-zm.jpg"
+  },
+  {
+    "retailerProductId": "4344715",
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 3
+    },
+    "name": "Super Soft Round Rolls Scratch",
+    "brand": "Coles Bakery",
+    "path": "/product/soft-round-rolls-scratch-6pk-4344715",
+    "description": "SOFT ROUND ROLLS SCRATCH 6PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/4/4344715-zm.jpg"
+  },
+  {
+    "retailerProductId": "3384430",
+    "currentValue": {
+      "unitPrice": 0.4,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 2.8
+    },
+    "name": "Soft White Toast Loaf",
+    "brand": "Coles",
+    "path": "/product/coles-soft-white-toast-loaf-700gram-3384430",
+    "description": "COLES SOFT WHITE TOAST LOAF 700GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/8/3384430-zm.jpg"
+  },
+  {
+    "retailerProductId": "4770633",
+    "currentValue": {
+      "unitPrice": 0.63,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 3.8
+    },
+    "name": "Iced Donuts",
+    "brand": "Coles",
+    "path": "/product/donuts-iced-6pk-4770633",
+    "description": "DONUTS ICED 6PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/7/4770633-zm.jpg"
+  },
+  {
+    "retailerProductId": "7266287",
+    "currentValue": {
+      "unitPrice": 1.38,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "189g",
+      "price": 2.6
+    },
+    "name": "All Butter Croissants 3 Pack",
+    "brand": "Coles",
+    "path": "/product/coles-all-butter-croissants-3-pack-7266287",
+    "description": "COLES ALL BUTTER CROISSANTS 3 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/6/7266287-zm.jpg"
+  },
+  {
+    "retailerProductId": "3378303",
+    "currentValue": {
+      "unitPrice": 0.4,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 2.8
+    },
+    "name": "Soft Wholemeal Sandwich Loaf",
+    "brand": "Coles",
+    "path": "/product/coles-soft-wholemeal-sandwich-loaf-700gram-3378303",
+    "description": "COLES SOFT WHOLEMEAL SANDWICH LOAF 700GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/7/3378303-zm.jpg"
+  },
+  {
+    "retailerProductId": "3515550",
+    "currentValue": {
+      "unitPrice": 0.54,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "500g",
+      "price": 2.7
+    },
+    "name": "Lebanese Bread White 6 Pack",
+    "brand": "Peace Bakery",
+    "path": "/product/peace-bakery-lebanese-bread-white-6pk-3515550",
+    "description": "PEACE BAKERY LEBANESE BREAD WHITE 6PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3515550-zm.jpg"
+  },
+  {
+    "retailerProductId": "5969435",
+    "currentValue": {
+      "unitPrice": 0.71,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "750g",
+      "price": 5.3
+    },
+    "name": "Traditional Wholemeal Bread",
+    "brand": "Helga's",
+    "path": "/product/helgas-bread:traditional-wholemeal:.:750-gram-5969435",
+    "description": "HELGAS BREAD:TRADITIONAL WHOLEMEAL:.:750 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/6/5969435-zm.jpg"
+  },
+  {
+    "retailerProductId": "6241655",
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 3
+    },
+    "name": "Tiger Scratch Rolls",
+    "brand": "Coles",
+    "path": "/product/tiger-scratch-rolls-6pk-6241655",
+    "description": "TIGER SCRATCH ROLLS 6PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/2/4/6241655-zm.jpg"
+  },
+  {
+    "retailerProductId": "3735750",
+    "currentValue": {
+      "unitPrice": 0.27,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "24 Pack",
+      "price": 6.5
+    },
+    "name": "Mixed Biscuit Tray",
+    "brand": "Coles Bakery",
+    "path": "/product/coles-bakery-mixed-biscuit-tray-24-pack-3735750",
+    "description": "COLES BAKERY MIXED BISCUIT TRAY 24 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3735750-zm.jpg"
+  },
+  {
+    "retailerProductId": "4770699",
+    "currentValue": {
+      "unitPrice": 0.42,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 2.5
+    },
+    "name": "Cinnamon Donuts",
+    "brand": "Coles Bakery",
+    "path": "/product/donuts-cinnamon-6pk-4770699",
+    "description": "DONUTS CINNAMON 6PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/7/4770699-zm.jpg"
+  },
+  {
+    "retailerProductId": "7266367",
+    "currentValue": {
+      "unitPrice": 1.55,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "168g",
+      "price": 2.6
+    },
+    "name": "All Butter Croissants 4 Pack",
+    "brand": "Coles",
+    "path": "/product/coles-all-butter-croissants-4-pack-7266367",
+    "description": "COLES ALL BUTTER CROISSANTS 4 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/6/7266367-zm.jpg"
+  },
+  {
+    "retailerProductId": "5827361",
+    "currentValue": {
+      "unitPrice": 0.67,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 4.7
+    },
+    "name": "Bread + Vitamins Toast",
+    "brand": "Wonder",
+    "path": "/product/wonder-bread:+-vitamins-toast:.:700-gram-5827361",
+    "description": "WONDER BREAD:+ VITAMINS TOAST:.:700 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/2/5827361-zm.jpg"
+  },
+  {
+    "retailerProductId": "3646151",
+    "currentValue": {
+      "unitPrice": 0.4,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 2.8
+    },
+    "name": "Soft White Sandwich",
+    "brand": "Coles",
+    "path": "/product/coles-soft-white-sandwich-700gram-3646151",
+    "description": "COLES SOFT WHITE SANDWICH 700GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/4/3646151-zm.jpg"
+  },
+  {
+    "retailerProductId": "6034275",
+    "currentValue": {
+      "unitPrice": 0.82,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "425g",
+      "price": 3.5
+    },
+    "name": "Crumpet Square 6 Pack",
+    "brand": "Golden",
+    "path": "/product/golden--crumpet-squares-6-pack-6034275",
+    "description": "GOLDEN  CRUMPET SQUARES 6 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/3/6034275-zm.jpg"
+  },
+  {
+    "retailerProductId": "2592079",
+    "currentValue": {
+      "unitPrice": 0.58,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 3.5
+    },
+    "name": "Indulgent Choc 40% Choc Chip Cookie",
+    "brand": "Coles Bakery",
+    "path": "/product/coles-bakery-indulgent-choc-40%-choc-chip-cookie-6pk-2592079",
+    "description": "COLES BAKERY INDULGENT CHOC 40% CHOC CHIP COOKIE 6PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/9/2592079-zm.jpg"
+  },
+  {
+    "retailerProductId": "1597180",
+    "currentValue": {
+      "unitPrice": 1.32,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "220g",
+      "price": 2.9
+    },
+    "name": "White Dinner Rolls 6 Pack",
+    "brand": "Coles",
+    "path": "/product/coles-white-dinner-rolls-6-pack-1597180",
+    "description": "COLES WHITE DINNER ROLLS 6 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/9/1597180-zm.jpg"
+  },
+  {
+    "retailerProductId": "2360380",
+    "currentValue": {
+      "unitPrice": 3.25,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 3.25
+    },
+    "name": "Vegemite Scroll",
+    "brand": "Coles Bakery",
+    "path": "/product/coles-bakery-vegemite-scroll-1-each-sc-2360380",
+    "description": "COLES BAKERY VEGEMITE SCROLL 1 EACH SC",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/6/2360380-zm.jpg"
+  },
+  {
+    "retailerProductId": "3678668",
+    "currentValue": {
+      "unitPrice": 3.25,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 3.25
+    },
+    "name": "Stone Baked By Laurent Mini White Sourdough Vienna",
+    "brand": "Coles Bakery",
+    "path": "/product/coles-stone-baked-by-laurent-mini-white-sourdough-vienna-3678668",
+    "description": "COLES STONE BAKED BY LAURENT MINI WHITE SOURDOUGH VIENNA",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/7/3678668-zm.jpg"
+  },
+  {
+    "retailerProductId": "1309274",
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "600g",
+      "price": 5.5
+    },
+    "name": "Cafe Thick Raisin Toast Bread",
+    "brand": "Tip Top",
+    "path": "/product/tip-top-cafe-thick-raisin-toast-bread-1309274",
+    "description": "TIP TOP CAFE THICK RAISIN TOAST BREAD",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/0/1309274-zm.jpg"
+  },
+  {
+    "retailerProductId": "7502073",
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 3
+    },
+    "name": "Damper Inspired Rolls",
+    "brand": "Coles Bakery",
+    "path": "/product/damper-inspired-rolls-6pack-sc-7502073",
+    "description": "DAMPER INSPIRED ROLLS 6PACK SC",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/0/7502073-zm.jpg"
+  },
+  {
+    "retailerProductId": "3384893",
+    "currentValue": {
+      "unitPrice": 3.25,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 3.25
+    },
+    "name": "Stone Baked Mini White Pane Di Casa",
+    "brand": "Coles Bakery",
+    "path": "/product/coles-stonebaked-mini-white-pane-di-casa-3384893",
+    "description": "COLES STONEBAKED MINI WHITE PANE DI CASA",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/8/3384893-zm.jpg"
+  },
+  {
+    "retailerProductId": "8104972",
+    "currentValue": {
+      "unitPrice": 0.49,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "680g",
+      "price": 3.3
+    },
+    "name": "Super Soft White Toast Loaf",
+    "brand": "Coles Bakery",
+    "path": "/product/white-toast-loaf-680g-8104972",
+    "description": "WHITE TOAST LOAF 680G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/0/8104972-zm.jpg"
+  },
+  {
+    "retailerProductId": "3678657",
+    "currentValue": {
+      "unitPrice": 3.25,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 3.25
+    },
+    "name": "Stone Baked By Laurent Mini Olive Pane Di Casa",
+    "brand": "Coles Bakery",
+    "path": "/product/coles-stone-baked-by-laurent-mini-olive-pane-di-casa-3678657",
+    "description": "COLES STONE BAKED BY LAURENT MINI OLIVE PANE DI CASA",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/7/3678657-zm.jpg"
+  },
+  {
+    "retailerProductId": "3378325",
+    "currentValue": {
+      "unitPrice": 0.4,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 2.8
+    },
+    "name": "Soft Multigrain Sandwich Loaf",
+    "brand": "Coles",
+    "path": "/product/coles-soft-multigrain-sandwich-loaf-700gram-3378325",
+    "description": "COLES SOFT MULTIGRAIN SANDWICH LOAF 700GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/7/3378325-zm.jpg"
+  },
+  {
+    "retailerProductId": "2563489",
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 3
+    },
+    "name": "Sesame Hamburger Rolls",
+    "brand": "Coles Bakery",
+    "path": "/product/sesame-hamburger-rolls-6pk-2563489",
+    "description": "SESAME HAMBURGER ROLLS 6PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/6/2563489-zm.jpg"
+  },
+  {
+    "retailerProductId": "7761876",
+    "currentValue": {
+      "unitPrice": 0.59,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "6 Pack",
+      "price": 3.55
+    },
+    "name": "Banh Mi Jumbo Rolls",
+    "brand": "Coles Bakery",
+    "path": "/product/banh-mi-jumbo-rolls--6-pack-7761876",
+    "description": "BANH MI JUMBO ROLLS  6 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/6/7761876-zm.jpg"
+  },
+  {
+    "retailerProductId": "1734666",
+    "currentValue": {
+      "unitPrice": 0.99,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "4 Pack",
+      "price": 3.95
+    },
+    "name": "Stone Baked By Laurent Pane Di Casa Rolls",
+    "brand": "Coles Bakery",
+    "path": "/product/stone-baked-pane-di-casa-rolls-4pk-1734666",
+    "description": "STONE BAKED PANE DI CASA ROLLS 4PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/3/1734666-zm.jpg"
+  },
+  {
+    "retailerProductId": "1089940",
+    "currentValue": {
+      "unitPrice": 0.66,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "800g",
+      "price": 5.3
+    },
+    "name": "Mixed Grain",
+    "brand": "Helgas",
+    "path": "/product/helgas-mixed-grain-800g-1089940",
+    "description": "HELGAS MIXED GRAIN 800G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/8/1089940-zm.jpg"
+  },
+  {
+    "retailerProductId": "6743245",
+    "currentValue": {
+      "unitPrice": 1.2,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "4 Pack",
+      "price": 4.8
+    },
+    "name": "Bakery Cheese & Bacon",
+    "brand": "Coles",
+    "path": "/product/coles-bakery-cheese-&-bacon-4pk---sc-6743245",
+    "description": "COLES BAKERY CHEESE & BACON 4PK - SC",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/4/6743245-zm.jpg"
+  },
+  {
+    "retailerProductId": "1089939",
+    "currentValue": {
+      "unitPrice": 0.76,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 5.3
+    },
+    "name": "White Loaf",
+    "brand": "Helgas",
+    "path": "/product/helgas-white-loaf-700g-1089939",
+    "description": "HELGAS WHITE LOAF 700G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/8/1089939-zm.jpg"
+  },
+  {
+    "retailerProductId": "6955662",
+    "currentValue": {
+      "unitPrice": 0.81,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "567g",
+      "price": 4.6
+    },
+    "name": "Original Wraps 8 Pack",
+    "brand": "Mission",
+    "path": "/product/mission-wraps-original-8-pack-6955662",
+    "description": "MISSION WRAPS ORIGINAL 8 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/5/6955662-zm.jpg"
+  },
+  {
+    "retailerProductId": "3018024",
+    "currentValue": {
+      "unitPrice": 6.25,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 6.25
+    },
+    "name": "White Sourdough Vienna",
+    "brand": "Coles Finest",
+    "path": "/product/coles-finest-white-sourdough-vienna-3018024",
+    "description": "COLES FINEST WHITE SOURDOUGH VIENNA",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3018024-zm.jpg"
+  },
+  {
+    "retailerProductId": "3731705",
+    "currentValue": {
+      "unitPrice": 0.61,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "360g",
+      "price": 2.2
+    },
+    "name": "Soft White Wraps 8 Pack",
+    "brand": "Coles Simply",
+    "path": "/product/coles-simply-soft-white-wraps-8pk-3731705",
+    "description": "COLES SIMPLY SOFT WHITE WRAPS 8PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3731705-zm.jpg"
+  },
+  {
+    "retailerProductId": "9880311",
+    "currentValue": {
+      "unitPrice": 0.57,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "8 Pack",
+      "price": 4.6
+    },
+    "name": "Cookies",
+    "brand": "M&M's",
+    "path": "/product/cookies-m&m's-8pk-9880311",
+    "description": "COOKIES M&M'S 8PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/8/9880311-zm.jpg"
+  },
+  {
+    "retailerProductId": "6242840",
+    "currentValue": {
+      "unitPrice": 1.9,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 1.9
+    },
+    "name": "French Stick",
+    "brand": "Coles Bakery",
+    "path": "/product/french-stick-6242840",
+    "description": "FRENCH STICK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/2/4/6242840-zm.jpg"
+  },
+  {
+    "retailerProductId": "9155538",
+    "currentValue": {
+      "unitPrice": 0.29,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "12 Pack",
+      "price": 3.5
+    },
+    "name": "ANZAC Biscuits",
+    "brand": "Coles Bakery",
+    "path": "/product/biscuits-anzac-12pk-9155538",
+    "description": "BISCUITS ANZAC 12PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/5/9155538-zm.jpg"
+  },
+  {
+    "retailerProductId": "8119754",
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "800g",
+      "price": 4
+    },
+    "name": "High Fibre Low Gi 7 Seeds & Grain Toast Loaf",
+    "brand": "Coles",
+    "path": "/product/coles-high-fibre-low-gi-7-seeds-&-grain-toast-loaf-800g-sc-8119754",
+    "description": "COLES HIGH FIBRE LOW GI 7 SEEDS & GRAIN TOAST LOAF 800G SC",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/1/8119754-zm.jpg"
+  }
+]

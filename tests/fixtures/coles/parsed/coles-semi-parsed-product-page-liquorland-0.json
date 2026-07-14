@@ -1,0 +1,107 @@
+[
+  {
+    "retailerProductId": "335199",
+    "currentValue": {
+      "unitPrice": 4.22,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "2.25L",
+      "price": 9.5
+    },
+    "name": "Ultra Light Bottle 6x375ml",
+    "brand": "Coopers",
+    "path": "/product/coopers-ultra-light-beer--6x375ml-335199",
+    "description": "COOPERS ULTRA LIGHT BEER  6X375ML",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/5/335199-zm.jpg"
+  },
+  {
+    "retailerProductId": "4406142",
+    "currentValue": {
+      "unitPrice": 4.98,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "24 Carton",
+      "price": 11.2
+    },
+    "name": "Zero Can 6x375ml",
+    "brand": "Great Northern",
+    "path": "/product/great-northern-zero-can-6x375ml-4406142",
+    "description": "GREAT NORTHERN ZERO CAN 6X375ML",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/0/4406142-zm.jpg"
+  },
+  {
+    "retailerProductId": "5457740",
+    "currentValue": {
+      "unitPrice": 15.33,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "1 Each",
+      "price": 11.5
+    },
+    "name": "Non Alcoholic Sparkling Cuvee 750ml",
+    "brand": "Edenvale",
+    "path": "/product/edenvale-non-alcoholic-:sparkling-cuvee:.:750-ml-5457740",
+    "description": "EDENVALE NON ALCOHOLIC :SPARKLING CUVEE:.:750 ML",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/5/5457740-zm.jpg"
+  },
+  {
+    "retailerProductId": "4950442",
+    "currentValue": {
+      "unitPrice": 10.67,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "4 Pack",
+      "price": 16
+    },
+    "name": "Quiet Non Alcoholic Xpa 375ml",
+    "brand": "Heaps Normal",
+    "path": "/product/heaps-normal-quiet-xpa-4x375ml-4950442",
+    "description": "HEAPS NORMAL QUIET XPA 4X375ML",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/5/4950442-zm.jpg"
+  },
+  {
+    "retailerProductId": "3815747",
+    "currentValue": {
+      "unitPrice": 15.33,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "1 Each",
+      "price": 11.5
+    },
+    "name": "Non Alcoholic Drink Sauvignon Blanc 750ml",
+    "brand": "Edenvale",
+    "path": "/product/edenvale-non-alcoholic--drink-750ml:sauvignon-blan:.:750-ml-3815747",
+    "description": "EDENVALE NON ALCOHOLIC  DRINK 750ML:SAUVIGNON BLAN:.:750 ML",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/1/3815747-zm.jpg"
+  },
+  {
+    "retailerProductId": "4451680",
+    "currentValue": {
+      "unitPrice": 15,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "1L",
+      "price": 15
+    },
+    "name": "Non-alcoholic Cocktail Margarita Can 4x250ml",
+    "brand": "Naked Life",
+    "path": "/product/naked-life--cocktail:margherita:.:1-litre-4451680",
+    "description": "NAKED LIFE  COCKTAIL:MARGHERITA:.:1 LITRE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/5/4451680-zm.jpg"
+  },
+  {
+    "retailerProductId": "5174949",
+    "currentValue": {
+      "unitPrice": 6.06,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "1.98L",
+      "price": 12
+    },
+    "name": "Zero Bottle 6x330ml",
+    "brand": "XXXX",
+    "path": "/product/xxxx-zero-6x330ml-6-pack-5174949",
+    "description": "XXXX ZERO 6X330ML 6 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5174949-zm.jpg"
+  }
+]

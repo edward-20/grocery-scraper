@@ -1,0 +1,722 @@
+[
+  {
+    "retailerProductId": "8174708",
+    "currentValue": {
+      "unitPrice": 30,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "200g",
+      "price": 6
+    },
+    "name": "Caesar Salad Bowl",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-caesar-salad-bowl-200-gram-8174708",
+    "description": "COLES KITCHEN CAESAR SALAD BOWL 200 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/7/8174708-zm.jpg"
+  },
+  {
+    "retailerProductId": "9174565",
+    "currentValue": {
+      "unitPrice": 5.9,
+      "unitPriceQuantity": 180,
+      "unitPriceUnit": "g",
+      "size": "approx. 180g each",
+      "price": 1.06
+    },
+    "name": "Bananas Red Tipped",
+    "brand": "Coles",
+    "path": "/product/bananas:red-tipped:per-kg-9174565",
+    "description": "BANANAS:RED TIPPED:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/7/9174565-zm.jpg"
+  },
+  {
+    "retailerProductId": "4575569",
+    "currentValue": {
+      "unitPrice": 3.3,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Bunch",
+      "price": 3.3
+    },
+    "name": "Sleeved Herbs Parsley",
+    "brand": "Coles",
+    "path": "/product/sleeved-herbs:parsley:.:1-bunch-4575569",
+    "description": "SLEEVED HERBS:PARSLEY:.:1 BUNCH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4575569-zm.jpg"
+  },
+  {
+    "retailerProductId": "204893",
+    "currentValue": {
+      "unitPrice": 5.9,
+      "unitPriceQuantity": 130,
+      "unitPriceUnit": "g",
+      "size": "approx. 130g each",
+      "price": 0.77
+    },
+    "name": "Murcott Mandarins Medium",
+    "brand": "Coles",
+    "path": "/product/mandarins:murcott-medium:per-kg-204893",
+    "description": "MANDARINS:MURCOTT MEDIUM:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/4/204893-zm.jpg"
+  },
+  {
+    "retailerProductId": "8658588",
+    "currentValue": {
+      "unitPrice": 17.86,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "280g",
+      "price": 5
+    },
+    "name": "Salad Family Spinach",
+    "brand": "Coles",
+    "path": "/product/coles-salad-family:family-spinach:.:280-gram-8658588",
+    "description": "COLES SALAD FAMILY:FAMILY SPINACH:.:280 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/5/8658588-zm.jpg"
+  },
+  {
+    "retailerProductId": "2674650",
+    "currentValue": {
+      "unitPrice": 14.67,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "150g",
+      "price": 2.2
+    },
+    "name": "Carrot & Broccoli Florets",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-carrot-&-broccoli-florets-150-gram-2674650",
+    "description": "COLES KITCHEN CARROT & BROCCOLI FLORETS 150 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/7/2674650-zm.jpg"
+  },
+  {
+    "retailerProductId": "4596649",
+    "currentValue": {
+      "unitPrice": 3.2,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 3.2
+    },
+    "name": "Lettuce Decorative Green Oak",
+    "brand": "Coles",
+    "path": "/product/coles-lettuce-decorative:green-oak:.:1-each-4596649",
+    "description": "COLES LETTUCE DECORATIVE:GREEN OAK:.:1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/9/4596649-zm.jpg"
+  },
+  {
+    "retailerProductId": "4438740",
+    "currentValue": {
+      "unitPrice": 7.9,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "1kg",
+      "price": 7.9
+    },
+    "name": "Granny Smith Apples",
+    "brand": "Coles",
+    "path": "/product/grannysmiths-apples-1-kg:granny-smith:.:1-kg-4438740",
+    "description": "GRANNYSMITHS APPLES 1 KG:GRANNY SMITH:.:1 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/3/4438740-zm.jpg"
+  },
+  {
+    "retailerProductId": "8164806",
+    "currentValue": {
+      "unitPrice": 12.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 5
+    },
+    "name": "Vegetables Baby Potatoes Herb Butter",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-vegetables:baby-potatoes-herb-butter:.:400-gram-8164806",
+    "description": "COLES KITCHEN VEGETABLES:BABY POTATOES HERB BUTTER:.:400 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8164806-zm.jpg"
+  },
+  {
+    "retailerProductId": "3858896",
+    "currentValue": {
+      "unitPrice": 15.71,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "350g",
+      "price": 5.5
+    },
+    "name": "Green Goddess Salad Kit",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-green-goddess-salad-kit:.:350-gram-3858896",
+    "description": "COLES KITCHEN GREEN GODDESS SALAD KIT:.:350 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3858896-zm.jpg"
+  },
+  {
+    "retailerProductId": "1039770",
+    "currentValue": {
+      "unitPrice": 5.9,
+      "unitPriceQuantity": 170,
+      "unitPriceUnit": "g",
+      "size": "approx. 170g",
+      "price": 1
+    },
+    "name": "Organic Banana",
+    "brand": "Coles",
+    "path": "/product/organic:banana:.:per-kg-1039770",
+    "description": "ORGANIC:BANANA:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/3/1039770-zm.jpg"
+  },
+  {
+    "retailerProductId": "5415852",
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 1.5
+    },
+    "name": "Panama Passionfruit",
+    "brand": "Coles",
+    "path": "/product/passionfruit:panama:1-each-5415852",
+    "description": "PASSIONFRUIT:PANAMA:1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/1/5415852-zm.jpg"
+  },
+  {
+    "retailerProductId": "4590573",
+    "currentValue": {
+      "unitPrice": 13.5,
+      "unitPriceQuantity": 200,
+      "unitPriceUnit": "g",
+      "size": "approx. 200g",
+      "price": 2.7
+    },
+    "name": "Portobello Mushrooms",
+    "brand": "Coles",
+    "path": "/product/mushrooms:portobello:.:per-kg-4590573",
+    "description": "MUSHROOMS:PORTOBELLO:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/9/4590573-zm.jpg"
+  },
+  {
+    "retailerProductId": "408383",
+    "currentValue": {
+      "unitPrice": 4.2,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 4.2
+    },
+    "name": "Silverbeet Medium",
+    "brand": "Coles",
+    "path": "/product/silverbeet:medium:.:1-bunch-408383",
+    "description": "SILVERBEET:MEDIUM:.:1 BUNCH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/8/408383-zm.jpg"
+  },
+  {
+    "retailerProductId": "3215171",
+    "currentValue": {
+      "unitPrice": 3.3,
+      "unitPriceQuantity": 10,
+      "unitPriceUnit": "g",
+      "size": "10g",
+      "price": 3.3
+    },
+    "name": "Herb Punnets Thyme",
+    "brand": "Coles",
+    "path": "/product/herb-punnets:thyme:.:10-gram-3215171",
+    "description": "HERB PUNNETS:THYME:.:10 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3215171-zm.jpg"
+  },
+  {
+    "retailerProductId": "5040240",
+    "currentValue": {
+      "unitPrice": 15.71,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "350g",
+      "price": 5.5
+    },
+    "name": "Honey Mustard & Crouton Salad Kit",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-honey-mustard-&-crouton-salad-kit:.:350-gram-5040240",
+    "description": "COLES KITCHEN HONEY MUSTARD & CROUTON SALAD KIT:.:350 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/4/5040240-zm.jpg"
+  },
+  {
+    "retailerProductId": "1991647",
+    "currentValue": {
+      "unitPrice": 0.81,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "800g",
+      "price": 6.5
+    },
+    "name": "Pasta Salad",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-pasta-salad:.:800-gram-1991647",
+    "description": "COLES KITCHEN PASTA SALAD:.:800 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/9/1991647-zm.jpg"
+  },
+  {
+    "retailerProductId": "8696598",
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 4
+    },
+    "name": "Kale Bunch Green",
+    "brand": "Coles",
+    "path": "/product/kale-bunch:green:.:1-each-8696598",
+    "description": "KALE BUNCH:GREEN:.:1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/9/8696598-zm.jpg"
+  },
+  {
+    "retailerProductId": "5040126",
+    "currentValue": {
+      "unitPrice": 11.11,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "450g",
+      "price": 5
+    },
+    "name": "Chicken Style Soup Mix Kit",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-soup-mix:chicken-style-soup-kit:.:450-gram-5040126",
+    "description": "COLES SOUP MIX:CHICKEN STYLE SOUP KIT:.:450 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/4/5040126-zm.jpg"
+  },
+  {
+    "retailerProductId": "8381564",
+    "currentValue": {
+      "unitPrice": 1.62,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "4 Pack",
+      "price": 6.5
+    },
+    "name": "Passionfruit Prepack",
+    "brand": "Coles",
+    "path": "/product/passionfruit:prepack:4-pack-8381564",
+    "description": "PASSIONFRUIT:PREPACK:4 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/8/8381564-zm.jpg"
+  },
+  {
+    "retailerProductId": "3586446",
+    "currentValue": {
+      "unitPrice": 3.95,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "2kg",
+      "price": 7.9
+    },
+    "name": "I'm Perfect Apples Prepacked",
+    "brand": "Coles",
+    "path": "/product/i'mperfect-pp-apples:.:2-kg-3586446",
+    "description": "I'MPERFECT PP APPLES:.:2 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3586446-zm.jpg"
+  },
+  {
+    "retailerProductId": "444503",
+    "currentValue": {
+      "unitPrice": 3.9,
+      "unitPriceQuantity": 230,
+      "unitPriceUnit": "g",
+      "size": "approx. 230g",
+      "price": 0.9
+    },
+    "name": "Josephine Pears",
+    "brand": "Coles",
+    "path": "/product/pear:josephine:per-kg-444503",
+    "description": "PEAR:JOSEPHINE:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/4/444503-zm.jpg"
+  },
+  {
+    "retailerProductId": "409987",
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": 230,
+      "unitPriceUnit": "g",
+      "size": "approx. 230g each",
+      "price": 1.03
+    },
+    "name": "Beurre Bosc Pears",
+    "brand": "Coles",
+    "path": "/product/pears:beurre-bosc:per-kg-409987",
+    "description": "PEARS:BEURRE BOSC:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409987-zm.jpg"
+  },
+  {
+    "retailerProductId": "4567039",
+    "currentValue": {
+      "unitPrice": 2.9,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 2.9
+    },
+    "name": "Asian Choy Pak",
+    "brand": "Coles",
+    "path": "/product/asian-choy:pak:.:1-bunch-4567039",
+    "description": "ASIAN CHOY:PAK:.:1 BUNCH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/6/4567039-zm.jpg"
+  },
+  {
+    "retailerProductId": "3214747",
+    "currentValue": {
+      "unitPrice": 3.3,
+      "unitPriceQuantity": 10,
+      "unitPriceUnit": "g",
+      "size": "10g",
+      "price": 3.3
+    },
+    "name": "Herb Punnets Chives",
+    "brand": "Coles",
+    "path": "/product/herb-punnets:chives:.:10-gram-3214747",
+    "description": "HERB PUNNETS:CHIVES:.:10 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3214747-zm.jpg"
+  },
+  {
+    "retailerProductId": "2123646",
+    "currentValue": {
+      "unitPrice": 22.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 9
+    },
+    "name": "Roasted & Salted Cashews",
+    "brand": "Coles",
+    "path": "/product/coles-roasted-&-salted-cashews-400g-2123646",
+    "description": "COLES ROASTED & SALTED CASHEWS 400G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/2/2123646-zm.jpg"
+  },
+  {
+    "retailerProductId": "4966930",
+    "currentValue": {
+      "unitPrice": 7.5,
+      "unitPriceQuantity": 320,
+      "unitPriceUnit": "g",
+      "size": "approx. 320g",
+      "price": 2.4
+    },
+    "name": "Swedes Loose",
+    "brand": "Coles",
+    "path": "/product/swedes:loose:.:per-kg-4966930",
+    "description": "SWEDES:LOOSE:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/6/4966930-zm.jpg"
+  },
+  {
+    "retailerProductId": "3016299",
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "250g",
+      "price": 4
+    },
+    "name": "Pasta Salad",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-pasta-salad:.:250-gram-3016299",
+    "description": "COLES KITCHEN PASTA SALAD:.:250 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3016299-zm.jpg"
+  },
+  {
+    "retailerProductId": "2859066",
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 5
+    },
+    "name": "Australian Diced Butternut Pumpkin",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-australian-diced-butternut-pumpkin:.:500-gram-2859066",
+    "description": "COLES KITCHEN AUSTRALIAN DICED BUTTERNUT PUMPKIN:.:500 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/5/2859066-zm.jpg"
+  },
+  {
+    "retailerProductId": "3015977",
+    "currentValue": {
+      "unitPrice": 13.75,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 5.5
+    },
+    "name": "American BBQ Salad Kit",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-american-bbq-salad-kit:.:400-gram-3015977",
+    "description": "COLES KITCHEN AMERICAN BBQ SALAD KIT:.:400 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3015977-zm.jpg"
+  },
+  {
+    "retailerProductId": "3892103",
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "2 Pack",
+      "price": 6
+    },
+    "name": "Wombok Chinese Cabbage Wombok Petite",
+    "brand": "Coles",
+    "path": "/product/wombok-chinese-cabbage-:wombok-petite:.:2-pack-3892103",
+    "description": "WOMBOK CHINESE CABBAGE :WOMBOK PETITE:.:2 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/9/3892103-zm.jpg"
+  },
+  {
+    "retailerProductId": "2310971",
+    "currentValue": {
+      "unitPrice": 14.67,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "150g",
+      "price": 2.2
+    },
+    "name": "Broccoli Florets",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-broccoli--florets:broccoli:.:150-gram-2310971",
+    "description": "COLES KITCHEN BROCCOLI  FLORETS:BROCCOLI:.:150 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/1/2310971-zm.jpg"
+  },
+  {
+    "retailerProductId": "3016120",
+    "currentValue": {
+      "unitPrice": 11.43,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "350g",
+      "price": 4
+    },
+    "name": "Superfood Slaw Mix",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-superfood-slaw-mix:.:350-gram-3016120",
+    "description": "COLES KITCHEN SUPERFOOD SLAW MIX:.:350 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3016120-zm.jpg"
+  },
+  {
+    "retailerProductId": "8161433",
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 4
+    },
+    "name": "Roasted & Salted Peanuts",
+    "brand": "Coles",
+    "path": "/product/coles-roasted-&-salted-peanuts:.:400-gram-8161433",
+    "description": "COLES ROASTED & SALTED PEANUTS:.:400 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8161433-zm.jpg"
+  },
+  {
+    "retailerProductId": "3858943",
+    "currentValue": {
+      "unitPrice": 13.75,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 5.5
+    },
+    "name": "Family Ranch Salad Kit",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-family-ranch-salad-kit:.:400-gram-3858943",
+    "description": "COLES KITCHEN FAMILY RANCH SALAD KIT:.:400 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3858943-zm.jpg"
+  },
+  {
+    "retailerProductId": "3613141",
+    "currentValue": {
+      "unitPrice": 36.67,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "60g",
+      "price": 2.2
+    },
+    "name": "Spinach & Rocket",
+    "brand": "Coles",
+    "path": "/product/coles-spinach-&-rocket:.:60-gram-3613141",
+    "description": "COLES SPINACH & ROCKET:.:60 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/1/3613141-zm.jpg"
+  },
+  {
+    "retailerProductId": "8412250",
+    "currentValue": {
+      "unitPrice": 30,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "approx. 100g",
+      "price": 3
+    },
+    "name": "Supreme Roasted Salted Mixed Nuts",
+    "brand": "Coles",
+    "path": "/product/coles-supreme-roasted-salted-mixed-nuts:.:per-kg-8412250",
+    "description": "COLES SUPREME ROASTED SALTED MIXED NUTS:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/1/8412250-zm.jpg"
+  },
+  {
+    "retailerProductId": "2674606",
+    "currentValue": {
+      "unitPrice": 23.57,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "140g",
+      "price": 3.3
+    },
+    "name": "Chopped Kale",
+    "brand": "Coles",
+    "path": "/product/coles-chopped-kale-140-gram-2674606",
+    "description": "COLES CHOPPED KALE 140 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/7/2674606-zm.jpg"
+  },
+  {
+    "retailerProductId": "9964284",
+    "currentValue": {
+      "unitPrice": 2.65,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "2Kg",
+      "price": 5.3
+    },
+    "name": "I'm Perfect Onions Prepack",
+    "brand": "Coles",
+    "path": "/product/i'mperfect-pp-onions:.:2kg-9964284",
+    "description": "I'MPERFECT PP ONIONS:.:2KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/6/9964284-zm.jpg"
+  },
+  {
+    "retailerProductId": "2511678",
+    "currentValue": {
+      "unitPrice": 5.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "1kg",
+      "price": 5.5
+    },
+    "name": "Apples Mini Pack",
+    "brand": "Coles",
+    "path": "/product/apple-1kg:minipack:.:1-kg-2511678",
+    "description": "APPLE 1KG:MINIPACK:.:1 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/1/2511678-zm.jpg"
+  },
+  {
+    "retailerProductId": "6803198",
+    "currentValue": {
+      "unitPrice": 5.9,
+      "unitPriceQuantity": 180,
+      "unitPriceUnit": "g",
+      "size": "approx. 180g",
+      "price": 1.06
+    },
+    "name": "Tangelos Minneola",
+    "brand": "Coles",
+    "path": "/product/tangelos:minneola:per-kg-6803198",
+    "description": "TANGELOS:MINNEOLA:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/0/6803198-zm.jpg"
+  },
+  {
+    "retailerProductId": "3666385",
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 3
+    },
+    "name": "Cabbage Wombok Precut Half",
+    "brand": "Coles",
+    "path": "/product/cabbage-wombok-precut-half-1-each-3666385",
+    "description": "CABBAGE WOMBOK PRECUT HALF 1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/6/3666385-zm.jpg"
+  },
+  {
+    "retailerProductId": "1311710",
+    "currentValue": {
+      "unitPrice": 8.86,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "350g",
+      "price": 3.1
+    },
+    "name": "Microwave Bag",
+    "brand": "Spudlite",
+    "path": "/product/spudlite-microwave-bag-350g-1311710",
+    "description": "SPUDLITE MICROWAVE BAG 350G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/1/1311710-zm.jpg"
+  },
+  {
+    "retailerProductId": "4433462",
+    "currentValue": {
+      "unitPrice": 5.9,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "1 each",
+      "price": 5.9
+    },
+    "name": "Royal Gala Apples 1kg",
+    "brand": "Coles",
+    "path": "/product/royal-gala-apples-1kg:royal-gala:.:1-kg-4433462",
+    "description": "ROYAL GALA APPLES 1KG:ROYAL GALA:.:1 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/3/4433462-zm.jpg"
+  },
+  {
+    "retailerProductId": "3294724",
+    "currentValue": {
+      "unitPrice": 38.89,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "180g",
+      "price": 7
+    },
+    "name": "Chicken Caesar Salad Bowl",
+    "brand": "Coles Kitchen",
+    "path": "/product/coles-kitchen-caesar-chicken-salad-bowl:.:180-gram-3294724",
+    "description": "COLES KITCHEN CAESAR CHICKEN SALAD BOWL:.:180 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/3294724-zm.jpg"
+  },
+  {
+    "retailerProductId": "3214780",
+    "currentValue": {
+      "unitPrice": 3.3,
+      "unitPriceQuantity": 10,
+      "unitPriceUnit": "g",
+      "size": "10g",
+      "price": 3.3
+    },
+    "name": "Herb Punnets Rosemary",
+    "brand": "Coles",
+    "path": "/product/herb-punnets:rosemary:.:10-gram-3214780",
+    "description": "HERB PUNNETS:ROSEMARY:.:10 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3214780-zm.jpg"
+  },
+  {
+    "retailerProductId": "6309511",
+    "currentValue": {
+      "unitPrice": 15.6,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "250g",
+      "price": 3.9
+    },
+    "name": "Snacking Carrots",
+    "brand": "Coles",
+    "path": "/product/carrots:snacking:.:250-gram-6309511",
+    "description": "CARROTS:SNACKING:.:250 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/0/6309511-zm.jpg"
+  },
+  {
+    "retailerProductId": "8647548",
+    "currentValue": {
+      "unitPrice": 16.67,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "300g",
+      "price": 5
+    },
+    "name": "Australian Salad Family Baby Leaf Blend",
+    "brand": "Coles",
+    "path": "/product/coles-salad-family:baby-leaf-blend:.:300-gram-8647548",
+    "description": "COLES SALAD FAMILY:BABY LEAF BLEND:.:300 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/4/8647548-zm.jpg"
+  }
+]

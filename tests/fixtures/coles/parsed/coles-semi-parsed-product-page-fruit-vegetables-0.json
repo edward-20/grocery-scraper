@@ -1,0 +1,722 @@
+[
+  {
+    "retailerProductId": "409499",
+    "currentValue": {
+      "unitPrice": 4.5,
+      "unitPriceQuantity": 170,
+      "unitPriceUnit": "g",
+      "size": "approx. 170g",
+      "price": 0.77
+    },
+    "name": "Bananas",
+    "brand": "Coles",
+    "path": "/product/bananas:-per-kg-409499",
+    "description": "BANANAS: PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409499-zm.jpg"
+  },
+  {
+    "retailerProductId": "5900530",
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 1.5
+    },
+    "name": "Hass Avocados",
+    "brand": "Coles",
+    "path": "/product/avocado:hass:.:1-each-5900530",
+    "description": "AVOCADO:HASS:.:1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/0/5900530-zm.jpg"
+  },
+  {
+    "retailerProductId": "407755",
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": 340,
+      "unitPriceUnit": "g",
+      "size": "approx. 340g",
+      "price": 1.36
+    },
+    "name": "Broccoli Medium",
+    "brand": "Coles",
+    "path": "/product/broccoli:medium:.:per-kg-407755",
+    "description": "BROCCOLI:MEDIUM:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/7/407755-zm.jpg"
+  },
+  {
+    "retailerProductId": "5543535",
+    "currentValue": {
+      "unitPrice": 32,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "125g",
+      "price": 4
+    },
+    "name": "Blueberries",
+    "brand": "Coles",
+    "path": "/product/blueberries:berries:125-gram-5543535",
+    "description": "BLUEBERRIES:BERRIES:125 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/4/5543535-zm.jpg"
+  },
+  {
+    "retailerProductId": "4597109",
+    "currentValue": {
+      "unitPrice": 3.9,
+      "unitPriceQuantity": 130,
+      "unitPriceUnit": "g",
+      "size": "approx. 130g",
+      "price": 0.51
+    },
+    "name": "Tomatoes Gourmet",
+    "brand": "Coles",
+    "path": "/product/tomatoes:gourmet:.:per-kg-4597109",
+    "description": "TOMATOES:GOURMET:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/9/4597109-zm.jpg"
+  },
+  {
+    "retailerProductId": "5191256",
+    "currentValue": {
+      "unitPrice": 22.8,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "250g",
+      "price": 5.7
+    },
+    "name": "Strawberries",
+    "brand": "Coles",
+    "path": "/product/strawberries:berries:.:250-gram-5191256",
+    "description": "STRAWBERRIES:BERRIES:.:250 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/9/5191256-zm.jpg"
+  },
+  {
+    "retailerProductId": "4575208",
+    "currentValue": {
+      "unitPrice": 6.9,
+      "unitPriceQuantity": 160,
+      "unitPriceUnit": "g",
+      "size": "approx. 160g",
+      "price": 1.1
+    },
+    "name": "Lebanese Cucumbers",
+    "brand": "Coles",
+    "path": "/product/cucumbers-lebanese:loose:.:per-kg-4575208",
+    "description": "CUCUMBERS LEBANESE:LOOSE:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4575208-zm.jpg"
+  },
+  {
+    "retailerProductId": "8133562",
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": 1000,
+      "unitPriceUnit": "g",
+      "size": "approx. 1kg",
+      "price": 5
+    },
+    "name": "Red Seedless Grapes",
+    "brand": "Coles",
+    "path": "/product/grapes-seedless-red-paper-8133562",
+    "description": "GRAPES SEEDLESS RED PAPER",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/3/8133562-zm.jpg"
+  },
+  {
+    "retailerProductId": "134029",
+    "currentValue": {
+      "unitPrice": 32,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "125g",
+      "price": 4
+    },
+    "name": "Raspberries",
+    "brand": "Coles",
+    "path": "/product/raspberries:berries:.:125-gram-134029",
+    "description": "RASPBERRIES:BERRIES:.:125 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/4/134029-zm.jpg"
+  },
+  {
+    "retailerProductId": "4580208",
+    "currentValue": {
+      "unitPrice": 7.9,
+      "unitPriceQuantity": 220,
+      "unitPriceUnit": "g",
+      "size": "approx. 220g",
+      "price": 1.74
+    },
+    "name": "Red Capsicum Loose",
+    "brand": "Coles",
+    "path": "/product/capsicum-red:loose:.:per-kg-4580208",
+    "description": "CAPSICUM RED:LOOSE:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/8/4580208-zm.jpg"
+  },
+  {
+    "retailerProductId": "4199503",
+    "currentValue": {
+      "unitPrice": 3.5,
+      "unitPriceQuantity": 500,
+      "unitPriceUnit": "g",
+      "size": "approx. 500g",
+      "price": 1.75
+    },
+    "name": "Potatoes Sweet Gold",
+    "brand": "Coles",
+    "path": "/product/potatoes-sweet-gold:.:per-kg-4199503",
+    "description": "POTATOES SWEET GOLD:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/9/4199503-zm.jpg"
+  },
+  {
+    "retailerProductId": "4239517",
+    "currentValue": {
+      "unitPrice": 4.2,
+      "unitPriceQuantity": 200,
+      "unitPriceUnit": "g",
+      "size": "approx. 200g",
+      "price": 0.84
+    },
+    "name": "Loose Brown Onions",
+    "brand": "Coles",
+    "path": "/product/loose-brown-onions:brown:.:per-kg-4239517",
+    "description": "LOOSE BROWN ONIONS:BROWN:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/3/4239517-zm.jpg"
+  },
+  {
+    "retailerProductId": "409750",
+    "currentValue": {
+      "unitPrice": 3.9,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "approx. 100g",
+      "price": 0.39
+    },
+    "name": "Imperial Mandarins",
+    "brand": "Coles",
+    "path": "/product/mandarins:imperial-medium:.:per-kg-409750",
+    "description": "MANDARINS:IMPERIAL MEDIUM:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409750-zm.jpg"
+  },
+  {
+    "retailerProductId": "4562603",
+    "currentValue": {
+      "unitPrice": 1,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 1
+    },
+    "name": "Sweet Corn",
+    "brand": "Coles",
+    "path": "/product/corn-sweet:loose:.:1-each-4562603",
+    "description": "CORN SWEET:LOOSE:.:1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/6/4562603-zm.jpg"
+  },
+  {
+    "retailerProductId": "4910506",
+    "currentValue": {
+      "unitPrice": 4.9,
+      "unitPriceQuantity": 200,
+      "unitPriceUnit": "g",
+      "size": "approx. 200g",
+      "price": 0.98
+    },
+    "name": "Green Zucchini",
+    "brand": "Coles",
+    "path": "/product/zucchini:green:.:per-kg-4910506",
+    "description": "ZUCCHINI:GREEN:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/1/4910506-zm.jpg"
+  },
+  {
+    "retailerProductId": "9006560",
+    "currentValue": {
+      "unitPrice": 2.4,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "1Kg",
+      "price": 2.4
+    },
+    "name": "Carrots",
+    "brand": "Coles",
+    "path": "/product/carrots:prepack:.:1-kg-9006560",
+    "description": "CARROTS:PREPACK:.:1 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/0/9006560-zm.jpg"
+  },
+  {
+    "retailerProductId": "5111654",
+    "currentValue": {
+      "unitPrice": 7.5,
+      "unitPriceQuantity": 200,
+      "unitPriceUnit": "g",
+      "size": "approx. 200g each",
+      "price": 1.5
+    },
+    "name": "Pink Lady Apples Medium",
+    "brand": "Coles",
+    "path": "/product/apple-pink-lady:med:.:per-kg-5111654",
+    "description": "APPLE PINK LADY:MED:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/1/5111654-zm.jpg"
+  },
+  {
+    "retailerProductId": "4255717",
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": 250,
+      "unitPriceUnit": "g",
+      "size": "approx. 250g",
+      "price": 0.62
+    },
+    "name": "Orange Navel",
+    "brand": "Coles",
+    "path": "/product/orange:navel:.:per-kg-4255717",
+    "description": "ORANGE:NAVEL:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/5/4255717-zm.jpg"
+  },
+  {
+    "retailerProductId": "4223335",
+    "currentValue": {
+      "unitPrice": 2.6,
+      "unitPriceQuantity": 170,
+      "unitPriceUnit": "g",
+      "size": "approx. 170g",
+      "price": 0.44
+    },
+    "name": "Carrots Loose",
+    "brand": "Coles",
+    "path": "/product/carrots:loose:.:per-kg-4223335",
+    "description": "CARROTS:LOOSE:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/2/4223335-zm.jpg"
+  },
+  {
+    "retailerProductId": "7265535",
+    "currentValue": {
+      "unitPrice": 19.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "200g",
+      "price": 3.9
+    },
+    "name": "Perino Red Grape Tomatoes",
+    "brand": "Coles",
+    "path": "/product/tomatoes-grape-red:perino:.:200-gram-7265535",
+    "description": "TOMATOES GRAPE RED:PERINO:.:200 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/6/7265535-zm.jpg"
+  },
+  {
+    "retailerProductId": "5982477",
+    "currentValue": {
+      "unitPrice": 3.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Bunch",
+      "price": 3.5
+    },
+    "name": "Baby Broccoli",
+    "brand": "Coles",
+    "path": "/product/broccoli:baby:.:1bunch-5982477",
+    "description": "BROCCOLI:BABY:.:1BUNCH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/8/5982477-zm.jpg"
+  },
+  {
+    "retailerProductId": "6427471",
+    "currentValue": {
+      "unitPrice": 4.9,
+      "unitPriceQuantity": 160,
+      "unitPriceUnit": "g",
+      "size": "approx. 160g each",
+      "price": 0.78
+    },
+    "name": "Jazz Apples",
+    "brand": "Coles",
+    "path": "/product/apple-jazz:medium:.:per-kg-6427471",
+    "description": "APPLE JAZZ:MEDIUM:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/4/2/6427471-zm.jpg"
+  },
+  {
+    "retailerProductId": "4594010",
+    "currentValue": {
+      "unitPrice": 12.5,
+      "unitPriceQuantity": 200,
+      "unitPriceUnit": "g",
+      "size": "approx. 200g",
+      "price": 2.5
+    },
+    "name": "Fresh Loose Cup Mushrooms",
+    "brand": "Coles",
+    "path": "/product/mushrooms:cup:.:per-kg-4594010",
+    "description": "MUSHROOMS:CUP:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/9/4594010-zm.jpg"
+  },
+  {
+    "retailerProductId": "2511791",
+    "currentValue": {
+      "unitPrice": 6,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "750g",
+      "price": 4.5
+    },
+    "name": "Bananas Mini Pack",
+    "brand": "Coles",
+    "path": "/product/coles-bananas:mini-pack:.:750-gram-2511791",
+    "description": "COLES BANANAS:MINI PACK:.:750 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/1/2511791-zm.jpg"
+  },
+  {
+    "retailerProductId": "4218459",
+    "currentValue": {
+      "unitPrice": 5.5,
+      "unitPriceQuantity": 200,
+      "unitPriceUnit": "g",
+      "size": "approx. 200g",
+      "price": 1.1
+    },
+    "name": "Onions Red Local",
+    "brand": "Coles",
+    "path": "/product/onions:red:local:.:per-kg-4218459",
+    "description": "ONIONS:RED:LOCAL:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/1/4218459-zm.jpg"
+  },
+  {
+    "retailerProductId": "134040",
+    "currentValue": {
+      "unitPrice": 32,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "125g",
+      "price": 4
+    },
+    "name": "Blackberries",
+    "brand": "Coles",
+    "path": "/product/blackberries:berries:125-gram-134040",
+    "description": "BLACKBERRIES:BERRIES:125 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/4/134040-zm.jpg"
+  },
+  {
+    "retailerProductId": "4578148",
+    "currentValue": {
+      "unitPrice": 16,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "250g",
+      "price": 4
+    },
+    "name": "Baby Cucumbers",
+    "brand": "Coles",
+    "path": "/product/qukes:baby:.:250-gram-4578148",
+    "description": "QUKES:BABY:.:250 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4578148-zm.jpg"
+  },
+  {
+    "retailerProductId": "408419",
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Bunch",
+      "price": 3
+    },
+    "name": "Spring Onions",
+    "brand": "Coles",
+    "path": "/product/-onions:spring:.:1-bunch-408419",
+    "description": " ONIONS:SPRING:.:1 BUNCH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/8/408419-zm.jpg"
+  },
+  {
+    "retailerProductId": "4803991",
+    "currentValue": {
+      "unitPrice": 3.6,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "1kg",
+      "price": 3.6
+    },
+    "name": "Brown Onions",
+    "brand": "Coles",
+    "path": "/product/coles-onions:brown:.:1-kg-4803991",
+    "description": "COLES ONIONS:BROWN:.:1 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/0/4803991-zm.jpg"
+  },
+  {
+    "retailerProductId": "5318302",
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 1.6
+    },
+    "name": "Lemons",
+    "brand": "Coles",
+    "path": "/product/lemons:.:1-each-5318302",
+    "description": "LEMONS:.:1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5318302-zm.jpg"
+  },
+  {
+    "retailerProductId": "156258",
+    "currentValue": {
+      "unitPrice": 3.5,
+      "unitPriceQuantity": 240,
+      "unitPriceUnit": "g",
+      "size": "approx. 240g",
+      "price": 0.84
+    },
+    "name": "Pear Packham",
+    "brand": "Coles",
+    "path": "/product/pear:packham:.:per-kg-156258",
+    "description": "PEAR:PACKHAM:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/6/156258-zm.jpg"
+  },
+  {
+    "retailerProductId": "7712327",
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "2kg",
+      "price": 8
+    },
+    "name": "Carisma Washed Potatoes",
+    "brand": "Coles",
+    "path": "/product/coles-potato-washed:carisma:.:2-kg-7712327",
+    "description": "COLES POTATO WASHED:CARISMA:.:2 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/1/7712327-zm.jpg"
+  },
+  {
+    "retailerProductId": "1182162",
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": 150,
+      "unitPriceUnit": "g",
+      "size": "approx. 150g",
+      "price": 0.75
+    },
+    "name": "Creme Gold Washed Potatoes Loose",
+    "brand": "Coles",
+    "path": "/product/potatoes-washed:creme-gold:.:per-kg-1182162",
+    "description": "POTATOES WASHED:CREME GOLD:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/8/1182162-zm.jpg"
+  },
+  {
+    "retailerProductId": "6979376",
+    "currentValue": {
+      "unitPrice": 1.8,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 1.8
+    },
+    "name": "Gold Kiwifruit",
+    "brand": "Coles",
+    "path": "/product/kiwifruit:gold-1-each-6979376",
+    "description": "KIWIFRUIT:GOLD 1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/7/6979376-zm.jpg"
+  },
+  {
+    "retailerProductId": "4584071",
+    "currentValue": {
+      "unitPrice": 3.9,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 3.9
+    },
+    "name": "Iceberg Lettuce",
+    "brand": "Coles",
+    "path": "/product/lettuce-iceberg::.:1-each-4584071",
+    "description": "LETTUCE ICEBERG::.:1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/8/4584071-zm.jpg"
+  },
+  {
+    "retailerProductId": "4190600",
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": 700,
+      "unitPriceUnit": "g",
+      "size": "approx. 700g each",
+      "price": 1.75
+    },
+    "name": "Wrapped Butternut Pumpkin",
+    "brand": "Coles",
+    "path": "/product/butternut-pumpkin-wrapped:butternut:.:per-kg-4190600",
+    "description": "BUTTERNUT PUMPKIN WRAPPED:BUTTERNUT:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/9/4190600-zm.jpg"
+  },
+  {
+    "retailerProductId": "8467604",
+    "currentValue": {
+      "unitPrice": 5.1,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "1kg",
+      "price": 5.1
+    },
+    "name": "Red Onion 1 Kg",
+    "brand": "Coles",
+    "path": "/product/coles-onion:red-1-kg-8467604",
+    "description": "COLES ONION:RED 1 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/6/8467604-zm.jpg"
+  },
+  {
+    "retailerProductId": "4601603",
+    "currentValue": {
+      "unitPrice": 3.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 3.5
+    },
+    "name": "Cauliflower Medium",
+    "brand": "Coles",
+    "path": "/product/cauliflower:medium:.:1-each-4601603",
+    "description": "CAULIFLOWER:MEDIUM:.:1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/0/4601603-zm.jpg"
+  },
+  {
+    "retailerProductId": "1022610",
+    "currentValue": {
+      "unitPrice": 4.3,
+      "unitPriceQuantity": 200,
+      "unitPriceUnit": "g",
+      "size": "approx. 200g",
+      "price": 0.86
+    },
+    "name": "Potatoes Creme Royale Brushed",
+    "brand": "Coles",
+    "path": "/product/potatoes-creme-royale:brushed:.:per-kg-1022610",
+    "description": "POTATOES CREME ROYALE:BRUSHED:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/2/1022610-zm.jpg"
+  },
+  {
+    "retailerProductId": "1206748",
+    "currentValue": {
+      "unitPrice": 3,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "2kg",
+      "price": 6
+    },
+    "name": "Potatoes Washed",
+    "brand": "Coles",
+    "path": "/product/coles-potatoes:washed:.:2-kg-1206748",
+    "description": "COLES POTATOES:WASHED:.:2 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/0/1206748-zm.jpg"
+  },
+  {
+    "retailerProductId": "4646485",
+    "currentValue": {
+      "unitPrice": 1.75,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "2 Pack",
+      "price": 3.5
+    },
+    "name": "Lettuce Cos Baby Hearts",
+    "brand": "Coles",
+    "path": "/product/coles-lettuce-cos-baby:hearts:.:2-pack-4646485",
+    "description": "COLES LETTUCE COS BABY:HEARTS:.:2 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/4/4646485-zm.jpg"
+  },
+  {
+    "retailerProductId": "6839480",
+    "currentValue": {
+      "unitPrice": 4.9,
+      "unitPriceQuantity": 240,
+      "unitPriceUnit": "g",
+      "size": "approx. 240g",
+      "price": 1.18
+    },
+    "name": "Mandarins Royal Honey",
+    "brand": "Coles",
+    "path": "/product/mandarins-royal-honey:per-kg-6839480",
+    "description": "MANDARINS ROYAL HONEY:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/3/6839480-zm.jpg"
+  },
+  {
+    "retailerProductId": "1499340",
+    "currentValue": {
+      "unitPrice": 27.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "120g",
+      "price": 3.3
+    },
+    "name": "Baby Spinach",
+    "brand": "Coles",
+    "path": "/product/coles:spinach:.:120-gram-1499340",
+    "description": "COLES:SPINACH:.:120 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/9/1499340-zm.jpg"
+  },
+  {
+    "retailerProductId": "1499486",
+    "currentValue": {
+      "unitPrice": 36.67,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "60g",
+      "price": 2.2
+    },
+    "name": "Baby Spinach",
+    "brand": "Coles",
+    "path": "/product/coles-baby-spinach:.:60-gram-1499486",
+    "description": "COLES BABY SPINACH:.:60 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/9/1499486-zm.jpg"
+  },
+  {
+    "retailerProductId": "5707745",
+    "currentValue": {
+      "unitPrice": 22.86,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "350g",
+      "price": 8
+    },
+    "name": "Premium Strawberries",
+    "brand": "Coles",
+    "path": "/product/strawberries:premium:.:350-gram-5707745",
+    "description": "STRAWBERRIES:PREMIUM:.:350 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/0/5707745-zm.jpg"
+  },
+  {
+    "retailerProductId": "1325452",
+    "currentValue": {
+      "unitPrice": 23.33,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "300g",
+      "price": 7
+    },
+    "name": "Cherry Us Red",
+    "brand": "Coles",
+    "path": "/product/cherry-us:red:.:300-gram-1325452",
+    "description": "CHERRY US:RED:.:300 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/2/1325452-zm.jpg"
+  },
+  {
+    "retailerProductId": "4834736",
+    "currentValue": {
+      "unitPrice": 12,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "250g",
+      "price": 3
+    },
+    "name": "Cherry Tomatoes",
+    "brand": "Coles",
+    "path": "/product/tomatoes-cherry:prepack:.:250-gram-4834736",
+    "description": "TOMATOES CHERRY:PREPACK:.:250 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/3/4834736-zm.jpg"
+  },
+  {
+    "retailerProductId": "6105715",
+    "currentValue": {
+      "unitPrice": 35,
+      "unitPriceQuantity": 60,
+      "unitPriceUnit": "g",
+      "size": "approx. 60g each",
+      "price": 2.1
+    },
+    "name": "Garlic Loose",
+    "brand": "Coles",
+    "path": "/product/garlic-australian:loose:.:per-kg-6105715",
+    "description": "GARLIC AUSTRALIAN:LOOSE:.:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/0/6105715-zm.jpg"
+  }
+]

@@ -1,0 +1,656 @@
+[
+  {
+    "retailerProductId": "2682455",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "150g",
+      "price": 3
+    },
+    "name": "Air Freshener Vanilla Orchid & Ylang Ylang",
+    "brand": "Coles",
+    "path": "/product/coles-air-freshener-vanilla-orchid-&-ylang-150gram-2682455",
+    "description": "COLES AIR FRESHENER VANILLA ORCHID & YLANG 150GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/8/2682455-zm.jpg"
+  },
+  {
+    "retailerProductId": "2682466",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "150g",
+      "price": 3
+    },
+    "name": "Air Freshener Lavender & Aromatic Sage",
+    "brand": "Coles",
+    "path": "/product/coles-air-freshener-lavender-&-aromat-sage-150gram-2682466",
+    "description": "COLES AIR FRESHENER LAVENDER & AROMAT SAGE 150GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/8/2682466-zm.jpg"
+  },
+  {
+    "retailerProductId": "6820550",
+    "currentValue": {
+      "size": "1 Each",
+      "price": 3
+    },
+    "name": "A4 Notebook 120 Page",
+    "brand": "Spirax",
+    "path": "/product/spirax-a4-notebook-120-page-6820550",
+    "description": "SPIRAX A4 NOTEBOOK 120 PAGE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/2/6820550-zm.jpg"
+  },
+  {
+    "retailerProductId": "6839402",
+    "currentValue": {
+      "unitPrice": 0.15,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "20 Pack",
+      "price": 3
+    },
+    "name": "Pastel/party Mix Assorted Balloons",
+    "brand": "Coles",
+    "path": "/product/coles-pastel/party-mix-assorted-balloons-6839402",
+    "description": "COLES PASTEL/PARTY MIX ASSORTED BALLOONS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/3/6839402-zm.jpg"
+  },
+  {
+    "retailerProductId": "6839435",
+    "currentValue": {
+      "unitPrice": 0.15,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "20 Pack",
+      "price": 3
+    },
+    "name": "Happy Birthday Balloons",
+    "brand": "Coles",
+    "path": "/product/coles-happy-birthday-balloons-6839435",
+    "description": "COLES HAPPY BIRTHDAY BALLOONS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/3/6839435-zm.jpg"
+  },
+  {
+    "retailerProductId": "7041731",
+    "currentValue": {
+      "unitPrice": 0.19,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "16 Pack",
+      "price": 3
+    },
+    "name": "Party Candles Gold",
+    "brand": "Coles",
+    "path": "/product/coles-party-candles-gold-7041731",
+    "description": "COLES PARTY CANDLES GOLD",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/4/7041731-zm.jpg"
+  },
+  {
+    "retailerProductId": "3733278",
+    "currentValue": {
+      "unitPrice": 0.15,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "24 Pack",
+      "price": 3.5
+    },
+    "name": "Sparklers",
+    "brand": "Artwrap",
+    "path": "/product/artwrap-sparklers-3733278",
+    "description": "ARTWRAP SPARKLERS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3733278-zm.jpg"
+  },
+  {
+    "retailerProductId": "1474510",
+    "currentValue": {
+      "unitPrice": 0.27,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "15 Pack",
+      "price": 4
+    },
+    "name": "Coffee Cups",
+    "brand": "Coles",
+    "path": "/product/coles-coffee-cups-15pk-1474510",
+    "description": "COLES COFFEE CUPS 15PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/7/1474510-zm.jpg"
+  },
+  {
+    "retailerProductId": "6839162",
+    "currentValue": {
+      "unitPrice": 0.33,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "12 Pack",
+      "price": 4
+    },
+    "name": "Happy Birthday Candles",
+    "brand": "Coles",
+    "path": "/product/coles-happy-birthday-candles-6839162",
+    "description": "COLES HAPPY BIRTHDAY CANDLES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/3/6839162-zm.jpg"
+  },
+  {
+    "retailerProductId": "9320328",
+    "currentValue": {
+      "unitPrice": 4,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "Each",
+      "size": "100 Pack",
+      "price": 4
+    },
+    "name": "Coloured Serviettes",
+    "brand": "Coles",
+    "path": "/product/coles-coloured-serviettes-100pack-9320328",
+    "description": "COLES COLOURED SERVIETTES 100PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/2/9320328-zm.jpg"
+  },
+  {
+    "retailerProductId": "4163834",
+    "currentValue": {
+      "size": "1 Each",
+      "price": 4.5
+    },
+    "name": "Sheer Pantyhose Slim Black L/xl",
+    "brand": "Bonds",
+    "path": "/product/bonds-sheer-pantyhose-slim-black-l/xl-1-pack-4163834",
+    "description": "BONDS SHEER PANTYHOSE SLIM BLACK L/XL 1 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/6/4163834-zm.jpg"
+  },
+  {
+    "retailerProductId": "5882348",
+    "currentValue": {
+      "size": "3 Pack",
+      "price": 4.5
+    },
+    "name": "Womens Footlet 8+ Beige/black",
+    "brand": "Razza",
+    "path": "/product/razza-womens-footlet-8+-beige/black-5882348",
+    "description": "RAZZA WOMENS FOOTLET 8+ BEIGE/BLACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5882348-zm.jpg"
+  },
+  {
+    "retailerProductId": "1842534",
+    "currentValue": {
+      "size": "1 Pack",
+      "price": 5
+    },
+    "name": "Correction Pen White",
+    "brand": "Liquid Paper",
+    "path": "/product/liquid-paper-correction-pen-white-1842534",
+    "description": "LIQUID PAPER CORRECTION PEN WHITE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/4/1842534-zm.jpg"
+  },
+  {
+    "retailerProductId": "4289195",
+    "currentValue": {
+      "unitPrice": 2.75,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "2 Pack",
+      "price": 5.5
+    },
+    "name": "BBQ Aluminium Large Trays",
+    "brand": "Coles",
+    "path": "/product/coles-bbq-aluminium-large-trays-4289195",
+    "description": "COLES BBQ ALUMINIUM LARGE TRAYS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/8/4289195-zm.jpg"
+  },
+  {
+    "retailerProductId": "3978661",
+    "currentValue": {
+      "unitPrice": 6.44,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "Each",
+      "size": "90 Pack",
+      "price": 5.8
+    },
+    "name": "Extra Long Matches",
+    "brand": "Redheads",
+    "path": "/product/redheads-extra-long-matches-3978661",
+    "description": "REDHEADS EXTRA LONG MATCHES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/7/3978661-zm.jpg"
+  },
+  {
+    "retailerProductId": "1276288",
+    "currentValue": {
+      "unitPrice": 0.07,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "80 Pack",
+      "price": 6
+    },
+    "name": "Antibacterial Hand Wipes Be Fresh",
+    "brand": "Wet Ones",
+    "path": "/product/wet-ones-antibacterial-hand-wipes-be-fresh-80pk-1276288",
+    "description": "WET ONES ANTIBACTERIAL HAND WIPES BE FRESH 80PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/7/1276288-zm.jpg"
+  },
+  {
+    "retailerProductId": "6120231",
+    "currentValue": {
+      "unitPrice": 1.2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "500g",
+      "price": 6
+    },
+    "name": "Carpet Fresh Country Vanilla",
+    "brand": "Air Wick",
+    "path": "/product/airwick-carpet-fresh:country-vanilla:.:500-gram-6120231",
+    "description": "AIRWICK CARPET FRESH:COUNTRY VANILLA:.:500 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/2/6120231-zm.jpg"
+  },
+  {
+    "retailerProductId": "1020397",
+    "currentValue": {
+      "unitPrice": 17.57,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "370mL",
+      "price": 6.5
+    },
+    "name": "Febreze Extra Strength Fabric Freshener Trigger Spray",
+    "brand": "Ambi Pur",
+    "path": "/product/febreze-with-ambi-pur-trigger:.:extra-strength:370-ml-1020397",
+    "description": "FEBREZE WITH AMBI PUR TRIGGER:.:EXTRA STRENGTH:370 ML",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/2/1020397-zm.jpg"
+  },
+  {
+    "retailerProductId": "1827960",
+    "currentValue": {
+      "size": "1 Each",
+      "price": 8
+    },
+    "name": "Mini Sauce Pan 14cm",
+    "brand": "World of Flavour",
+    "path": "/product/mini-sauce-pan-14cm-1827960",
+    "description": "MINI SAUCE PAN 14CM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/2/1827960-zm.jpg"
+  },
+  {
+    "retailerProductId": "6847080",
+    "currentValue": {
+      "size": "3 Pack",
+      "price": 8
+    },
+    "name": "Womens Socks Quarter Logo Size 8+",
+    "brand": "Bonds",
+    "path": "/product/bonds-womens-socks-quarter-logo-size-8+-3pk-6847080",
+    "description": "BONDS WOMENS SOCKS QUARTER LOGO SIZE 8+ 3PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/4/6847080-zm.jpg"
+  },
+  {
+    "retailerProductId": "6845610",
+    "currentValue": {
+      "size": "2 Pack",
+      "price": 13
+    },
+    "name": "Womens Seamless Full Brief Size 14",
+    "brand": "Bonds",
+    "path": "/product/bonds-womens-seamless-full-brief-size-14-2pk-6845610",
+    "description": "BONDS WOMENS SEAMLESS FULL BRIEF SIZE 14 2PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/4/6845610-zm.jpg"
+  },
+  {
+    "retailerProductId": "4729345",
+    "currentValue": {
+      "size": "5 Pack",
+      "price": 16
+    },
+    "name": "Mens Hipster Briefs Size L",
+    "brand": "Bonds",
+    "path": "/product/bonds-mens-hipster-briefs-size-l-5pk-4729345",
+    "description": "BONDS MENS HIPSTER BRIEFS SIZE L 5PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/2/4729345-zm.jpg"
+  },
+  {
+    "retailerProductId": "3934939",
+    "currentValue": {
+      "size": "5 Pack",
+      "price": 2
+    },
+    "name": "A7 Pocket Notebook",
+    "brand": "Coles",
+    "path": "/product/coles-a7-pocket-notebook-5-pack-3934939",
+    "description": "COLES A7 POCKET NOTEBOOK 5 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/3/3934939-zm.jpg"
+  },
+  {
+    "retailerProductId": "4167391",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 2
+    },
+    "name": "Plastic Spout Bucket",
+    "brand": "Coles",
+    "path": "/product/coles-plastic-spout-bucket-1-each-4167391",
+    "description": "COLES PLASTIC SPOUT BUCKET 1 EACH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/6/4167391-zm.jpg"
+  },
+  {
+    "retailerProductId": "2361430",
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "Each",
+      "size": "50 Pack",
+      "price": 2.5
+    },
+    "name": "Patterned Lunch Serviettes",
+    "brand": "Coles",
+    "path": "/product/coles-patterned-lunch-serviettes-50pk-2361430",
+    "description": "COLES PATTERNED LUNCH SERVIETTES 50PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/6/2361430-zm.jpg"
+  },
+  {
+    "retailerProductId": "2387987",
+    "currentValue": {
+      "size": "1 Each",
+      "price": 2.5
+    },
+    "name": "Dustpan Set",
+    "brand": "Geelong Brush",
+    "path": "/product/geelong-brush-dustpan-set-2387987",
+    "description": "GEELONG BRUSH DUSTPAN SET",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/8/2387987-zm.jpg"
+  },
+  {
+    "retailerProductId": "9015244",
+    "currentValue": {
+      "size": "1 Each",
+      "price": 2.75
+    },
+    "name": "Adaptor Double",
+    "brand": "Coles",
+    "path": "/product/coles-adaptor:double-9015244",
+    "description": "COLES ADAPTOR:DOUBLE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/1/9015244-zm.jpg"
+  },
+  {
+    "retailerProductId": "1474532",
+    "currentValue": {
+      "unitPrice": 0.15,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "20 Pack",
+      "price": 3
+    },
+    "name": "Small Cups 250ml",
+    "brand": "Coles Simply",
+    "path": "/product/coles-simply-small-cups-250ml-20pk-1474532",
+    "description": "COLES SIMPLY SMALL CUPS 250ML 20PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/7/1474532-zm.jpg"
+  },
+  {
+    "retailerProductId": "5569062",
+    "currentValue": {
+      "unitPrice": 1.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "2 each",
+      "price": 3
+    },
+    "name": "Camphor",
+    "brand": "Hovex",
+    "path": "/product/hovex-camphor-5569062",
+    "description": "HOVEX CAMPHOR",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/6/5569062-zm.jpg"
+  },
+  {
+    "retailerProductId": "6821906",
+    "currentValue": {
+      "size": "1 Each",
+      "price": 3.7
+    },
+    "name": "Antimicrobial 7in Scissors",
+    "brand": "Westcott",
+    "path": "/product/westcott-antimicrobial-7\"-scissors-6821906",
+    "description": "WESTCOTT ANTIMICROBIAL 7\" SCISSORS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/2/6821906-zm.jpg"
+  },
+  {
+    "retailerProductId": "3935046",
+    "currentValue": {
+      "size": "1 each",
+      "price": 4
+    },
+    "name": "Reporters Note Pad 300 Page",
+    "brand": "Coles",
+    "path": "/product/coles-reporters-note-pad-300-page-3935046",
+    "description": "COLES REPORTERS NOTE PAD 300 PAGE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/3/3935046-zm.jpg"
+  },
+  {
+    "retailerProductId": "7643687",
+    "currentValue": {
+      "unitPrice": 0.44,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "9 Pack",
+      "price": 4
+    },
+    "name": "Happy Birthday Candles",
+    "brand": "Coles",
+    "path": "/product/coles-happy-birthday-candles-7643687",
+    "description": "COLES HAPPY BIRTHDAY CANDLES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/6/4/7643687-zm.jpg"
+  },
+  {
+    "retailerProductId": "1829580",
+    "currentValue": {
+      "unitPrice": 7.5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "Each",
+      "size": "60 Pack",
+      "price": 4.5
+    },
+    "name": "Timber Forks",
+    "brand": "Coles",
+    "path": "/product/coles-timber-forks-60pk-1829580",
+    "description": "COLES TIMBER FORKS 60PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/2/1829580-zm.jpg"
+  },
+  {
+    "retailerProductId": "1828919",
+    "currentValue": {
+      "size": "1 Each",
+      "price": 5
+    },
+    "name": "Expandable Sink Colander",
+    "brand": "World Of Flavour",
+    "path": "/product/expandable-sink-colander-1828919",
+    "description": "EXPANDABLE SINK COLANDER",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/2/1828919-zm.jpg"
+  },
+  {
+    "retailerProductId": "1843628",
+    "currentValue": {
+      "size": "1 Each",
+      "price": 5
+    },
+    "name": "Heat Resistant Oven Mitt",
+    "brand": "World Of Flavour",
+    "path": "/product/heat-resistant-oven-mitt-1843628",
+    "description": "HEAT RESISTANT OVEN MITT",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/4/1843628-zm.jpg"
+  },
+  {
+    "retailerProductId": "3667661",
+    "currentValue": {
+      "size": "4 Pack",
+      "price": 5
+    },
+    "name": "Inkjoy Black Ball Point",
+    "brand": "Paper Mate",
+    "path": "/product/papermate-inkjoy-300rt-black-4-pack-3667661",
+    "description": "PAPERMATE INKJOY 300RT BLACK 4 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/6/3667661-zm.jpg"
+  },
+  {
+    "retailerProductId": "1868673",
+    "currentValue": {
+      "size": "2 Pack",
+      "price": 5.75
+    },
+    "name": "Profile Pen Black",
+    "brand": "Paper Mate",
+    "path": "/product/papermate-profile-pen-black-1868673",
+    "description": "PAPERMATE PROFILE PEN BLACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/6/1868673-zm.jpg"
+  },
+  {
+    "retailerProductId": "1296398",
+    "currentValue": {
+      "size": "1 Pack",
+      "price": 6
+    },
+    "name": "Magic Ink",
+    "brand": "Inkredibles",
+    "path": "/product/inkredibles-magic-ink-1-pack-1296398",
+    "description": "INKREDIBLES MAGIC INK 1 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/9/1296398-zm.jpg"
+  },
+  {
+    "retailerProductId": "2709857",
+    "currentValue": {
+      "unitPrice": 30,
+      "unitPriceQuantity": 10,
+      "unitPriceUnit": "mL",
+      "size": "2mL",
+      "price": 6
+    },
+    "name": "Mini Clip Thai Dragon Fruit Car Air Freshener",
+    "brand": "Ambi Pur",
+    "path": "/product/ambi-pur-car-vent-2709857",
+    "description": "AMBI PUR CAR VENT",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/0/2709857-zm.jpg"
+  },
+  {
+    "retailerProductId": "3938770",
+    "currentValue": {
+      "size": "3 Pack",
+      "price": 6
+    },
+    "name": "Super Sticky Notes Miami",
+    "brand": "Post-it",
+    "path": "/product/post-it-super-sticky-notes-miami-3-pack-3938770",
+    "description": "POST-IT SUPER STICKY NOTES MIAMI 3 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/3/3938770-zm.jpg"
+  },
+  {
+    "retailerProductId": "3858444",
+    "currentValue": {
+      "unitPrice": 1.59,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "4 Pack",
+      "price": 6.35
+    },
+    "name": "Super Alkaline AAA",
+    "brand": "NRG",
+    "path": "/product/nrg-super-alkaline-aaa-3858444",
+    "description": "NRG SUPER ALKALINE AAA",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3858444-zm.jpg"
+  },
+  {
+    "retailerProductId": "6799283",
+    "currentValue": {
+      "size": "2 Pack",
+      "price": 6.5
+    },
+    "name": "Command Medium Utility Hooks",
+    "brand": "3M",
+    "path": "/product/command-hooks-medium-6799283",
+    "description": "COMMAND HOOKS MEDIUM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/9/6799283-zm.jpg"
+  },
+  {
+    "retailerProductId": "1811950",
+    "currentValue": {
+      "unitPrice": 7,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 Each",
+      "price": 7
+    },
+    "name": "Chopper 650ml",
+    "brand": "Pull",
+    "path": "/product/pull-chopper-650ml-1811950",
+    "description": "PULL CHOPPER 650ML",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/1/1811950-zm.jpg"
+  },
+  {
+    "retailerProductId": "7791720",
+    "currentValue": {
+      "size": "3 Pack",
+      "price": 8
+    },
+    "name": "Mens Logo Low Cut 11-14",
+    "brand": "Bonds",
+    "path": "/product/bonds-mens-logo-low-cut-3pk-11-14-7791720",
+    "description": "BONDS MENS LOGO LOW CUT 3PK 11-14",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/9/7791720-zm.jpg"
+  },
+  {
+    "retailerProductId": "1640835",
+    "currentValue": {
+      "size": "1 PACK",
+      "price": 8.5
+    },
+    "name": "Size 16",
+    "brand": "Bonds Mens Chesty",
+    "path": "/product/bonds-mens-chesty-size-16-1640835",
+    "description": "BONDS MENS CHESTY SIZE 16",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/4/1640835-zm.jpg"
+  },
+  {
+    "retailerProductId": "8163417",
+    "currentValue": {
+      "unitPrice": 2.37,
+      "unitPriceQuantity": 10,
+      "unitPriceUnit": "mL",
+      "size": "18mL",
+      "price": 9
+    },
+    "name": "Pure Scented Oils Refill Lemon Blossom & Jasmine 2x19ml",
+    "brand": "Air Wick",
+    "path": "/product/air-wick-pure-scented-oils-refill-lemon-blossom-&-jasmine-2-x-19ml-8163417",
+    "description": "AIR WICK PURE SCENTED OILS REFILL LEMON BLOSSOM & JASMINE 2 X 19ML",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8163417-zm.jpg"
+  },
+  {
+    "retailerProductId": "1584224",
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "2 Pack",
+      "price": 10
+    },
+    "name": "Specialty 2025 Lithium Coin Batteries",
+    "brand": "Duracell",
+    "path": "/product/duracell-specialty-2025-lithium-coin-batteries-2-pack-1584224",
+    "description": "DURACELL SPECIALTY 2025 LITHIUM COIN BATTERIES 2 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/8/1584224-zm.jpg"
+  },
+  {
+    "retailerProductId": "2396252",
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "1 each",
+      "price": 10
+    },
+    "name": "Mega Lighter",
+    "brand": "Bic",
+    "path": "/product/bic-mega-lighter-2396252",
+    "description": "BIC MEGA LIGHTER",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/9/2396252-zm.jpg"
+  }
+]

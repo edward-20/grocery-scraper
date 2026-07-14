@@ -1,0 +1,872 @@
+[
+  {
+    "retailerProductId": "6033363",
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "150g",
+      "price": 1.65
+    },
+    "name": "Natural Thin Rice Cakes",
+    "brand": "Coles",
+    "path": "/product/coles-rice-cakes:natural-thin:.:150-gram-6033363",
+    "description": "COLES RICE CAKES:NATURAL THIN:.:150 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/3/6033363-zm.jpg"
+  },
+  {
+    "retailerProductId": "1718900",
+    "currentValue": {
+      "unitPrice": 3.7,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "135g",
+      "price": 5
+    },
+    "name": "Mini Grissini Salted Sourdough With Rosemary",
+    "brand": "Red Rock Deli",
+    "path": "/product/rrd-mini-grissini-salted-sourdough-with-rosemary-135g-1718900",
+    "description": "RRD MINI GRISSINI SALTED SOURDOUGH WITH ROSEMARY 135G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/1/1718900-zm.jpg"
+  },
+  {
+    "retailerProductId": "1795365",
+    "currentValue": {
+      "unitPrice": 2.86,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "175g",
+      "price": 5
+    },
+    "name": "Tasty Cheese Corn Chips",
+    "brand": "CC's",
+    "path": "/product/cc's-corn-chips:tasty-cheese:.:175-gram-1795365",
+    "description": "CC'S CORN CHIPS:TASTY CHEESE:.:175 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/9/1795365-zm.jpg"
+  },
+  {
+    "retailerProductId": "5996256",
+    "currentValue": {
+      "unitPrice": 3.04,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "230g",
+      "price": 7
+    },
+    "name": "Pea Original Salted",
+    "brand": "Harvest Snaps",
+    "path": "/product/harvest-snaps-pea-original-salted-230g-5996256",
+    "description": "HARVEST SNAPS PEA ORIGINAL SALTED 230G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/9/5996256-zm.jpg"
+  },
+  {
+    "retailerProductId": "1828828",
+    "currentValue": {
+      "unitPrice": 2.78,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "135g",
+      "price": 3.75
+    },
+    "name": "Curly Wurly Sharepack",
+    "brand": "Cadbury",
+    "path": "/product/cadbury-curly-wurly-sharepack-135g-1828828",
+    "description": "CADBURY CURLY WURLY SHAREPACK 135G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/2/1828828-zm.jpg"
+  },
+  {
+    "retailerProductId": "9053516",
+    "currentValue": {
+      "unitPrice": 3.95,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "152g",
+      "price": 6
+    },
+    "name": "Corn Chips Lunchbox Snacks Multipack Cheese Supreme 8 Pack",
+    "brand": "Doritos",
+    "path": "/product/doritos-corn-chips-lunchbox-snacks-multipack-cheese-supreme-8pk-152g-9053516",
+    "description": "DORITOS CORN CHIPS LUNCHBOX SNACKS MULTIPACK CHEESE SUPREME 8PK 152G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/5/9053516-zm.jpg"
+  },
+  {
+    "retailerProductId": "5990158",
+    "currentValue": {
+      "unitPrice": 2.17,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "184g",
+      "price": 4
+    },
+    "name": "Mini Original Crackers Snack Bags Multipack 8 Pack",
+    "brand": "Ritz",
+    "path": "/product/ritz-multipack-crackers:original:.:184-gram-5990158",
+    "description": "RITZ MULTIPACK CRACKERS:ORIGINAL:.:184 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/9/5990158-zm.jpg"
+  },
+  {
+    "retailerProductId": "9068229",
+    "currentValue": {
+      "unitPrice": 1.62,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "200g",
+      "price": 3.25
+    },
+    "name": "Deluxe Protein Bars Caramel & Milk Choc Multipack Snacks 5 Pack",
+    "brand": "Nice & Natural",
+    "path": "/product/nice-&-natural-deluxe-protein-caramel-&-milk-choc-bars-200g-9068229",
+    "description": "NICE & NATURAL DELUXE PROTEIN CARAMEL & MILK CHOC BARS 200G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/6/9068229-zm.jpg"
+  },
+  {
+    "retailerProductId": "2353056",
+    "currentValue": {
+      "unitPrice": 2.08,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "180g",
+      "price": 3.75
+    },
+    "name": "Dairy Milk Chocolate Caramello Koala Sharepack 12 Pack",
+    "brand": "Cadbury",
+    "path": "/product/cadbury-dairy-milk-chocolate-caramello-koala-sharepack-12-pack-180g-2353056",
+    "description": "CADBURY DAIRY MILK CHOCOLATE CARAMELLO KOALA SHAREPACK 12 PACK 180G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/5/2353056-zm.jpg"
+  },
+  {
+    "retailerProductId": "2992157",
+    "currentValue": {
+      "unitPrice": 2.86,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "175g",
+      "price": 5
+    },
+    "name": "Mini Choc Chip Cookies Multipack 7 Pack",
+    "brand": "Arnott's",
+    "path": "/product/arnott's-mini-choc-chip-cookies-multipack-7-pack-175g-2992157",
+    "description": "ARNOTT'S MINI CHOC CHIP COOKIES MULTIPACK 7 PACK 175G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2992157-zm.jpg"
+  },
+  {
+    "retailerProductId": "5889493",
+    "currentValue": {
+      "unitPrice": 4.67,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "150g",
+      "price": 7
+    },
+    "name": "Summer Roll Chocolate Bites",
+    "brand": "Europe",
+    "path": "/product/europe-summer-roll-chocolate-bites-150g-5889493",
+    "description": "EUROPE SUMMER ROLL CHOCOLATE BITES 150G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5889493-zm.jpg"
+  },
+  {
+    "retailerProductId": "329276",
+    "currentValue": {
+      "unitPrice": 0.7,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "250g",
+      "price": 1.75
+    },
+    "name": "Plain Biscuit Shredded Wheatmeal",
+    "brand": "Arnott's",
+    "path": "/product/arnotts-plain-biscuit:shredded-wheat:.:250-gram-329276",
+    "description": "ARNOTTS PLAIN BISCUIT:SHREDDED WHEAT:.:250 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/329276-zm.jpg"
+  },
+  {
+    "retailerProductId": "5172852",
+    "currentValue": {
+      "unitPrice": 2.78,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "180g",
+      "price": 5
+    },
+    "name": "Fruity Chews Lollies",
+    "brand": "The Natural Confectionery Co.",
+    "path": "/product/the-natural-confectionery-co.-fruity-chews-lollies-180gram-5172852",
+    "description": "THE NATURAL CONFECTIONERY CO. FRUITY CHEWS LOLLIES 180GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5172852-zm.jpg"
+  },
+  {
+    "retailerProductId": "7436434",
+    "currentValue": {
+      "unitPrice": 4.57,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "35g",
+      "price": 1.6
+    },
+    "name": "Sweets Berry",
+    "brand": "Double D",
+    "path": "/product/double-d-sweets-berry-35g-7436434",
+    "description": "DOUBLE D SWEETS BERRY 35G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/4/3/7436434-zm.jpg"
+  },
+  {
+    "retailerProductId": "2877432",
+    "currentValue": {
+      "unitPrice": 7.69,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "39g",
+      "price": 3
+    },
+    "name": "Bueno White Chocolate Bar",
+    "brand": "Kinder",
+    "path": "/product/kinder-bueno.-white-39g-2877432",
+    "description": "KINDER BUENO. WHITE 39G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2877432-zm.jpg"
+  },
+  {
+    "retailerProductId": "67850",
+    "currentValue": {
+      "unitPrice": 7.5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "40g",
+      "price": 3
+    },
+    "name": "Nougat Honey Log Chocolate Bar",
+    "brand": "Europe",
+    "path": "/product/europe-nougat-honey-log-chocolate-bar:.:40-gram-67850",
+    "description": "EUROPE NOUGAT HONEY LOG CHOCOLATE BAR:.:40 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/8/67850-zm.jpg"
+  },
+  {
+    "retailerProductId": "9095516",
+    "currentValue": {
+      "unitPrice": 2.84,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "141g",
+      "price": 4
+    },
+    "name": "Very Berry Gummy Clusters",
+    "brand": "Nerds",
+    "path": "/product/nerds-very-berry-gummy-clusters-141g-9095516",
+    "description": "NERDS VERY BERRY GUMMY CLUSTERS 141G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/9/9095516-zm.jpg"
+  },
+  {
+    "retailerProductId": "359030",
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "20g",
+      "price": 1
+    },
+    "name": "Mint Pattie Chocolate Bar",
+    "brand": "Nestle",
+    "path": "/product/nestle-chocolate-mint-pattie-359030",
+    "description": "NESTLE CHOCOLATE MINT PATTIE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/359030-zm.jpg"
+  },
+  {
+    "retailerProductId": "1783650",
+    "currentValue": {
+      "unitPrice": 2.84,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "141g",
+      "price": 4
+    },
+    "name": "Gummy Clusters Cherry Lemonade",
+    "brand": "Nerds",
+    "path": "/product/nerds-gummy-clusters-cherry-lemonade-141g-1783650",
+    "description": "NERDS GUMMY CLUSTERS CHERRY LEMONADE 141G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/8/1783650-zm.jpg"
+  },
+  {
+    "retailerProductId": "329403",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "200g",
+      "price": 4
+    },
+    "name": "Venetian Biscuits",
+    "brand": "Arnott's",
+    "path": "/product/arnott's-venetian-biscuits-200g-329403",
+    "description": "ARNOTT'S VENETIAN BISCUITS 200G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/329403-zm.jpg"
+  },
+  {
+    "retailerProductId": "5727695",
+    "currentValue": {
+      "unitPrice": 7.03,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "64g",
+      "price": 4.5
+    },
+    "name": "White Peppermint Sugar Free Chewing Gum Bottle",
+    "brand": "Extra",
+    "path": "/product/extra-white-peppermint-sugar-free-chewing-gum-bottle-64g-5727695",
+    "description": "EXTRA WHITE PEPPERMINT SUGAR FREE CHEWING GUM BOTTLE 64G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/2/5727695-zm.jpg"
+  },
+  {
+    "retailerProductId": "8000070",
+    "currentValue": {
+      "unitPrice": 1.4,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "150g",
+      "price": 2.1
+    },
+    "name": "Multigrain Corn Thins",
+    "brand": "Real Foods",
+    "path": "/product/real-foods-corn-thins.:multigrain:.:150-gram-8000070",
+    "description": "REAL FOODS CORN THINS.:MULTIGRAIN:.:150 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/0/8000070-zm.jpg"
+  },
+  {
+    "retailerProductId": "8782033",
+    "currentValue": {
+      "unitPrice": 3.12,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "80g",
+      "price": 2.5
+    },
+    "name": "Rice Crackers Seaweed",
+    "brand": "Sakata",
+    "path": "/product/sakata-rice-crackers:seaweed:.:80-gram-8782033",
+    "description": "SAKATA RICE CRACKERS:SEAWEED:.:80 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/8/8782033-zm.jpg"
+  },
+  {
+    "retailerProductId": "8782044",
+    "currentValue": {
+      "unitPrice": 2.78,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "90g",
+      "price": 2.5
+    },
+    "name": "Rice Crackers Plain",
+    "brand": "Sakata",
+    "path": "/product/sakata-rice-crackers:plain:.:90-gram-8782044",
+    "description": "SAKATA RICE CRACKERS:PLAIN:.:90 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/8/8782044-zm.jpg"
+  },
+  {
+    "retailerProductId": "8221386",
+    "currentValue": {
+      "unitPrice": 1.53,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "180g",
+      "price": 2.75
+    },
+    "name": "Nut Bars Chocolate Peanut & Almond",
+    "brand": "Nice & Natural",
+    "path": "/product/nice-and-natural-chocolate--nut-bar-peanut-&-almond:.:180-gram-8221386",
+    "description": "NICE AND NATURAL CHOCOLATE  NUT BAR PEANUT & ALMOND:.:180 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/2/2/8221386-zm.jpg"
+  },
+  {
+    "retailerProductId": "4513415",
+    "currentValue": {
+      "unitPrice": 6.15,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "5 Pack",
+      "price": 4
+    },
+    "name": "Best Ever Butter Multipack Lunchbox Snacks",
+    "brand": "Cobs",
+    "path": "/product/cobs-multipack-best-ever-butter-5-pack-65g-4513415",
+    "description": "COBS MULTIPACK BEST EVER BUTTER 5 PACK 65G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/1/4513415-zm.jpg"
+  },
+  {
+    "retailerProductId": "5720743",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "100g",
+      "price": 2
+    },
+    "name": "Microwave Popcorn Triple Butter",
+    "brand": "Poppin",
+    "path": "/product/poppin-microwave-popcorn-triple-butter:.:100-gram-5720743",
+    "description": "POPPIN MICROWAVE POPCORN TRIPLE BUTTER:.:100 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/2/5720743-zm.jpg"
+  },
+  {
+    "retailerProductId": "5556581",
+    "currentValue": {
+      "unitPrice": 1.56,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "160g",
+      "price": 2.5
+    },
+    "name": "Bananas",
+    "brand": "Life Savers",
+    "path": "/product/life-savers-bananas-160g-5556581",
+    "description": "LIFE SAVERS BANANAS 160G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/5/5556581-zm.jpg"
+  },
+  {
+    "retailerProductId": "5172284",
+    "currentValue": {
+      "unitPrice": 6,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "50g",
+      "price": 3
+    },
+    "name": "Milk Chocolate Bar",
+    "brand": "Toblerone",
+    "path": "/product/toblerone:choc-milk:.:50gram-5172284",
+    "description": "TOBLERONE:CHOC MILK:.:50GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5172284-zm.jpg"
+  },
+  {
+    "retailerProductId": "117256",
+    "currentValue": {
+      "unitPrice": 1.6,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "250g",
+      "price": 4
+    },
+    "name": "Vita- Weat Original Crispbread Crackers",
+    "brand": "Arnott's",
+    "path": "/product/arnott's-vita-weat-original-crispbread-crackers:.:250-gram-117256",
+    "description": "ARNOTT'S VITA-WEAT ORIGINAL CRISPBREAD CRACKERS:.:250 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/7/117256-zm.jpg"
+  },
+  {
+    "retailerProductId": "3955190",
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "40g",
+      "price": 1
+    },
+    "name": "Twirl Crispy Milk Chocolate Bar",
+    "brand": "Cadbury",
+    "path": "/product/cadbury-twirl-cripsy-chocolate-bar-40g-3955190",
+    "description": "CADBURY TWIRL CRIPSY CHOCOLATE BAR 40G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/5/3955190-zm.jpg"
+  },
+  {
+    "retailerProductId": "1405529",
+    "currentValue": {
+      "unitPrice": 1.44,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "250g",
+      "price": 3.6
+    },
+    "name": "Biscoff Biscuits",
+    "brand": "Lotus",
+    "path": "/product/lotus-biscoff-biscuits-250g-1405529",
+    "description": "LOTUS BISCOFF BISCUITS 250G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/0/1405529-zm.jpg"
+  },
+  {
+    "retailerProductId": "329389",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "200g",
+      "price": 4
+    },
+    "name": "Hundreds & Thousands Biscuits",
+    "brand": "Arnott's",
+    "path": "/product/arnotts-hundreds-&-thousounds-biscuits-329389",
+    "description": "ARNOTTS HUNDREDS & THOUSOUNDS BISCUITS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/329389-zm.jpg"
+  },
+  {
+    "retailerProductId": "2784127",
+    "currentValue": {
+      "unitPrice": 2.83,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "53g",
+      "price": 1.5
+    },
+    "name": "Potato Chips Original",
+    "brand": "Pringles",
+    "path": "/product/pringles-potato-chips:original:.:53-gram-2784127",
+    "description": "PRINGLES POTATO CHIPS:ORIGINAL:.:53 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/8/2784127-zm.jpg"
+  },
+  {
+    "retailerProductId": "4952175",
+    "currentValue": {
+      "unitPrice": 1.25,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "200g",
+      "price": 2.5
+    },
+    "name": "Stix Sherbert Fizz Mixed",
+    "brand": "Life Savers",
+    "path": "/product/life-savers-stix-sherbert-fizz-mixed-200g-4952175",
+    "description": "LIFE SAVERS STIX SHERBERT FIZZ MIXED 200G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/5/4952175-zm.jpg"
+  },
+  {
+    "retailerProductId": "6434998",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "150g",
+      "price": 3
+    },
+    "name": "Violet Crumble Bag",
+    "brand": "Menz",
+    "path": "/product/violet-crumble-bag-150g-6434998",
+    "description": "VIOLET CRUMBLE BAG 150G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/4/3/6434998-zm.jpg"
+  },
+  {
+    "retailerProductId": "1260302",
+    "currentValue": {
+      "unitPrice": 1.89,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "175g",
+      "price": 3.3
+    },
+    "name": "Sea Salt Potato Chips",
+    "brand": "Natural Chip Co.",
+    "path": "/product/natural-chip-company-potato-chips-sea-salt-175-gram-1260302",
+    "description": "NATURAL CHIP COMPANY POTATO CHIPS SEA SALT 175 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/6/1260302-zm.jpg"
+  },
+  {
+    "retailerProductId": "1715107",
+    "currentValue": {
+      "unitPrice": 1.18,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "136g",
+      "price": 1.6
+    },
+    "name": "Double Stuff Original Cookies",
+    "brand": "Oreo",
+    "path": "/product/oreo-creme-biscuits-double-stuffed-136g-1715107",
+    "description": "OREO CREME BISCUITS DOUBLE STUFFED 136G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/1/1715107-zm.jpg"
+  },
+  {
+    "retailerProductId": "153941",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "100g",
+      "price": 2
+    },
+    "name": "Butter Microwave Popcorn",
+    "brand": "Poppin",
+    "path": "/product/poppin-popcorn-microwave:butter:.:100gram-153941",
+    "description": "POPPIN POPCORN MICROWAVE:BUTTER:.:100GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/3/153941-zm.jpg"
+  },
+  {
+    "retailerProductId": "1018260",
+    "currentValue": {
+      "unitPrice": 1.43,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "192g",
+      "price": 2.75
+    },
+    "name": "Nut Bars Yoghurt Trail Mix 6 Pack",
+    "brand": "Nice & Natural",
+    "path": "/product/nice-&-natural-nut-bars-6pk:yoghurt-trail-mix:.:192-gram-1018260",
+    "description": "NICE & NATURAL NUT BARS 6PK:YOGHURT TRAIL MIX:.:192 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/1/1018260-zm.jpg"
+  },
+  {
+    "retailerProductId": "1714910",
+    "currentValue": {
+      "unitPrice": 3.43,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "175g",
+      "price": 6
+    },
+    "name": "Tim Tam Iced Vovo Biscuits",
+    "brand": "Arnott's",
+    "path": "/product/arnotts-tim-tam-iced-vovo-biscuits-175g-1714910",
+    "description": "ARNOTTS TIM TAM ICED VOVO BISCUITS 175G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/1/1714910-zm.jpg"
+  },
+  {
+    "retailerProductId": "9050675",
+    "currentValue": {
+      "unitPrice": 3.95,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "152g",
+      "price": 6
+    },
+    "name": "Potato Chips Lunchbox Snacks Multipack Salt & Vinegar 8 Pack",
+    "brand": "Smith's",
+    "path": "/product/smiths-potato-chips-lunchbox-snacks-multipack-salt-&-vinegar-8pk-152g-9050675",
+    "description": "SMITHS POTATO CHIPS LUNCHBOX SNACKS MULTIPACK SALT & VINEGAR 8PK 152G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/5/9050675-zm.jpg"
+  },
+  {
+    "retailerProductId": "1327822",
+    "currentValue": {
+      "unitPrice": 1.9,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "100g",
+      "price": 1.9
+    },
+    "name": "Wafer Crackers",
+    "brand": "Coles",
+    "path": "/product/coles-wafer-crackers-100g-1327822",
+    "description": "COLES WAFER CRACKERS 100G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/2/1327822-zm.jpg"
+  },
+  {
+    "retailerProductId": "3453566",
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "200g",
+      "price": 2.2
+    },
+    "name": "Milk Bottles",
+    "brand": "Coles",
+    "path": "/product/coles-milk-bottles-200g-3453566",
+    "description": "COLES MILK BOTTLES 200G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/5/3453566-zm.jpg"
+  },
+  {
+    "retailerProductId": "4951208",
+    "currentValue": {
+      "unitPrice": 1.25,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "200g",
+      "price": 2.5
+    },
+    "name": "Stix Sherbert Fizz Raspberry",
+    "brand": "Life Savers",
+    "path": "/product/life-savers-stix-sherbert-fizz-raspberry-200g-4951208",
+    "description": "LIFE SAVERS STIX SHERBERT FIZZ RASPBERRY 200G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/5/4951208-zm.jpg"
+  },
+  {
+    "retailerProductId": "4503874",
+    "currentValue": {
+      "unitPrice": 8.57,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "35g",
+      "price": 3
+    },
+    "name": "Minis Milk Chocolate Treats Tube",
+    "brand": "M&M'S",
+    "path": "/product/m&m's-minis-milk-chocolate-treats-tube-35g-4503874",
+    "description": "M&M'S MINIS MILK CHOCOLATE TREATS TUBE 35G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/0/4503874-zm.jpg"
+  },
+  {
+    "retailerProductId": "5533484",
+    "currentValue": {
+      "unitPrice": 2.63,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "190g",
+      "price": 5
+    },
+    "name": "Kids Watermelon Lollies",
+    "brand": "Sour Patch",
+    "path": "/product/sour-patch-kids-watermelon-lollies-190g-5533484",
+    "description": "SOUR PATCH KIDS WATERMELON LOLLIES 190G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/3/5533484-zm.jpg"
+  },
+  {
+    "retailerProductId": "1100077",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "50g",
+      "price": 1
+    },
+    "name": "Old Gold Turkish Delight Dark Chocolate Bar",
+    "brand": "Cadbury",
+    "path": "/product/cadbury-turkish-delight-dark-chocolate-bar-50g-1100077",
+    "description": "CADBURY TURKISH DELIGHT DARK CHOCOLATE BAR 50G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/0/1100077-zm.jpg"
+  },
+  {
+    "retailerProductId": "6696407",
+    "currentValue": {
+      "unitPrice": 1.26,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "175g",
+      "price": 2.2
+    },
+    "name": "Corn Chips Original",
+    "brand": "Coles",
+    "path": "/product/coles-corn-chips-175gram:original:.:175-gram-6696407",
+    "description": "COLES CORN CHIPS 175GRAM:ORIGINAL:.:175 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/9/6696407-zm.jpg"
+  },
+  {
+    "retailerProductId": "3288878",
+    "currentValue": {
+      "unitPrice": 2,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "125g",
+      "price": 2.5
+    },
+    "name": "Breadsticks Crackers With Sesame Seeds",
+    "brand": "Coles",
+    "path": "/product/coles-breadsticks-with-sesame-seeds-3288878",
+    "description": "COLES BREADSTICKS WITH SESAME SEEDS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/8/3288878-zm.jpg"
+  },
+  {
+    "retailerProductId": "7983980",
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "100g",
+      "price": 2.5
+    },
+    "name": "Rice Crackers Original",
+    "brand": "Fantastic",
+    "path": "/product/fantastic-rice-crackers-original-100g-7983980",
+    "description": "FANTASTIC RICE CRACKERS ORIGINAL 100G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/8/7983980-zm.jpg"
+  },
+  {
+    "retailerProductId": "1405700",
+    "currentValue": {
+      "unitPrice": 2.14,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "124g",
+      "price": 2.65
+    },
+    "name": "Biscoff Biscuits 8x2 Pack",
+    "brand": "Lotus",
+    "path": "/product/lotus-biscoff-biscuits-8-x-2-pack-124g-1405700",
+    "description": "LOTUS BISCOFF BISCUITS 8 X 2 PACK 124G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/0/1405700-zm.jpg"
+  },
+  {
+    "retailerProductId": "1251833",
+    "currentValue": {
+      "unitPrice": 1.58,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "240g",
+      "price": 3.8
+    },
+    "name": "Baked Oaty Slices Chocolate Chip",
+    "brand": "Mother Earth",
+    "path": "/product/mother-earth-oaty-slices-240g:chocolate-chip:.:240-gram-1251833",
+    "description": "MOTHER EARTH OATY SLICES 240G:CHOCOLATE CHIP:.:240 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/5/1251833-zm.jpg"
+  },
+  {
+    "retailerProductId": "1752861",
+    "currentValue": {
+      "unitPrice": 2.35,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "170g",
+      "price": 4
+    },
+    "name": "Old Gold Fruit And Nut Block Chocolate",
+    "brand": "Cadbury",
+    "path": "/product/cadbury-old-gold-fruit-and-nut-block-chocolate:.:170-gram-1752861",
+    "description": "CADBURY OLD GOLD FRUIT AND NUT BLOCK CHOCOLATE:.:170 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/5/1752861-zm.jpg"
+  },
+  {
+    "retailerProductId": "5888617",
+    "currentValue": {
+      "unitPrice": 5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "140g",
+      "price": 7
+    },
+    "name": "Twirl Milk Chocolate Bites",
+    "brand": "Cadbury",
+    "path": "/product/cadbury-twirl-chocolate-bites-140g-5888617",
+    "description": "CADBURY TWIRL CHOCOLATE BITES 140G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5888617-zm.jpg"
+  },
+  {
+    "retailerProductId": "1579519",
+    "currentValue": {
+      "unitPrice": 4.71,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "170g",
+      "price": 8
+    },
+    "name": "Dairy Milk Biscoff Chocolate Block",
+    "brand": "Cadbury",
+    "path": "/product/cadbury-dairy-milk-biscoff-chocolate-block-1579519",
+    "description": "CADBURY DAIRY MILK BISCOFF CHOCOLATE BLOCK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/7/1579519-zm.jpg"
+  },
+  {
+    "retailerProductId": "5859834",
+    "currentValue": {
+      "unitPrice": 0.63,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "300g",
+      "price": 1.9
+    },
+    "name": "Salsa Mild",
+    "brand": "Coles",
+    "path": "/product/coles-salsa-mild-5859834",
+    "description": "COLES SALSA MILD",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/5/5859834-zm.jpg"
+  },
+  {
+    "retailerProductId": "1783560",
+    "currentValue": {
+      "unitPrice": 1.22,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "205g",
+      "price": 2.5
+    },
+    "name": "Strawberry Twisters",
+    "brand": "Life Savers",
+    "path": "/product/life-savers-strawberry-twisters-205g-1783560",
+    "description": "LIFE SAVERS STRAWBERRY TWISTERS 205G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/8/1783560-zm.jpg"
+  }
+]

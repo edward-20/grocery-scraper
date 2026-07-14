@@ -1,0 +1,722 @@
+[
+  {
+    "retailerProductId": "3923761",
+    "currentValue": {
+      "unitPrice": 11.82,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "550g",
+      "price": 6.5
+    },
+    "name": "Pork Sausage",
+    "brand": "Coles",
+    "path": "/product/coles-pork-sausages-550g-3923761",
+    "description": "COLES PORK SAUSAGES 550G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/2/3923761-zm.jpg"
+  },
+  {
+    "retailerProductId": "1502219",
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 9
+    },
+    "name": "Italian Style Pork Sausages",
+    "brand": "Coles Finest",
+    "path": "/product/coles-finest-italian-style-pork-sausages-1502219",
+    "description": "COLES FINEST ITALIAN STYLE PORK SAUSAGES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/0/1502219-zm.jpg"
+  },
+  {
+    "retailerProductId": "6409120",
+    "currentValue": {
+      "unitPrice": 22.22,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "450g",
+      "price": 10
+    },
+    "name": "Pork Loin Chops Lightly Marinated",
+    "brand": "Coles",
+    "path": "/product/coles-pork-loin-chops-lightly-marinated-450g-6409120",
+    "description": "COLES PORK LOIN CHOPS LIGHTLY MARINATED 450G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/4/0/6409120-zm.jpg"
+  },
+  {
+    "retailerProductId": "8409186",
+    "currentValue": {
+      "unitPrice": 21.67,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "600g",
+      "price": 13
+    },
+    "name": "Free Range Chicken Breast Fillet",
+    "brand": "Lilydale",
+    "path": "/product/lilydale-free-range-chicken-breast-fillet-8409186",
+    "description": "LILYDALE FREE RANGE CHICKEN BREAST FILLET",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/0/8409186-zm.jpg"
+  },
+  {
+    "retailerProductId": "1773690",
+    "currentValue": {
+      "unitPrice": 29,
+      "unitPriceQuantity": 420,
+      "unitPriceUnit": "g",
+      "size": "approx. 420g",
+      "price": 15.12
+    },
+    "name": "Beef Flat Iron Sharing Steak",
+    "brand": "Masterchef",
+    "path": "/product/masterchef-beef-flat-iron-sharing-steak-1773690",
+    "description": "MASTERCHEF BEEF FLAT IRON SHARING STEAK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/7/1773690-zm.jpg"
+  },
+  {
+    "retailerProductId": "8901165",
+    "currentValue": {
+      "unitPrice": 63.33,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "300g",
+      "price": 19
+    },
+    "name": "Smoked Salmon",
+    "brand": "Ocean Blue",
+    "path": "/product/ocean-blue-smoked-salmon-300g-8901165",
+    "description": "OCEAN BLUE SMOKED SALMON 300G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/0/8901165-zm.jpg"
+  },
+  {
+    "retailerProductId": "2839579",
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": 1.3,
+      "unitPriceUnit": "Kg",
+      "size": "approx. 1.3kg",
+      "price": 23.4
+    },
+    "name": "Pork Belly Roast Boneless",
+    "brand": "Coles",
+    "path": "/product/coles-pork-belly-roast-boneless-2839579",
+    "description": "COLES PORK BELLY ROAST BONELESS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/3/2839579-zm.jpg"
+  },
+  {
+    "retailerProductId": "9246065",
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": 1.74,
+      "unitPriceUnit": "Kg",
+      "size": "approx. 1.74kg",
+      "price": 31.32
+    },
+    "name": "Lamb Leg Roast Half",
+    "brand": "Coles",
+    "path": "/product/coles-lamb-leg-roast-half-9246065",
+    "description": "COLES LAMB LEG ROAST HALF",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/4/9246065-zm.jpg"
+  },
+  {
+    "retailerProductId": "2265720",
+    "currentValue": {
+      "unitPrice": 10,
+      "unitPriceQuantity": 700,
+      "unitPriceUnit": "g",
+      "size": "approx. 700g",
+      "price": 7
+    },
+    "name": "RSPCA Approved Chicken Lovely Legs",
+    "brand": "Coles",
+    "path": "/product/coles-rspca-chicken-lovely-legs-2265720",
+    "description": "COLES RSPCA CHICKEN LOVELY LEGS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/6/2265720-zm.jpg"
+  },
+  {
+    "retailerProductId": "1532694",
+    "currentValue": {
+      "unitPrice": 22.86,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "350g",
+      "price": 8
+    },
+    "name": "Quick Cook Belly Slices",
+    "brand": "Coles",
+    "path": "/product/coles-quick-cook-belly-slices-350g-1532694",
+    "description": "COLES QUICK COOK BELLY SLICES 350G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/3/1532694-zm.jpg"
+  },
+  {
+    "retailerProductId": "7363432",
+    "currentValue": {
+      "unitPrice": 17.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "600g",
+      "price": 10.5
+    },
+    "name": "RSPCA Approved Chicken Stir Fry",
+    "brand": "Coles",
+    "path": "/product/coles-rspca-approved-chicken-stir-fry-600g-7363432",
+    "description": "COLES RSPCA APPROVED CHICKEN STIR FRY 600G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/6/7363432-zm.jpg"
+  },
+  {
+    "retailerProductId": "3923648",
+    "currentValue": {
+      "unitPrice": 11.82,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "550g",
+      "price": 6.5
+    },
+    "name": "Chicken Sage And Thyme Sausages",
+    "brand": "Coles",
+    "path": "/product/coles-chicken--sage-and-thyme-sausages-550g-3923648",
+    "description": "COLES CHICKEN- SAGE AND THYME SAUSAGES 550G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/2/3923648-zm.jpg"
+  },
+  {
+    "retailerProductId": "6068539",
+    "currentValue": {
+      "unitPrice": 32.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 13
+    },
+    "name": "Beef Sandwich Steak",
+    "brand": "Coles",
+    "path": "/product/coles-beef-sandwich-steak-400gram-6068539",
+    "description": "COLES BEEF SANDWICH STEAK 400GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/6/6068539-zm.jpg"
+  },
+  {
+    "retailerProductId": "5132428",
+    "currentValue": {
+      "unitPrice": 35,
+      "unitPriceQuantity": 590,
+      "unitPriceUnit": "g",
+      "size": "approx. 590g",
+      "price": 20.65
+    },
+    "name": "Beef T Bone Steak",
+    "brand": "Coles",
+    "path": "/product/coles-beef-t-bone-steak-(11x9):per-kg-5132428",
+    "description": "COLES BEEF T BONE STEAK (11X9):PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/3/5132428-zm.jpg"
+  },
+  {
+    "retailerProductId": "4256651",
+    "currentValue": {
+      "unitPrice": 22,
+      "unitPriceQuantity": 1000,
+      "unitPriceUnit": "g",
+      "size": "approx. 1kg",
+      "price": 22
+    },
+    "name": "No Added Hormone Beef Shin Gravy Beef Whole Piece",
+    "brand": "Coles",
+    "path": "/product/coles-no-added-hormone-beef-shin-(gravy-beef)--whole-piece-4256651",
+    "description": "COLES NO ADDED HORMONE BEEF SHIN (GRAVY BEEF)  WHOLE PIECE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/5/4256651-zm.jpg"
+  },
+  {
+    "retailerProductId": "9917830",
+    "currentValue": {
+      "unitPrice": 16,
+      "unitPriceQuantity": 433,
+      "unitPriceUnit": "g",
+      "size": "approx. 500g",
+      "price": 6.93
+    },
+    "name": "Lamb Forequarter Chops",
+    "brand": "Coles",
+    "path": "/product/coles-lamb-forequarter-chops-per-kg-(11x5)-9917830",
+    "description": "COLES LAMB FOREQUARTER CHOPS PER KG (11X5)",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/1/9917830-zm.jpg"
+  },
+  {
+    "retailerProductId": "3900020",
+    "currentValue": {
+      "unitPrice": 18.89,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "450g",
+      "price": 8.5
+    },
+    "name": "Lamb Kebabs",
+    "brand": "Coles",
+    "path": "/product/coles-lamb-kebabs-450gram-3900020",
+    "description": "COLES LAMB KEBABS 450GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/0/3900020-zm.jpg"
+  },
+  {
+    "retailerProductId": "2741270",
+    "currentValue": {
+      "unitPrice": 22,
+      "unitPriceQuantity": 400,
+      "unitPriceUnit": "g",
+      "size": "approx. 400g",
+      "price": 8.8
+    },
+    "name": "Free Range Pork Loin Chops",
+    "brand": "Coles",
+    "path": "/product/coles-free-range-pork-loin-chops-2741270",
+    "description": "COLES FREE RANGE PORK LOIN CHOPS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2741270-zm.jpg"
+  },
+  {
+    "retailerProductId": "7677419",
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 10
+    },
+    "name": "Diced Casserole",
+    "brand": "Drovers",
+    "path": "/product/drovers-diced-casserole-500g-7677419",
+    "description": "DROVERS DICED CASSEROLE 500G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/6/7/7677419-zm.jpg"
+  },
+  {
+    "retailerProductId": "9586449",
+    "currentValue": {
+      "unitPrice": 20,
+      "unitPriceQuantity": 350,
+      "unitPriceUnit": "g",
+      "size": "approx. 350g",
+      "price": 7
+    },
+    "name": "Thawed Barramundi Fillets",
+    "brand": "Coles Deli",
+    "path": "/product/coles-deli-thawed-barramundi-fillets-9586449",
+    "description": "COLES DELI THAWED BARRAMUNDI FILLETS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/8/9586449-zm.jpg"
+  },
+  {
+    "retailerProductId": "3729747",
+    "currentValue": {
+      "unitPrice": 115,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "100g",
+      "price": 11.5
+    },
+    "name": "Tasmanian Smoked Salmon",
+    "brand": "Tassal",
+    "path": "/product/tassal-tasmanian-smoked-salmon-3729747",
+    "description": "TASSAL TASMANIAN SMOKED SALMON",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3729747-zm.jpg"
+  },
+  {
+    "retailerProductId": "6641427",
+    "currentValue": {
+      "unitPrice": 49.06,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "265g",
+      "price": 13
+    },
+    "name": "Beef Scotch Steak With Bearnaise Butter",
+    "brand": "Coles",
+    "path": "/product/coles-beef-scotch-steak-with-bearnaise-butter--265gram-6641427",
+    "description": "COLES BEEF SCOTCH STEAK WITH BEARNAISE BUTTER  265GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/4/6641427-zm.jpg"
+  },
+  {
+    "retailerProductId": "4251534",
+    "currentValue": {
+      "unitPrice": 11,
+      "unitPriceQuantity": 1.3,
+      "unitPriceUnit": "Kg",
+      "size": "approx. 1.3kg",
+      "price": 14.3
+    },
+    "name": "Corned Silverside",
+    "brand": "Coles",
+    "path": "/product/coles-brand-cr-vac-pack-corned-silverside-4251534",
+    "description": "COLES BRAND CR VAC PACK CORNED SILVERSIDE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/5/4251534-zm.jpg"
+  },
+  {
+    "retailerProductId": "2814749",
+    "currentValue": {
+      "unitPrice": 19,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 9.5
+    },
+    "name": "Thin Pork Sausages",
+    "brand": "British Sausage Co.",
+    "path": "/product/british-sausage-co-thin-pork-sausages-2814749",
+    "description": "BRITISH SAUSAGE CO THIN PORK SAUSAGES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/1/2814749-zm.jpg"
+  },
+  {
+    "retailerProductId": "3035409",
+    "currentValue": {
+      "unitPrice": 21.5,
+      "unitPriceQuantity": 500,
+      "unitPriceUnit": "g",
+      "size": "approx. 500g pack",
+      "price": 10.75
+    },
+    "name": "Pork Cutlets",
+    "brand": "Coles",
+    "path": "/product/coles-pork-cutlets-11x5-3035409",
+    "description": "COLES PORK CUTLETS 11X5",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3035409-zm.jpg"
+  },
+  {
+    "retailerProductId": "5406818",
+    "currentValue": {
+      "unitPrice": 8.57,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "560g",
+      "price": 4.8
+    },
+    "name": "Honey Bbq Sausages 8 Pack",
+    "brand": "Coles Simply",
+    "path": "/product/coles-simply-honey-bbq-sausages-8pk-560g-5406818",
+    "description": "COLES SIMPLY HONEY BBQ SAUSAGES 8PK 560G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/5406818-zm.jpg"
+  },
+  {
+    "retailerProductId": "2359370",
+    "currentValue": {
+      "unitPrice": 24,
+      "unitPriceQuantity": 400,
+      "unitPriceUnit": "g",
+      "size": "approx. 400g",
+      "price": 9.6
+    },
+    "name": "Pork Fillet",
+    "brand": "Coles",
+    "path": "/product/coles-pork-fillet-wa-9x5-2359370",
+    "description": "COLES PORK FILLET WA 9X5",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/5/2359370-zm.jpg"
+  },
+  {
+    "retailerProductId": "9224255",
+    "currentValue": {
+      "unitPrice": 30,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 15
+    },
+    "name": "Grass-fed Premium Beef Mince",
+    "brand": "Cleaver's Organic",
+    "path": "/product/cleaver's-organic-grass-fed-premium-beef-mince-9224255",
+    "description": "CLEAVER'S ORGANIC GRASS-FED PREMIUM BEEF MINCE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/2/9224255-zm.jpg"
+  },
+  {
+    "retailerProductId": "2902700",
+    "currentValue": {
+      "unitPrice": 14.5,
+      "unitPriceQuantity": 1.5,
+      "unitPriceUnit": "Kg",
+      "size": "approx. 1.5kg",
+      "price": 21.75
+    },
+    "name": "Pork Slow Cook Scotch Roast",
+    "brand": "Coles",
+    "path": "/product/coles-pork-slow-cook-scotch-roast-2902700",
+    "description": "COLES PORK SLOW COOK SCOTCH ROAST",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/0/2902700-zm.jpg"
+  },
+  {
+    "retailerProductId": "3492660",
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": 1.4,
+      "unitPriceUnit": "Kg",
+      "size": "approx. 1.4kg",
+      "price": 25.2
+    },
+    "name": "No Added Hormone Beef Brisket Slow Cook",
+    "brand": "Coles",
+    "path": "/product/coles-no-added-hormone-beef-brisket-slow-cook-3492660",
+    "description": "COLES NO ADDED HORMONE BEEF BRISKET SLOW COOK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/9/3492660-zm.jpg"
+  },
+  {
+    "retailerProductId": "1532865",
+    "currentValue": {
+      "unitPrice": 18,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 9
+    },
+    "name": "Vsp Pork Sirloin Steak",
+    "brand": "Coles",
+    "path": "/product/coles-pork-sirloin-steak-500g-1532865",
+    "description": "COLES PORK SIRLOIN STEAK 500G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/3/1532865-zm.jpg"
+  },
+  {
+    "retailerProductId": "8601456",
+    "currentValue": {
+      "unitPrice": 17,
+      "unitPriceQuantity": 1.55,
+      "unitPriceUnit": "Kg",
+      "size": "approx. 1.55kg",
+      "price": 26.35
+    },
+    "name": "Beef Blade Roast",
+    "brand": "Coles",
+    "path": "/product/coles-brand-rr-7x5-beef-blade-roast:per-kg-8601456",
+    "description": "COLES BRAND RR 7X5 BEEF BLADE ROAST:PER KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/0/8601456-zm.jpg"
+  },
+  {
+    "retailerProductId": "3034960",
+    "currentValue": {
+      "unitPrice": 18.75,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 7.5
+    },
+    "name": "Beef Chevap",
+    "brand": "Coles",
+    "path": "/product/coles-beef-chevap-400-gram-3034960",
+    "description": "COLES BEEF CHEVAP 400 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3034960-zm.jpg"
+  },
+  {
+    "retailerProductId": "6841324",
+    "currentValue": {
+      "unitPrice": 52,
+      "unitPriceQuantity": 226,
+      "unitPriceUnit": "g",
+      "size": "approx. 226g",
+      "price": 11.75
+    },
+    "name": "Lamb Backstrap",
+    "brand": "Coles Finest",
+    "path": "/product/coles-finest-lamb-backstrap-6841324",
+    "description": "COLES FINEST LAMB BACKSTRAP",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/4/6841324-zm.jpg"
+  },
+  {
+    "retailerProductId": "1833373",
+    "currentValue": {
+      "unitPrice": 26,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 13
+    },
+    "name": "Free Range Chicken Stir Fry",
+    "brand": "Lilydale",
+    "path": "/product/lilydale-free-range-chicken-stir-fry-500g-1833373",
+    "description": "LILYDALE FREE RANGE CHICKEN STIR FRY 500G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/3/1833373-zm.jpg"
+  },
+  {
+    "retailerProductId": "4462020",
+    "currentValue": {
+      "unitPrice": 16.88,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "800g",
+      "price": 13.5
+    },
+    "name": "Boneless Butterflied Chicken",
+    "brand": "The Bare Bird",
+    "path": "/product/the-bare-bird-boneless-butterflied-chicken-4462020",
+    "description": "THE BARE BIRD BONELESS BUTTERFLIED CHICKEN",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/6/4462020-zm.jpg"
+  },
+  {
+    "retailerProductId": "1558144",
+    "currentValue": {
+      "unitPrice": 57.14,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "280g",
+      "price": 16
+    },
+    "name": "Tasmanian Salmon Portions Skin Off",
+    "brand": "Coles",
+    "path": "/product/coles-tasmanian-salmon-portions-skin-off-2pk-1558144",
+    "description": "COLES TASMANIAN SALMON PORTIONS SKIN OFF 2PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/5/1558144-zm.jpg"
+  },
+  {
+    "retailerProductId": "2303852",
+    "currentValue": {
+      "unitPrice": 7.5,
+      "unitPriceQuantity": 1000,
+      "unitPriceUnit": "g",
+      "size": "approx. 1kg",
+      "price": 7.5
+    },
+    "name": "Free Range Chicken Drumsticks Bulk",
+    "brand": "Lilydale",
+    "path": "/product/lilydale-free-range-chicken-drumsticks-bulk-2303852",
+    "description": "LILYDALE FREE RANGE CHICKEN DRUMSTICKS BULK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/0/2303852-zm.jpg"
+  },
+  {
+    "retailerProductId": "3559454",
+    "currentValue": {
+      "unitPrice": 11,
+      "unitPriceQuantity": 800,
+      "unitPriceUnit": "g",
+      "size": "approx. 800g",
+      "price": 8.8
+    },
+    "name": "RSPCA Approved Free Range Chicken Maryland",
+    "brand": "Coles",
+    "path": "/product/coles-free-range-rspca-approved-chicken-maryland-3559454",
+    "description": "COLES FREE RANGE RSPCA APPROVED CHICKEN MARYLAND",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/5/3559454-zm.jpg"
+  },
+  {
+    "retailerProductId": "9129390",
+    "currentValue": {
+      "unitPrice": 46.43,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "280g",
+      "price": 13
+    },
+    "name": "Salmon To Go Skin On 2 Pack",
+    "brand": "Huon",
+    "path": "/product/salmon-to-go-skin-on-2pk-9129390",
+    "description": "SALMON TO GO SKIN ON 2PK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/2/9129390-zm.jpg"
+  },
+  {
+    "retailerProductId": "7382528",
+    "currentValue": {
+      "unitPrice": 28.12,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "480g",
+      "price": 13.5
+    },
+    "name": "Chicken Tenderloins",
+    "brand": "The Bare Bird",
+    "path": "/product/the-bare-bird-chicken-tenderloins-480g-7382528",
+    "description": "THE BARE BIRD CHICKEN TENDERLOINS 480G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/8/7382528-zm.jpg"
+  },
+  {
+    "retailerProductId": "3034348",
+    "currentValue": {
+      "unitPrice": 17,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 8.5
+    },
+    "name": "Beef And Thyme Burger",
+    "brand": "Coles",
+    "path": "/product/coles-beef-and-thyme-burger-500g-3034348",
+    "description": "COLES BEEF AND THYME BURGER 500G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3034348-zm.jpg"
+  },
+  {
+    "retailerProductId": "8888307",
+    "currentValue": {
+      "unitPrice": 25.56,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "450g",
+      "price": 11.5
+    },
+    "name": "Extra Lean Beef Sausages",
+    "brand": "Peppercorn",
+    "path": "/product/peppercorn-extra-lean-beef-sausages-450gm-8888307",
+    "description": "PEPPERCORN EXTRA LEAN BEEF SAUSAGES 450GM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/8/8888307-zm.jpg"
+  },
+  {
+    "retailerProductId": "3472389",
+    "currentValue": {
+      "unitPrice": 14,
+      "unitPriceQuantity": 1000,
+      "unitPriceUnit": "g",
+      "size": "approx. 1kg each",
+      "price": 14
+    },
+    "name": "Smoked Meaty Pork Leg Hock",
+    "brand": "Coles",
+    "path": "/product/coles-smoked-meaty-pork-leg-hock-3472389",
+    "description": "COLES SMOKED MEATY PORK LEG HOCK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/7/3472389-zm.jpg"
+  },
+  {
+    "retailerProductId": "5629540",
+    "currentValue": {
+      "unitPrice": 52.5,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 21
+    },
+    "name": "Beef Scotch Fillet Thin Cut",
+    "brand": "Coles",
+    "path": "/product/coles-beef-scotch-fillet-thin-cut--400gram-5629540",
+    "description": "COLES BEEF SCOTCH FILLET THIN CUT  400GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/2/5629540-zm.jpg"
+  },
+  {
+    "retailerProductId": "2903871",
+    "currentValue": {
+      "unitPrice": 25,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 10
+    },
+    "name": "RSPCA Approved Chicken Breast Fillet Crumb Sage & Rosemary",
+    "brand": "Coles",
+    "path": "/product/coles-rspca-chicken-breast-fillet-crumb-sage-&-rosemary-2903871",
+    "description": "COLES RSPCA CHICKEN BREAST FILLET CRUMB SAGE & ROSEMARY",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/0/2903871-zm.jpg"
+  },
+  {
+    "retailerProductId": "1532810",
+    "currentValue": {
+      "unitPrice": 31.25,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "400g",
+      "price": 12.5
+    },
+    "name": "Free Range Pork Belly Slices",
+    "brand": "Coles",
+    "path": "/product/coles-free-range-belly-slices-400gram-(11x5)-1532810",
+    "description": "COLES FREE RANGE BELLY SLICES 400GRAM (11X5)",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/3/1532810-zm.jpg"
+  },
+  {
+    "retailerProductId": "7359741",
+    "currentValue": {
+      "unitPrice": 8,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "500g",
+      "price": 4
+    },
+    "name": "RSPCA Approved Chicken Giblets",
+    "brand": "Coles",
+    "path": "/product/coles-rspca-chicken-giblets-500g-7359741",
+    "description": "COLES RSPCA CHICKEN GIBLETS 500G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/5/7359741-zm.jpg"
+  }
+]

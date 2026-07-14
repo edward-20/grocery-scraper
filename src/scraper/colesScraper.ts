@@ -15,36 +15,58 @@ const ColesCategoriesPayload = z.object({
   })
 });
 
+const ColesProductUnit = z.object({
+  _type: z.union([z.literal("PRODUCT"), z.literal("PRODUCT_ASSOCIATION")]),
+  id: z.number(),
+  name: z.string(),
+  brand: z.string(),
+  description: z.string(),
+  size: z.string(),
+  imageUris: z.array(z.object({
+    uri: z.string(),
+  })),
+  pricing: z.object({
+    now: z.number(),
+    unit: z.union([
+      z.object({
+        quantity: z.number(),
+        ofMeasureQuantity: z.number(),
+        ofMeasureUnits: z.string(),
+        price: z.number(),
+        ofMeasureType: z.string(),
+      }),
+      z.object({
+      })
+    ]),
+    comparable: z.string().optional()
+  }).nullable(),
+});
+
+type ColesProductUnitType = z.infer<typeof ColesProductUnit>;
+
+export type ColesProductUnitNonNullablePricing =
+  Omit<z.infer<typeof ColesProductUnit>, "pricing"> & {
+    pricing: NonNullable<z.infer<typeof ColesProductUnit>["pricing"]>;
+  };
+
+const ColesProductPageUnit = z.discriminatedUnion("_type", [
+  ColesProductUnit,
+  z.object({
+    _type: z.literal("SHOPPABLE_BANNER"),
+    shoppableProducts: z.array(ColesProductUnit)
+  }),
+  z.object({
+    _type: z.literal("SINGLE_TILE")
+  }),
+  z.object({
+    _type: z.literal("CONTENT_ASSOCIATION")
+  })
+]);
+
 export const ColesProductsPagePayload = z.object({
   pageProps: z.object({
     searchResults: z.object({
-      results: z.array(z.discriminatedUnion("_type", [
-        z.object({
-          _type: z.literal("PRODUCT"),
-          id: z.number(),
-          name: z.string(),
-          brand: z.string(),
-          description: z.string(),
-          size: z.string(),
-          imageUris: z.array(z.object({
-            uri: z.string(),
-          })),
-          pricing: z.object({
-            now: z.number(),
-            unit: z.object({
-              quantity: z.number(),
-              ofMeasureQuantity: z.number(),
-              ofMeasureUnits: z.string(),
-              price: z.number(),
-              ofMeasureType: z.string(),
-            })
-          }),
-          comparable: z.string()
-        }),
-        z.object({
-          _type: z.literal("SINGLE_TILE")
-        })
-      ]))
+      results: z.array(ColesProductPageUnit)
     })
   })
 })

@@ -1,0 +1,812 @@
+[
+  {
+    "retailerProductId": "1649160",
+    "currentValue": {
+      "unitPrice": 0.58,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "1Kg",
+      "price": 5.85
+    },
+    "name": "Dog Chunkers Meatballs Beef",
+    "brand": "V.I.P",
+    "path": "/product/vip-dog-chunkers-meatballs-beef-1-kg-1649160",
+    "description": "VIP DOG CHUNKERS MEATBALLS BEEF 1 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/4/1649160-zm.jpg"
+  },
+  {
+    "retailerProductId": "5487070",
+    "currentValue": {
+      "unitPrice": 0.49,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "7kg",
+      "price": 34.5
+    },
+    "name": "Smartblend Adult Large Breed Dry Dog Food",
+    "brand": "Supercoat",
+    "path": "/product/supercoat-smartblend-adult-large-breed-dry-dog-food-7kg-5487070",
+    "description": "SUPERCOAT SMARTBLEND ADULT LARGE BREED DRY DOG FOOD 7KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5487070-zm.jpg"
+  },
+  {
+    "retailerProductId": "1649192",
+    "currentValue": {
+      "unitPrice": 1.4,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "250g",
+      "price": 3.5
+    },
+    "name": "Complete & Balanced Bowls With Lamb & Superfoods Dog Food",
+    "brand": "4 Legs",
+    "path": "/product/4-legs-complete-&-balanced-bowl-with-lamb-&-superfoods-dog-food-250gram-1649192",
+    "description": "4 LEGS COMPLETE & BALANCED BOWL WITH LAMB & SUPERFOODS DOG FOOD 250GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/4/1649192-zm.jpg"
+  },
+  {
+    "retailerProductId": "2741452",
+    "currentValue": {
+      "unitPrice": 1.68,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "7 Pack",
+      "price": 10
+    },
+    "name": "Classic Collection Adult Wet Cat Food Saucy Morsels With Tuna & Cheese 7x85g Trays",
+    "brand": "Dine",
+    "path": "/product/dine-classic-collection-adult-wet-cat-food-saucy-morsels-with-tuna-&-cheese-7x85g-trays-2741452",
+    "description": "DINE CLASSIC COLLECTION ADULT WET CAT FOOD SAUCY MORSELS WITH TUNA & CHEESE 7X85G TRAYS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2741452-zm.jpg"
+  },
+  {
+    "retailerProductId": "3871930",
+    "currentValue": {
+      "unitPrice": 0.7,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "800g",
+      "price": 5.6
+    },
+    "name": "Adult 1+ Years Dry Cat Food Chicken & Rabbit Flavour",
+    "brand": "Whiskas",
+    "path": "/product/whiskas-adult-1+-years-dry-cat-food-chicken-&-rabbit-flavour-800g-3871930",
+    "description": "WHISKAS ADULT 1+ YEARS DRY CAT FOOD CHICKEN & RABBIT FLAVOUR 800G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/7/3871930-zm.jpg"
+  },
+  {
+    "retailerProductId": "7645300",
+    "currentValue": {
+      "unitPrice": 0.64,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "10 Pack",
+      "price": 6.4
+    },
+    "name": "Bakery Dog Treats Mini Pretzels",
+    "brand": "Vitapet",
+    "path": "/product/vitapet-bakery-dog-treats-mini-pretzels-10pack-7645300",
+    "description": "VITAPET BAKERY DOG TREATS MINI PRETZELS 10PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/6/4/7645300-zm.jpg"
+  },
+  {
+    "retailerProductId": "5172637",
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "12 Pack",
+      "price": 13
+    },
+    "name": "Adult 1 + Years Wet Cat Food Tuna Favourites In Jelly 12x85g Pouches",
+    "brand": "Whiskas",
+    "path": "/product/whiskas-adult-1-+-years-wet-cat-food-tuna-favourites-in-jelly-12x85g-pouches-5172637",
+    "description": "WHISKAS ADULT 1 + YEARS WET CAT FOOD TUNA FAVOURITES IN JELLY 12X85G POUCHES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5172637-zm.jpg"
+  },
+  {
+    "retailerProductId": "1506560",
+    "currentValue": {
+      "unitPrice": 9,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "100g",
+      "price": 9
+    },
+    "name": "Duck Tenders Dog Treat",
+    "brand": "Vitapet",
+    "path": "/product/vitapet-dog-treat-duck-tenders-100-gram-1506560",
+    "description": "VITAPET DOG TREAT DUCK TENDERS 100 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/0/1506560-zm.jpg"
+  },
+  {
+    "retailerProductId": "1649148",
+    "currentValue": {
+      "unitPrice": 0.58,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "1Kg",
+      "price": 5.85
+    },
+    "name": "Chunkers Meatballs Chicken",
+    "brand": "V.I.P",
+    "path": "/product/vip-dog-chunkers-meatballs-chicken-1-kg-1649148",
+    "description": "VIP DOG CHUNKERS MEATBALLS CHICKEN 1 KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/4/1649148-zm.jpg"
+  },
+  {
+    "retailerProductId": "1649181",
+    "currentValue": {
+      "unitPrice": 1.4,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "250g",
+      "price": 3.5
+    },
+    "name": "Complete & Balanced Bowls With Kangaroo & Superfoods Dog Food",
+    "brand": "4 Legs",
+    "path": "/product/4-legs-complete-&-balanced-bowl-with-kangaroo-&-superfoods-dog-food-250gram-1649181",
+    "description": "4 LEGS COMPLETE & BALANCED BOWL WITH KANGAROO & SUPERFOODS DOG FOOD 250GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/4/1649181-zm.jpg"
+  },
+  {
+    "retailerProductId": "8009519",
+    "currentValue": {
+      "unitPrice": 0.94,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "720g",
+      "price": 6.75
+    },
+    "name": "Cat Premium Vita Mince Chicken With Roo Cat Or Dog Food 8x90g",
+    "brand": "Regal",
+    "path": "/product/regal-cat-premium-vita-mince-chicken-with-roo-cat-or-dog-food-8x90gram-8009519",
+    "description": "REGAL CAT PREMIUM VITA MINCE CHICKEN WITH ROO CAT OR DOG FOOD 8X90GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/0/8009519-zm.jpg"
+  },
+  {
+    "retailerProductId": "3863342",
+    "currentValue": {
+      "unitPrice": 0.82,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Kg",
+      "size": "10Kg",
+      "price": 8.25
+    },
+    "name": "Cat Litter Clay",
+    "brand": "Coles Simply",
+    "path": "/product/coles-simply-cat-litter-clay-10kg-3863342",
+    "description": "COLES SIMPLY CAT LITTER CLAY 10KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/6/3863342-zm.jpg"
+  },
+  {
+    "retailerProductId": "7591754",
+    "currentValue": {
+      "unitPrice": 1.68,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "7 Pack",
+      "price": 10
+    },
+    "name": "Classic Collection Adult Wet Cat Food Saucy Morsels With Salmon 7x85g Trays",
+    "brand": "Dine",
+    "path": "/product/dine-classic-collection-adult-wet-cat-food-saucy-morsels-with-salmon-7x85g-trays-7591754",
+    "description": "DINE CLASSIC COLLECTION ADULT WET CAT FOOD SAUCY MORSELS WITH SALMON 7X85G TRAYS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/9/7591754-zm.jpg"
+  },
+  {
+    "retailerProductId": "3595593",
+    "currentValue": {
+      "unitPrice": 1.65,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "85g",
+      "price": 1.4
+    },
+    "name": "Whitemeat Tuna With Flaked Salmon",
+    "brand": "Ultimates Indulge",
+    "path": "/product/ultimates-indulge-whitemeat-tuna-with-flaked-salmon-cat-food-85gram-3595593",
+    "description": "ULTIMATES INDULGE WHITEMEAT TUNA WITH FLAKED SALMON CAT FOOD 85GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3595593-zm.jpg"
+  },
+  {
+    "retailerProductId": "8968530",
+    "currentValue": {
+      "unitPrice": 3.43,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "70g",
+      "price": 2.4
+    },
+    "name": "Cat Food Tuna With Prawn",
+    "brand": "Applaws",
+    "path": "/product/applaws-cat-food-70gram:tuna-prawn:.:70-gram-8968530",
+    "description": "APPLAWS CAT FOOD 70GRAM:TUNA PRAWN:.:70 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/6/8968530-zm.jpg"
+  },
+  {
+    "retailerProductId": "1155807",
+    "currentValue": {
+      "unitPrice": 0.8,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 5.6
+    },
+    "name": "Adult Dry Cat Food Meaty Grills",
+    "brand": "Friskies",
+    "path": "/product/friskies-adult-dry-cat-food-meaty-grills-700-gram-1155807",
+    "description": "FRISKIES ADULT DRY CAT FOOD MEATY GRILLS 700 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/5/1155807-zm.jpg"
+  },
+  {
+    "retailerProductId": "5172580",
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "12 Pack",
+      "price": 13
+    },
+    "name": "Senior 7+ Years Wet Cat Food Mixed Favourites In Jelly 12x85g Pouch",
+    "brand": "Whiskas",
+    "path": "/product/whiskas-senior-7+-years-wet-cat-food-mixed-favourites-in-jelly-12x85g-pouch-5172580",
+    "description": "WHISKAS SENIOR 7+ YEARS WET CAT FOOD MIXED FAVOURITES IN JELLY 12X85G POUCH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5172580-zm.jpg"
+  },
+  {
+    "retailerProductId": "5172626",
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "12 Pack",
+      "price": 13
+    },
+    "name": "Favourites Mixed In Gravy Cat Food 12x85g",
+    "brand": "Whiskas",
+    "path": "/product/whiskas-favourites-mixed-in-gravy-cat-food-12x85g-5172626",
+    "description": "WHISKAS FAVOURITES MIXED IN GRAVY CAT FOOD 12X85G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5172626-zm.jpg"
+  },
+  {
+    "retailerProductId": "3454616",
+    "currentValue": {
+      "unitPrice": 0.92,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "18 Pack",
+      "price": 16.5
+    },
+    "name": "Chewz Chicken Wrapped Rawhide Sticks Dog Treat",
+    "brand": "Vitapet",
+    "path": "/product/vitapet-chicken-wrapped-rawhide-sticks-dog-treat-18-pack-3454616",
+    "description": "VITAPET CHICKEN WRAPPED RAWHIDE STICKS DOG TREAT 18 PACK",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/5/3454616-zm.jpg"
+  },
+  {
+    "retailerProductId": "3595560",
+    "currentValue": {
+      "unitPrice": 1.65,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "85g",
+      "price": 1.4
+    },
+    "name": "Responsibly Fished Tuna & Barramundi Cat Food Canned",
+    "brand": "Ultimates Indulge",
+    "path": "/product/ultimates-indulge-responsibly-fished-tuna-&-barramundi-cat-food-85gram-3595560",
+    "description": "ULTIMATES INDULGE RESPONSIBLY FISHED TUNA & BARRAMUNDI CAT FOOD 85GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3595560-zm.jpg"
+  },
+  {
+    "retailerProductId": "3755816",
+    "currentValue": {
+      "unitPrice": 2.35,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "85g",
+      "price": 2
+    },
+    "name": "Savory Centers Chicken Pate Cat Food",
+    "brand": "Fancy Feast",
+    "path": "/product/fancy-feast-savory-centers-chicken-pate-cat-food-85g-3755816",
+    "description": "FANCY FEAST SAVORY CENTERS CHICKEN PATE CAT FOOD 85G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3755816-zm.jpg"
+  },
+  {
+    "retailerProductId": "4239437",
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "100g",
+      "price": 2.5
+    },
+    "name": "Grain Free Crunchers Adult Cat Treats Chicken",
+    "brand": "Fussy Cat",
+    "path": "/product/fussy-cat-grain-free-crunchers-adult-cat-treats-chicken-100-gram-4239437",
+    "description": "FUSSY CAT GRAIN FREE CRUNCHERS ADULT CAT TREATS CHICKEN 100 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/3/4239437-zm.jpg"
+  },
+  {
+    "retailerProductId": "5102937",
+    "currentValue": {
+      "unitPrice": 0.75,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "400g",
+      "price": 3
+    },
+    "name": "Classic Loaf With Tender Beef & Veal Can Wet Dog Food",
+    "brand": "My Dog",
+    "path": "/product/my-dog-wet-dog-food-classic-loaf-with-tender-beef-&-veal-can-400g-5102937",
+    "description": "MY DOG WET DOG FOOD CLASSIC LOAF WITH TENDER BEEF & VEAL CAN 400G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/0/5102937-zm.jpg"
+  },
+  {
+    "retailerProductId": "8091123",
+    "currentValue": {
+      "unitPrice": 0.75,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "400g",
+      "price": 3
+    },
+    "name": "Classic Loaf With Sardine Tuna & Spring Vegetables Can Wet Dog Food",
+    "brand": "My Dog",
+    "path": "/product/my-dog-wet-dog-food-classic-loaf-with-sardine-tuna-&-spring-vegetables-can-400g-8091123",
+    "description": "MY DOG WET DOG FOOD CLASSIC LOAF WITH SARDINE TUNA & SPRING VEGETABLES CAN 400G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/9/8091123-zm.jpg"
+  },
+  {
+    "retailerProductId": "9092595",
+    "currentValue": {
+      "unitPrice": 1.33,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "300g",
+      "price": 4
+    },
+    "name": "Kangaroo Bone Chews Dog Food",
+    "brand": "The Fresh Pet Food Co.",
+    "path": "/product/the-fresh-pet-food-co.-kangaroo-bone-chews-dog-food-300gram-9092595",
+    "description": "THE FRESH PET FOOD CO. KANGAROO BONE CHEWS DOG FOOD 300GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/9/9092595-zm.jpg"
+  },
+  {
+    "retailerProductId": "9086606",
+    "currentValue": {
+      "unitPrice": 6.32,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "68g",
+      "price": 4.3
+    },
+    "name": "Dentastix Chewy Chunx Mini Dog Treats",
+    "brand": "Pedigree",
+    "path": "/product/pedigree-dentastix-chewy-chunx-mini-dog-treats-68gram-9086606",
+    "description": "PEDIGREE DENTASTIX CHEWY CHUNX MINI DOG TREATS 68GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/8/9086606-zm.jpg"
+  },
+  {
+    "retailerProductId": "8554935",
+    "currentValue": {
+      "unitPrice": 0.5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "1.5kg",
+      "price": 7.5
+    },
+    "name": "Sunflower Seed",
+    "brand": "Harmony",
+    "path": "/product/harmony-sunflower-seed-1.5kg-8554935",
+    "description": "HARMONY SUNFLOWER SEED 1.5KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/5/8554935-zm.jpg"
+  },
+  {
+    "retailerProductId": "7591710",
+    "currentValue": {
+      "unitPrice": 1.68,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "7 Pack",
+      "price": 10
+    },
+    "name": "Classic Collection Adult Wet Cat Food Cuts in Gravy With Beef & Liver 7x85g Trays",
+    "brand": "Dine",
+    "path": "/product/dine-classic-collection-adult-wet-cat-food-cuts-in-gravy-with-beef-&-liver-7x85g-trays-7591710",
+    "description": "DINE CLASSIC COLLECTION ADULT WET CAT FOOD CUTS IN GRAVY WITH BEEF & LIVER 7X85G TRAYS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/9/7591710-zm.jpg"
+  },
+  {
+    "retailerProductId": "4203622",
+    "currentValue": {
+      "unitPrice": 1.75,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "L",
+      "size": "6L",
+      "price": 10.5
+    },
+    "name": "Cat Litter Paper",
+    "brand": "Breeders Choice",
+    "path": "/product/breeders-choice-cat-litter-paper-6-litre-4203622",
+    "description": "BREEDERS CHOICE CAT LITTER PAPER 6 LITRE",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/0/4203622-zm.jpg"
+  },
+  {
+    "retailerProductId": "5172568",
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "12 Pack",
+      "price": 13
+    },
+    "name": "Adult 1 + Years Wet Cat Food Mixed Favourites In Jelly 12x85g Pouches",
+    "brand": "Whiskas",
+    "path": "/product/whiskas-adult-1-+-years-wet-cat-food-mixed-favourites-in-jelly-12x85g-pouches-5172568",
+    "description": "WHISKAS ADULT 1 + YEARS WET CAT FOOD MIXED FAVOURITES IN JELLY 12X85G POUCHES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5172568-zm.jpg"
+  },
+  {
+    "retailerProductId": "5172604",
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "12 Pack",
+      "price": 13
+    },
+    "name": "Adult 1 + Years Wet Cat Food Beef Favourites In Jelly 12x85g Pouches",
+    "brand": "Whiskas",
+    "path": "/product/whiskas-adult-1-+-years-wet-cat-food-beef-favourites-in-jelly-12x85g-pouches-5172604",
+    "description": "WHISKAS ADULT 1 + YEARS WET CAT FOOD BEEF FAVOURITES IN JELLY 12X85G POUCHES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5172604-zm.jpg"
+  },
+  {
+    "retailerProductId": "3598955",
+    "currentValue": {
+      "unitPrice": 1.36,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "1.4kg",
+      "price": 19
+    },
+    "name": "Dry Cat Food Tuna Prawn Mackerel & Crab Flavour",
+    "brand": "Fancy Feast",
+    "path": "/product/fancy-feast-dry-cat-food-tuna-prawn-mackerel-&-crab-flavour-1.4kg-3598955",
+    "description": "FANCY FEAST DRY CAT FOOD TUNA PRAWN MACKEREL & CRAB FLAVOUR 1.4KG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3598955-zm.jpg"
+  },
+  {
+    "retailerProductId": "1711128",
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "40g",
+      "price": 1.5
+    },
+    "name": "Melting Soup Adult Wet Cat Food Tuna & Salmon Pouch",
+    "brand": "Dine",
+    "path": "/product/dine-melting-soup-adult-wet-cat-food-tuna-&-salmon-40g-pouch-1711128",
+    "description": "DINE MELTING SOUP ADULT WET CAT FOOD TUNA & SALMON 40G POUCH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/1/1711128-zm.jpg"
+  },
+  {
+    "retailerProductId": "3755827",
+    "currentValue": {
+      "unitPrice": 2.35,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "85g",
+      "price": 2
+    },
+    "name": "Savory Centers Salmon Pate Cat Food",
+    "brand": "Fancy Feast",
+    "path": "/product/fancy-feast-savory-centers-salmon-pate-cat-food-85g-3755827",
+    "description": "FANCY FEAST SAVORY CENTERS SALMON PATE CAT FOOD 85G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3755827-zm.jpg"
+  },
+  {
+    "retailerProductId": "8445587",
+    "currentValue": {
+      "unitPrice": 3.83,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "60g",
+      "price": 2.3
+    },
+    "name": "Fillets Cat Food With Natural Shredded Chicken",
+    "brand": "Dine",
+    "path": "/product/dine-fillets-cat-food-with-natural-shredded-chicken-60-gram-8445587",
+    "description": "DINE FILLETS CAT FOOD WITH NATURAL SHREDDED CHICKEN 60 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/4/8445587-zm.jpg"
+  },
+  {
+    "retailerProductId": "4239823",
+    "currentValue": {
+      "unitPrice": 2.5,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "100g",
+      "price": 2.5
+    },
+    "name": "Grain Free Crunchers Adult Cat Treats With Kangaroo",
+    "brand": "Fussy Cat",
+    "path": "/product/fussy-cat-grain-free-crunchers-adult-cat-treats-with-kangaroo-100-gram-4239823",
+    "description": "FUSSY CAT GRAIN FREE CRUNCHERS ADULT CAT TREATS WITH KANGAROO 100 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/3/4239823-zm.jpg"
+  },
+  {
+    "retailerProductId": "2061480",
+    "currentValue": {
+      "unitPrice": 1.1,
+      "unitPriceQuantity": 1,
+      "unitPriceUnit": "Each",
+      "size": "5 Pack",
+      "price": 5.5
+    },
+    "name": "Chicken Wrapped Rawhide Sticks",
+    "brand": "Vitapet",
+    "path": "/product/vitapet-chicken-wrapped-rawhide-sticks-2061480",
+    "description": "VITAPET CHICKEN WRAPPED RAWHIDE STICKS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/6/2061480-zm.jpg"
+  },
+  {
+    "retailerProductId": "8013469",
+    "currentValue": {
+      "unitPrice": 1.36,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "2 Pack",
+      "price": 6
+    },
+    "name": "Slow Cooked Chicken Pasta Carrots & Peas Dog Food 2x220g",
+    "brand": "Nature's Gift",
+    "path": "/product/nature's-gift-slow-cooked-chicken-pasta-carrots-&-peas-dog-food-2x220gram-8013469",
+    "description": "NATURE'S GIFT SLOW COOKED CHICKEN PASTA CARROTS & PEAS DOG FOOD 2X220GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/1/8013469-zm.jpg"
+  },
+  {
+    "retailerProductId": "1154644",
+    "currentValue": {
+      "unitPrice": 2.1,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "6 Pack",
+      "price": 6.3
+    },
+    "name": "Fresh & Fine Chunks In Gravy With Salmon Tuna & Trout Cat Food Pouch 6x50g",
+    "brand": "Dine",
+    "path": "/product/dine-fresh-&-fine-chunks-in-gravy-with-salmon-tuna-&-trout-cat-food-pouch-6x50gram-1154644",
+    "description": "DINE FRESH & FINE CHUNKS IN GRAVY WITH SALMON TUNA & TROUT CAT FOOD POUCH 6X50GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/5/1154644-zm.jpg"
+  },
+  {
+    "retailerProductId": "7591696",
+    "currentValue": {
+      "unitPrice": 1.68,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "7 Pack",
+      "price": 10
+    },
+    "name": "Cuts In Gravy With Turkey Wet Cat Food 85g Tray",
+    "brand": "Dine",
+    "path": "/product/dine-wet-cat-food-tender-turkey-slices-7x85g-trays-7591696",
+    "description": "DINE WET CAT FOOD TENDER TURKEY SLICES 7X85G TRAYS",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/9/7591696-zm.jpg"
+  },
+  {
+    "retailerProductId": "1711106",
+    "currentValue": {
+      "unitPrice": 3.75,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "40g",
+      "price": 1.5
+    },
+    "name": "Melting Soup Adult Wet Cat Food Tuna & Chicken Pouch",
+    "brand": "Dine",
+    "path": "/product/dine-melting-soup-adult-wet-cat-food-tuna-&-chicken-40g-pouch-1711106",
+    "description": "DINE MELTING SOUP ADULT WET CAT FOOD TUNA & CHICKEN 40G POUCH",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/1/1711106-zm.jpg"
+  },
+  {
+    "retailerProductId": "7599315",
+    "currentValue": {
+      "unitPrice": 1.88,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "85g",
+      "price": 1.6
+    },
+    "name": "Classic Collection Adult Wet Cat Food Saucy Morsels With Salmon Tray",
+    "brand": "Dine",
+    "path": "/product/dine-classic-collection-adult-wet-cat-food-saucy-morsels-with-salmon-85g-tray-7599315",
+    "description": "DINE CLASSIC COLLECTION ADULT WET CAT FOOD SAUCY MORSELS WITH SALMON 85G TRAY",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/9/7599315-zm.jpg"
+  },
+  {
+    "retailerProductId": "3981509",
+    "currentValue": {
+      "unitPrice": 5.83,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "48g",
+      "price": 2.8
+    },
+    "name": "Cat Treat Chicken Creamy Treat 4x12g",
+    "brand": "Purr",
+    "path": "/product/purr-cat-treat-chicken-creamy-treat-4x12g-3981509",
+    "description": "PURR CAT TREAT CHICKEN CREAMY TREAT 4X12G",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3981509-zm.jpg"
+  },
+  {
+    "retailerProductId": "7752398",
+    "currentValue": {
+      "unitPrice": 5.83,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "60g",
+      "price": 3.5
+    },
+    "name": "Party Mix Seafood Cat Treats",
+    "brand": "Felix",
+    "path": "/product/felix-party-mix-seafood-cat-treats-60-gram-7752398",
+    "description": "FELIX PARTY MIX SEAFOOD CAT TREATS 60 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/5/7752398-zm.jpg"
+  },
+  {
+    "retailerProductId": "7752412",
+    "currentValue": {
+      "unitPrice": 5.83,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "60g",
+      "price": 3.5
+    },
+    "name": "Party Mix Classic Cat Treats",
+    "brand": "Felix",
+    "path": "/product/felix-party-mix-classic-cat-treats-60-gram-7752412",
+    "description": "FELIX PARTY MIX CLASSIC CAT TREATS 60 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/5/7752412-zm.jpg"
+  },
+  {
+    "retailerProductId": "3875476",
+    "currentValue": {
+      "unitPrice": 1.8,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "200g",
+      "price": 3.6
+    },
+    "name": "Dog Training Treats Chicken",
+    "brand": "Love'em",
+    "path": "/product/love-'em-dog-training-treat-chicken-200-gram-3875476",
+    "description": "LOVE 'EM DOG TRAINING TREAT CHICKEN 200 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/7/3875476-zm.jpg"
+  },
+  {
+    "retailerProductId": "9205793",
+    "currentValue": {
+      "unitPrice": 0.8,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "700g",
+      "price": 5.6
+    },
+    "name": "Kitten Discoveries Dry Cat Food",
+    "brand": "Friskies",
+    "path": "/product/friskies-kitten-discoveries-dry-cat-food-700-gram-9205793",
+    "description": "FRISKIES KITTEN DISCOVERIES DRY CAT FOOD 700 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/0/9205793-zm.jpg"
+  },
+  {
+    "retailerProductId": "8012580",
+    "currentValue": {
+      "unitPrice": 1.44,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "5 Pack",
+      "price": 6.5
+    },
+    "name": "Grain Free Adult Chilled Fresh Cat Food Prime Steak Mince",
+    "brand": "Fussy Cat",
+    "path": "/product/fussy-cat-grain-free-adult-chilled-fresh-cat-food-prime-steak-mince-5x90gram-8012580",
+    "description": "FUSSY CAT GRAIN FREE ADULT CHILLED FRESH CAT FOOD PRIME STEAK MINCE 5X90GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/1/8012580-zm.jpg"
+  },
+  {
+    "retailerProductId": "5172557",
+    "currentValue": {
+      "unitPrice": 1.27,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "12 Pack",
+      "price": 13
+    },
+    "name": "Adult 1 + Years Wet Cat Food Chicken Favourites in Jelly 12x85g Pouches",
+    "brand": "Whiskas",
+    "path": "/product/whiskas-adult-1-+-years-wet-cat-food-chicken-favourites-in-jelly-12x85g-pouches-5172557",
+    "description": "WHISKAS ADULT 1 + YEARS WET CAT FOOD CHICKEN FAVOURITES IN JELLY 12X85G POUCHES",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5172557-zm.jpg"
+  },
+  {
+    "retailerProductId": "7752580",
+    "currentValue": {
+      "unitPrice": 2.71,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "70g",
+      "price": 1.9
+    },
+    "name": "One Adult Hairball Cat Food With Chicken Pouch",
+    "brand": "Purina",
+    "path": "/product/purina-one-adult-hairball-cat-food-with-chicken-pouch-70gram-7752580",
+    "description": "PURINA ONE ADULT HAIRBALL CAT FOOD WITH CHICKEN POUCH 70GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/5/7752580-zm.jpg"
+  },
+  {
+    "retailerProductId": "7752627",
+    "currentValue": {
+      "unitPrice": 2.71,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "70g",
+      "price": 1.9
+    },
+    "name": "One Adult Urinary Health Track Cat Food With Chicken Pouch",
+    "brand": "Purina",
+    "path": "/product/purina-one-adult-urinary-health-track-cat-food-with-chicken-pouch-70gram-7752627",
+    "description": "PURINA ONE ADULT URINARY HEALTH TRACK CAT FOOD WITH CHICKEN POUCH 70GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/5/7752627-zm.jpg"
+  },
+  {
+    "retailerProductId": "8104101",
+    "currentValue": {
+      "unitPrice": 0.66,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "400g",
+      "price": 2.65
+    },
+    "name": "1+ Years Wet Cat Food Lamb Mince Can",
+    "brand": "Whiskas",
+    "path": "/product/whiskas-1+-years-adult-wet-cat-food-lamb-mince-400g-can-8104101",
+    "description": "WHISKAS 1+ YEARS ADULT WET CAT FOOD LAMB MINCE 400G CAN",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/0/8104101-zm.jpg"
+  },
+  {
+    "retailerProductId": "4199718",
+    "currentValue": {
+      "unitPrice": 4.12,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "85g",
+      "price": 3.5
+    },
+    "name": "Cat Treats Creamy Dairy",
+    "brand": "Temptations",
+    "path": "/product/temptations-cat-treat-creamy-dairy-85g-bag-4199718",
+    "description": "TEMPTATIONS CAT TREAT CREAMY DAIRY 85G BAG",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/9/4199718-zm.jpg"
+  },
+  {
+    "retailerProductId": "2913489",
+    "currentValue": {
+      "unitPrice": 8.33,
+      "unitPriceQuantity": 100,
+      "unitPriceUnit": "g",
+      "size": "48g",
+      "price": 4
+    },
+    "name": "Creamy Treats Cat Food Chicken 4x12g",
+    "brand": "Dine",
+    "path": "/product/dine-creamy-treats-cat-food-4x12g:chicken:.:48-gram-2913489",
+    "description": "DINE CREAMY TREATS CAT FOOD 4X12G:CHICKEN:.:48 GRAM",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2913489-zm.jpg"
+  }
+]

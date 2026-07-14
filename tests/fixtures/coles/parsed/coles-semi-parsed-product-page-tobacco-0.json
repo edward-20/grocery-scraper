@@ -1,0 +1,50 @@
+[
+  {
+    "retailerProductId": "6864341",
+    "currentValue": {
+      "size": "1 Pack",
+      "price": 3.49
+    },
+    "name": "J26 Loose Lighter Child Resistant",
+    "brand": "BIC",
+    "path": "/product/bic-j26-loose-lighter-child-resistant-6864341",
+    "description": "BIC J26 LOOSE LIGHTER CHILD RESISTANT",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/6/6864341-zm.jpg"
+  },
+  {
+    "retailerProductId": "6898060",
+    "currentValue": {
+      "size": "1 Pack",
+      "price": 2.75
+    },
+    "name": "Mini Loose Lighter Child Resistant",
+    "brand": "BIC",
+    "path": "/product/bic-mini-loose-lighter-child-resistant-6898060",
+    "description": "BIC MINI LOOSE LIGHTER CHILD RESISTANT",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/9/6898060-zm.jpg"
+  },
+  {
+    "retailerProductId": "6864261",
+    "currentValue": {
+      "size": "3 Pack",
+      "price": 6.99
+    },
+    "name": "Blister J26 Lighter Child Resistant",
+    "brand": "BIC",
+    "path": "/product/bic-blister-j26-lighter-child-resistant-6864261",
+    "description": "BIC BLISTER J26 LIGHTER CHILD RESISTANT",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/6/6864261-zm.jpg"
+  },
+  {
+    "retailerProductId": "8029630",
+    "currentValue": {
+      "size": "1 Pack",
+      "price": 3.99
+    },
+    "name": "J26 Decr Lighter",
+    "brand": "BIC",
+    "path": "/product/j26-decr-lighter-8029630",
+    "description": "J26 DECR LIGHTER",
+    "image_url": "shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/2/8029630-zm.jpg"
+  }
+]

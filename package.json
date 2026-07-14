@@ -10,7 +10,8 @@
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
     "graph": "tsx scripts/call-graph.ts",
-    "gen:woolworths-fixture": "tsx tests/fixture-generator-woolworths.ts && cd tests/fixtures/woolworths/parsed && ./fixture-correction.sh"
+    "gen:woolworths-fixture": "tsx tests/fixture-generator-woolworths.ts && cd tests/fixtures/woolworths/parsed && ./fixture-correction.sh",
+    "gen:coles-fixture": "tsx tests/fixture-generator-coles.ts"
   },
   "dependencies": {
     "node-cron": "^3.0.3",
