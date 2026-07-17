@@ -1,7 +1,9 @@
 import { RetailerScraper } from "./retailerScraper.js";
 import { Product, Category } from "../db/repository.js";
 import * as z from "zod";
+import { sleep } from "../utils/time.js";
 import { Page } from "playwright";
+import { Unit } from "../db/repository.js";
 
 const ColesCategoriesPayload = z.object({
   pageProps: z.object({
@@ -42,8 +44,6 @@ const ColesProductUnit = z.object({
   }).nullable(),
 });
 
-type ColesProductUnitType = z.infer<typeof ColesProductUnit>;
-
 export type ColesProductUnitNonNullablePricing =
   Omit<z.infer<typeof ColesProductUnit>, "pricing"> & {
     pricing: NonNullable<z.infer<typeof ColesProductUnit>["pricing"]>;
@@ -51,10 +51,6 @@ export type ColesProductUnitNonNullablePricing =
 
 const ColesProductPageUnit = z.discriminatedUnion("_type", [
   ColesProductUnit,
-  z.object({
-    _type: z.literal("SHOPPABLE_BANNER"),
-    shoppableProducts: z.array(ColesProductUnit)
-  }),
   z.object({
     _type: z.literal("SINGLE_TILE")
   }),
@@ -90,13 +86,9 @@ export class ColesScraper extends RetailerScraper {
     return parsedContents.buildId;
   }
 
-  private async sleep(time: number) {
-    return new Promise((resolve) => setTimeout(resolve, time));
-  }
-
   async discoverCategories(page: Page): Promise<Category[]> {
     this.apiVersion = await this.getAPIVersion(page);
-    await this.sleep(20_000);
+    await sleep(20_000);
     const response = await page.goto(`${this.retailerUrl}/_next/data/${this.apiVersion}/en/browse.json`);
 
     const json = await response?.json();
@@ -105,8 +97,66 @@ export class ColesScraper extends RetailerScraper {
     return categories;
   }
 
-  scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
-    throw new Error("Not implemented");
+  private genImagePath(productId: number) {
+    const productIdString = productId.toString();
+    return `https://shop.coles.com.au/wcsstore/Coles-CAS/images/${productIdString[0]}/${productIdString[1]}/${productIdString[2]}/${productIdString}-zm.jpg`;
+  }
+
+  private normaliseUnitOfMeasurement(uom: string): Unit {
+    switch (uom) {
+      case "ea": return "Each";
+      case "g": return "g";
+      case "kg": return "Kg";
+      case "l": return "L";
+      case "L": return "L";
+      case "M": return "m";
+      case "ml": return "mL";
+      case "mL": return "mL";
+      case "kgM": return "kgM";
+      default: throw new Error(`Couldn't convert to standardised unit of measurement ${uom}`);
+    }
+  }
+
+  private  normaliseColesProductUnitNonNullablePricing(product: ColesProductUnitNonNullablePricing): Product {
+    const unitPricing = product.pricing.comparable?.match(/^\$(\d+(?:\.\d+)?)\/\s*(\d+(?:\.\d+)?)([a-zA-Z]+)$/);
+     
+    // precondition: if there's no match there's no unit pricing
+    return {
+      retailerProductId: product.id.toString(),
+      currentValue: !unitPricing ? {
+        size: product.size,
+        price: product.pricing.now
+      } : {
+        unitPrice: Number(unitPricing[1]),
+        unitPriceQuantity: Number(unitPricing[2]),
+        unitPriceUnit: this.normaliseUnitOfMeasurement(unitPricing[3]),
+        size: product.size,
+        price: product.pricing.now,
+      },
+      name: product.name,
+      brand: product.brand,
+      path: ``, // needs to be filled after
+      description: product.description,
+      image_url: this.genImagePath(product.id),
+    }
+  }
+
+  async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
+    if (this.apiVersion === "") {
+      this.getAPIVersion(page);
+    }
+    await sleep(5_000);
+    // go to the api to get product page data for the first page
+    const productPagePayload = await page.goto(`${this.retailerUrl}/_next/data/${this.apiVersion}${category.path}.json`);
+
+    const productPageJSON = productPagePayload?.json();
+    const parsedProductPage = this.parseProductPageJSON(productPagePayload);
+    // go to the frontend to get the product paths
+    await page.goto(`${this.retailerUrl}${category.path}`);
+
+    // match the results of each
+
+    return [];
   }
 
   private parseCategoriesJSON(categoriesJSON: JSON): Category[] {
@@ -116,5 +166,11 @@ export class ColesScraper extends RetailerScraper {
       name: catalog.name,
       path: `/browse/${catalog.seoToken}`
     }))
+  }
+
+  private parseProductPageJSON(categoriesJSON: JSON): Product[] {
+    const payload = ColesProductsPagePayload.parse(categoriesJSON);
+    return payload.pageProps.searchResults.results;
+
   }
 }

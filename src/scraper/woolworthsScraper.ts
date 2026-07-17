@@ -1,5 +1,6 @@
 import { RetailerScraper } from "./retailerScraper.js";
 import { Page } from "playwright";
+import { sleep } from "../utils/time.js";
 import * as z from "zod";
 import { Category, Product } from "../db/repository.js";
 import { Unit } from "../db/repository.js";
@@ -67,10 +68,6 @@ export class WoolworthsScraper extends RetailerScraper {
     return categories.filter(category => category.retailerDesignatedCategoryId !== "specialsgroup"); 
   }
 
-  private async sleep(time: number) {
-    return new Promise((resolve) => setTimeout(resolve, time));
-  }
-
   getFulfilledResponse(page: Page) {
     return page.waitForResponse(`${this.retailerUrl}/apis/ui/browse/category`);
   }
@@ -86,7 +83,7 @@ export class WoolworthsScraper extends RetailerScraper {
 
     while (true) {
       const nextLink = page.locator('a[rel="next"]');
-      await this.sleep(10000);
+      await sleep(10000);
 
       // Stop if no next button or disabled
       if (!(await nextLink.isVisible()) || await nextLink.isDisabled()) {
@@ -97,9 +94,9 @@ export class WoolworthsScraper extends RetailerScraper {
       // Start waiting BEFORE clicking
       let productPageResponse = this.getFulfilledResponse(page);
 
-      await this.sleep(3000);
+      await sleep(3000);
       await nextLink.click();
-      await this.sleep(5000);
+      await sleep(5000);
 
       // This resolves when the click triggers the API request
       response = await productPageResponse;

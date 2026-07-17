@@ -1,8 +1,6 @@
 import { Product, Unit } from "../src/db/repository.js";
 import { ColesProductsPagePayload, ColesProductUnitNonNullablePricing } from "../src/scraper/colesScraper.js";
-import * as z from "zod";
 import { readFile, writeFile, readdir } from "fs/promises";
-import { warn } from "console";
 
 function changeDescriptionToPath(s : string) {
   return s.toLowerCase().replace(/ /g, "-").replace(/%/g, "percent");
@@ -86,6 +84,4 @@ for (const file of files.filter(filename => filename.endsWith(".json"))) {
     console.error(error);
     process.exit();
   }
-
 }
-
