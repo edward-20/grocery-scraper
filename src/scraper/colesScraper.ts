@@ -119,7 +119,6 @@ export class ColesScraper extends RetailerScraper {
 
   private normaliseColesProductUnitNonNullablePricing(product: ColesProductUnitNonNullablePricing): Product {
     const unitPricing = product.pricing.comparable?.match(/^\$(\d+(?:\.\d+)?)\/\s*(\d+(?:\.\d+)?)([a-zA-Z]+)$/);
-     
     // precondition: if there's no match there's no unit pricing
     return {
       retailerProductId: product.id.toString(),
@@ -148,7 +147,7 @@ export class ColesScraper extends RetailerScraper {
       .filter((productUnit): productUnit is ColesProductUnitNonNullablePricing => {
         return productUnit.pricing !== null
       })
-      .map(this.normaliseColesProductUnitNonNullablePricing);
+      .map(product => this.normaliseColesProductUnitNonNullablePricing(product));
   }
 
   private parseCategoriesJSON(categoriesJSON: JSON): Category[] {
@@ -162,6 +161,7 @@ export class ColesScraper extends RetailerScraper {
 
   private async getProductPageData(page: Page, category: Category, pageNumber?: number): Promise<Product[]> {
     const pageNumberQuery = pageNumber ? `?page=${pageNumber}` : "";
+    console.log(`${this.retailerUrl}/_next/data/${this.apiVersion}${category.path}.json${pageNumberQuery}`);
     const productPagePayload = await page.goto(`${this.retailerUrl}/_next/data/${this.apiVersion}${category.path}.json${pageNumberQuery}`);
 
     const productPageJSON: JSON | null = await productPagePayload?.json();
@@ -188,14 +188,14 @@ export class ColesScraper extends RetailerScraper {
       if (productUrls[i] === null) {
         console.error("Couldn't match the product with its product page url");
       }
-      product.path = new URL(productUrls[i] ?? "").pathname;
+      product.path = productUrls[i];
     })
     return products;
   }
 
   async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
     if (this.apiVersion === "") {
-      this.getAPIVersion(page);
+      this.apiVersion = await this.getAPIVersion(page);
     }
     await sleep(5_000);
     // go to the frontend to get the product paths
