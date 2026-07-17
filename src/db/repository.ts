@@ -1,4 +1,5 @@
 import { Pool } from "pg";
+import * as z from "zod";
 import { CategoryScrapeId, RetailerName, UpdateProductFields, CategoryPath, RunId, RetailerScrapeId, CategoryId } from "../types.js";
 
 export interface Category {
@@ -7,20 +8,68 @@ export interface Category {
   path: string;
 }
 
-// what do we need from the Product returned by scrapeProductsOfCategoryPage in
-// order to make changes to the repository
-export interface Product {
-  retailerProductId: string;
+export const UnitSchema = z.union([
+  z.literal("Each"), z.literal("Kg"), z.literal("g"), z.literal("L"), z.literal("mL"), z.literal("SS"), z.literal("sheets"), z.literal("m"), z.literal("kgM")
+])
+export type Unit = z.infer<typeof UnitSchema>
+// "Each" | "Kg" | "g" | "L" | "mL" | "SS" | "sheets" | "m" | "kgM";
 
-  crossRetailerId?: string;
-  gtinFormat?: number;
-  currentValue: ValueAtTime; 
-  name: string;
-  brand?: string;
-  path: string;
-  description: string;
-  image_url?: string;
-}
+export const ValueAtTimeSchema = z.union([
+  z.object({
+    unitPrice: z.number(),
+    unitPriceQuantity: z.number(),
+    unitPriceUnit: UnitSchema,
+
+    size: z.string(),
+    price: z.number()
+  }),
+  z.object({
+    size: z.string(),
+    price: z.number()
+  })
+])
+export type ValueAtTime = z.infer<typeof ValueAtTimeSchema>;
+// {
+//   unitPrice: number;
+//   unitPriceQuantity: number;
+//   unitPriceUnit: Unit;
+// 
+//   size: string;
+//   price: number;
+// } | {
+//   size: string;
+//   price: number;
+// }
+
+export const ProductSchema = z.object({
+  retailerProductId: z.string(),
+
+  crossRetailerId: z.string().optional(),
+  gtinFormat: z.number().optional(),
+
+  currentValue: ValueAtTimeSchema,
+
+  name: z.string(),
+  brand: z.string().optional(),
+  path: z.string(),
+  description: z.string(),
+  image_url: z.string().optional(),
+});
+export const ProductsSchema = z.array(ProductSchema);
+
+export type Product = z.infer<typeof ProductSchema>;
+// {
+//   retailerProductId: string;
+// 
+//   crossRetailerId?: string;
+//   gtinFormat?: number;
+//   currentValue: ValueAtTime; 
+//   name: string;
+//   brand?: string;
+//   path: string;
+//   description: string;
+//   image_url?: string;
+// }
 
 export type ProductId = number;
 
@@ -29,18 +78,6 @@ export interface Product_Category_Link {
   productId: number,
 }
 
-export type Unit ="Each" | "Kg" | "g" | "L" | "mL" | "SS" | "sheets" | "m";
-export type ValueAtTime = {
-  unitPrice: number;
-  unitPriceQuantity: number;
-  unitPriceUnit: Unit;
-
-  size: string;
-  price: number;
-} | {
-  size: string;
-  price: number;
-}
 export class GroceryRepository {
   /*
   *
