@@ -44,7 +44,7 @@ const ColesProductUnit = z.object({
   }).nullable(),
 });
 
-export type ColesProductUnitNonNullablePricing =
+type ColesProductUnitNonNullablePricing =
   Omit<z.infer<typeof ColesProductUnit>, "pricing"> & {
     pricing: NonNullable<z.infer<typeof ColesProductUnit>["pricing"]>;
   };
@@ -59,7 +59,7 @@ const ColesProductPageUnit = z.discriminatedUnion("_type", [
   })
 ]);
 
-export const ColesProductsPagePayload = z.object({
+const ColesProductsPagePayload = z.object({
   pageProps: z.object({
     searchResults: z.object({
       results: z.array(ColesProductPageUnit)
@@ -117,7 +117,7 @@ export class ColesScraper extends RetailerScraper {
     }
   }
 
-  private  normaliseColesProductUnitNonNullablePricing(product: ColesProductUnitNonNullablePricing): Product {
+  private normaliseColesProductUnitNonNullablePricing(product: ColesProductUnitNonNullablePricing): Product {
     const unitPricing = product.pricing.comparable?.match(/^\$(\d+(?:\.\d+)?)\/\s*(\d+(?:\.\d+)?)([a-zA-Z]+)$/);
      
     // precondition: if there's no match there's no unit pricing
@@ -135,7 +135,7 @@ export class ColesScraper extends RetailerScraper {
       },
       name: product.name,
       brand: product.brand,
-      path: ``, // needs to be filled after
+      path: ``,
       description: product.description,
       image_url: this.genImagePath(product.id),
     }
@@ -170,7 +170,11 @@ export class ColesScraper extends RetailerScraper {
 
   private parseProductPageJSON(categoriesJSON: JSON): Product[] {
     const payload = ColesProductsPagePayload.parse(categoriesJSON);
-    return payload.pageProps.searchResults.results;
-
+    return payload.pageProps.searchResults.results
+      .filter((tile): tile is z.infer<typeof ColesProductUnit> => tile._type !== "SINGLE_TILE" && tile._type !== "CONTENT_ASSOCIATION")
+      .filter((productUnit): productUnit is ColesProductUnitNonNullablePricing => {
+        return productUnit.pricing !== null
+      })
+      .map(this.normaliseColesProductUnitNonNullablePricing);
   }
 }
