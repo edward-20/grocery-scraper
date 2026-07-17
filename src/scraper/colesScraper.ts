@@ -160,38 +160,72 @@ export class ColesScraper extends RetailerScraper {
     }));
   }
 
-  async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
-    if (this.apiVersion === "") {
-      this.getAPIVersion(page);
-    }
-    await sleep(5_000);
-    // go to the api to get product page data for the first page
-    const productPagePayload = await page.goto(`${this.retailerUrl}/_next/data/${this.apiVersion}${category.path}.json`);
+  private async getProductPageData(page: Page, category: Category, pageNumber?: number): Promise<Product[]> {
+    const pageNumberQuery = pageNumber ? `?page=${pageNumber}` : "";
+    const productPagePayload = await page.goto(`${this.retailerUrl}/_next/data/${this.apiVersion}${category.path}.json${pageNumberQuery}`);
 
     const productPageJSON: JSON | null = await productPagePayload?.json();
     if (productPageJSON === null) {
       throw new Error(`Couldn't parse the first page of the Coles category: ${category.name}`);
     }
-    const parsedProducts = this.parseProductPageJSON(productPageJSON);
+    return this.parseProductPageJSON(productPageJSON);
+  }
 
-    await sleep(5_000);
-    // go to the frontend to get the product paths
-    await page.goto(`${this.retailerUrl}${category.path}`);
+  private async getProductPageUrls(page: Page, category: Category, pageNumber?: number): Promise<string[]> {
+    const pageNumberQuery = pageNumber ? `?page=${pageNumber}` : "";
+    await page.goto(`${this.retailerUrl}${category.path}${pageNumberQuery}`);
     await page.waitForSelector('a.product__link.product__image');
     await sleep(5_000);
-    const productUrls = await page
+    return await page
       .locator('a.product__link.product__image')
       .evaluateAll(elements => 
-        elements.map(el => el.getAttribute('href'))
+        elements.map(el => el.getAttribute('href') ?? "")
       )
+  }
 
-    // match the results of the frontend to the parsed product data
-    parsedProducts.forEach((product, i) => {
+  private populateProductDataWithProductPaths(products: Product[], productUrls: string[]) {
+    products.forEach((product, i) => {
       if (productUrls[i] === null) {
         console.error("Couldn't match the product with its product page url");
       }
       product.path = new URL(productUrls[i] ?? "").pathname;
     })
+    return products;
+  }
+
+  async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
+    if (this.apiVersion === "") {
+      this.getAPIVersion(page);
+    }
+    await sleep(5_000);
+    // go to the frontend to get the product paths
+    const productUrls = await this.getProductPageUrls(page, category);
+    await sleep(5_000);
+    // go to the api to get product page data for the first page
+    const parsedProducts = await this.getProductPageData(page, category);
+
+    // match the results of the frontend to the parsed product data
+    this.populateProductDataWithProductPaths(parsedProducts, productUrls);
+
+    let pageNumber = 2;
+    while (await page.getByLabel("Go to next page").count() > 0) {
+        // do stuff on current page
+        await page.getByLabel("Go to next page").click();
+
+        // wait for the next page to load
+        await page.waitForLoadState("networkidle");
+
+        // get the frontend product page urls
+        const productUrlsOfPage = await this.getProductPageUrls(page, category, pageNumber);
+        sleep(5_000);
+        // get the api
+        const parsedProductsOfPage = await this.getProductPageData(page, category, pageNumber);
+        // match them
+        this.populateProductDataWithProductPaths(parsedProductsOfPage, productUrlsOfPage);
+        
+        parsedProducts.push(...parsedProductsOfPage);
+        pageNumber++;
+    }
 
     return parsedProducts;
   }
