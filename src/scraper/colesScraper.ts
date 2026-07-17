@@ -141,33 +141,6 @@ export class ColesScraper extends RetailerScraper {
     }
   }
 
-  async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
-    if (this.apiVersion === "") {
-      this.getAPIVersion(page);
-    }
-    await sleep(5_000);
-    // go to the api to get product page data for the first page
-    const productPagePayload = await page.goto(`${this.retailerUrl}/_next/data/${this.apiVersion}${category.path}.json`);
-
-    const productPageJSON = productPagePayload?.json();
-    const parsedProductPage = this.parseProductPageJSON(productPagePayload);
-    // go to the frontend to get the product paths
-    await page.goto(`${this.retailerUrl}${category.path}`);
-
-    // match the results of each
-
-    return [];
-  }
-
-  private parseCategoriesJSON(categoriesJSON: JSON): Category[] {
-    const payload = ColesCategoriesPayload.parse(categoriesJSON);
-    return payload.pageProps.allProductCategories.catalogGroupView.map(catalog => ({
-      retailerDesignatedCategoryId: catalog.id,
-      name: catalog.name,
-      path: `/browse/${catalog.seoToken}`
-    }))
-  }
-
   private parseProductPageJSON(categoriesJSON: JSON): Product[] {
     const payload = ColesProductsPagePayload.parse(categoriesJSON);
     return payload.pageProps.searchResults.results
@@ -177,4 +150,50 @@ export class ColesScraper extends RetailerScraper {
       })
       .map(this.normaliseColesProductUnitNonNullablePricing);
   }
+
+  private parseCategoriesJSON(categoriesJSON: JSON): Category[] {
+    const payload = ColesCategoriesPayload.parse(categoriesJSON);
+    return payload.pageProps.allProductCategories.catalogGroupView.map(catalog => ({
+      retailerDesignatedCategoryId: catalog.id,
+      name: catalog.name,
+      path: `/browse/${catalog.seoToken}`
+    }));
+  }
+
+  async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
+    if (this.apiVersion === "") {
+      this.getAPIVersion(page);
+    }
+    await sleep(5_000);
+    // go to the api to get product page data for the first page
+    const productPagePayload = await page.goto(`${this.retailerUrl}/_next/data/${this.apiVersion}${category.path}.json`);
+
+    const productPageJSON: JSON | null = await productPagePayload?.json();
+    if (productPageJSON === null) {
+      throw new Error(`Couldn't parse the first page of the Coles category: ${category.name}`);
+    }
+    const parsedProducts = this.parseProductPageJSON(productPageJSON);
+
+    await sleep(5_000);
+    // go to the frontend to get the product paths
+    await page.goto(`${this.retailerUrl}${category.path}`);
+    await page.waitForSelector('a.product__link.product__image');
+    await sleep(5_000);
+    const productUrls = await page
+      .locator('a.product__link.product__image')
+      .evaluateAll(elements => 
+        elements.map(el => el.getAttribute('href'))
+      )
+
+    // match the results of the frontend to the parsed product data
+    parsedProducts.forEach((product, i) => {
+      if (productUrls[i] === null) {
+        console.error("Couldn't match the product with its product page url");
+      }
+      product.path = new URL(productUrls[i] ?? "").pathname;
+    })
+
+    return parsedProducts;
+  }
+
 }
