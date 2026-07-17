@@ -6,21 +6,8 @@ import { ColesScraper } from "../src/scraper/colesScraper.js";
 import { readFile, readdir } from "fs/promises";
 import { Category, Product } from "../src/db/repository.js";
 
-const rawFixturePath = "tests/fixtures/coles/raw";
-const parsedFixturePath = "tests/fixtures/coles/parsed";
-const rawFixtureFiles = await readdir(rawFixturePath);
-const parsedFixtureFiles = await readdir(parsedFixturePath);
-
-// categories: find all unique category names from the fixtures directory
-const categories = [
-  ...new Set(
-    rawFixtureFiles.map(file =>
-      file.replace(/(?:-\d+)?\.json$/, "")
-    )
-  )
-].filter(category => category !== "");
-
-
+const expectedCategoriesUnparsed = await readFile("tests/fixtures/coles/parsed/coles-parsed-categories.json", "utf-8");
+const expectedCategories: Category[] = await JSON.parse(expectedCategoriesUnparsed);
 describe("ColesScraper", () => {
   let scraper: ColesScraper;
   let browser: Browser;
@@ -87,8 +74,6 @@ describe("ColesScraper", () => {
 
   it("discovers the categories correctly on 13/07/2026", async () => {
     const receivedCategories: Category[] = await scraper.discoverCategories(page);
-    const expectedCategoriesUnparsed = await readFile("tests/fixtures/coles/parsed/coles-parsed-categories.json", "utf-8");
-    const expectedCategories: Category[] = await JSON.parse(expectedCategoriesUnparsed);
     // order doesn't matter in the array (order it by something)
     receivedCategories.sort((a, b) => a.name.localeCompare(b.name));
     expectedCategories.sort((a, b) => a.name.localeCompare(b.name));
@@ -96,45 +81,17 @@ describe("ColesScraper", () => {
     expect(receivedCategories).toEqual(expectedCategories);
   });
 
-  // for each category
-  it.skip.each(categories)("testing scrapeProductsOfCategory: %s", async (categoryName) => {
-    // derive the raw and parsed fixture name from categoryName
-    const categoryRawFixtureFiles = rawFixtureFiles.filter(rawFixtureFile => rawFixtureFile.includes(categoryName));
-    const categoryParsedFixtureFiles = parsedFixtureFiles.filter(parsedFixtureFile => parsedFixtureFile.includes(categoryName));
-
-    let rawPayloads: string[] = [];
-    for (const categoryRawFixtureFile of categoryRawFixtureFiles) {
-      rawPayloads.push(await readFile(`${rawFixturePath}/${categoryRawFixtureFile}`, "utf-8"));
-    }
-
-    let parsedPayloads: string[] = [];
-    for (const categoryParsedFixtureFile of categoryParsedFixtureFiles) {
-      parsedPayloads.push(await readFile(`${parsedFixturePath}/${categoryParsedFixtureFile}`, "utf-8"));
-    }
-
-    await context.route("https://www.woolworths.com.au/apis/ui/browse/category", async route => {
-      await route.fulfill({
-        body: rawPayloads.length > 0 ? rawPayloads.shift() : `{
-          "Bundles": []
-        }`,
-        contentType: "application/json",
-        status: 200
-      })
-    });
-    
-    const category: Category = {
-      retailerDesignatedCategoryId: categoryName, // not correct, but for the purpose of testing will be fine
-      name: categoryName,
-      path: `/shop/browse/${categoryName}`,
-    };
-
+  // have a test here to check that the product paths generated from
+  // scrapeProductsOfCategory are legit
+  it.each(expectedCategories)(`scrapes products of category: $name with a valid product path`, async (category: Category) => {
     const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
-    const expectedProducts: Product[] = parsedPayloads.map(parsedPayload => JSON.parse(parsedPayload)).flat();
-
-    expectedProducts.sort((a, b) => a.retailerProductId.localeCompare(b.name));
-    receivedProducts.sort((a, b) => a.retailerProductId.localeCompare(b.name));
-
-    expect(receivedProducts, `scrape of ${categoryName} to match its corresponding fixture files`).toEqual(expectedProducts);
+    for (const product of receivedProducts) {
+      // check that the product path leads to a real page
+      const response = await page.goto(`https://www.coles.com.au${product.path}`);
+      expect(response?.status).toEqual(200);
+      await new Promise(resolve => {setTimeout(resolve, 7_500)});
+      // have to check we didn't get scrape checked
+    }
   })
 
   afterEach(async () => {
