@@ -13,7 +13,8 @@ describe("ColesScraper", () => {
   let scraper: ColesScraper;
   let browser: Browser;
   let context: BrowserContext
-  let page: Page;
+  let testPage: Page;
+  let scraperPage: Page;
 
 
   beforeEach(async () => {
@@ -32,7 +33,8 @@ describe("ColesScraper", () => {
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
       viewport: { width: 1280, height: 720 }
     })
-    page = await context.newPage();
+    testPage = await context.newPage();
+    scraperPage = await context.newPage();
 
   }, 0)
 
@@ -63,7 +65,7 @@ describe("ColesScraper", () => {
         status: 200
       })
     })
-    const receivedCategories: Category[] = await scraper.discoverCategories(page);
+    const receivedCategories: Category[] = await scraper.discoverCategories(scraperPage);
     const expectedCategoriesUnparsed = await readFile("tests/fixtures/coles/parsed/coles-parsed-categories.json", "utf-8");
     const expectedCategories: Category[] = await JSON.parse(expectedCategoriesUnparsed);
     // order doesn't matter in the array (order it by something)
@@ -74,7 +76,7 @@ describe("ColesScraper", () => {
   });
 
   it.skip("discovers the categories correctly on 13/07/2026", async () => {
-    const receivedCategories: Category[] = await scraper.discoverCategories(page);
+    const receivedCategories: Category[] = await scraper.discoverCategories(scraperPage);
     // order doesn't matter in the array (order it by something)
     receivedCategories.sort((a, b) => a.name.localeCompare(b.name));
     expectedCategories.sort((a, b) => a.name.localeCompare(b.name));
@@ -85,10 +87,11 @@ describe("ColesScraper", () => {
   // have a test here to check that the product paths generated from
   // scrapeProductsOfCategory are legit
   it.each(expectedCategories)(`scrapes products of category: $name with a valid product path`, async (category: Category) => {
-    const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
+    const receivedProducts = await scraper.scrapeProductsOfCategory(scraperPage, category);
     for (const product of receivedProducts) {
       // check that the product path leads to a real page
-      const response = await page.goto(`https://www.coles.com.au${product.path}`);
+      console.log(`${product.name} ${product.path}`);
+      const response = await testPage.goto(`https://www.coles.com.au${product.path}`);
       expect(response?.status()).toEqual(200);
       await sleep(7_500);
       // have to check we didn't get scrape checked
@@ -110,7 +113,8 @@ describe("ColesScraper", () => {
   })
 
   afterEach(async () => {
-    await page.close();
+    await scraperPage.close();
+    await testPage.close();
     await context.close();
     await browser.close();
   }, 0)
