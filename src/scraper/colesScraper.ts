@@ -207,22 +207,20 @@ export class ColesScraper extends RetailerScraper {
     // match the results of the frontend to the parsed product data
     this.populateProductDataWithProductPaths(parsedProducts, productUrls);
 
-    let pageNumber = 1; // precondition: we are on the frontend page
+    let pageNumber = 2; 
     while (true) {
-        const nextLink = page.getByLabel("Go to next page");
+        // precondition: we are on the frontend page of the page that was last
+        // scraped and the pageNumber is of the next page
         await sleep(5_000);
 
-        if (!(await nextLink.isVisible()) || await nextLink.isDisabled()) {
-          break;
-        }
-        await nextLink.scrollIntoViewIfNeeded();
-        await nextLink.click();
-
-        // get the frontend product page urls
-        const productUrlsOfPage = await this.getProductPageUrls(page, category, pageNumber);
-        sleep(5_000);
         // get the api
         const parsedProductsOfPage = await this.getProductPageData(page, category, pageNumber);
+        if (parsedProductsOfPage.length === 0) {
+          break;
+        }
+        await sleep(5_000);
+        // get the frontend product page urls
+        const productUrlsOfPage = await this.getProductPageUrls(page, category, pageNumber);
         // match them
         this.populateProductDataWithProductPaths(parsedProductsOfPage, productUrlsOfPage);
         
