@@ -3,8 +3,8 @@ import { Browser, Page, BrowserContext } from "playwright";
 import { chromium } from "playwright-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth"
 import { ColesScraper } from "../src/scraper/colesScraper.js";
-import { readFile, readdir } from "fs/promises";
-import { Category, Product } from "../src/db/repository.js";
+import { readFile } from "fs/promises";
+import { Category } from "../src/db/repository.js";
 import { sleep } from "../src/utils/time.js";
 
 const expectedCategoriesUnparsed = await readFile("tests/fixtures/coles/parsed/coles-parsed-categories.json", "utf-8");
@@ -84,28 +84,14 @@ describe("ColesScraper", () => {
     expect(receivedCategories).toEqual(expectedCategories);
   });
 
-  // have a test here to check that the product paths generated from
-  // scrapeProductsOfCategory are legit
-  it.each(expectedCategories)(`scrapes products of category: $name with a valid product path`, async (category: Category) => {
+  it.each(expectedCategories)(`scrape products of category: $name with a valid image url`, async (category: Category) => {
     const receivedProducts = await scraper.scrapeProductsOfCategory(scraperPage, category);
-    for (const product of receivedProducts) {
-      // check that the product path leads to a real page
-      console.log(`${product.name} ${product.path}`);
-      const response = await testPage.goto(`https://www.coles.com.au${product.path}`);
-      expect(response?.status()).toEqual(200);
-      await sleep(7_500);
-      // have to check we didn't get scrape checked
-    }
-  })
-
-  it.skip.each(expectedCategories)(`scrape products of category: $name with a valid image url`, async (category: Category) => {
-    const receivedProducts = await scraper.scrapeProductsOfCategory(page, category);
     for (const product of receivedProducts) {
       // check that the product image url leads to a real image url
       if (!product.image_url) {
         continue;
       }
-      const response = await page.goto(product.image_url);
+      const response = await testPage.goto(product.image_url);
       expect(response?.status()).toEqual(200);
       // have to check we didn't get scrape checked
       await sleep(7_500);
