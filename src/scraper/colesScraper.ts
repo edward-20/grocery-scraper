@@ -171,28 +171,6 @@ export class ColesScraper extends RetailerScraper {
     return this.parseProductPageJSON(productPageJSON);
   }
 
-  private async getProductPageUrls(page: Page, category: Category, pageNumber?: number): Promise<string[]> {
-    const pageNumberQuery = pageNumber ? `?page=${pageNumber}` : "";
-    await page.goto(`${this.retailerUrl}${category.path}${pageNumberQuery}`);
-    await page.waitForSelector('a.product__link.product__image');
-    await sleep(5_000);
-    return await page
-      .locator('a.product__link.product__image')
-      .evaluateAll(elements => 
-        elements.map(el => el.getAttribute('href') ?? "")
-      )
-  }
-
-  private populateProductDataWithProductPaths(products: Product[], productUrls: string[]) {
-    products.forEach((product, i) => {
-      if (productUrls[i] === null) {
-        console.error("Couldn't match the product with its product page url");
-      }
-      product.path = productUrls[i];
-    })
-    return products;
-  }
-
   async scrapeProductsOfCategory(page: Page, category: Category) : Promise<Product[]> {
     if (this.apiVersion === "") {
       this.apiVersion = await this.getAPIVersion(page);
@@ -201,28 +179,15 @@ export class ColesScraper extends RetailerScraper {
     // go to the api to get product page data for the first page
     const parsedProducts = await this.getProductPageData(page, category);
     await sleep(5_000);
-    // go to the frontend to get the product paths
-    const productUrls = await this.getProductPageUrls(page, category);
-
-    // match the results of the frontend to the parsed product data
-    this.populateProductDataWithProductPaths(parsedProducts, productUrls);
 
     let pageNumber = 2; 
     while (true) {
-        // precondition: we are on the frontend page of the page that was last
-        // scraped and the pageNumber is of the next page
         await sleep(5_000);
-
         // get the api
         const parsedProductsOfPage = await this.getProductPageData(page, category, pageNumber);
         if (parsedProductsOfPage.length === 0) {
           break;
         }
-        await sleep(5_000);
-        // get the frontend product page urls
-        const productUrlsOfPage = await this.getProductPageUrls(page, category, pageNumber);
-        // match them
-        this.populateProductDataWithProductPaths(parsedProductsOfPage, productUrlsOfPage);
         
         parsedProducts.push(...parsedProductsOfPage);
         pageNumber++;
