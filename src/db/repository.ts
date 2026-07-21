@@ -1,6 +1,7 @@
 import { Pool } from "pg";
 import * as z from "zod";
 import { CategoryScrapeId, RetailerName, UpdateProductFields, CategoryPath, RunId, RetailerScrapeId, CategoryId } from "../types.js";
+import { CategoryCreateError, CategoryScrapeCreateError, CategoryScrapeWriteError, ProductCreateOrUpdateError, RetailerScrapeCreateError, RetailerScrapeWriteError, ScrapeRunCreateError, ScrapeRunWriteError } from "./errors.js";
 
 export interface Category {
   retailerDesignatedCategoryId: string;
@@ -12,7 +13,6 @@ export const UnitSchema = z.union([
   z.literal("Each"), z.literal("Kg"), z.literal("g"), z.literal("L"), z.literal("mL"), z.literal("SS"), z.literal("sheets"), z.literal("m"), z.literal("kgM")
 ])
 export type Unit = z.infer<typeof UnitSchema>
-// "Each" | "Kg" | "g" | "L" | "mL" | "SS" | "sheets" | "m" | "kgM";
 
 export const ValueAtTimeSchema = z.union([
   z.object({
@@ -29,17 +29,6 @@ export const ValueAtTimeSchema = z.union([
   })
 ])
 export type ValueAtTime = z.infer<typeof ValueAtTimeSchema>;
-// {
-//   unitPrice: number;
-//   unitPriceQuantity: number;
-//   unitPriceUnit: Unit;
-// 
-//   size: string;
-//   price: number;
-// } | {
-//   size: string;
-//   price: number;
-// }
 
 export const ProductSchema = z.object({
   retailerProductId: z.string(),
@@ -58,24 +47,25 @@ export const ProductSchema = z.object({
 export const ProductsSchema = z.array(ProductSchema);
 
 export type Product = z.infer<typeof ProductSchema>;
-// {
-//   retailerProductId: string;
-// 
-//   crossRetailerId?: string;
-//   gtinFormat?: number;
-//   currentValue: ValueAtTime; 
-//   name: string;
-//   brand?: string;
-//   path: string;
-//   description: string;
-//   image_url?: string;
-// }
 
 export type ProductId = number;
 
 export interface Product_Category_Link {
   categoryId: number,
   productId: number,
+}
+
+export type ScrapeRun = {
+  id: number;
+  startedAt: Date;
+  finishedAt?: Date;
+  status: "running" | "completed";
+  errors: number;
+  errorMessage?: string;
+
+  productsScraped?: number;
+  newProductsAdded?: number,
+  retailersAttempted?: number;
 }
 
 export class GroceryRepository {
@@ -87,88 +77,76 @@ export class GroceryRepository {
   constructor(private readonly pool: Pool) {}
 
   /* ****************Scrape Runs************** */
-  createRun(): RunId {
-    throw new Error("Not implemented");
+  createRun(): ScrapeRun {
+    throw new ScrapeRunCreateError();
   }
 
-  finishRun(runId: RunId, errorMessage?: string): RunId {
-    throw new Error("Not implemented");
+  finishRun(runId: RunId, errorMessage?: string): ScrapeRun {
+    throw new ScrapeRunWriteError(runId);
   }
 
   runEncounteredError(runId: RunId, errorMessage: string) {
-    throw new Error("Not implemented");
+    throw new ScrapeRunWriteError(runId);
   }
 
   /* ****************Retailer Scrape************** */
   createRetailerScrape(runId: RunId, retailer: RetailerName): RetailerScrapeId {
-    throw new Error("Not implemented");
+    throw new RetailerScrapeCreateError(runId, retailer);
   }
 
   finishRetailerScrape(retailerScrapeId: RetailerScrapeId) {
-    throw new Error("Not implemented");
+    throw new RetailerScrapeWriteError(retailerScrapeId);
   }
 
   retailerScrapeEncounteredError(retailerScrapeId: RetailerScrapeId, errorMessage: string) {
-    throw new Error("Not implemented");
+    throw new RetailerScrapeWriteError(retailerScrapeId);
   }
 
-  caughtInScrapeTrap(retailerScrapeId: RetailerScrapeId) {
-    throw new Error("Not implemented");
+  markRetailerScrapeCaughtInScrapeTrap(retailerScrapeId: RetailerScrapeId) {
+    throw new RetailerScrapeWriteError(retailerScrapeId);
   }
 
   // internal? down the hierarchy?
   updateCategoriesScraped(retailerScrapeId: RetailerScrapeId, categoriesScraped: number) {
-    throw new Error("Not implemented");
+    throw new RetailerScrapeWriteError(retailerScrapeId);
   }
 
   updateProductsScraped(retailerScrapeId: RetailerScrapeId, productsScraped: number) {
-    throw new Error("Not implemented");
+    throw new RetailerScrapeWriteError(retailerScrapeId);
   }
 
   /* ****************Category Scrape************** */
   createCategoryScrape(retailerScrapeId: RetailerScrapeId, category: Category): CategoryScrapeId {
-    throw new Error("Not implemented");
+    throw new CategoryScrapeCreateError(retailerScrapeId, category);
   }
 
   finishCategoryScrape(categoryScrapeId: CategoryScrapeId) {
-    throw new Error("Not implemented");
+    throw new CategoryScrapeWriteError(categoryScrapeId);
   }
 
   categoryScrapeErrorEncountered(categoryScrapeId: CategoryScrapeId, errorMessage: string) {
-    throw new Error("Not implemented");
-  }
-
-  updatePages(categoryScrapeId: CategoryScrapeId, pages: number) {
-    throw new Error("Not implemented");
-  }
-
-  updateSuccessfulPageScrapes(categoryScrapeId: CategoryScrapeId, successfulPageScrapes: number) {
-    throw new Error("Not implemented");
+    throw new CategoryScrapeWriteError(categoryScrapeId);
   }
 
   updateTotalProductsScraped(categoryScrapeId: CategoryScrapeId, productsScraped: number) {
-    throw new Error("Not implemented");
+    throw new CategoryScrapeWriteError(categoryScrapeId);
   }
 
   updateTotalNewProductsFound(categoryScrapeId: CategoryScrapeId, newProductsFound: number) {
-    throw new Error("Not implemented");
+    throw new CategoryScrapeWriteError(categoryScrapeId);
   }
 
   /* ****************Categories************** */
   // needs to be idempotent
   createColesCategory(category: Category) : CategoryId {
     // need to find the coles retailer id
-    throw new Error("Not implemented");
+    throw new CategoryCreateError(category, "Coles");
   }
 
   // needs to be idempotent
   createWoolworthsCategory(category: Category) : CategoryId {
     // need to find the woolworths retailer id
-    throw new Error("Not implemented");
-  }
-
-  updateCategory(categoryId: CategoryId, path?: CategoryPath, name?: string) {
-    throw new Error("Not implemented");
+    throw new CategoryCreateError(category, "Woolworths");
   }
 
   /* ****************Products************** */
@@ -252,15 +230,11 @@ export class GroceryRepository {
       await client.query('COMMIT');
     } catch (err) {
       await client.query('ROLLBACK');
-      throw err;
+      throw new ProductCreateOrUpdateError(product, categoryScrapeId);
     } finally {
       client.release();
     }
     return productId;
-  }
-
-  updateProduct(productId: ProductId, updateProductFields: UpdateProductFields) : ProductId {
-    throw new Error("Not implemented");
   }
 }
 

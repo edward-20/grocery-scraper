@@ -20,13 +20,15 @@ async function runScheduledScrape(): Promise<void> {
   }
 
   running = true;
-  const pool = makeConnectionPool();
+  const pool = makeConnectionPool(); // doesn't need to be handled because it'll end the process if it fails
+  // but perhaps maybe rewrite makeConnectionPool to throw and handle here for
+  // more transparency?
   const repository = new GroceryRepository(pool);
 
   try {
     const summary = await runScrape(config, repository);
     console.log(
-      `Scheduled scrape complete: ${summary.productsScanned} scanned product(s), ` +
+      `Scheduled scrape complete: ${summary.productsScraped} scanned product(s), ` +
         `${summary.errors} error(s).`,
     );
   } catch (error) {

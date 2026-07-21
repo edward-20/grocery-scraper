@@ -1,16 +1,27 @@
 import { chromium, type Browser, Page } from "playwright";
-import type { GroceryRepository } from "../db/repository.js";
+import type { GroceryRepository, ScrapeRun } from "../db/repository.js";
 import type { ScraperConfig, RetailerScrapeConfig, RunId, RetailerName, CategoryId } from "../types.js";
-import { Product } from "./retailerScraper.js";
 import { ColesScraper } from "./colesScraper.js";
 import { WoolworthsScraper } from "./woolworthsScraper.js";
 import { RetailerScraper } from "./retailerScraper.js";
 import { sleep } from "../utils/time.js";
-import { Category } from "./retailerScraper.js";
+import { Category } from "../db/repository.js";
+import { UndefinedRetailerForCategoryCreationError, UndefinedRetailerForScraperCreationError } from "./errors.js"
+import { RetailerScrapeCreateError } from "../db/errors.js";
 
-export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<RunId> {
-  const runId = repository.createRun();
-  const browser = await chromium.launch({ headless: config.browser.headless });
+export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeRun> {
+  let runId: RunId;
+  let browser: Browser;
+  try {
+    ({ id: runId } = repository.createRun());
+  } catch (error) {
+    if (error instanceof RetailerScrapeCreateError) {
+      console.error(error.message);
+    } else {
+      throw error;
+    }
+  }
+  browser = await chromium.launch({ headless: config.browser.headless });
 
   try {
     for (const retailer of config.retailers.filter((candidate) => candidate.enabled)) {
@@ -44,15 +55,18 @@ async function runRetailerScrape(
   const page = await context.newPage();
 
   try {
-    // maybe just try to just go to the retailer page to see if we got scrape trapped?
     await sleep(config.scrape.throttleMs);
 
     let retailerScraper : RetailerScraper;
     switch (retailer.name) {
       case "Coles" :
         retailerScraper = new ColesScraper(retailer);
+        break;
       case "Woolworths" :
         retailerScraper = new WoolworthsScraper(retailer);
+        break;
+      default:
+        throw new UndefinedRetailerForScraperCreationError(`Unknown retailer: ${retailer.name}`)
     }
 
     const categories = await retailerScraper.discoverCategories(page);
@@ -77,23 +91,27 @@ async function runCategoryScrape(
   retailerScrapeId: number,
   retailerScraper: RetailerScraper
 ) {
-  let categoryId : CategoryId;
-  switch (retailerName) {
-    case "Coles":
-      categoryId = repository.createColesCategory(category);
-    case "Woolworths":
-      categoryId = repository.createWoolworthsCategory(category);
-  }
-  const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
-
   try {
+    let categoryId : CategoryId;
+    switch (retailerName) {
+      case "Coles":
+        categoryId = repository.createColesCategory(category);
+        break;
+      case "Woolworths":
+        categoryId = repository.createWoolworthsCategory(category);
+        break;
+      default:
+        throw new UndefinedRetailerForCategoryCreationError(retailerName); // category doesn't exis
+    }
+    const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
+
     const products = await retailerScraper.scrapeProductsOfCategory(page, category);
     for (const product of products) {
       repository.createOrUpdateProduct(product, categoryScrapeId); // need to be able to create a products and value_at_time row
     }
   } catch (error) {
+    repository.categoryScrapeErrorEncountered(categoryScrapeId, "Error encountered whilst scraping category");
     console.error("error scraping products of category page")
   }
-
   repository.finishCategoryScrape(categoryScrapeId);
 }
