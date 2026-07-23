@@ -85,7 +85,7 @@ export class GroceryRepository {
     throw new ScrapeRunWriteError(runId);
   }
 
-  runEncounteredError(runId: RunId, errorMessage: string) {
+  markRunFailed(runId: RunId, errorMessage: string) {
     throw new ScrapeRunWriteError(runId);
   }
 
@@ -98,11 +98,7 @@ export class GroceryRepository {
     throw new RetailerScrapeWriteError(retailerScrapeId);
   }
 
-  retailerScrapeEncounteredError(retailerScrapeId: RetailerScrapeId, errorMessage: string) {
-    throw new RetailerScrapeWriteError(retailerScrapeId);
-  }
-
-  markRetailerScrapeCaughtInScrapeTrap(retailerScrapeId: RetailerScrapeId) {
+  markRetailerScrapeFailed(retailerScrapeId: RetailerScrapeId, errorMessage: string) {
     throw new RetailerScrapeWriteError(retailerScrapeId);
   }
 
@@ -116,15 +112,15 @@ export class GroceryRepository {
   }
 
   /* ****************Category Scrape************** */
-  createCategoryScrape(retailerScrapeId: RetailerScrapeId, category: Category): CategoryScrapeId {
-    throw new CategoryScrapeCreateError(retailerScrapeId, category);
+  createCategoryScrape(retailerScrapeId: RetailerScrapeId, category: Category, categoryId: CategoryId): CategoryScrapeId {
+    throw new CategoryScrapeCreateError(retailerScrapeId, category, categoryId);
   }
 
   finishCategoryScrape(categoryScrapeId: CategoryScrapeId) {
     throw new CategoryScrapeWriteError(categoryScrapeId);
   }
 
-  categoryScrapeErrorEncountered(categoryScrapeId: CategoryScrapeId, errorMessage: string) {
+  markCategoryScrapeFailed(categoryScrapeId: CategoryScrapeId, errorMessage: string) {
     throw new CategoryScrapeWriteError(categoryScrapeId);
   }
 
@@ -138,15 +134,9 @@ export class GroceryRepository {
 
   /* ****************Categories************** */
   // needs to be idempotent
-  createColesCategory(category: Category) : CategoryId {
+  createOrFindCategory(category: Category, retailerName: RetailerName) : CategoryId {
     // need to find the coles retailer id
     throw new CategoryCreateError(category, "Coles");
-  }
-
-  // needs to be idempotent
-  createWoolworthsCategory(category: Category) : CategoryId {
-    // need to find the woolworths retailer id
-    throw new CategoryCreateError(category, "Woolworths");
   }
 
   /* ****************Products************** */

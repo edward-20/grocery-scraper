@@ -1,4 +1,17 @@
-import { RetailerName } from "../types.js";
+// A repository should expose errors that make sense in terms of its contract,
+// not in terms of its implementation
+// Think about if you changed the implementation, would you have to change the
+// error class names. What code depending on this repository would have to
+// change?
+
+// Errors should be expressed in the language of the abstraction, which is
+// sometimes the same as the domain.
+
+// What failures can callers reasonably react to? Only create a specific error
+// class if callers are expected to handle it differently
+// DuplicateProductError, RepositoryUnavailableError
+
+import { CategoryId, RetailerName } from "../types.js";
 import { Product, Category } from "./repository.js";
 import { RetailerScrapeId } from "../types.js";
 import { RunId } from "../types.js";
@@ -24,15 +37,17 @@ export class ProductCreateOrUpdateError extends Error {
 
 /* ****************Category Scrape************** */
 export class CategoryScrapeCreateError extends Error {
-  constructor(retailerScrapeId: RetailerScrapeId, category: Category) {
+  constructor(retailerScrapeId: RetailerScrapeId, category: Category, categoryId: CategoryId) {
     super(`Error with creating a category_scrape: retailer scrape id: ${retailerScrapeId}, category: ${category.name}`);
     this.name = "CategoryScrapeCreateError";
   }
 }
 
 export class CategoryScrapeWriteError extends Error {
+  categoryScrapeId: number;
   constructor(categoryScrapeId: number) {
     super(`Error with writing to category_scrapes: ${categoryScrapeId}`);
+    this.categoryScrapeId = categoryScrapeId;
     this.name = "CategoryScrapeWriteError";
   }
 }

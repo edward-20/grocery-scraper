@@ -7,35 +7,28 @@ import { RetailerScraper } from "./retailerScraper.js";
 import { sleep } from "../utils/time.js";
 import { Category } from "../db/repository.js";
 import { UndefinedRetailerForCategoryCreationError, UndefinedRetailerForScraperCreationError } from "./errors.js"
-import { RetailerScrapeCreateError } from "../db/errors.js";
+import { CategoryCreateError, CategoryScrapeCreateError, CategoryScrapeWriteError, ProductCreateOrUpdateError, ScrapeRunWriteError } from "../db/errors.js";
 
 export async function runScrape(config: ScraperConfig, repository: GroceryRepository): Promise<ScrapeRun> {
-  let runId: RunId;
-  let browser: Browser;
-  try {
-    ({ id: runId } = repository.createRun());
-  } catch (error) {
-    if (error instanceof RetailerScrapeCreateError) {
-      console.error(error.message);
-    } else {
-      throw error;
-    }
-  }
-  browser = await chromium.launch({ headless: config.browser.headless });
+  const scrapeRun = repository.createRun();
+  const browser = await chromium.launch({ headless: config.browser.headless });
 
   try {
     for (const retailer of config.retailers.filter((candidate) => candidate.enabled)) {
-      await runRetailerScrape(browser, config, repository, runId, retailer);
+      await runRetailerScrape(browser, config, repository, scrapeRun.id, retailer); // what can be thrown here?
     }
   } catch (error) {
-    repository.runEncounteredError(runId, error); // mark error
+    if (error instanceof ScrapeRunWriteError) {
+      repository.markRunFailed(scrapeRun.id, error.message); // mark error
+    }
+    console.error(error);
   } finally {
     await browser.close();
+    return repository.finishRun(scrapeRun.id);
   }
-
-  return repository.finishRun(runId);
 }
 
+// what errors can this throw?
 async function runRetailerScrape(
   browser: Browser,
   config: ScraperConfig,
@@ -74,7 +67,7 @@ async function runRetailerScrape(
       await runCategoryScrape(page, repository, category, retailer.name, retailerScrapeId, retailerScraper);
     }
   } catch (error) {
-    repository.retailerScrapeEncounteredError(retailerScrapeId, "");
+    repository.markRetailerScrapeFailed(retailerScrapeId, "");
   } finally {
     await page.close();
     await context.close();
@@ -91,27 +84,33 @@ async function runCategoryScrape(
   retailerScrapeId: number,
   retailerScraper: RetailerScraper
 ) {
+  let categoryScrapeId: number;
   try {
-    let categoryId : CategoryId;
-    switch (retailerName) {
-      case "Coles":
-        categoryId = repository.createColesCategory(category);
-        break;
-      case "Woolworths":
-        categoryId = repository.createWoolworthsCategory(category);
-        break;
-      default:
-        throw new UndefinedRetailerForCategoryCreationError(retailerName); // category doesn't exis
-    }
-    const categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category);
+    const categoryId = repository.createOrFindCategory(category, retailerName);
+    categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category, categoryId);
 
     const products = await retailerScraper.scrapeProductsOfCategory(page, category);
     for (const product of products) {
-      repository.createOrUpdateProduct(product, categoryScrapeId); // need to be able to create a products and value_at_time row
+      try {
+        await repository.createOrUpdateProduct(product, categoryScrapeId);
+      } catch (error) {
+        if (error instanceof ProductCreateOrUpdateError) {
+          console.error(error.message);
+        } else {
+          throw error;
+        }
+      }
     }
   } catch (error) {
-    repository.categoryScrapeErrorEncountered(categoryScrapeId, "Error encountered whilst scraping category");
-    console.error("error scraping products of category page")
+    if (error instanceof CategoryScrapeWriteError) {
+      console.error(`${error.message}. Subsequently cancelling category scrape.`);
+      repository.markCategoryScrapeFailed(error.categoryScrapeId, "Error encountered whilst scraping category");
+      repository.finishCategoryScrape(error.categoryScrapeId);
+    } else if (error instanceof CategoryCreateError || error instanceof CategoryScrapeCreateError) {
+      console.error(`${error.message}. Subsequently couldn't begin category scrape.`);
+      return;
+    } else {
+      console.error(`Unanticipated error in category scrape: ${error}`);
+    }
   }
-  repository.finishCategoryScrape(categoryScrapeId);
 }

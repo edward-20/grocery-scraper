@@ -3,6 +3,7 @@ import { loadConfig } from "./config/loadConfig.js";
 import { makeConnectionPool } from "./db/init.js";
 import { GroceryRepository } from "./db/repository.js";
 import { runScrape } from "./scraper/runScraper.js";
+import { ScrapeRunCreateError, ScrapeRunWriteError } from "./db/errors.js";
 
 const config = loadConfig(process.env.SCRAPER_CONFIG);
 
@@ -32,7 +33,13 @@ async function runScheduledScrape(): Promise<void> {
         `${summary.errors} error(s).`,
     );
   } catch (error) {
-    console.error("Scheduled scrape failed:", error);
+    if (error instanceof ScrapeRunCreateError) {
+      console.error(`Scheduled scrape failed: ${error.message}`);
+    } else if (error instanceof ScrapeRunWriteError) {
+      console.error(`Scheduled scrape failed: ${error.message}`);
+    } else {
+      console.error(`Scheduled scrape failed: ${error}`);
+    }
   } finally {
     pool.end();
     running = false;
