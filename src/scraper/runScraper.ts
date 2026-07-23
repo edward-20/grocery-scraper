@@ -84,11 +84,20 @@ async function runCategoryScrape(
   retailerScrapeId: number,
   retailerScraper: RetailerScraper
 ) {
+  // initialising the category scrape
   let categoryScrapeId: number;
   try {
     const categoryId = repository.createOrFindCategory(category, retailerName);
     categoryScrapeId = repository.createCategoryScrape(retailerScrapeId, category, categoryId);
+  } catch (error) {
+    if (error instanceof CategoryCreateError || error instanceof CategoryScrapeCreateError) {
+      console.error(`${error.message}. Subsequently couldn't begin category scrape.`);
+      return;
+    }
+    throw new Error("Category Scrape Failed", {cause: error});
+  }
 
+  try {
     const products = await retailerScraper.scrapeProductsOfCategory(page, category);
     for (const product of products) {
       try {
@@ -105,12 +114,10 @@ async function runCategoryScrape(
     if (error instanceof CategoryScrapeWriteError) {
       console.error(`${error.message}. Subsequently cancelling category scrape.`);
       repository.markCategoryScrapeFailed(error.categoryScrapeId, "Error encountered whilst scraping category");
-      repository.finishCategoryScrape(error.categoryScrapeId);
-    } else if (error instanceof CategoryCreateError || error instanceof CategoryScrapeCreateError) {
-      console.error(`${error.message}. Subsequently couldn't begin category scrape.`);
-      return;
     } else {
       console.error(`Unanticipated error in category scrape: ${error}`);
-    }
+    } 
+  } finally {
+    repository.finishCategoryScrape(categoryScrapeId);
   }
 }
